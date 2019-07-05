@@ -18,11 +18,11 @@
 
 <tr class="stripe">
 <td class="ocTableTitle" rowspan="2"><b>Technical Program Co-Chairs</b></td>
-<td class="ocTablePerson"><a href="2">Qian Zhang</a> - qianzh@cse.ust.hk</td>
+<td class="ocTablePerson"><a href="https://www.cse.ust.hk/~qianzh/">Qian Zhang</a> - HKUST</td>
 </tr>
 
 <tr class="stripe">
-<td class="ocTablePerson"><a href="">Bozidar Radunovic</a> - bozidar@microsoft.com</td>
+<td class="ocTablePerson"><a href="https://www.microsoft.com/en-us/research/people/bozidar/">Bozidar Radunovic</a> - Microsoft</td>
 </tr>
 
 <tr>
