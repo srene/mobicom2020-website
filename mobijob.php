@@ -36,8 +36,8 @@
 <p>For further questions, please contact the MobiJob chair:
 Aaron Schulman (<a href="mailto:schulman@cs.ucsd.edu">schulman@cs.ucsd.edu</a>)</p>
 -->
-</div>
 </main>
+</div>
 
 </center>
 <?php require_once('footer3.php'); ?>

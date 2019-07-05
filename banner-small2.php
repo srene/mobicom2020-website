@@ -9,13 +9,13 @@ MobiCom 2019
 
 <p style="text-align: center;padding-top:15px">
 <span class="smallbannert2">
-The 25th Annual International Conference on<br/>Mobile Computing and Networking
+The 26th Annual International Conference on<br/>Mobile Computing and Networking
 </span>
 </p>
 
 <p style="text-align: center;">
 <span class="smallbannert2">
-Oct 21-25,&nbsp;London, United Kingdom
+14-18 Sep,&nbsp;London, United Kingdom
 </span>
 </p>
 

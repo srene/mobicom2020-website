@@ -12,7 +12,6 @@
 <main>
 <h2 class="text-center">Accepted Papers (First Round)</h2>
 <center>TBD</center>
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <!--<div class="acceptedpapers">
 <ul>
 
@@ -119,8 +118,8 @@ https://anikravesh.github.io/files/mph2-mobicom19.pdf">[Preprint]</a><br/>
 <li><b>Edge Assisted Real-time Object Detection for Mobile Augmented Reality</b> <a href="http://www.winlab.rutgers.edu/~luyang/papers/mobicom19_augmented_reality.pdf">[Preprint]</a><br/>
 <div class="pauthors">Luyang Liu, Hongyu Li, Marco Gruteser (WINLAB, Rutgers University)</div></li>
 
-</ul>
-</div>-->
+</ul>-->
+</div>
 
 </center>
 </main>
