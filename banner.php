@@ -15,7 +15,7 @@ The 26th Annual International Conference on<br/>Mobile Computing and Networking
 </div>
 
 <div class="bigbannert3 text-center">
-Oct 21-25, London, United Kingdom
+14-18 Sep, London, United Kingdom
 </div>
 
 <div class="bannerbottom"></div>
