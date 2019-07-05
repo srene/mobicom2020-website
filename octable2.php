@@ -17,8 +17,12 @@
 </tr>
 
 <tr class="stripe">
-<td class="ocTableTitle" rowspan="1"><b>Technical Program Co-Chairs</b></td>
-<td class="ocTablePerson"><a href="">-----</a> - </td>
+<td class="ocTableTitle" rowspan="2"><b>Technical Program Co-Chairs</b></td>
+<td class="ocTablePerson"><a href="2">Qian Zhang</a> - qianzh@cse.ust.hk</td>
+</tr>
+
+<tr class="stripe">
+<td class="ocTablePerson"><a href="">Bozidar Radunovic</a> - bozidar@microsoft.com</td>
 </tr>
 
 <tr>

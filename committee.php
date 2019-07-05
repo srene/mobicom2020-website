@@ -21,11 +21,12 @@
 <br/>
 
 <h2 class="text-center">Technical Program Committee</h2>
-
+<center>TBC</center>
+<!--
 <table class='table-striped table-sm table-responsive pctable'>
 <?php require_once('pctable.php'); ?>
 </table>
-
+-->
 </main>
 
 </center>
