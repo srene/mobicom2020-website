@@ -2,19 +2,19 @@
 <html lang="en">
 
 <head>
-<title>MobiCom 2019: The 25th Annual International Conference on Mobile Computing and Networking</title>
+<title>MobiCom 2020: The 26th Annual International Conference on Mobile Computing and Networking</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="description"
-content="The 25th Annual International Conference on
-Mobile Computing and Networking. ACM MobiCom 2019, the Annual International Conference
-on Mobile Computing and Networking, is the twenty fifth in a series of annual conferences
+content="The 26th Annual International Conference on
+Mobile Computing and Networking. ACM MobiCom 2020, the Annual International Conference
+on Mobile Computing and Networking, is the twenty sixth in a series of annual conferences
 sponsored by ACM SIGMOBILE dedicated to addressing the challenges in the areas of mobile
 computing and wireless and mobile networking. The MobiCom conference series serves as a
 highly selective, premier international forum addressing networks, systems, algorithms,
 and applications that support mobile computers and wireless networks. In addition to the
-regular conference program, MobiCom 2019 will include a set of workshops, panels, research
+regular conference program, MobiCom 2020 will include a set of workshops, panels, research
 demonstrations, a poster session that includes the ACM Student Research Competition, a mobile app competition and a session
-of invited industry presentations. The conference will be held in Los Cabos, Mexico.">
+of invited industry presentations. The conference will be held in London, United Kingdom.">
 
 <meta name="keywords"
 content="MobiCom, SIGMOBILE, ACM, mobile, computing, networking,
@@ -29,11 +29,11 @@ distributed systems, ad hoc, sensor, multimedia, Ubiquitous, Pervasive, Mobile A
 <meta name=mobile-web-app-capable content=yes>
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-<meta name="apple-mobile-web-app-title" content="MobiCom 2019">
+<meta name="apple-mobile-web-app-title" content="MobiCom 2020">
 <link rel="apple-touch-icon" href="images/small.png">
 
-<meta name=application-name content="MobiCom 2019">
-<meta name=apple-mobile-web-app-title content="MobiCom 2019">
+<meta name=application-name content="MobiCom 2020">
+<meta name=apple-mobile-web-app-title content="MobiCom 2020">
 
 <meta name="msapplication-TileImage" content="images/small.png">
 <meta name="msapplication-TileColor" content="#166792">
