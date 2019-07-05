@@ -1,22 +1,22 @@
 <tr>
-<td align="left" width="30%"><a href="https://www.cl.cam.ac.uk/~jac22/">Jon Crowcroft</a></td>
-<td align="left" width="50%"">University of Cambridge</td>
+<td align="left" width="30%"><a href="http://www.achowdhery.com/">Aakanksha Chowdhery</a></td>
+<td align="left" width="50%"">Google Brain</td>
 </tr>
 <tr>
-<td align="left" width="30%"><a href="https://www.imperial.ac.uk/people/h.haddadi">Hamed Haddadi</a></td>
-<td align="left" width="50%"">Imperial College London</td>
+<td align="left" width="30%"><a href="https://www.linkedin.com/in/aaron-carroll-134a18145">Aaron Carroll</a></td>
+<td align="left" width="50%"">Apple</td>
 </tr>
 <tr>
-<td align="left" width="30%"><a href="http://users.ics.forth.gr/~mgp/">Maria  Papadopouli</a></td>
-<td align="left" width="50%"">University of Crete/FORTH</td>
+<td align="left" width="30%"><a href="http://www.alansonsample.com/">Alanson Sample</a></td>
+<td align="left" width="50%"">University of Michigan</td>
 </tr>
 <tr>
-<td align="left" width="30%"><a href="https://leontiadis.net/">Ilias Leontiadis</a></td>
-<td align="left" width="50%"">Samsung AI</td>
+<td align="left" width="30%"><a href="https://users.ece.cmu.edu/~agr/">Anthony Rowe</a></td>
+<td align="left" width="50%"">Carnegie Mellon University</td>
 </tr>
 <tr>
-<td align="left" width="30%"><a href="">-----</a></td>
-<td align="left" width="50%""></td>
+<td align="left" width="30%"><a href="https://www.ics.uci.edu/~ardalan/">Ardalan Amiri Sani</a></td>
+<td align="left" width="50%"">University of California, Irvine</td>
 </tr>
 <tr>
 <td align="left" width="30%"><a href="http://www3.cs.stonybrook.edu/~arunab/">Aruna Balasubramanian</a></td>
