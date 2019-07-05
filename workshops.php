@@ -11,7 +11,7 @@
 
 <main>
 <h2 class="text-center">Workshops and Tutorials</h2>
-<center>TBD</center>
+<center>TBC</center>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <!--<p>Mobicom 2019 is pleased to announce the organization of the following workshops and tutorials. Workshop papers will be included with the MobiCom proceedings and published in the ACM Digital Library. This year at MobiCom, we are also organising two half day tutorials on topics of high interest to mobile systems researchers.</p>
 

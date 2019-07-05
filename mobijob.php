@@ -12,7 +12,7 @@
 <main>
 
 <h2 class="text-center">MobiJob</h2>
-<center>TBD</center>
+<center>TBC</center>
 <!--<h5><b>The ACM SIGMOBILE Student Career Evening</b></h5>
 <p>MobiCom 2019 is proud to host the fourth edition of ACM SIGMOBILE Student Career Evening (MobiJob). This event seeks to bring together top companies in the field with the best and brightest students and postdocs from the ACM SIGMOBILE community. MobiJob aims to assist with both full-time positions, as well as internships.</p>
 

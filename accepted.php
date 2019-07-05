@@ -11,7 +11,7 @@
 
 <main>
 <h2 class="text-center">Accepted Papers (First Round)</h2>
-<center>TBD</center>
+<center>TBC</center>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <!--<div class="acceptedpapers">
 <ul>

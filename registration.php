@@ -12,7 +12,7 @@
 <main>
 
 <h2 class="text-center">Registration & Hotel Reservations</h2>
-<center>TBD</center>
+<center>TBC</center>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <!--<br/>
 <h5><b>Conference registration and hotel reservation instructions will be here very soon.</b></h5>

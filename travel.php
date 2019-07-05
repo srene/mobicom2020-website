@@ -12,7 +12,7 @@
 <main>
 
 <h2 class="text-center">Travel</h2>
-<center>TBD</center>
+<center>TBC</center>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <!--<h5><b>Travel Logistics</b></h5>
 ACM MobiCom 2019 will be held in beautiful Los Cabos, Mexico from October 21 - October 25, 2019. Los Cabos is an amazing region full of must-see attractions and beaches to be discovered. For instance, you can go to El Arco de Cabo San Lucas and its Bay, discover the Chileno Beach, visit and dine at Flora Farm, and see San José del Cabo main square. You can also explore many other beautiful places such as the Parroquia of San José, Santa Maria Beach, Playa del Amor, Wild Canyon Adventures in Cabo San Lucas. We have more information about Los Cabos <a href="./location.php">here</a>.<br/><br/>

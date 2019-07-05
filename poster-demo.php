@@ -12,7 +12,7 @@
 <main>
 
 <h2 class="text-center">Call for Demos and Posters</h2>
-<center>TBD</center>
+<center>TBC</center>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <!--
 The MobiCom demo and poster sessions solicit the submission of research, platform, and product demonstrations and posters from both academia and industry.<br/><br/>

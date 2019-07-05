@@ -12,7 +12,7 @@
 <main>
 
 <h2 class="text-center">Student Travel Grant</h2>
-<center>TBD</center>
+<center>TBC</center>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <!--
 <h5><b>Travel Grant Application</b></h5>
