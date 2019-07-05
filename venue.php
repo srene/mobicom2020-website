@@ -13,7 +13,7 @@
 
 <h2 class="text-center">Venue</h2>
 <center>TBD</center>
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <!--<p>To celebrate MobiCom's 25th anniversary, the conference will be held at the Paradisus, an amazing all inclusive resort between Los Cabos and San Jose del Cabo. The hotel has numerous delicious restaurants, a huge pool and three smaller pools, and access to a beautiful, swimmable beach. Eat and drink as much as you like. </p>
 
 <img src="images/venue1.jpg" width="100%">
@@ -123,6 +123,7 @@
 <h5><b>San Jose del Cabo</b></h5>
 <p>Near the hotel, downtown San Jose del Cabo has many excellent places and food to experience. See the location page for more adventures to be had in the area!</p>
 -->
+</div>
 </main>
 
 </center>

@@ -13,7 +13,7 @@
 
 <h2 class="text-center">Call for SRC</h2>
 <center>TBD</center>
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <!--<h5><b>The ACM Student Research Competition (SRC)</b></h5>
 ACM MobiCom 2019 will host an ACM <a href="https://src.acm.org/">Student Research Competition (SRC)</a/> alongside the Posters Program. SRC offers graduate and undergraduate students an opportunity to present their original research, and rewards outstanding student research. It aims to give students an opportunity to meet with conference attendees and distinguished researchers to receive feedback on their research.<br/><br/>
 

@@ -12,7 +12,7 @@
 <main>
 <h2 class="text-center">Workshops and Tutorials</h2>
 <center>TBD</center>
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <!--<p>Mobicom 2019 is pleased to announce the organization of the following workshops and tutorials. Workshop papers will be included with the MobiCom proceedings and published in the ACM Digital Library. This year at MobiCom, we are also organising two half day tutorials on topics of high interest to mobile systems researchers.</p>
 
 <h5><b>Monday, October 21</b></h5>-->
@@ -110,9 +110,10 @@ Organizers: Suzan Bayhan (TU Berlin, Germany) and Eirini Eleni Tsiropoulou (Univ
 <li><a href="https://www.fahim-kawsar.net/">Professor Fahim Kawsar</a>, Director of IoT Research at Bell Labs. UK who will explain how to apply machine learning techniques to the domain of mobile health sensing.</li>
 </ol>
 -->
+</div>
+
 </center>
 </main>
-</div>
 
 <?php require_once('footer2.php'); ?>
 
