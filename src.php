@@ -12,8 +12,9 @@
 <main>
 
 <h2 class="text-center">Call for SRC</h2>
-
-<h5><b>The ACM Student Research Competition (SRC)</b></h5>
+<center>TBD</center>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<!--<h5><b>The ACM Student Research Competition (SRC)</b></h5>
 ACM MobiCom 2019 will host an ACM <a href="https://src.acm.org/">Student Research Competition (SRC)</a/> alongside the Posters Program. SRC offers graduate and undergraduate students an opportunity to present their original research, and rewards outstanding student research. It aims to give students an opportunity to meet with conference attendees and distinguished researchers to receive feedback on their research.<br/><br/>
 
 <h5><b>Guidelines</b></h5>
@@ -49,7 +50,7 @@ The ACM is proud to have Microsoft as its Student Research Competition sponsor.<
 <h5><b>Contact</b></h5>
 For further questions, please contact the SRC chair: Vaishnavi Ranganathan (<a href="mailto:vnattar@microsoft.com">vnattar@microsoft.com</a>).
 
-<br/>
+<br/>-->
 
 </main>
 

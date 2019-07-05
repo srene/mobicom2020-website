@@ -12,8 +12,9 @@
 <main>
 
 <h2 class="text-center">MobiJob</h2>
-
-<h5><b>The ACM SIGMOBILE Student Career Evening</b></h5>
+<center>TBD</center>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<!--<h5><b>The ACM SIGMOBILE Student Career Evening</b></h5>
 <p>MobiCom 2019 is proud to host the fourth edition of ACM SIGMOBILE Student Career Evening (MobiJob). This event seeks to bring together top companies in the field with the best and brightest students and postdocs from the ACM SIGMOBILE community. MobiJob aims to assist with both full-time positions, as well as internships.</p>
 
 <h5><b>Event Location and Time</b></h5>
@@ -33,9 +34,9 @@
 <p>TBD</p>
 
 <h5><b>Contact</b></h5>
-<p>For further questions, please contact the MobiJob chair: 
+<p>For further questions, please contact the MobiJob chair:
 Aaron Schulman (<a href="mailto:schulman@cs.ucsd.edu">schulman@cs.ucsd.edu</a>)</p>
-
+-->
 </main>
 
 </center>

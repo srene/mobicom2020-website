@@ -11,8 +11,9 @@
 
 <main>
 <h2 class="text-center">Accepted Papers (First Round)</h2>
-
-<div class="acceptedpapers">
+<center>TBD</center>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<!--<div class="acceptedpapers">
 <ul>
 
 <li><b>Detecting if LTE is the Bottleneck with BurstTracker</b> <a href="http://web.mit.edu/arjunvb/pubs/bursttracker-mobicom19-paper.pdf">[Preprint]</a><br/>
@@ -24,15 +25,15 @@ https://arxiv.org/pdf/1812.02349.pdf">[Preprint]</a><br/>
 <div class="pauthors">Qiongzheng Lin, Zhenlin An, Lei Yang (The Hong Kong Polytechnic University)</div></li>
 <br/>
 
-<li><b>Wideband Full-Duplex Wireless via Frequency-Domain Equalization: Design and Experimentation</b> <a href="https://arxiv.org/pdf/1812.01126.pdf">[Preprint]</a><br/> 
+<li><b>Wideband Full-Duplex Wireless via Frequency-Domain Equalization: Design and Experimentation</b> <a href="https://arxiv.org/pdf/1812.01126.pdf">[Preprint]</a><br/>
 <div class="pauthors">Tingjun Chen, Mahmood Baraani Dastjerdi (Columbia University), Jin Zhou (University of Illinois at Urbana-Champaign), Harish Krishnaswamy, Gil Zussman (Columbia University)</div></li>
 <br/>
 
-<li><b>AMP up your mobile web experience: Characterizing the impact of Google’s Accelerated Mobile Project</b><br/> 
+<li><b>AMP up your mobile web experience: Characterizing the impact of Google’s Accelerated Mobile Project</b><br/>
 <div class="pauthors">Byungjin Jun, Fabián E. Bustamante, Sung Yoon Whang (Northwestern University), Zachary S. Bischof (IIJ Research)</div></li>
 <br/>
 
-<li><b>Living IoT: A Flying Wireless Platform on Live Insects</b> <a href="https://homes.cs.washington.edu/~gshyam/Papers/living-iot.pdf">[Preprint]</a> <a href="https://www.youtube.com/watch?v=0_i0K3jcp8Y">[Video]</a><br/> 
+<li><b>Living IoT: A Flying Wireless Platform on Live Insects</b> <a href="https://homes.cs.washington.edu/~gshyam/Papers/living-iot.pdf">[Preprint]</a> <a href="https://www.youtube.com/watch?v=0_i0K3jcp8Y">[Video]</a><br/>
 <div class="pauthors">Vikram Iyer, Rajalakshmi Nandakumar, Anran Wang, Sawyer B. Fuller, Shyamnath Gollakota (University of Washington)</div></li>
 <br/>
 
@@ -41,7 +42,7 @@ https://arxiv.org/pdf/1812.02349.pdf">[Preprint]</a><br/>
 <div class="pauthors">Apurv Bhartia, Bo Chen, Derrick Pallas, Waldin Stone (Cisco Meraki)</div></li>
 <br/>
 
-<li><b>Systematic way to LTE Testing</b> <a href="https://www.researchgate.net/publication/329542996_A_Systematic_Way_to_LTE_Testing">[Preprint]</a><br/> 
+<li><b>Systematic way to LTE Testing</b> <a href="https://www.researchgate.net/publication/329542996_A_Systematic_Way_to_LTE_Testing">[Preprint]</a><br/>
 <div class="pauthors">Muhammad Taqi Raza, Songwu Lu (UCLA)</div></li>
 <br/>
 
@@ -50,7 +51,7 @@ Tracking</b> <a href="https://arxiv.org/pdf/1812.03103.pdf">[Preprint]</a><br/>
 <div class="pauthors">Yaxiong Xie (Nanyang Technological University), Jie Xiong (UMass Amherst), Mo Li (Nanyang Technological University), Kyle Jamieson (Princeton University)</div></li>
 <br/>
 
-<li><b>Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks</b> <a href="https://arxiv.org/pdf/1812.07499.pdf">[Preprint]</a><br/> 
+<li><b>Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks</b> <a href="https://arxiv.org/pdf/1812.07499.pdf">[Preprint]</a><br/>
 <div class="pauthors">Guang Wang, Xiuyuan Chen (Rutgers University), Fan Zhang (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences), Yang Wang (University of Science and Technology of China), Desheng Zhang (Rutgers University)</div></li>
 <br/>
 
@@ -71,7 +72,7 @@ https://anikravesh.github.io/files/mph2-mobicom19.pdf">[Preprint]</a><br/>
 <div class="pauthors">Soowon Kang (KAIST), Hyeonwoo Choi (Samsung Electronics), Soo Young Park (KAIST), Chunjong Park (University of Washington), Jemin Lee, Uichin Lee, Sung-Ju Lee (KAIST)</div></li>
 <br/>
 
-<li><b>Jigsaw: Robust Live 4K Video Streaming</b><br/> 
+<li><b>Jigsaw: Robust Live 4K Video Streaming</b><br/>
 <div class="pauthors">Ghufran Baig, Jian He, Mubashir Adnan Qureshi, Lili Qiu (The University of Texas at Austin), Peng Chen, Yinliang Hu (Huawei)</div></li>
 <br/>
 
@@ -79,11 +80,11 @@ https://anikravesh.github.io/files/mph2-mobicom19.pdf">[Preprint]</a><br/>
 <div class="pauthors">Liang He (University of Colorado Denver), Linghe Kong, Ziyang Liu (Shanghai Jiao Tong University), Yuanchao Shu (Microsoft Research), Cong Liu (University of Texas at Dallas)</div></li>
 <br/>
 
-<li><b>PDVocal: Towards Privacy-preserving Parkinson's Disease Early Detection using Passive Body Sounds in Daily Life</b> <a href="https://sctracy.github.io/chensong.github.io/pdf/mobicom19.pdf">[Preprint]</a><br/> 
+<li><b>PDVocal: Towards Privacy-preserving Parkinson's Disease Early Detection using Passive Body Sounds in Daily Life</b> <a href="https://sctracy.github.io/chensong.github.io/pdf/mobicom19.pdf">[Preprint]</a><br/>
 <div class="pauthors">Hanbin Zhang, Chen Song, Aosen Wang (University at Buffalo), Dongmei Li (University of Rochester Medical Center), Wenyao Xu (University at Buffalo)</div></li>
 <br/>
 
-<li><b>Taprint: Secure Text Input for Commodity Smart Wearables</b> <a href="https://github.com/winston110110/Taprint/blob/master/Taprint.pdf">[Preprint]</a><br/> 
+<li><b>Taprint: Secure Text Input for Commodity Smart Wearables</b> <a href="https://github.com/winston110110/Taprint/blob/master/Taprint.pdf">[Preprint]</a><br/>
 <div class="pauthors">Wenqiang Chen, Lin Chen, Yandao Huang (Shenzhen University), Xinyu Zhang (University of California San Diego), Lu Wang, Rukhsana Ruby, Kaishun Wu (Shenzhen University)</div></li>
 <br/>
 
@@ -119,7 +120,7 @@ https://anikravesh.github.io/files/mph2-mobicom19.pdf">[Preprint]</a><br/>
 <div class="pauthors">Luyang Liu, Hongyu Li, Marco Gruteser (WINLAB, Rutgers University)</div></li>
 
 </ul>
-</div>
+</div>-->
 
 </center>
 </main>

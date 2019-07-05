@@ -12,8 +12,9 @@
 <main>
 
 <h2 class="text-center">Location and Activities</h2>
-
-<p>Los Cabos, Mexico is a popular tourist destination at the southernmost tip of the Baja California Peninsula. Due to its geography “where the desert meets the sea”, Los Cabos offers stunning vistas through its many mountain and ocean views. From hiking to scuba diving, there are many adventures to be had on the land and sea in Los Cabos. </p>
+<center>TBD</center>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<!--<p>Los Cabos, Mexico is a popular tourist destination at the southernmost tip of the Baja California Peninsula. Due to its geography “where the desert meets the sea”, Los Cabos offers stunning vistas through its many mountain and ocean views. From hiking to scuba diving, there are many adventures to be had on the land and sea in Los Cabos. </p>
 
 <img src="./images/cabos0.JPG" class="locimg">
 
@@ -79,7 +80,7 @@ We have arranged for various fun activities for you to book on your own if you c
 
 For more information on Los Cabos, check out these wikipedia links:<br/>
 <a href="https://en.wikipedia.org/wiki/Cabo_San_Lucas">Cabo San Lucas</a><br/>
-<a href="https://en.wikipedia.org/wiki/Baja_California_Peninsula">Baja California Peninsula</a><br/>
+<a href="https://en.wikipedia.org/wiki/Baja_California_Peninsula">Baja California Peninsula</a><br/>-->
 
 </main>
 

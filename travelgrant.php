@@ -12,7 +12,9 @@
 <main>
 
 <h2 class="text-center">Student Travel Grant</h2>
-
+<center>TBD</center>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<!--
 <h5><b>Travel Grant Application</b></h5>
 <p>Grants are available only for full-time students attending colleges and universities in and outside the US. Women, undergraduates and underrepresented minority students are particularly encouraged to apply.</p>
 
@@ -77,7 +79,7 @@ The advisor's letter should be sent to <a href="mailto:mobicomstg2019@gmail.com"
 <li>For NSF Grants: These grants are available only for full-time students attending US colleges and universities (not necessarily US citizens or permanent residents) AND for US citizens or permanent residents studying abroad.</li>
 <li>Recipients of NSF travel awards must use US flag carriers.</li>
 </ul>
-
+-->
 </main>
 
 </center>

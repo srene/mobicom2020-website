@@ -9,13 +9,13 @@ MobiCom 2019
 
 <p style="text-align: center;padding-top:0px">
 <span class="smallbannert2">
-MobiCom 2019
+MobiCom 2020
 </span>
 </p>
 
 <p style="text-align: center;">
 <span class="smallbannert2">
-Oct 21-25,&nbsp;Los Cabos, Mexico
+Oct 21-25,&nbsp;London, United Kingdom
 </span>
 </p>
 

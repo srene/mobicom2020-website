@@ -8,11 +8,13 @@
 
 <div class="container bigc">
 <div class="spacing"></div>
-	
+
 <main>
 
 <h2 class="text-center">Call for Demos and Posters</h2>
-
+<center>TBD</center>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<!--
 The MobiCom demo and poster sessions solicit the submission of research, platform, and product demonstrations and posters from both academia and industry.<br/><br/>
 
 Demonstrations should showcase innovative research or product prototypes, platforms, and applications in the areas of mobile computing and wireless and mobile networking. We strongly encourage live​ demos based on novel applications in the domain of mobile computing and wireless systems. We also welcome live​ demos reproducing evaluation results of papers appearing in ACM Mobicom 2019 or past editions as well as other relevant venues.<br/><br/>
@@ -42,7 +44,7 @@ For submissions accepted for demos, additionally a single 6 x 2.5 ft table would
 
 <h5><b>SRC instructions:</b></h5>
 Indicate whether you would like the poster submission to be considered for the Student Research Competition (SRC). Indicate your correct identifier by adding [SRC/Undergraduate] or <b>[SRC/Graduate]</b> in the submission title for consideration in respective SRC category. Note that if any of the authors is a graduate student, then the submission will be considered under the graduate category.<br/><br/>
- 
+
 <h5><b>Important Dates:</b></h5>
 <div class="table-responsive">
 <table class="table table-striped table-sm">
@@ -67,10 +69,10 @@ Indicate whether you would like the poster submission to be considered for the S
 <b>For further questions, please contact the chairs:</b>
 <a href="mailto:mobicom19demos-posters@googlegroups.com">mobicom19demos-posters@googlegroups.com</a>
 <br/><br/>
-<h5><b>Important Notes:</b></h5>	
+<h5><b>Important Notes:</b></h5>
 AUTHORS TAKE NOTE: The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work. (For those rare conferences whose proceedings are published in the ACM Digital Library after the conference is over, the official publication date remains the first day of the conference.)
 
-<br/>
+<br/>-->
 
 </main>
 

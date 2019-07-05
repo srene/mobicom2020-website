@@ -12,13 +12,15 @@
 <main>
 
 <h2 class="text-center">Registration & Hotel Reservations</h2>
-<br/>
+<center>TBD</center>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<!--<br/>
 <h5><b>Conference registration and hotel reservation instructions will be here very soon.</b></h5>
 
 <br/>
 
 <p>In the meantime, check out and book some <a href="https://tropicalincentives-system.com/Mobicom/activities.php">fun activities</a> that are scheduled before and after the main conference.</p>
-
+-->
 </main>
 
 </center>

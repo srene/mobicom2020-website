@@ -12,8 +12,9 @@
 <main>
 
 <h2 class="text-center">N2Women Event and Travel Support Opportunities</h2>
-
-<h5><b>N2Women Event Overview</b></h5>
+<center>TBD</center>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<!--<h5><b>N2Women Event Overview</b></h5>
 <p>Every year, the N2Women group hosts an event (typically a lunch) during the main conference to help under-represented graduate students create a cohort and meet senior researchers from the networking community. At MobiCom 2019, we will change the N2Women format to a dinner, allowing for more time for interaction and conversation. The dinner will be held in the evening of October 22, 2019.</p>
 
 <p>This year MobiCom provides two avenues for financial support to offset expenses for women attending the conference and provide ample opportunities for professional development of groups that are underrepresented at MobiCom. We have the traditional <a href="#yr">N2Women Young Researcher Fellowship Award</a> and, in addition, this year MobiCom established the <a href="#tgrant">N2Women Travel Grants</a>. More information on how to apply is available below.</p>
@@ -111,7 +112,7 @@ The following requirements and restrictions apply to all N2Women travel grant re
 <p>To apply for this fellowship or for more information, please see: <a href="http://n2women.comsoc.org/ ">http://n2women.comsoc.org/</a> and click the Fellowships link.</p>
 
 <p>The deadline for applications for ACM MobiCom 2019 is July 20.</p>
-
+-->
 </main>
 
 </center>

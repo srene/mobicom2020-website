@@ -11,10 +11,11 @@
 
 <main>
 <h2 class="text-center">Workshops and Tutorials</h2>
+<center>TBD</center>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<!--<p>Mobicom 2019 is pleased to announce the organization of the following workshops and tutorials. Workshop papers will be included with the MobiCom proceedings and published in the ACM Digital Library. This year at MobiCom, we are also organising two half day tutorials on topics of high interest to mobile systems researchers.</p>
 
-<p>Mobicom 2019 is pleased to announce the organization of the following workshops and tutorials. Workshop papers will be included with the MobiCom proceedings and published in the ACM Digital Library. This year at MobiCom, we are also organising two half day tutorials on topics of high interest to mobile systems researchers.</p>
-
-<h5><b>Monday, October 21</b></h5>
+<h5><b>Monday, October 21</b></h5>-->
 
 <!-- <div class="table-responsive">
 <table class="table table-sm table-bordered">
@@ -41,7 +42,7 @@
 </tr>
 </tbody>
 </table>
-</div> -->
+</div>
 
 <b><a href="https://meteor.ame.asu.edu/mavrix/">MAVRIX: 1st Workshop on Mobile Augmented and Virtual Reality systems for Immersive eXperiences</a></b><br/>
 Organizers: Robert LiKamWa (Arizona State University), Feng Qian (University of Minnesota)<br/><br/>
@@ -87,7 +88,7 @@ Organizers: Catia Prandi (University of Bologna), Giovanni Pau (Sorbonne Univers
 </tbody>
 </table>
 </div>
- -->
+
 
 <b><a href="https://nss.cs.nctu.edu.tw/wintech2019">13th International Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization (WiNTECH)</a></b><br/>
 Organizers: Yiannis Pefkianakis (Apple) and Kate Ching-Ju Lin (National Chiao Tung University, Taiwan)<br/><br/>
@@ -108,7 +109,7 @@ Organizers: Suzan Bayhan (TU Berlin, Germany) and Eirini Eleni Tsiropoulou (Univ
 <li><a href="https://www.microsoft.com/en-us/research/people/ga/">Dr. Ganesh Ananthanaryanan</a>, <a href="https://www.microsoft.com/en-us/research/people/yunliu/">Dr. Yunxin Liu</a> and <a href="https://www.microsoft.com/en-us/research/people/yushu/">Dr. Yuanchao Shu</a> from Microsoft Research who will explain how to apply novel AI techniques to support various forms of video analytics applications including traffic sensing.</li>
 <li><a href="https://www.fahim-kawsar.net/">Professor Fahim Kawsar</a>, Director of IoT Research at Bell Labs. UK who will explain how to apply machine learning techniques to the domain of mobile health sensing.</li>
 </ol>
-
+-->
 </center>
 </main>
 </div>

@@ -12,8 +12,9 @@
 <main>
 
 <h2 class="text-center">Travel</h2>
-
-<h5><b>Travel Logistics</b></h5>
+<center>TBD</center>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<!--<h5><b>Travel Logistics</b></h5>
 ACM MobiCom 2019 will be held in beautiful Los Cabos, Mexico from October 21 - October 25, 2019. Los Cabos is an amazing region full of must-see attractions and beaches to be discovered. For instance, you can go to El Arco de Cabo San Lucas and its Bay, discover the Chileno Beach, visit and dine at Flora Farm, and see San José del Cabo main square. You can also explore many other beautiful places such as the Parroquia of San José, Santa Maria Beach, Playa del Amor, Wild Canyon Adventures in Cabo San Lucas. We have more information about Los Cabos <a href="./location.php">here</a>.<br/><br/>
 
 <h5><b>Conference Hotel</b></h5>
@@ -41,10 +42,10 @@ We believe the following are requirements for international travel to Mexico. Of
 ">link</a>) form prior to arrival.</li>
 </ul>
 
-<p>If you need to apply for a visa, please consult the Mexican Embassy’s website. <a href="https://directorio.sre.gob.mx/index.php/embajadas-de-mexico-en-el-exterior">List of Mexican Embassies</a> 
-Requirements are fairly standard, with regards to other visa application (e.g., valid passport, photo, interview appointment, application fee, filling out forms). 
+<p>If you need to apply for a visa, please consult the Mexican Embassy’s website. <a href="https://directorio.sre.gob.mx/index.php/embajadas-de-mexico-en-el-exterior">List of Mexican Embassies</a>
+Requirements are fairly standard, with regards to other visa application (e.g., valid passport, photo, interview appointment, application fee, filling out forms).
 Mexican embassy in India: <a href=" https://embamex.sre.gob.mx/india/index.php/visas">link for the embassy in India</a>
-Mexican embassy in China: <a href="https://embamex.sre.gob.mx/china/index.php/es/menuvisas-chn/test">link for the embassy in China. </a> Be sure to check for visa requirements for transit countries, e.g., transit through the USA may require a USA visa.</p> 
+Mexican embassy in China: <a href="https://embamex.sre.gob.mx/china/index.php/es/menuvisas-chn/test">link for the embassy in China. </a> Be sure to check for visa requirements for transit countries, e.g., transit through the USA may require a USA visa.</p>
 
 
 For visa support letters, email <a href="mailto:supportletters@acm.org">supportletters@acm.org</a>.  Please allow up to 10 business days to receive a letter. All requests are handled in the order they are received. The information below should be included with the request:
@@ -56,7 +57,7 @@ For visa support letters, email <a href="mailto:supportletters@acm.org">supportl
 <li>Your registration confirmation number</li>
 <li>If you have any papers accepted for the conference, please provide the title and indicate whether you are the "sole author" or a "co-author"</li>
 <li>Authors may indicate their paper title. If no paper, speakers can provide the title of their presentation</li>
-</ul>
+</ul>-->
 
 </main>
 

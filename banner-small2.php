@@ -15,7 +15,7 @@ The 25th Annual International Conference on<br/>Mobile Computing and Networking
 
 <p style="text-align: center;">
 <span class="smallbannert2">
-Oct 21-25,&nbsp;Los Cabos, Mexico
+Oct 21-25,&nbsp;London, United Kingdom
 </span>
 </p>
 

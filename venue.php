@@ -12,8 +12,9 @@
 <main>
 
 <h2 class="text-center">Venue</h2>
-
-<p>To celebrate MobiCom's 25th anniversary, the conference will be held at the Paradisus, an amazing all inclusive resort between Los Cabos and San Jose del Cabo. The hotel has numerous delicious restaurants, a huge pool and three smaller pools, and access to a beautiful, swimmable beach. Eat and drink as much as you like. </p>
+<center>TBD</center>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<!--<p>To celebrate MobiCom's 25th anniversary, the conference will be held at the Paradisus, an amazing all inclusive resort between Los Cabos and San Jose del Cabo. The hotel has numerous delicious restaurants, a huge pool and three smaller pools, and access to a beautiful, swimmable beach. Eat and drink as much as you like. </p>
 
 <img src="images/venue1.jpg" width="100%">
 <br><br>
@@ -35,7 +36,7 @@
 <div class="table-responsive">
 <table class="table table-striped table-sm table-bordered">
 <caption>
-	
+
 <p>* For example, for one adult in a Junior Suite Garden View, if you arrive on Saturday 10/19, depart on Friday 10/25 and attend a workshop on Monday, the main conference on Tuesday - Thursday, and a workshop on Friday, you will pay $336 for the night of 10/19 and $191 for the nights of 10/20, 10/21, 10/22, 10/23, and 10/24. These rates are available with early, late, and on-site registration on a first come, first served basis.</p>
 
 <p>**Only one adult in the room needs to be registered to qualify for the discounted price.</p>
@@ -121,7 +122,7 @@
 
 <h5><b>San Jose del Cabo</b></h5>
 <p>Near the hotel, downtown San Jose del Cabo has many excellent places and food to experience. See the location page for more adventures to be had in the area!</p>
-
+-->
 </main>
 
 </center>
