@@ -21,6 +21,7 @@
 
 <p>In the meantime, check out and book some <a href="https://tropicalincentives-system.com/Mobicom/activities.php">fun activities</a> that are scheduled before and after the main conference.</p>
 -->
+</div>
 </main>
 
 </center>
