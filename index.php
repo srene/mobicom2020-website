@@ -157,7 +157,7 @@ MobiCom’20 offers authors the options of two deadlines and adds a one-shot rev
 
 <ul style="text-align:left">
 <li>Accept: Accepted papers will be presented at the MobiCom conference and appear as part of the proceedings. In the meantime, authors are permitted to talk about these upcoming publications, e.g., listing them on CVs. The publications will also be put on the MobiCom website.</li>
-<li>Reject: Rejected papers cannot be resubmitted until 11 months have passed since the last MobiCom deadline they were submitted to. Note that, rejected papers from MobiCom 2019 are welcome for submission to MobiCom 2020 in both the rounds. We strongly encourage the authors to consider the feedback they got before submitting the paper to MobiCom 2020.</li>
+<li>Reject: Rejected papers cannot be resubmitted until 11 months have passed since the last MobiCom deadline they were submitted to.</li> 
 <li>One-Shot-Revision: Papers where a revision is required will be given specific action points and can be resubmitted for the next deadline. For such papers, the reviewers will be required to articulate a maximum of three changes/clarifications that they would like to see. After the resubmission, the same reviewers will evaluate the paper based on whether the authors have properly addressed the reviewers’ requests. Unlike in the shepherding process, the requested action points may include running additional experiments that obtain specific results. During this revision period, the paper is still considered under review to MobiCom and therefore cannot be submitted to other conferences unless the authors first withdraw it from consideration. We expect the one-shot revision to be used only for a small fraction of the papers.</li>
 </ul>
 
