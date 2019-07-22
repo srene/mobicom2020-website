@@ -227,8 +227,8 @@
 <td align="left" width="50%"">University of Illinois at Urbana-Champaign</td>
 </tr>
 <tr>
-<td align="left" width="30%"><a href="">"Roy Choudhury</a></td>
-<td align="left" width="50%"">omit", University of Illinois at Urbana-Champaig</td>
+<td align="left" width="30%"><a href="">Romit Roy Choudhury</a></td>
+<td align="left" width="50%"">University of Illinois at Urbana-Champaign</td>
 </tr>
 <tr>
 <td align="left" width="30%"><a href="">Shyam Gollakota</a></td>
