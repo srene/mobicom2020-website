@@ -15,7 +15,7 @@ MobiCom 2020
 
 <p style="text-align: center;">
 <span class="smallbannert2">
-14-18 Sep,&nbsp;London, United Kingdom
+21-25 Sep,&nbsp;London, United Kingdom
 </span>
 </p>
 
