@@ -182,7 +182,7 @@ Any papers that do not adhere to the following guidelines may be immediately rej
 </ul>
 <br/><br/>
 
-You may find these <a href="https://sigmobile.org/mobicom/2018/files/sig-alternate-10pt.cls">LaTeX</a> and <a href="https://sigmobile.org/mobicom/2018/files/word-acm-10pt-on-12pt-7.0x9.25.doc">MS-Word</a> templates useful in complying with the above requirements, but as an author you bear the final responsibility to verify (manually or through the above online paper checker) that your submission is format-compliant. <br/><br/>
+You may find these <a href="https://www.acm.org/publications/proceedings-template">templates</a> useful in complying with the above requirements, but as an author you bear the final responsibility to verify (manually or through the above online paper checker) that your submission is format-compliant. <br/><br/>
 
 All submitted papers will be evaluated through a double-blind reviewing process, with the identities of the authors withheld from the reviewers. Please direct any questions about the paper submission process to the Program Co-Chairs Bozidar Radunovic and Qian Zhang at mobicom20-pc-chairs __at__ acm.org.
 <br/><br/>
@@ -197,7 +197,7 @@ The authors of each accepted paper will be asked to submit a one-minute video to
 <?php require_once('dates.php'); ?>
 
 <h5><b>Important Notes</b></h5>
-All submissions must describe original research not published or currently under review for another conference or journal. It is ACM policy (<a href="http://www.acm.org/publications/policies/copyright_policy">ACM Author Rights and Publishing Policy</a>) not to allow double submissions, where the same paper is submitted to more than one conference/journal concurrently. Any double submissions detected will be immediately rejected from all conferences/journals involved.
+All submissions must describe original research not published or currently under review for another conference or journal. It is ACM policy (<a href="http://www.acm.org/publications/policies/copyright_policy">ACM Author Rights and Publishing Policy</a>, <a href="https://www.acm.org/publications/policies/simultaneous-submissions"> Prior Publication and Simultaneous Submissions</a>) not to allow double submissions, where the same paper is submitted to more than one conference/journal concurrently. Any double submissions detected will be immediately rejected from all conferences/journals involved.
 <br/>
 
 
