@@ -8,12 +8,12 @@
 <tr>
 <td>Abstract and title registration</td>
 <td>TBD, 2020</td>
-<td>August 10, 2019 9:59 PM</td>
+<td>August 14, 2019 9:59 PM</td>
 </tr>
 <tr>
 <td>Paper submission</td>
 <td>TBD, 2020</td>
-<td>August 14, 2019 9:59 PM</td>
+<td>August 18, 2019 9:59 PM</td>
 </tr>
 <tr>
 <td>Notification of acceptance</td>
