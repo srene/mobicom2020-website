@@ -112,8 +112,12 @@
 </tr>
 
 <tr>
-<td class="ocTableTitle" rowspan="1"><b>Publications Chair</b></td>
+<td class="ocTableTitle" rowspan="2"><b>Publications Co-Chairs</b></td>
 <td class="ocTablePerson"><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=MOASC58">Onur Ascigil</a> - University College London</td>
+</tr>
+
+<tr>
+<td class="ocTablePerson"><a href="https://sites.google.com/view/jagmohan-chauhan">Jagmohan Chauhan</a> - University of Cambridge</td>
 </tr>
 
 <tr class="stripe">
