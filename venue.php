@@ -12,7 +12,7 @@
 <main>
 
 <h2 class="text-center">Venue</h2>
-<p>The conference will be held at <a href="https://www.imperial.ac.uk/">Imperial College London</a></p>>
+<p>The conference will be held at <a href="https://www.imperial.ac.uk/">Imperial College London</a></p>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <!--<p>To celebrate MobiCom's 25th anniversary, the conference will be held at the Paradisus, an amazing all inclusive resort between Los Cabos and San Jose del Cabo. The hotel has numerous delicious restaurants, a huge pool and three smaller pools, and access to a beautiful, swimmable beach. Eat and drink as much as you like. </p>
 
