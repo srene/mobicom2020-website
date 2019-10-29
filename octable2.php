@@ -26,12 +26,16 @@
 </tr>
 
 <tr>
-<td class="ocTableTitle" rowspan="2"><b>Local Arrangements Co-Chairs</b></td>
+<td class="ocTableTitle" rowspan="3"><b>Local Arrangements Co-Chairs</b></td>
 <td class="ocTablePerson"><a href="https://www.imperial.ac.uk/people/roman.kolcun">Roman Kolcun</a> - Imperial College London</td>
 </tr>
 
 <tr>
 <td class="ocTablePerson"><a href="https://www.imperial.ac.uk/people/david.boyle">David Boyle</a> - Imperial College London</td>
+</tr>
+
+<tr>
+<td class="ocTablePerson"><a href="https://www.imperial.ac.uk/people/yuchen.zhao">Yuchen Zhao </a> - Imperial College London</td>
 </tr>
 
 <tr class="stripe">
@@ -128,4 +132,3 @@
 <tr class="stripe">
 <td class="ocTablePerson"><a href="https://minoskt.github.io/">Kleomenis Katevas</a> - Imperial College London</td>
 </tr>
-
