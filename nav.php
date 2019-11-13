@@ -30,6 +30,9 @@
         <a class="nav-link" href="accepted.php">Accepted Papers</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="camera.php">Camera-Ready</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="travel.php">Travel</a>
       </li>
       <li class="nav-item">

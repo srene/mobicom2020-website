@@ -34,8 +34,7 @@
 <td class="ocTablePerson"><a href="https://www.imperial.ac.uk/people/david.boyle">David Boyle</a> - Imperial College London</td>
 </tr>
 
-<tr>
-<td class="ocTablePerson"><a href="https://www.imperial.ac.uk/people/yuchen.zhao">Yuchen Zhao </a> - Imperial College London</td>
+<td class="ocTablePerson"><a href="https://www.imperial.ac.uk/people/yuchen.zhao19">Yuchen Zhao </a> - Imperial College London</td>
 </tr>
 
 <tr class="stripe">
@@ -108,7 +107,7 @@
 
 <tr class="stripe">
 <td class="ocTableTitle" rowspan="2"><b>Student Travel Grant Co-Chairs</b></td>
-<td class="ocTablePerson"><a href="https://sites.google.com/site/kpoularakis/">Konstantinos Poularakis</a> - Yale University</td>
+<td class="ocTablePerson"><a href="https://www.cse.ust.hk/~dcab/">Dimitris Chatzopoulos</a> - HKUST</td>
 </tr>
 
 <tr class="stripe">

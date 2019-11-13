@@ -62,7 +62,7 @@ MobiCom’20 offers authors the options of two deadlines and adds a one-shot rev
 
 <ul style="text-align:left">
 <li>Accept: Accepted papers will be presented at the MobiCom conference and appear as part of the proceedings. In the meantime, authors are permitted to talk about these upcoming publications, e.g., listing them on CVs. The publications will also be put on the MobiCom website.</li>
-<li>Reject: Rejected papers cannot be resubmitted until 11 months have passed since the last MobiCom deadline they were submitted to. We strongly encourage the authors to consider the feedback they got before submitting the paper to MobiCom 2020.</li> 
+<li>Reject: Rejected papers cannot be resubmitted until 11 months have passed since the last MobiCom deadline they were submitted to. We strongly encourage the authors to consider the feedback they got before submitting the paper to MobiCom 2020.</li>
 <li>One-Shot-Revision: Papers where a revision is required will be given specific action points and can be resubmitted for the next deadline. For such papers, the reviewers will be required to articulate a maximum of three changes/clarifications that they would like to see. After the resubmission, the same reviewers will evaluate the paper based on whether the authors have properly addressed the reviewers’ requests. Unlike in the shepherding process, the requested action points may include running additional experiments that obtain specific results. During this revision period, the paper is still considered under review to MobiCom and therefore cannot be submitted to other conferences unless the authors first withdraw it from consideration. We expect the one-shot revision to be used only for a small fraction of the papers.</li>
 </ul>
 
@@ -93,7 +93,7 @@ All submitted papers will be evaluated through a double-blind reviewing process,
 <br/><br/>
 
 <h5><b>Awards</b></h5>
-All accepted regular papers will be considered for the <b>Best Paper Award</b>. The program committee will select a number of candidates for the award among accepted regular papers. The winner will be selected at the conference, taking into consideration both the paper and the paper's presentation. We will also have a Best Community Paper Award. Among all accepted papers, the program committee will select one that contributes the most to the broader research community in terms of real data, or new software, hardware or other artefacts.
+All accepted regular papers will be considered for the <b>Best Paper Awards</b>. We will also have a <b>Best Community Paper Award</b>. Among all accepted papers, the program committee will select one that contributes the most to the broader research community in terms of real data, or new software, hardware or other artifacts.
 <br/><br/>
 <h5><b>Video Presentation</b></h5>
 The authors of each accepted paper will be asked to submit a one-minute video to introduce the research presented in their paper to the general public. These videos will be placed on the conference website up to two weeks before the conference, and will be played during the conference. A selected set will be featured by the social media channels related to the conference.
