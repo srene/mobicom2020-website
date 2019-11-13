@@ -12,7 +12,7 @@
 <main>
 <h2 class="text-center">Camera-Ready Instructions</h2>
 
-<p><b>Note that conference proceedings will be published in 2 batches before the conference start date.</b></p>
+<p><b>Note that conference proceedings will be published in 2 batches before the conference start date, being the target date for publication of the first batch January 2020.</b></p>
 
 <p>Camera-ready papers for the Mobicom 2020 proceedings are due <b>TBA</b>. In essence, you need to do the following:</p>
 <ul>
