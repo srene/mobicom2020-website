@@ -67,7 +67,7 @@ MobiCom’20 offers authors the options of two deadlines and adds a one-shot rev
 </ul>
 
 <br/>
-<h5><b>Paper Submission Instructions</b></h5>
+<h5><b>Paper Submission Instructions</b></h5><a name="instructions"></a>
 All paper submissions will be handled electronically at the <a href="https://mobicom20.hotcrp.com/">MobiCom’20 paper submission website</a>. Authors should prepare a PDF version of their full paper.
 <br/><br/>
 Before final submission, you are expected to make sure that your paper complies with the following requirements. You are strongly discouraged from violating these requirements with the aim of including additional material: submissions that violate the formatting requirements may not be reviewed. You can visually inspect a page-by-page report of your paper format using the same tool as the submission system via a separate <a href="https://www.sysnet.ucsd.edu/sigops/banal/index.php">online form</a>. After the submission deadline, we will use the same tool to check the conformance of papers. The format checking tool uses heuristics and can make mistakes. The PC chairs will manually inspect and possibly reject those papers with evident format violations. However, no paper will be rejected due to format violations without first being checked by hand.

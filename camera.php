@@ -19,7 +19,7 @@
   <li>Work with the shepherd to address all the reviewers’ comments. The shepherd will be ultimately responsible for accepting or rejecting your submission.</li>
   <li>Fill out copyright form, information on how to do this will be emailed to authors automatically in a separate mail.</li>
   <li>Adapt your stylesheet to the most recent ACM template, include bibliographic and copyright strip.</li>
-  <li>Authors should follow the guide to the MobiCom 2020 submission preparation instructions available at this link: <a href="">TBC</a></li>
+  <li>Authors should follow the guide to the MobiCom 2020 submission preparation instructions available at this <a href="cfp.php#instructions">link</a>.
 </ul>
 
 
