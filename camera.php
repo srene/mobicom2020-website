@@ -12,7 +12,8 @@
 <main>
 <h2 class="text-center">Camera-Ready Instructions</h2>
 
-<h1>Camera-Ready Instructions</h1>
+<p><b>Note that conference proceedings will be published in 2 batches before the conference start date.</b></p>
+
 <p>Camera-ready papers for the Mobicom 2020 proceedings is yet to be announced. In essence, you need to do the following:</p>
 <ul>
   <li>Work with the shepherd to address all the reviewers’ comments. The shepherd will be ultimately responsible for accepting or rejecting your submission.</li>
@@ -21,7 +22,6 @@
   <li>Authors should follow the guide to the MobiCom 2020 submission preparation instructions available at this link: <a href="">TBC</a></li>
 </ul>
 
-<b>Note that conference proceedings will be published in 2 batches before the conference start date.</b>
 
 <h4>Complete rights management form</h4>
 <ul>
