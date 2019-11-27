@@ -106,12 +106,16 @@
 </tr>
 
 <tr class="stripe">
-<td class="ocTableTitle" rowspan="2"><b>Student Travel Grant Co-Chairs</b></td>
+<td class="ocTableTitle" rowspan="3"><b>Student Travel Grant Co-Chairs</b></td>
 <td class="ocTablePerson"><a href="https://www.cse.ust.hk/~dcab/">Dimitris Chatzopoulos</a> - HKUST</td>
 </tr>
 
 <tr class="stripe">
 <td class="ocTablePerson"><a href="http://homepage.tudelft.nl/8e79t/">Aaron Yi Ding</a> - TU Delft</td>
+</tr>
+
+<tr class="stripe">
+<td class="ocTablePerson"><a href="https://web.fe.up.pt/~anaa/">Ana Aguiar</a> - University of Porto</td>
 </tr>
 
 <tr>
