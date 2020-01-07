@@ -12,8 +12,14 @@
 <main>
 
 <h2 class="text-center">Registration & Hotel Reservations</h2>
-<center>TBC</center>
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br>
+<p>There is no designated “conference hotel” for MobiCom 2020. We have a variety of rooms at Imperial College. All conference attendees can make their bookings directly through Imperial’s reservation office <a href="https://www.imperial.ac.uk/visit/summer-accommodation/">https://www.imperial.ac.uk/visit/summer-accommodation/</a>, over the phone +44207 5949507 or email vacenquiries@imperial.ac.uk at the best available rates at the time of booking.
+
+<p>In addition, Imperial offers discounted hotel booking service year round, for online booking, more information on facilities, please follow the link to our Hotel booking page: <a href="http://www.imperial.ac.uk/visitors-accommodation/local-hotels/">http://www.imperial.ac.uk/visitors-accommodation/local-hotels/</a></p>
+
+
+ </p>
+
 <!--<br/>
 <h5><b>Conference registration and hotel reservation instructions will be here very soon.</b></h5>
 

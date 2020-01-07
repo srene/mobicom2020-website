@@ -29,7 +29,7 @@
   <li>As rights management emails are sent from an automated system, there is a chance that emails sent will wind up in SPAM folders. Please make sure that you and your authors set email SPAM settings to allow emails from “rightsreview@acm.org”.</li>
 </ul>
 <h4>Format paper</h4>
-<ul> <li>Papers should be no more than 12 pages single-spaced pages for text and figures + 4 pages for references.</li>
+<ul> <li>Papers should be no more than 12 pages single-spaced pages for text and figures + 4 pages for references. <b>Page limit is also 12 pages for camera-ready challenge, experience and verification papers.</b></li>
   <li>Camera-ready papers should adhere to the ACM templates that can be found here: <a href="http://www.acm.org/publications/proceedings-template">http://www.acm.org/publications/proceedings-template</a>. Templates are provided for formatting papers in MS Word and LaTeX. In LaTeX, you should use <code>\documentclass[sigconf]{acmart}.</code></li>
   <li>Note that the originally submission instructions suggested using the old ACM template. The font size in the submission template was 10pt, the new template will use 9pt. Using the new ACM template means that you have more space, to address the comments by the reviewers. Please also double check to make sure that you are using the new template (linked in the previous bullet).</li>
   <li>Please do NOT number the pages of your camera-ready paper (by default page numbers are disabled in the ACM template).</li>
