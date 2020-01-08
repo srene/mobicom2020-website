@@ -39,7 +39,8 @@
 </ul>
 <h4>Submit camera-ready version</h4>
 <ul>
-  <li>TBA</li>
+  <li>Go to the Mobicom 2020 submission page and edit your paper: <a href="https://mobicom20.hotcrp.com/">https://mobicom20.hotcrp.com/</a>.</li>
+  <li>Submit the source files and PDF of your camera-ready paper.</li>
 </ul>
 <h4>Questions</h4>
 <p>If you have any questions about the camera-ready process, feel free to contact Mobicom 2020 publication co-chairs Onur Ascigil  (<a href="mailto:o.ascigil@ucl.ac.uk">o.ascigil@ucl.ac.uk</a>) or Jagmohan Chauhan (<a href="mailto:jc2161@cam.ac.uk">jc2161@cam.ac.uk</a>).</p>
