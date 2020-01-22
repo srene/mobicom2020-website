@@ -18,8 +18,6 @@ ACM MobiCom is the premier international conference dedicated to addressing emer
 We solicit workshop and tutorial proposals on new and emerging topics that broadly relate to the general areas of mobile communications, wireless networking and mobile computing.
 <br/><br/>
 
-
-
 <h5><b>Workshop Guidelines</b></h5>
 The ideal workshop proposal will focus on a timely and emerging topic and be able to attract a number of interesting and high-quality contributions that spark discussions in an informal setting. The goal of the workshop papers is primarily to stimulate interactive conversations and inspire new research ideas. Proposals on emerging or disruptive topics that are likely to generate significant interest in the community will be selected.
 <br/><br/>
@@ -72,6 +70,7 @@ Please send your proposal in PDF (only) via e-mail to both the workshop/tutorial
 
 <h5><b>Important Dates</b></h5>
 <?php require_once('dates-workshop.php'); ?>
+<br/><br/>
 
 <h5><b>Workshop/Tutorial Chairs</b></h5>
 <a href="https://ozgualay.com/">Özgü Alay</a> (University of Oslo and Simula) : ozgua@ifi.uio.no<br/>
