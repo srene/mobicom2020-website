@@ -24,7 +24,7 @@
         <a class="nav-link" href="program.php">Program</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="workshops.php">Workshops & Tutorials</a>
+        <a class="nav-link" href="workshops-call.php">Workshops & Tutorials</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="accepted.php">Accepted Papers</a>
