@@ -87,7 +87,7 @@ On-Site (Begins Oct 21st)<br/><br/>
 
 <h5><b>Travel info</b></h5>
 <p>We have posted the <a href="program.php">schedule outline</a>, <a href="travel.php">airport transfer info</a>, <a href="location.php">activities</a>. Book your flights, transfer, and activities! Registration and room reservation coming soon!</p>
-
+-->
 <h5><b>News</b></h5>
 <div id="news">
 <ul>
