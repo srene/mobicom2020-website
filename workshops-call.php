@@ -45,6 +45,7 @@ The proposal should be no longer than three pages and should include at least th
 <li>If previous editions have been held, a description of past versions of the workshop, including the number of submitted and accepted papers, and number of attendees.</li>
 <li>A description of the publicity plan.</li>
 <li>A call for papers with workshop deadlines (aligned with the relevant Important Dates below).</li>
+</ul>
 <br/><br/>
 
 <h5><b>Tutorial Guidelines</b></h5>
@@ -62,6 +63,7 @@ The proposal should be no longer than three pages and should include at least th
 <li>Requirements for the tutorial room (please note that our capabilities in fulfilling unusual requests are limited).</li>
 <li>Requirements for the attendees (e.g., must bring their own laptop or other hardware, familiarity with certain technologies or topics, etc.).</li>
 <li>Any other limitations (e.g., number of participants).</li>
+</ul>
 <br/><br/>
 
 <h5><b>Submissions</b></h5>

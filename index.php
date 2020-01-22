@@ -99,7 +99,7 @@ On-Site (Begins Oct 21st)<br/><br/>
 <li><b>December 2018</b> - First round of accepted papers announced.</li>
 <li><b>July 2018</b> - <a href="https://mobicom19.hotcrp.com/" target="_blank" rel="noopener">Submission website</a> is online. <a href="cfp.php">Call for papers</a> is up. MobiCom 2019 webpage is live. </li>
 -->
-<li><b>January 2020</b> - <a href="workshops.php">Call for workshops</a> is up.</li>
+<li><b>January 2020</b> - <a href="workshops-call.php">Call for workshops</a> is up.</li>
 </ul>
 </div>
 
