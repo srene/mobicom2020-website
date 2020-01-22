@@ -91,17 +91,19 @@ On-Site (Begins Oct 21st)<br/><br/>
 <h5><b>News</b></h5>
 <div id="news">
 <ul>
-<li><b>June 2019</b> - <a href="registration.php">Registration and Hotel Reservations</a>, <a href="program.php">Program</a>, <a href="location.php">Location & Activities</a>, <a href="venue.php">Venue</a>, <a href="mobijob.php">MobiJob</a>, <a href="n2women.php">N2Women</a> and <a href="travelgrant.php">Student travel grant</a> are up.<br/>
+<!--li><b>June 2019</b> - <a href="registration.php">Registration and Hotel Reservations</a>, <a href="program.php">Program</a>, <a href="location.php">Location & Activities</a>, <a href="venue.php">Venue</a>, <a href="mobijob.php">MobiJob</a>, <a href="n2women.php">N2Women</a> and <a href="travelgrant.php">Student travel grant</a> are up.<br/>
 <li><b>May 2019</b> - <a href="workshops.php">Workshops CFPs</a> are up.<br/>
 <li><b>April 2019</b> - <a href="workshops.php">Workshops and tutorials</a> are up. <a href="poster-demo.php">Call for posters and demos</a> are up. <a href="travel.php">Travel information</a> is up.</li>
 <li><b>February 2019</b> - <a href="workshops-call.php">Call for workshops</a> is up.</li>
 <li><b>January 2019</b> - Dates, location, & organizing committee have been announced.</li>
 <li><b>December 2018</b> - First round of accepted papers announced.</li>
 <li><b>July 2018</b> - <a href="https://mobicom19.hotcrp.com/" target="_blank" rel="noopener">Submission website</a> is online. <a href="cfp.php">Call for papers</a> is up. MobiCom 2019 webpage is live. </li>
+-->
+<li><b>January 2020</b> - <a href="workshops.php">Call for workshops</a> is up.</li>
 </ul>
 </div>
 
-<div class="spacing"></div> 
+<div class="spacing"></div>
 
 <!-- <?php require_once('sponsors.php'); ?> -->
 
