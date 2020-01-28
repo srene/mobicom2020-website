@@ -104,9 +104,7 @@ On-Site (Begins Oct 21st)<br/><br/>
 </ul>
 </div>
 
-<div class="spacing"></div>
-<div class="spacing"></div>
-<div class="spacing"></div>
+</br></br>
 
 <!-- <?php require_once('sponsors.php'); ?> -->
 
