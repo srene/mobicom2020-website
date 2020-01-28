@@ -104,7 +104,7 @@ On-Site (Begins Oct 21st)<br/><br/>
 </ul>
 </div>
 
-</br></br>
+</br>
 
 <!-- <?php require_once('sponsors.php'); ?> -->
 
