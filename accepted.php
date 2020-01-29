@@ -66,8 +66,8 @@
 <div class="pauthors">Authors: G. Guan, B. Li, Y. Gao, Y. Zhang, J. Bu, W. Dong</div></li>
 <br/>
 
-<li><b>Challenge: UTOPIA: A City-Scale Programmable Testbed for Experimentation with Advanced Wireless</b> <!--<a href="http://web.mit.edu/arjunvb/pubs/bursttracker-mobicom19-paper.pdf">[Preprint]</a>--><br/>
-<div class="pauthors">Authors: D. Raychaudhuri, I. Seskar, G. Zussman, T. Korakis, D. Kilper, J. Kolodziejski, M. Sherman, T. Chen, Z. Kostic, X. Gu, H. Krishnaswamy, S. Maheshwari, P. Skrimponis, C. Gutterman</div></li>
+<li><b>Challenge: COSMOS: A City-Scale Programmable Testbed for Experimentation with Advanced Wireless</b> <!--<a href="http://web.mit.edu/arjunvb/pubs/bursttracker-mobicom19-paper.pdf">[Preprint]</a>--><br/>
+<div class="pauthors">Authors: D. Raychaudhuri, I. Seskar, G. Zussman, T. Korakis, D. Kilper, T. Chen, J. Kolodziejski, M. Sherman, Z. Kostic, X. Gu, H. Krishnaswamy, S. Maheshwari, P. Skrimponis, C. Gutterman</div></li>
 <br/>
 
 <li><b>M-Cube: A Millimeter-Wave Massive MIMO Software Radio</b> <!--<a href="http://web.mit.edu/arjunvb/pubs/bursttracker-mobicom19-paper.pdf">[Preprint]</a>--><br/>
@@ -108,7 +108,7 @@
 
 <li><b>TouchPass: Towards Behavior-irrelevant on-touch User Authentication on Smartphones Leveraging Vibrations</b> <!--<a href="http://web.mit.edu/arjunvb/pubs/bursttracker-mobicom19-paper.pdf">[Preprint]</a>--><br/>
 <div class="pauthors">Authors: X. Xu, J. Yu, Y. Chen, Q. Hua, Y. Zhu, Y. Chen, M. Li</div></li>
-<br/> 
+<br/>
 
 </ul>
 </div>
