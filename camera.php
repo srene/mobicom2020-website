@@ -14,7 +14,7 @@
 
 <p><b>Note that conference proceedings will be published in 2 batches before the conference start date, being the target date for publication of the first batch January 2020.</b></p>
 
-<p>Camera-ready papers for the Mobicom 2020 proceedings are due <b>TBA</b>. In essence, you need to do the following:</p>
+<p>Camera-ready papers for the Mobicom 2020 proceedings are due <b>February 10th</b>. In essence, you need to do the following:</p>
 <ul>
   <li>Work with the shepherd to address all the reviewers’ comments. The shepherd will be ultimately responsible for accepting or rejecting your submission.</li>
   <li>Fill out copyright form, information on how to do this will be emailed to authors automatically in a separate mail.</li>
