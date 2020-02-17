@@ -113,11 +113,11 @@ Harassment is unwelcome or hostile behavior, including speech that intimidates, 
 
 Conference participants violating these standards may be sanctioned, expelled from the conference or asked not to attend future conferences or conference events, at the discretion of the conference organizers and the SIGMOBILE executive committee.<br/><br/>
 
-If you believe you have been harassed, you are encouraged to report the incident in confidence to the MobiCom 2019 General Chairs Sharad Agarwal and Ben Greenstein at mobicom19-gc __at__ acm.org.
+If you believe you have been harassed, you are encouraged to report the incident in confidence to the MobiCom 2020 General Chairs Jon Crowcroft and Hamed Haddadi at mobicom20-gc __at__ acm.org.
 </p>
 <br/>
 <h5><b>For More Information</b></h5>
-Please send email to General Co-Chairs Sharad Agarwal and Ben Greenstein at mobicom19-gc __at__ acm.org with any questions or comments about the conference or for more information. For questions about the paper submission and review process, please contact the Program Co-Chairs Shyam Gollakota and Xinyu Zhang at mobicom19-pc-chairs __at__ acm.org.
+Please send email to General Co-Chairs Jon Crowcroft and Hamed Haddadi at mobicom20-gc __at__ acm.org with any questions or comments about the conference or for more information. For questions about the paper submission and review process, please contact the Program Co-Chairs Qian Zhang and Bozidar Radunovic at mobicom20-pc-chairs __at__ acm.org.
 <br/>
 
 </center>

@@ -135,3 +135,24 @@
 <tr class="stripe">
 <td class="ocTablePerson"><a href="https://minoskt.github.io/">Kleomenis Katevas</a> - Imperial College London</td>
 </tr>
+
+<tr>
+<td class="ocTableTitle" rowspan="6"><b>Steering Comittee</b></td>
+<td class="ocTablePerson"><a href="https://www.microsoft.com/en-us/research/people/bahl/">Victor Bahl (Chair)</a> - Microsoft</td>
+</tr>
+
+<tr>
+<td class="ocTablePerson"><a href="http://pages.cs.wisc.edu/~suman/">Suman Banerjee</a> - University of Wisconsin-Madison</td>
+
+<tr>
+<td class="ocTablePerson"><a href="https://viterbi.usc.edu/directory/faculty/Govindan/Ramesh">Ramesh Govindan</a> - University of Southern California</td>
+
+<tr>
+<td class="ocTablePerson"><a href="https://www.cs.rice.edu/~dbj/">David B. Johnson</a> - Rice University</td>
+
+<tr>
+<td class="ocTablePerson"><a href="http://web.eecs.umich.edu/~kgshin/">Kang Shin</a> - University of Michigan</td>
+
+<tr>
+<td class="ocTablePerson"><a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> - University of Chicago</td>
+</tr>
