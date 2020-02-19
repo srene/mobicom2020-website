@@ -34,8 +34,8 @@
 <div class="pauthors">Authors: S. Wang, J. Huang, X. Zhang, H. Kim, S. Dey</div></li>
 <br/>
 
-<li><b>Renovating Road Signs for I2V Communications</b> <!--<a href="http://web.mit.edu/arjunvb/pubs/bursttracker-mobicom19-paper.pdf">[Preprint]</a>--><br/>
-<div class="pauthors">Authors: P. Wang, L. Feng, G. Chen, C. Xu, Y. Wu, K. Xu, G. Shen, S. Shao</div></li>
+<li><b>Renovating Road Signs for Infrastructure-to-Vehicle Networking: A Visible Light Backscatter Communication and Networking Approach </b> <!--<a href="http://web.mit.edu/arjunvb/pubs/bursttracker-mobicom19-paper.pdf">[Preprint]</a>--><br/>
+<div class="pauthors">Authors: P. Wang, L. Feng, G. Chen, C. Xu, Y. Wu, K. Xu, G. Shen, K. Du, G. Huang, X. Liu</div></li>
 <br/>
 
 <li><b>Voice Localization Using Nearby Wall Reflections</b> <!--<a href="http://web.mit.edu/arjunvb/pubs/bursttracker-mobicom19-paper.pdf">[Preprint]</a>--><br/>

@@ -137,7 +137,7 @@
 </tr>
 
 <tr>
-<td class="ocTableTitle" rowspan="6"><b>Steering Comittee</b></td>
+<td class="ocTableTitle" rowspan="7"><b>Steering Comittee</b></td>
 <td class="ocTablePerson"><a href="https://www.microsoft.com/en-us/research/people/bahl/">Victor Bahl (Chair)</a> - Microsoft</td>
 </tr>
 
@@ -155,4 +155,8 @@
 
 <tr>
 <td class="ocTablePerson"><a href="http://people.cs.uchicago.edu/~htzheng/">Heather Zheng</a> - University of Chicago</td>
+</tr>
+
+<tr>
+<td class="ocTablePerson"><a href="https://homes.cs.washington.edu/~gshyam/">Shyam Gollakota</a> - University of Washington</td>
 </tr>
