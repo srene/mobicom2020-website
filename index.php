@@ -157,6 +157,8 @@ MobiCom welcomes contributions that seek to verify and/or characterize recent br
 <h5><b>Two Deadlines and Reviewing Process with One-shot Revision</b></h5>
 MobiCom’20 offers authors the options of two deadlines and adds a one-shot revision process to enhance the timeliness and quality of the scientific results from the research community. Each paper will go through the same rigorous reviewing process as in previous MobiCom conferences. The review decisions will be one of the following:
 <br/><br/>
+In case of any similarity between a current submission and a submission that has been previously rejected at Mobicom less than 11 months ago, please email a detailed list of differences and if possible a copy of a previous submission to the chairs.
+<br/><br/>
 
 <ul style="text-align:left">
 <li>Accept: Accepted papers will be presented at the MobiCom conference and appear as part of the proceedings. In the meantime, authors are permitted to talk about these upcoming publications, e.g., listing them on CVs. The publications will also be put on the MobiCom website.</li>
@@ -202,10 +204,10 @@ The authors of each accepted paper will be asked to submit a one-minute video to
 <h5><b>Important Notes</b></h5>
 All submissions must describe original research not published or currently under review for another conference or journal. It is ACM policy (<a href="http://www.acm.org/publications/policies/copyright_policy">ACM Author Rights and Publishing Policy</a>, <a href="https://www.acm.org/publications/policies/simultaneous-submissions"> Prior Publication and Simultaneous Submissions</a>) not to allow double submissions, where the same paper is submitted to more than one conference/journal concurrently. Any double submissions detected will be immediately rejected from all conferences/journals involved.
 <br/><br/>
-
 Submissions will be kept confidential until accepted. Rejected submissions will be kept confidential permanently.
 <br/><br/>
-
+In case of any similarity between a current Mobicom submission and another ongoing submission on a different conference, please email a detailed list of differences and if possible a copy of a previous submission to the chairs.
+<br/><br/>
 
 </center>
 </main>
