@@ -19,7 +19,7 @@
     font-size: large;
 }
 </style>
-<span class="bold-red"><center>Due to Coronavirus outbreak, submission deadline has been extended to March 21st for abstracts submissions and March 25th for papers submissions.</center></span>
+<span class="bold-red">Due to Coronavirus outbreak, submission deadline has been extended to March 21st for abstracts submissions and March 25th for papers submissions.</span>
 </br></br>
 The ACM MobiCom conference seeks papers describing significant research contributions in the field of wireless networking and mobile computing. MobiCom solicits papers that address important research challenges, including but not limited to communication networks, energy, computing, security and user experience. Successful papers should propose novel ideas to attack such problems through rigorous analysis, system design, and/or real-world measurement and deployment of mobile networks, systems and applications.
 <br/><br/>
