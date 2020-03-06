@@ -12,7 +12,7 @@
 <main>
 
 <h2 class="text-center">Call for Papers</h2>
-</br></br>
+</br>
 <style type="text/css">
  span.bold-red {
     color: red;
