@@ -20,7 +20,7 @@
     font-size: large;
 }
 </style>
-<span class="bold-red"><center>Submission deadline has been extended to March 21st for abstracts submissions and March 25th for papers submissions.</center></span>
+<span class="bold-red"><center>Due to Coronavirus outbreak, submission deadline has been extended to March 21st for abstracts submissions and March 25th for papers submissions.</center></span>
 </br></br>
 <p>
 ACM MobiCom 2020 is the twenty-sixth in a series
