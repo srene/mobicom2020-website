@@ -11,14 +11,16 @@
 
 <main>
 
-  <style type="text/css">
-   span.bold-red {
-      color: red;
-      font-weight: bold;
-      font-size: large;
-  }
-  </style>
-  <span class="bold-red"><center>Submission deadline has been extended to March 21 for abstracts and March 25 for papers.</center></span>
+</br>
+<h2 class="text-center">Call for Papers</h2>
+<style type="text/css">
+ span.bold-red {
+    color: red;
+    font-weight: bold;
+    font-size: large;
+}
+</style>
+<span class="bold-red"><center>Submission deadline has been extended to March 21st for abstracts submissions and March 25th for papers submissions.</center></span>
 </br></br>
 <p>
 ACM MobiCom 2020 is the twenty-sixth in a series
