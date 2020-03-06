@@ -11,6 +11,14 @@
 
 <main>
 
+  <style type="text/css">
+   span.bold-red {
+      color: red;
+      font-weight: bold;
+  }
+  </style>
+  <span class="bold-red">Submission deadline has been extended to March 21 for abstracts and March 25 for papers.</span>
+
 <p>
 ACM MobiCom 2020 is the twenty-sixth in a series
 of annual conferences sponsored by <a href="http://www.sigmobile.org/" target="_blank" rel="noopener">ACM
@@ -101,6 +109,7 @@ On-Site (Begins Oct 21st)<br/><br/>
 -->
 <li><b>January 2020</b> - <a href="workshops-call.php">Call for workshops</a> is up.</li>
 <li><b>January 2020</b> - First round of <a href="accepted.php">accepted papers</a> announced.</li>
+<li><b>January 2020</b> - Submission deadline extended to March 21 for abstracts and March 25 for papers.</li>
 </ul>
 </div>
 
