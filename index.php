@@ -112,7 +112,7 @@ On-Site (Begins Oct 21st)<br/><br/>
 -->
 <li><b>January 2020</b> - <a href="workshops-call.php">Call for workshops</a> is up.</li>
 <li><b>January 2020</b> - First round of <a href="accepted.php">accepted papers</a> announced.</li>
-<li><b>January 2020</b> - Submission deadline extended to March 21 for abstracts and March 25 for papers.</li>
+<li><b>March 2020</b> - Submission deadline extended to March 21st for abstracts and March 25th for papers.</li>
 </ul>
 </div>
 
