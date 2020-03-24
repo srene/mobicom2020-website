@@ -49,7 +49,7 @@ Organizers: Jianhua He (University of Essex), Aline Carneiro Viana (INRIA)<br/><
 <b><a href="http://emdl20.github.io/">(Full day) 4th International Workshop on Deep Learning for Mobile Systems and Applications (EMDL) - <em>Research track</em></a></b><br/>
 Organizers: Stylianos I. Venieris (Samsung AI Center-Cambridge), Nic Lane (Samsung AI Center-Cambridge, University of Oxford), Marco Gruteser (Google, Rutgers University), Koen Helwegen (Plumerai)<br/><br/>
 
-<b><a href="">(Full day) WINTECH - <em>Experimental track</em></a></b><br/>
+<b>(Full day) WINTECH - <em>Experimental track</em></b><br/>
 Organizers: Tommaso Melodia (Northeastern University), Arturo Azcorra (IMDEA), Stefano Basagni (Northeastern University)<br/><br/>
 
 <b><a href="http://www.grc.upv.es/frugalthings2020/">(Half day - Morning) FRUGALTHINGS 2020: 1th Workshop on Experiences with the Design and Implementation of Frugal Smart Objects - <em>Research track</em></a></b><br/>
@@ -58,12 +58,38 @@ Organizers: <a href="pmanzoni@disca.upv.es">Pietro Manzoni</a> (Universitat Poli
 <b><a href="https://aka.ms/hotedgevideo19">(Half day - Afternoon) Light up the IoT (LIoT 2020) - <em>Research track</em></a></b><br/>
 Organizers: <a href="daniele.puccinelli@supsi.ch">Daniele Puccinelli</a> (Institute for Information Systems and Networking), <a href="jrufo@lightbeecorp.com">Julio Rufo</a>  (LigthBee Visible Light Communication)<br/><br/>
 
-<b><a href="">(Half day - Afternoon) Tutorial: Towards Secure Data-Centric Mobile Communication</a></b><br/>
+<b>(Half day - Afternoon) Tutorial: Towards Secure Data-Centric Mobile Communication</b><br/>
 Organizers: Tommaso Melodia (Northeastern University), Arturo Azcorra (IMDEA), Stefano Basagni (Northeastern University)<br/><br/>
 
 
-
 <h5><b>Friday, September 25</b></h5>
+
+<b>(Full day) DroneCom: Drone-Assisted Wireless Communications for 5G and Beyond - <em>Research track</em></b><br/>
+Organizers: <a href="sahil.garg@ieee.org">Dr. Sahil Garg</a> (École de technologie supérieure, Montreal),
+ <a href="fabrizio.granelli@unitn.it">Prof. Fabrizio Granelli</a> (University of Trento, Italy),
+ <a href="hdhillon@vt.edu">Prof. Harpreet Dhillon</a> (Virginia Tech, Blacksburg),
+ <a href="xingqin.lin@ericsson.com">Dr. Xingqin Lin</a> (Ericsson Research),
+ <a href="song.guo@polyu.edu.hk">Prof. Song Guo</a> (The Hong Kong Polytechnic University)<br/><br/>
+
+ <b><a href="http://www.cryblock.org">(Full day) Cryptocurrencies and Blockchains for Distributed Systems (CryBlock) - <em>Research track</em></a></b><br/>
+ Organizers: Stefano Ferretti (University of Bologna), Gabriele D’Angelo (University of Bologna)<br/><br/>
+
+<b><a href="https://cpsbench20.ethz.ch">(Full day) The 3rd Workshop on Benchmarking Cyber-Physical Systems and Internet of Things (CPS_IoTBench)- <em>Experimental track</em></a></b><br/>
+Organizers: <a href="jacobr@ethz.ch">Romain Jacob</a> (ETH Zürich), <a href="ramona.marfievici@digicatapult.org.uk">Ramona Marfievici</a> (Digital Catapult)
+, <a href="marco.zimmerling@tu-dresden.de"> Marco Zimmerling (TU Dresden)<br/><br/>
+
+<b><a href="http://www.netmode.ntua.gr/rebuild20/">(Full day) 5G Research, Business Applications, & Developments (5G-ReBuilD) - <em>Experimental track</em></a></b><br/>
+Organizers: Symeon Papavassiliou (NTUA), Vasileios Karyotis (Ionian Uni.), Haesik Kim(VTT)<br/><br/>
+
+<b><a href="https://mmnets.cse.sc.edu/">(Half day - Morning) Millimeter-Wave Networks and Sensing Systems (mmNets 2020) - <em>Research track</em></a></b><br/>
+Organizers: Sanjib Sur (U Southern Carolina), Marina Petrova (KTH)<br/><br/>
+
+<b>(Half day - Afternoon) Tutorial: COSMOS (“Cloud enhanced Open Software defined MObile wireless testbed for city-Scale
+deployment”) Testbed for Advanced Wireless and Edge Cloud Research</b><br/>
+Organizers: Tingjun Chen (Columbia University), Craig Gutterman (Columbia University),
+Jakub Kolodziejski (Rutgers University), Michael Sherman (Rutgers University), Panagiotis
+Skrimponis (NYU), Ivan Seskar (Rutgers University), Dipankar Raychaudhuri (Rutgers University),
+Thanasis Korakis (NYU), Gil Zussman (Columbia University)<br/><br/>
 
 <!-- <div class="table-responsive">
 <table class="table table-sm table-bordered">
@@ -93,7 +119,7 @@ Organizers: Tommaso Melodia (Northeastern University), Arturo Azcorra (IMDEA), S
 </div>-->
 
 
-<b><a href="https://nss.cs.nctu.edu.tw/wintech2019">FRUGALTHINGS 2020: 1th Workshop on Experiences with the Design and Implementation of Frugal Smart Objects</a></b><br/>
+<!--<b><a href="https://nss.cs.nctu.edu.tw/wintech2019">FRUGALTHINGS 2020: 1th Workshop on Experiences with the Design and Implementation of Frugal Smart Objects</a></b><br/>
 Organizers: Yiannis Pefkianakis (Apple) and Kate Ching-Ju Lin (National Chiao Tung University, Taiwan)<br/><br/>
 
 <b><a href="https://mmnets.cs.gmu.edu/">3rd ACM Workshop on Millimeter-wave Networks and Sensing Systems (mmNets)</a></b><br/>
@@ -107,12 +133,12 @@ Organizers: Suzan Bayhan (TU Berlin, Germany) and Eirini Eleni Tsiropoulou (Univ
 
 <p>In this full day tutorial, industry experts will describe the state-of-the-art in mobile deep learning and explain how to incorporate these techniques successfully in your research. The presenters include:</p>
 
-<ol>
+<!--<ol>
 <li><a href="http://www.achowdhery.com/">Dr. Aakanksha Chowdhery</a> from Google Brain and Tensorflow. She will explain how to use Tensorflow to achieve excellent deep learning results -- especially on mobile platforms.</li>
 <li><a href="https://www.microsoft.com/en-us/research/people/ga/">Dr. Ganesh Ananthanaryanan</a>, <a href="https://www.microsoft.com/en-us/research/people/yunliu/">Dr. Yunxin Liu</a> and <a href="https://www.microsoft.com/en-us/research/people/yushu/">Dr. Yuanchao Shu</a> from Microsoft Research who will explain how to apply novel AI techniques to support various forms of video analytics applications including traffic sensing.</li>
 <li><a href="https://www.fahim-kawsar.net/">Professor Fahim Kawsar</a>, Director of IoT Research at Bell Labs. UK who will explain how to apply machine learning techniques to the domain of mobile health sensing.</li>
-</ol>
--->
+</ol>-->
+
 </div>
 
 </center>
