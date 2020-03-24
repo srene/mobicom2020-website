@@ -11,11 +11,10 @@
 
 <main>
 <h2 class="text-center">Workshops and Tutorials</h2>
-<center>TBC</center>
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
-<!--<p>Mobicom 2019 is pleased to announce the organization of the following workshops and tutorials. Workshop papers will be included with the MobiCom proceedings and published in the ACM Digital Library. This year at MobiCom, we are also organising two half day tutorials on topics of high interest to mobile systems researchers.</p>
 
-<h5><b>Monday, October 21</b></h5>-->
+<p>Mobicom 2020 is pleased to announce the organization of the following workshops and tutorials. Workshop papers will be included with the MobiCom proceedings and published in the ACM Digital Library. This year at MobiCom, we are also organising two half day tutorials on topics of high interest to mobile systems researchers.</p>
+
+<h5><b>Monday, September 21</b></h5>
 
 <!-- <div class="table-responsive">
 <table class="table table-sm table-bordered">
@@ -42,25 +41,29 @@
 </tr>
 </tbody>
 </table>
-</div>
+</div>-->
 
-<b><a href="https://meteor.ame.asu.edu/mavrix/">MAVRIX: 1st Workshop on Mobile Augmented and Virtual Reality systems for Immersive eXperiences</a></b><br/>
-Organizers: Robert LiKamWa (Arizona State University), Feng Qian (University of Minnesota)<br/><br/>
+<b><a href="http://cosafe.org.uk/mobiarch2020.html">(Full day) MobiArch 2020: Workshop on Mobility in the Evolving Internet Architecture - <em>Research track</em></a></b><br/>
+Organizers: Jianhua He (University of Essex), Aline Carneiro Viana (INRIA)<br/><br/>
 
-<b><a href="http://mobiqoe.ait.ac.at/internet-qoe-2019/">4th Internet-QoE Workshop: QoE-based Analysis and Management of Data Communication Networks</a></b><br/>
-Organizers: Pedro Casas (Austrian Institute of Technology), Florian Wamser (University of Würzburg), Fabián Bustamante (Northwestern University), David Choffnes (Northeastern University)<br/><br/>
+<b><a href="http://emdl20.github.io/">(Full day) 4th International Workshop on Deep Learning for Mobile Systems and Applications (EMDL) - <em>Research track</em></a></b><br/>
+Organizers: Stylianos I. Venieris (Samsung AI Center-Cambridge), Nic Lane (Samsung AI Center-Cambridge, University of Oxford), Marco Gruteser (Google, Rutgers University), Koen Helwegen (Plumerai)<br/><br/>
 
-<b><a href="https://aka.ms/hotedgevideo19">Workshop on Hot Topics in Video Analytics and Intelligent Edges</a></b><br/>
-Organizers: Ganesh Ananthanarayanan (Microsoft), Yunxin Liu (Microsoft), Yuanchao Shu (Microsoft)<br/><br/>
+<b><a href="">(Full day) WINTECH - <em>Experimental track</em></a></b><br/>
+Organizers: Tommaso Melodia (Northeastern University), Arturo Azcorra (IMDEA), Stefano Basagni (Northeastern University)<br/><br/>
 
-<b><a href="https://s32019.blogs.rice.edu/">Wireless of the Students, by the Students, and for the Students (S3) Workshop</a> (Morning only)</b><br/>
-Organizers: Mallesham Dasari (Stony Brook University), Elahe Soltanaghaei (University of Virginia), Chia-Yi Yeh (Rice University)<br/><br/>
+<b><a href="http://www.grc.upv.es/frugalthings2020/">(Half day - Morning) FRUGALTHINGS 2020: 1th Workshop on Experiences with the Design and Implementation of Frugal Smart Objects - <em>Research track</em></a></b><br/>
+Organizers: <a href="pmanzoni@disca.upv.es">Pietro Manzoni</a> (Universitat Politècnica de València), <a href="cpalazzi@math.unipd.it">Claudio E. Palazzi</a> (Università degli Studi di Padova)<br/><br/>
 
-<b><a href="https://sites.google.com/view/smas-2019/">1st ACM Workshop on Emerging smart technologies and infrastructures for Smart Mobility and sustainability (SMAS)</a> (Afternoon only)</b><br/>
-Organizers: Catia Prandi (University of Bologna), Giovanni Pau (Sorbonne Université - LIP6)<br/>
-<hr/>
+<b><a href="https://aka.ms/hotedgevideo19">(Half day - Afternoon) Light up the IoT (LIoT 2020) - <em>Research track</em></a></b><br/>
+Organizers: <a href="daniele.puccinelli@supsi.ch">Daniele Puccinelli</a> (Institute for Information Systems and Networking), <a href="jrufo@lightbeecorp.com">Julio Rufo</a>  (LigthBee Visible Light Communication)<br/><br/>
 
-<h5><b>Friday, October 25</b></h5>
+<b><a href="">(Half day - Afternoon) Tutorial: Towards Secure Data-Centric Mobile Communication</a></b><br/>
+Organizers: Tommaso Melodia (Northeastern University), Arturo Azcorra (IMDEA), Stefano Basagni (Northeastern University)<br/><br/>
+
+
+
+<h5><b>Friday, September 25</b></h5>
 
 <!-- <div class="table-responsive">
 <table class="table table-sm table-bordered">
@@ -87,10 +90,10 @@ Organizers: Catia Prandi (University of Bologna), Giovanni Pau (Sorbonne Univers
 </tr>
 </tbody>
 </table>
-</div>
+</div>-->
 
 
-<b><a href="https://nss.cs.nctu.edu.tw/wintech2019">13th International Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization (WiNTECH)</a></b><br/>
+<b><a href="https://nss.cs.nctu.edu.tw/wintech2019">FRUGALTHINGS 2020: 1th Workshop on Experiences with the Design and Implementation of Frugal Smart Objects</a></b><br/>
 Organizers: Yiannis Pefkianakis (Apple) and Kate Ching-Ju Lin (National Chiao Tung University, Taiwan)<br/><br/>
 
 <b><a href="https://mmnets.cs.gmu.edu/">3rd ACM Workshop on Millimeter-wave Networks and Sensing Systems (mmNets)</a></b><br/>
