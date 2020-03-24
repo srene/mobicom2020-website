@@ -53,10 +53,10 @@ Organizers: Stylianos I. Venieris (Samsung AI Center-Cambridge), Nic Lane (Samsu
 Organizers: Tommaso Melodia (Northeastern University), Arturo Azcorra (IMDEA), Stefano Basagni (Northeastern University)<br/><br/>
 
 <b><a href="http://www.grc.upv.es/frugalthings2020/">(Half day - Morning) 1th Workshop on Experiences with the Design and Implementation of Frugal Smart Objects (FRUGALTHINGS 2020) - <em>Research track</em></a></b><br/>
-Organizers: <a href="pmanzoni@disca.upv.es">Pietro Manzoni</a> (Universitat Politècnica de València), <a href="cpalazzi@math.unipd.it">Claudio E. Palazzi</a> (Università degli Studi di Padova)<br/><br/>
+Organizers: <a href="mailto:pmanzoni@disca.upv.es">Pietro Manzoni</a> (Universitat Politècnica de València), <a href="mailto:cpalazzi@math.unipd.it">Claudio E. Palazzi</a> (Università degli Studi di Padova)<br/><br/>
 
 <b><a href="https://aka.ms/hotedgevideo19">(Half day - Afternoon) Light up the IoT (LIoT 2020) - <em>Research track</em></a></b><br/>
-Organizers: <a href="daniele.puccinelli@supsi.ch">Daniele Puccinelli</a> (Institute for Information Systems and Networking), <a href="jrufo@lightbeecorp.com">Julio Rufo</a>  (LigthBee Visible Light Communication)<br/><br/>
+Organizers: <a href="mailto:daniele.puccinelli@supsi.ch">Daniele Puccinelli</a> (Institute for Information Systems and Networking), <a href="mailto:jrufo@lightbeecorp.com">Julio Rufo</a>  (LigthBee Visible Light Communication)<br/><br/>
 
 <b>(Half day - Afternoon) Tutorial: Towards Secure Data-Centric Mobile Communication</b><br/>
 Organizers: Tommaso Melodia (Northeastern University), Arturo Azcorra (IMDEA), Stefano Basagni (Northeastern University)<br/><br/>
@@ -65,18 +65,18 @@ Organizers: Tommaso Melodia (Northeastern University), Arturo Azcorra (IMDEA), S
 <h5><b>Friday, September 25</b></h5>
 
 <b>(Full day) Drone-Assisted Wireless Communications for 5G and Beyond (DroneCom) - <em>Research track</em></b><br/>
-Organizers: <a href="sahil.garg@ieee.org">Dr. Sahil Garg</a> (École de technologie supérieure, Montreal),
- <a href="fabrizio.granelli@unitn.it">Prof. Fabrizio Granelli</a> (University of Trento, Italy),
- <a href="hdhillon@vt.edu">Prof. Harpreet Dhillon</a> (Virginia Tech, Blacksburg),
- <a href="xingqin.lin@ericsson.com">Dr. Xingqin Lin</a> (Ericsson Research),
- <a href="song.guo@polyu.edu.hk">Prof. Song Guo</a> (The Hong Kong Polytechnic University)<br/><br/>
+Organizers: <a href="mailto:sahil.garg@ieee.org">Dr. Sahil Garg</a> (École de technologie supérieure, Montreal),
+ <a href="mailto:fabrizio.granelli@unitn.it">Prof. Fabrizio Granelli</a> (University of Trento, Italy),
+ <a href="mailto:hdhillon@vt.edu">Prof. Harpreet Dhillon</a> (Virginia Tech, Blacksburg),
+ <a href="mailto:xingqin.lin@ericsson.com">Dr. Xingqin Lin</a> (Ericsson Research),
+ <a href="mailto:song.guo@polyu.edu.hk">Prof. Song Guo</a> (The Hong Kong Polytechnic University)<br/><br/>
 
  <b><a href="http://www.cryblock.org">(Full day) Cryptocurrencies and Blockchains for Distributed Systems (CryBlock) - <em>Research track</em></a></b><br/>
  Organizers: Stefano Ferretti (University of Bologna), Gabriele D’Angelo (University of Bologna)<br/><br/>
 
 <b><a href="https://cpsbench20.ethz.ch">(Full day) The 3rd Workshop on Benchmarking Cyber-Physical Systems and Internet of Things (CPS_IoTBench) - <em>Experimental track</em></a></b><br/>
-Organizers: <a href="jacobr@ethz.ch">Romain Jacob</a> (ETH Zürich), <a href="ramona.marfievici@digicatapult.org.uk">Ramona Marfievici</a> (Digital Catapult)
-, <a href="marco.zimmerling@tu-dresden.de"> Marco Zimmerling (TU Dresden)<br/><br/>
+Organizers: <a href="mailto:jacobr@ethz.ch">Romain Jacob</a> (ETH Zürich), <a href="mailto:ramona.marfievici@digicatapult.org.uk">Ramona Marfievici</a> (Digital Catapult)
+, <a href="mailto:marco.zimmerling@tu-dresden.de"> Marco Zimmerling (TU Dresden)<br/><br/>
 
 <b><a href="http://www.netmode.ntua.gr/rebuild20/">(Full day) 5G Research, Business Applications, & Developments (5G-ReBuilD) - <em>Experimental track</em></a></b><br/>
 Organizers: Symeon Papavassiliou (NTUA), Vasileios Karyotis (Ionian Uni.), Haesik Kim(VTT)<br/><br/>
