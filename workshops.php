@@ -49,13 +49,14 @@ Organizers: Jianhua He (University of Essex), Aline Carneiro Viana (INRIA)<br/><
 <b><a href="http://emdl20.github.io/">(Full day) 4th International Workshop on Deep Learning for Mobile Systems and Applications (EMDL) - <em>Research track</em></a></b><br/>
 Organizers: Stylianos I. Venieris (Samsung AI Center-Cambridge), Nic Lane (Samsung AI Center-Cambridge, University of Oxford), Marco Gruteser (Google, Rutgers University), Koen Helwegen (Plumerai)<br/><br/>
 
-<b>(Full day) WINTECH - <em>Experimental track</em></b><br/>
+<b><a href="https://ece.northeastern.edu/wintech2020/">(Full day) 14th ACM Workshop on Wireless Network
+Testbeds, Experimental evaluation & CHaracterization (ACM WiNTECH 2020) - <em>Experimental track</em></a></b><br/>
 Organizers: Tommaso Melodia (Northeastern University), Arturo Azcorra (IMDEA), Stefano Basagni (Northeastern University)<br/><br/>
 
 <b><a href="http://www.grc.upv.es/frugalthings2020/">(Half day - Morning) 1th Workshop on Experiences with the Design and Implementation of Frugal Smart Objects (FRUGALTHINGS 2020) - <em>Research track</em></a></b><br/>
 Organizers: <a href="mailto:pmanzoni@disca.upv.es">Pietro Manzoni</a> (Universitat Politècnica de València), <a href="mailto:cpalazzi@math.unipd.it">Claudio E. Palazzi</a> (Università degli Studi di Padova)<br/><br/>
 
-<b><a href="https://aka.ms/hotedgevideo19">(Half day - Afternoon) Light up the IoT (LIoT 2020) - <em>Research track</em></a></b><br/>
+<b><a href="https://enlightem.eu/workshops/light_up_the_iot/">(Half day - Afternoon) Light up the IoT (LIoT 2020) - <em>Research track</em></a></b><br/>
 Organizers: <a href="mailto:daniele.puccinelli@supsi.ch">Daniele Puccinelli</a> (Institute for Information Systems and Networking), <a href="mailto:jrufo@lightbeecorp.com">Julio Rufo</a>  (LigthBee Visible Light Communication)<br/><br/>
 
 <b>(Half day - Afternoon) Tutorial: Towards Secure Data-Centric Mobile Communication</b><br/>
