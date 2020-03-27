@@ -61,10 +61,10 @@ Organizers: <a href="mailto:daniele.puccinelli@supsi.ch">Daniele Puccinelli</a> 
 
 <b>(Half day - Afternoon) Tutorial: Towards Secure Data-Centric Mobile Communication</b><br/>
 Organizers: <a href="mailto:aa@cs.fiu.edu">Alex Afanasyev</a> (Florida International University),
-<a href="mailto:giovanni.pau@unibo.it">Giovanni Pau (University of Bologna),
-<a href="mailto:lanwang@memphis.edu">Lan Wang (University of Memphis),
-<a href="mailto:paulo.mendes@airbus.com">Paulo Mendes (Airbus),
-<a href="mailto:lixia@cs.ucla.edu">Lixia Zhang (UCLA)<br/><br/>
+<a href="mailto:giovanni.pau@unibo.it">Giovanni Pau</a> (University of Bologna),
+<a href="mailto:lanwang@memphis.edu">Lan Wang</a> (University of Memphis),
+<a href="mailto:paulo.mendes@airbus.com">Paulo Mendes</a> (Airbus),
+<a href="mailto:lixia@cs.ucla.edu">Lixia Zhang (UCLA)</a><br/><br/>
 
 
 <h5><b>Friday, September 25</b></h5>
