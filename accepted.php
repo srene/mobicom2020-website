@@ -26,7 +26,7 @@
 <div class="pauthors">Authors: M. Rostami, K. Sundaresan, E. Chai, S. Rangarajan, D. Ganesan</div></li>
 <br/>
 
-<li><b>AR-based Person Identification in Crowded Urban Spaces</b> <!--<a href="http://web.mit.edu/arjunvb/pubs/bursttracker-mobicom19-paper.pdf">[Preprint]</a>--><br/>
+<li><b>Wearable Camera-based Person Identification in Crowded Urban Spaces</b> <!--<a href="http://web.mit.edu/arjunvb/pubs/bursttracker-mobicom19-paper.pdf">[Preprint]</a>--><br/>
 <div class="pauthors">Authors: J. Yi, S. Choi, Y. Lee</div></li>
 <br/>
 
