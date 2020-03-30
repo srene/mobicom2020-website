@@ -11,7 +11,7 @@
 
 <main>
 
-<h2 class="text-center">Call for Papers</h2>
+<!--<h2 class="text-center">Call for Papers</h2>-->
 </br>
 <style type="text/css">
  span.bold-red {
