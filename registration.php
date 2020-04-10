@@ -10,8 +10,16 @@
 <div class="spacing"></div>
 
 <main>
-
+<style type="text/css">
+ span.bold-red {
+    color: red;
+    font-weight: bold;
+    font-size: large;
+}
+</style>
 <h2 class="text-center">Registration & Hotel Reservations</h2>
+</br></br>
+<span class="bold-red">Please do not make any non-refundable travel plans to attend the conference. We will provide updates on MOBICOM 2020 in the coming months. Stay safe and healthy!</span>
 </br></br>
 <p>There is no designated “conference hotel” for MobiCom 2020. We have a variety of rooms at Imperial College. All conference attendees can make their bookings directly through Imperial’s reservation office <a href="https://www.imperial.ac.uk/visit/summer-accommodation/">https://www.imperial.ac.uk/visit/summer-accommodation/</a>, over the phone +44207 5949507 or email vacenquiries@imperial.ac.uk at the best available rates at the time of booking.
 
