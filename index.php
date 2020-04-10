@@ -20,7 +20,8 @@
     font-size: large;
 }
 </style>
-<span class="bold-red">Due to Coronavirus outbreak, submission deadline has been extended to March 21st for abstracts submissions and March 25th for papers submissions.</span>
+<!--<span class="bold-red">Due to Coronavirus outbreak, submission deadline has been extended to March 21st for abstracts submissions and March 25th for papers submissions.</span>-->
+<span class="bold-red">Dear SIGMOBILE community, there are currently significant statutory lockdowns/travel restrictions in-place in many parts of the world. It is unclear when the situation will return back to normal. We are closely monitoring the situation, and take everyone’s health and safety very seriously. Please do not make any non-refundable travel plans to attend the conference. We will provide updates on MOBICOM 2020 in the coming months. Stay safe and healthy!</span>
 </br></br>
 <p>
 ACM MobiCom 2020 is the twenty-sixth in a series
