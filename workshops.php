@@ -69,7 +69,7 @@ Organizers: <a href="mailto:aa@cs.fiu.edu">Alex Afanasyev</a> (Florida Internati
 
 <h5><b>Friday, September 25</b></h5>
 
-<b>(Full day) Drone-Assisted Wireless Communications for 5G and Beyond (DroneCom) - <em>Research track</em></b><br/>
+<b><a href="http://dronecom.info/"(Full day) Drone-Assisted Wireless Communications for 5G and Beyond (DroneCom) - <em>Research track</em></a></b><br/>
 Organizers: <a href="mailto:sahil.garg@ieee.org">Dr. Sahil Garg</a> (École de technologie supérieure, Montreal),
  <a href="mailto:fabrizio.granelli@unitn.it">Prof. Fabrizio Granelli</a> (University of Trento, Italy),
  <a href="mailto:hdhillon@vt.edu">Prof. Harpreet Dhillon</a> (Virginia Tech, Blacksburg),
