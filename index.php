@@ -21,7 +21,13 @@
 }
 </style>
 <!--<span class="bold-red">Due to Coronavirus outbreak, submission deadline has been extended to March 21st for abstracts submissions and March 25th for papers submissions.</span>-->
-<span class="bold-red">Dear SIGMOBILE community, there are currently significant statutory lockdowns/travel restrictions in-place in many parts of the world. It is unclear when the situation will return back to normal. We are closely monitoring the situation, and take everyone’s health and safety very seriously. Please do not make any non-refundable travel plans to attend the conference. We will provide updates on MOBICOM 2020 in the coming months. Stay safe and healthy!</span>
+<!--<span class="bold-red">Dear SIGMOBILE community, there are currently significant statutory lockdowns/travel restrictions in-place in many parts
+of the world. It is unclear when the situation will return back to normal. We are closely monitoring the situation, and take everyone’s health and safety very seriously.
+ Please do not make any non-refundable travel plans to attend the conference. We will provide updates on MOBICOM 2020 in the coming months.
+ Stay safe and healthy!</span>-->
+<span class="bold-red">Dear SIGMOBILE community: due to the still significant statutory lockdowns/travel restrictions in-place due to the coronavirus outbreak,
+ and since it is still unclear when the situation will return back to normal, the organizing committee has decided that MobiCom 2020 will be held as a
+ virtual (online) conference. We are going to announce more details of the virtual event soon. Stay safe and healthy!</span>
 </br></br>
 <p>
 ACM MobiCom 2020 is the twenty-sixth in a series
@@ -116,6 +122,7 @@ On-Site (Begins Oct 21st)<br/><br/>
 <li><b>March 2020</b> - Submission deadline extended to March 21st for abstracts and March 25th for papers.</li>
 <li><b>March 2020</b> - <a href="workshops.php">Workshops & Tutorials </a> announced.</li>
 <li><b>May 2020</b> - Workshop papers submission deadline extended to June 5th due to Covid-19 situation.</li>
+<li><b>May 2020</b> - Mobicom 2020 will be held as a virtual conference.</li>
 </ul>
 </div>
 
