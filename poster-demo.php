@@ -11,9 +11,48 @@
 
 <main>
 
-<h2 class="text-center">Call for Demos and Posters</h2>
-<center>TBC</center>
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<h2 class="text-center">Call for Demos </h2>
+<!--<center>TBC</center>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>-->
+The ACM MobiCom 2020 demo session solicits the submission of research, platform, and product demonstrations, and exhibits from both academia and industry.<br/><br/>
+
+Demonstrations should showcase innovative research or product prototypes, platforms, and applications in the areas of mobile computing and wireless and mobile networking. We strongly encourage demos based on novel applications in the domain of mobile computing and wireless systems. We also welcome live​ demos reproducing evaluation results of papers appearing in ACM Mobicom 2020 or past editions as well as other relevant venues. Please refer to the main conference introduction and CFP for the general areas that are relevant to the typical MobiCom audience.<br/><br/>
+
+The MobiCom 2020 Demo committee will review all submissions to select the accepted demos. <br/><br/>
+
+<h5><b>Submission instructions</b></h5>
+Please submit a proposal of your demo or exhibit at <a href="https://mobicom20demos.hotcrp.com">https://mobicom20demos.hotcrp.com</a>. It should be a summary or extended abstract describing the research to be presented, details about what will be actually shown to the audience, maximum 2 pages in US letter size (8.5 x 11 inches) with fonts no smaller than 10 point size, in PDF file format with one extra page for references.<br/><br/>
+
+<h5><b>Why should you submit a demo or exhibit?</b></h5>
+Presenting a demo is a great opportunity, especially for students and industry, to obtain valuable feedback on ongoing research from the knowledgeable crowd at the conference. Accepted demos will be posted on the conference website and published as a two-page abstract for the archived conference proceedings and the ACM digital library.<br/><br/>
+
+<h5><b>DEMO presentation</b></h5>
+For all accepted submissions, authors will be required to prepare a long video of the demo (5-10 mins), as well as a short pitch (1-2 mins) with a single slide support. The short version will be also presented during the days of the conference in a demo session followed by a Q&A and discussion session.<br/><br/>
+
+<h5><b>Important Dates:</b></h5>
+<div class="table-responsive">
+<table class="table table-striped table-sm">
+<tr>
+<th>Deadlines</th>
+<th>Dates</th>
+</tr>
+<tr>
+<td>Submission</td>
+<td>June 26th</td>
+</tr>
+<tr>
+<td>Notification of acceptance</td>
+<td>July 10th</td>
+<tr>
+<td>Camera-ready</td>
+<td>July 17th</td>
+</tr>
+</table>
+</div>
+
+
+
+
 <!--
 The MobiCom demo and poster sessions solicit the submission of research, platform, and product demonstrations and posters from both academia and industry.<br/><br/>
 

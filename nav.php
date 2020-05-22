@@ -48,7 +48,7 @@
         <a class="nav-link" href="mobijob.php">MobiJob</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="poster-demo.php">Posters & Demos</a>
+        <a class="nav-link" href="poster-demo.php">Demos</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="src.php">SRC</a>
