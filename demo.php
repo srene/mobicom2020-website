@@ -27,7 +27,7 @@ Please submit a proposal of your demo or exhibit at <a href="https://mobicom20de
 Presenting a demo is a great opportunity, especially for students and industry, to obtain valuable feedback on ongoing research from the knowledgeable crowd at the conference. Accepted demos will be posted on the conference website and published as a two-page abstract for the archived conference proceedings and the ACM digital library.<br/><br/>
 
 <h5><b>DEMO presentation</b></h5>
-For all accepted submissions, authors will be required to prepare a long video of the demo (5-10 mins), as well as a short pitch (1-2 mins) with a single slide support. The short version will be also presented during the days of the conference in a demo session followed by a Q&A and discussion session.<br/><br/>
+For all accepted submissions, authors will be required to prepare a long video of the demo (5-10 mins), as well as a short pitch (1-2 mins) with a single slide support. <!--The short version will be also presented during the days of the conference in a demo session followed by a Q&A and discussion session.--><br/><br/>
 
 <h5><b>Important Dates:</b></h5>
 <div class="table-responsive">
