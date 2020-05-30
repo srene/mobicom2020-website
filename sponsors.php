@@ -32,10 +32,10 @@
 </div>
 
 <div class="alert alert-primary">
-<b>Bronze Sponsor</b>
+<center><b>Bronze Sponsor</b></center>
 </div>
 
-<div class="container">
+<!--<div class="container">
 <div class="row d-flex flex-wrap align-items-center">
 <div class="col-md-4 sponsorcol2">
   <a href="https://www.cisco.com/c/en_in/index.html" target=_blank><img src="images/mobicom-logo/Cisco_Logo_RGB_Screen_Blue2925.png" alt="Cisco" class="nimage2"></a>
@@ -73,8 +73,8 @@
 <div class="negspacing">
 </div>
 
-<br/>
-<!00<div class="paragraphTitle">Bronze Sponsors</div>
+<br/>-->
+<!--<div class="paragraphTitle">Bronze Sponsors</div>-->
 <div class="spacing"></div>
     <a href="https://www.cisco.com/c/en_in/index.html" target=_blank><img src="images/mobicom-logo/Cisco_Logo_RGB_Screen_Blue2925.png" alt="Cisco" height="90"></a>
 <div class="spacing"></div>
