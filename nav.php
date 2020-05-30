@@ -41,9 +41,9 @@
       <li class="nav-item">
         <a class="nav-link" href="venue.php">Venue</a>
       </li>
-      <li class="nav-item">
+      <!--<li class="nav-item">
         <a class="nav-link" href="registration.php">Registration & Hotel Reservations</a>
-      </li>
+      </li>-->
       <li class="nav-item">
         <a class="nav-link" href="mobijob.php">MobiJob</a>
       </li>
