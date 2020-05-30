@@ -75,13 +75,20 @@
 
 <br/>-->
 <!--<div class="paragraphTitle">Bronze Sponsors</div>-->
+<style>
+div {text-align: center;}</style>
 <div class="spacing"></div>
-    <a href="https://www.cisco.com/c/en_in/index.html" target=_blank><img src="images/mobicom-logo/Cisco_Logo_RGB_Screen_Blue2925.png" alt="Cisco" height="90"></a>
+<a href="https://www.cisco.com/c/en_in/index.html" target=_blank><img src="images/mobicom-logo/Cisco_Logo_RGB_Screen_Blue2925.png" alt="Cisco" height="90"></a>
 <div class="spacing"></div>
+</br>
     <a href="https://research.microsoft.com" target=_blank><img src="images/mobicom-logo/Microsoft-Logo.png" alt="Microsoft Research" height="50"></a>
     <div class="spacing"></div>
+  </br>
+
     <a href="http://www.google.com/" target=_blank><img src="images/mobicom-logo/Google Logo.png" alt="Google" height="100"></a>
 <div class="spacing"></div>
+</br>
+
     <a href="https://www.vodafone.com/" target=_blank><img src="images/mobicom-logo/New_VF_Logo_Stack_Large_RGB_RED.png" alt="Vodafone" height="100"></a>
 <!--<div class="paragraphTitle">Conference WiFi Partner</div>
 <div class="spacing"></div>
