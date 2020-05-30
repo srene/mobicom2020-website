@@ -221,7 +221,7 @@ All accepted regular papers will be considered for the <b>Best Paper Awards</b>.
 The authors of each accepted paper will be asked to submit a one-minute video to introduce the research presented in their paper to the general public. These videos will be placed on the conference website up to two weeks before the conference, and will be played during the conference. A selected set will be featured by the social media channels related to the conference.
 <br/><br/>
 <h5><b>Important Dates</b></h5>
-<?php require_once('dates.php'); ?>
+
 
 <h5><b>Important Notes</b></h5>
 All submissions must describe original research not published or currently under review for another conference or journal. It is ACM policy (<a href="http://www.acm.org/publications/policies/copyright_policy">ACM Author Rights and Publishing Policy</a>, <a href="https://www.acm.org/publications/policies/simultaneous-submissions"> Prior Publication and Simultaneous Submissions</a>) not to allow double submissions, where the same paper is submitted to more than one conference/journal concurrently. Any double submissions detected will be immediately rejected from all conferences/journals involved.

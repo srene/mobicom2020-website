@@ -28,23 +28,15 @@
 </tr>
 </table>-->
 
-<div class="paragraphTitle">Sponsors</div>
-<table class='sponsor'>
-<tr>
-<td width="200" align=center>
+<div class="paragraphTitle">Bronze Sponsors</div>
+<div class="spacing"></div>
     <a href="https://www.cisco.com/c/en_in/index.html" target=_blank><img src="images/mobicom-logo/Cisco_Logo_RGB_Screen_Blue2925.png" alt="Cisco" height="90"></a>
-</td>
-<td width="200" align=center>
+<div class="spacing"></div>
     <a href="https://research.microsoft.com" target=_blank><img src="images/mobicom-logo/Microsoft-Logo.png" alt="Microsoft Research" height="50"></a>
-</td>
-<td width="200" align=center>
+    <div class="spacing"></div>
     <a href="http://www.google.com/" target=_blank><img src="images/mobicom-logo/Google Logo.png" alt="Google" height="100"></a>
-</td>
-</tr>
-<td width="200" align=center>
+<div class="spacing"></div>
     <a href="https://www.vodafone.com/" target=_blank><img src="images/mobicom-logo/New_VF_Logo_Stack_Large_RGB_RED.png" alt="Vodafone" height="100"></a>
-</td>
-</tr>
 <!--<div class="paragraphTitle">Conference WiFi Partner</div>
 <div class="spacing"></div>
 <a href="https://www.mojonetworks.com/" target=_blank><img src="images/sponsors/mojo.png" alt="Mojo Networks" height="35"></a>
