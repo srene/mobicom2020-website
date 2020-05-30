@@ -75,7 +75,7 @@
 
 <tr class="stripe">
 <td class="ocTableTitle" rowspan="2"><b>Sponsorship Co-Chairs</b></td>
-<td class="ocTablePerson"><a href="https://nms.kcl.ac.uk/nishanth.sastry/">Nishanth Sastry</a> - King’s College London</td>
+<td class="ocTablePerson"><a href="https://nms.kcl.ac.uk/nishanth.sastry/">Nishanth Sastry</a> - University of Surrey</td>
 </tr>
 
 <tr class="stripe">

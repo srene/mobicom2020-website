@@ -123,6 +123,7 @@ On-Site (Begins Oct 21st)<br/><br/>
 <li><b>March 2020</b> - <a href="workshops.php">Workshops & Tutorials </a> announced.</li>
 <li><b>May 2020</b> - Workshop papers submission deadline extended to June 5th due to Covid-19 situation.</li>
 <li><b>May 2020</b> - Mobicom 2020 will be held as a virtual conference.</li>
+<li><b>May 2020</b> - <a href="demo.php">Call for demos</a> is up.</li>
 </ul>
 </div>
 

@@ -14,7 +14,7 @@
 <h2 class="text-center">Sponsorships</h2>
 
 Become a MobiCom 2020 sponsor and your organization can reach a highly qualified technical audience of academics, industrial researchers, engineers, and students. MobiCom is the premier conference for mobile and wireless networking research and technology development. By sponsoring MobiCom, you are able to increase visibility and product awareness among the people who are the most knowledgeable and passionate about your products. Please contact the MobiCom 2020 Sponsorship Chairs,
- Nishanth Sastry (nishanth.sastry __at__ kcl.ac.uk) and Pan Hui (panhui __at__ cs.helsinki.fi) to initiate your sponsorship, or for any additional information.
+ Nishanth Sastry (n.sastry __at__ surrey.ac.uk) and Pan Hui (panhui __at__ cs.helsinki.fi) to initiate your sponsorship, or for any additional information.
 
 All sponsors will receive recognition of their level of contribution in print, on the web, in registration brochures, in the conference program, and during opening and closing of the conference. Additional prominence and access are available at the following sponsorship levels:
 
