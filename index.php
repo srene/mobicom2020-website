@@ -128,7 +128,7 @@ On-Site (Begins Oct 21st)<br/><br/>
 
 </br>
 
-<!-- <?php require_once('sponsors.php'); ?> -->
+ <?php require_once('sponsors.php'); ?> 
 
 <h2 class="text-center">Call for Papers</h2>
 
