@@ -35,7 +35,7 @@
     <a href="https://www.cisco.com/c/en_in/index.html" target=_blank><img src="images/mobicom-logo/Cisco_Logo_RGB_Screen_Blue2925.png" alt="Cisco" height="90"></a>
 </td>
 <td width="200" align=center>
-    <a href="https://research.microsoft.com" target=_blank><img src="images/mobicom-logo/Microsoft Logo.pn" alt="Microsoft Research" height="50"></a>
+    <a href="https://research.microsoft.com" target=_blank><img src="images/mobicom-logo/Microsoft-Logo.png" alt="Microsoft Research" height="50"></a>
 </td>
 <td width="200" align=center>
     <a href="http://www.google.com/" target=_blank><img src="images/mobicom-logo/Google Logo.png" alt="Google" height="100"></a>
