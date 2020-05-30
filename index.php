@@ -128,9 +128,9 @@ On-Site (Begins Oct 21st)<br/><br/>
 
 </br>
 
- <?php require_once('sponsors.php'); ?> 
+ <?php require_once('sponsors.php'); ?>
 
-<h2 class="text-center">Call for Papers</h2>
+<!--<h2 class="text-center">Call for Papers</h2>
 
 The ACM MobiCom conference seeks papers describing significant research contributions in the field of wireless networking and mobile computing. MobiCom solicits papers that address important research challenges, including but not limited to communication networks, energy, computing, security and user experience. Successful papers should propose novel ideas to attack such problems through rigorous analysis, system design, and/or real-world measurement and deployment of mobile networks, systems and applications.
 <br/><br/>
@@ -229,7 +229,7 @@ All submissions must describe original research not published or currently under
 Submissions will be kept confidential until accepted. Rejected submissions will be kept confidential permanently.
 <br/><br/>
 In case of any similarity between a current Mobicom submission and another ongoing submission on a different conference, please email a detailed list of differences and if possible a copy of a previous submission to the chairs.
-<br/><br/>
+<br/><br/>-->
 
 </center>
 </main>
