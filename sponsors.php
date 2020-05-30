@@ -34,62 +34,13 @@
 <div class="alert alert-primary">
 <center><b>Bronze Sponsor</b></center>
 </div>
-
-<!--<div class="container">
-<div class="row d-flex flex-wrap align-items-center">
-<div class="col-md-4 sponsorcol2">
-  <a href="https://www.cisco.com/c/en_in/index.html" target=_blank><img src="images/mobicom-logo/Cisco_Logo_RGB_Screen_Blue2925.png" alt="Cisco" class="nimage2"></a>
-</div>
-
-<div class="col-md-4 sponsorcol1">
-  <a href="https://research.microsoft.com" target=_blank><img src="images/mobicom-logo/Microsoft-Logo.png" alt="Microsoft Research" class="nimage2"></a>
-
-</div>
-</div>
-</div>
-
-<div class="negspacing">
-</div>
-
-<br/>
-
-<div class="container">
-<div class="row d-flex flex-wrap align-items-center">
-<div class="col-md-4 sponsorcol1">
-<a href="https://www.hp.com/" target=_blank>
-  <a href="http://www.google.com/" target=_blank><img src="images/mobicom-logo/Google Logo.png" alt="Google" class="nimage2""></a>
-
-</div>
-
-<div class="col-md-4 sponsorcol2">
-  <a href="https://www.vodafone.com/" target=_blank><img src="images/mobicom-logo/New_VF_Logo_Stack_Large_RGB_RED.png" alt="Vodafone" class="nimage2"></a>
-
-</div>
-
-
-</div>
-</div>
-
-<div class="negspacing">
-</div>
-
-<br/>-->
-<!--<div class="paragraphTitle">Bronze Sponsors</div>-->
-<style>
-div.layout {text-align: center;}</style>
-<div class="layout"></div>
-<a href="https://www.cisco.com/c/en_in/index.html" target=_blank><img src="images/mobicom-logo/Cisco_Logo_RGB_Screen_Blue2925.png" alt="Cisco" height="90"></a>
-<div class="layout"></div>
+<center><a href="https://www.cisco.com/c/en_in/index.html" target=_blank><img src="images/mobicom-logo/Cisco_Logo_RGB_Screen_Blue2925.png" alt="Cisco" height="90"></a></center>
 </br>
-    <a href="https://research.microsoft.com" target=_blank><img src="images/mobicom-logo/Microsoft-Logo.png" alt="Microsoft Research" height="50"></a>
-    <div class="layout"></div>
-  </br>
-
-    <a href="http://www.google.com/" target=_blank><img src="images/mobicom-logo/Google Logo.png" alt="Google" height="100"></a>
-<div class="layout"></div>
+<center><a href="https://research.microsoft.com" target=_blank><img src="images/mobicom-logo/Microsoft-Logo.png" alt="Microsoft Research" height="50"></a></center>
 </br>
-
-    <a href="https://www.vodafone.com/" target=_blank><img src="images/mobicom-logo/New_VF_Logo_Stack_Large_RGB_RED.png" alt="Vodafone" height="100"></a>
+<center><a href="http://www.google.com/" target=_blank><img src="images/mobicom-logo/Google Logo.png" alt="Google" height="100"></a></center>
+</br>
+<center><a href="https://www.vodafone.com/" target=_blank><img src="images/mobicom-logo/New_VF_Logo_Stack_Large_RGB_RED.png" alt="Vodafone" height="100"></a></center>
 <!--<div class="paragraphTitle">Conference WiFi Partner</div>
 <div class="spacing"></div>
 <a href="https://www.mojonetworks.com/" target=_blank><img src="images/sponsors/mojo.png" alt="Mojo Networks" height="35"></a>
