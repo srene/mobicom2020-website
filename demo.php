@@ -22,12 +22,13 @@ The MobiCom 2020 Demo committee will review all submissions to select the accept
 
 <h5><b>Submission instructions</b></h5>
 Please submit a proposal of your demo or exhibit at <a href="https://mobicom20demos.hotcrp.com">https://mobicom20demos.hotcrp.com</a>. It should be a summary or extended abstract describing the research to be presented, details about what will be actually shown to the audience, maximum 2 pages in US letter size (8.5 x 11 inches) with fonts no smaller than 10 point size, in PDF file format with one extra page for references.<br/><br/>
-
+The submission should indicate whether you would like the submission to be considered for the Student Research Competition and, if this is the case, indicate whether any of the student authors is an undergraduate student.<br/><br/>
 <h5><b>Why should you submit a demo or exhibit?</b></h5>
 Presenting a demo is a great opportunity, especially for students and industry, to obtain valuable feedback on ongoing research from the knowledgeable crowd at the conference. Accepted demos will be posted on the conference website and published as a two-page abstract for the archived conference proceedings and the ACM digital library.<br/><br/>
 
 <h5><b>DEMO presentation</b></h5>
-For all accepted submissions, authors will be required to prepare a long video of the demo (5-10 mins), as well as a short pitch (1-2 mins) with a single slide support. <!--The short version will be also presented during the days of the conference in a demo session followed by a Q&A and discussion session.--><br/><br/>
+For all accepted submissions, authors will be required to prepare a long video of the demo (5-10 mins), as well as a short pitch (1 mins) with a single slide support. The short version will be also presented during the days of the conference in a virtual demo session followed by a Q&A and discussion session.
+<br/><br/>
 
 <h5><b>Important Dates:</b></h5>
 <div class="table-responsive">
@@ -38,21 +39,70 @@ For all accepted submissions, authors will be required to prepare a long video o
 </tr>
 <tr>
 <td>Submission</td>
-<td>June 26th</td>
+<td>July 6th</td>
 </tr>
 <tr>
 <td>Notification of acceptance</td>
-<td>July 10th</td>
+<td>July 23th</td>
 <tr>
 <td>Camera-ready</td>
-<td>July 17th</td>
+<td>July 31st</td>
 </tr>
 </table>
 </div>
 
 
-
-
+<h5><b>TPC</b></h5>
+<table class='table-striped table-sm table-responsive pctable'>
+<tr>
+<td align="left" width="30%"><a href="">Diego Perino</a></td>
+<td align="left" width="50%"">Telefonica Research (co-chair)</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Narseo Vallina-Rodriguez</a></td>
+<td align="left" width="50%"">IMDEA Networks (co-chair)</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Andra Lutu</a></td>
+<td align="left" width="50%"">Telefonica Research</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Aruna Balasubramanian</a></td>
+<td align="left" width="50%"">Stony Brook University</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Claudia Campolo</a></td>
+<td align="left" width="50%"">University “Mediterranea” of Reggio Calabria</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">David Choffnes</a></td>
+<td align="left" width="50%"">Northeastern University</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Ella Peltonen</a></td>
+<td align="left" width="50%"">University of Oulu</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Florian Wamser</a></td>
+<td align="left" width="50%"">University of Würzburg </td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Ozgu Alay</a></td>
+<td align="left" width="50%"">University of Oslo/Simula</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Pan Hui</a></td>
+<td align="left" width="50%"">HKUST</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Roberto Calvo</a></td>
+<td align="left" width="50%"">IMDEA Networks</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Suranga Seneviratne</a></td>
+<td align="left" width="50%"">The University of Sydney</td>
+</tr>
+</table>
 <!--
 The MobiCom demo and poster sessions solicit the submission of research, platform, and product demonstrations and posters from both academia and industry.<br/><br/>
 
