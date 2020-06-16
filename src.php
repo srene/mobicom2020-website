@@ -22,7 +22,7 @@ ACM MobiCom 2020 will host a virtual <a href="https://src.acm.org/">ACM Student 
 <li>SRC has two categories - <b><em>Graduate Research</em></b> and <b><em>Undergraduate Research</em></b>:
 <ul>
 <li><b><em>Graduate Research</em></b>: Entries in the graduate category are open to Masters or PhD candidates. Only individual research contributions are eligible for SRC. Multi-author submissions are allowed but students should be prepared to present (and will be evaluated on) their own contribution to the project.</li>
-<li>b><em>Undergraduate Research</em></b>: Team projects are accepted from undergraduate students. The team must designate one of the undergraduate authors for presentation at the conference.</li>
+<li><b><em>Undergraduate Research</em></b>: Team projects are accepted from undergraduate students. The team must designate one of the undergraduate authors for presentation at the conference.</li>
 </ul>
 <li>Participants must be currently enrolled in a university.</li>
 <li>Valid ACM student membership is required for the designated student presenter.</li>
