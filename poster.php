@@ -14,8 +14,8 @@
 <h2 class="text-center">Call for Posters</h2>
 <!--<center>TBC</center>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>-->
-Following the long tradition of poster presentations, ACM MobiCom 2020 solicits submissions for Posters Program that feature early research work and preliminary results. The MobiCom 2020 Poster Session will provide an excellent opportunity for initial feedback on your early research results and give your ongoing projects early visibility. The presenters are strongly encouraged to include their poster submission in the <a href="https://sigmobile.org/mobicom/2020/src.php">ACM MobiCom Student Research Competition</a>.<br/><br/>
-Posters are solicited in all areas of mobile computing and wireless networking. Particular areas of interest include, but are not limited to:
+Following the long tradition of poster presentations, ACM MobiCom 2020 solicits submissions for the <b>Virtual Posters Program</b> that feature early research work and preliminary results. The MobiCom 2020 Poster Session will provide an excellent opportunity for initial feedback on your early research results and give your ongoing projects early visibility. The presenters are strongly encouraged to include their poster submission in the <a href="https://sigmobile.org/mobicom/2020/src.php">ACM MobiCom Student Research Competition</a>.<br/><br/>
+We invite submissions on a wide range of mobile computing and wireless networking research, including but not limited to:
 <ul style="text-align:left">
 <li>Fundamental understanding of mobile computing and wireless networking</li>
 <li>Applications of machine learning to mobile/wireless research</li>
@@ -45,9 +45,7 @@ Posters are solicited in all areas of mobile computing and wireless networking. 
 
 <h5><b>Poster Submission instructions</b></h5>
 The posters should be submitted via hotCRP: <a href="https://mobicom20posters.hotcrp.com/">https://mobicom20posters.hotcrp.com/</a></br></br>
-
-The submission should be formatted as a paper or extended abstract, describing the research to be presented in the poster and should be submitted as a PDF file of at most 3 pages, including all figures and references.
-Paper text blocks must follow ACM guidelines: double-column US letter size of 8.5 x 11 inches with fonts no smaller than 10 point size. The extended abstract must include the authors' names, affiliations, and email addresses. Any submission should include the following:
+The submission should be formatted as a paper or extended abstract, describing the research to be presented in the poster and should be submitted as a PDF file of at most 3 pages, including all figures and references. Paper text blocks must follow ACM guidelines: double-column US letter size of 8.5 x 11 inches with fonts no smaller than 10 point size. The extended abstract must include the authors' names, affiliations, and email addresses. Any submission should include also the following:
 <ul style="text-align:left">
 <li>Whether you would like the submission to be considered for the Student Research Competition</li>
 <li>If you would like your submission to be considered for the SRC, there is the additional need to indicate whether any of the student authors is an undergraduate student. Note that if any of the authors is a graduate student, then the submission will be considered under the graduate category</li>
@@ -59,7 +57,7 @@ We will organize a <b><em>virtual poster session</em></b> as part of the confere
 For each of the selected submissions for the poster session, we ask you to prepare the following:
 <ul style="text-align:left">
 <li>A pre-recorded 1-minute presentation to be played during the poster session (part of the conference program); we will organize a live chat channel (e.g., using Slack), where the authors can receive questions and engage in discussions with the attendees.</li>
-<li>A pre-recorded video of maximum 5 minutes explaining the poster at length, to be available offline on the conference webpage.</li>
+<li>A pre-recorded video of maximum 5 minutes explaining the poster at length, to be available offline on the conference webpage. This is mandatory for all poster, and specifically for those submissions entering in the SRC.</li>
 </ul>
 
 
