@@ -16,6 +16,7 @@
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>-->
 <h5><b>The ACM Student Research Competition (SRC)</b></h5>
 ACM MobiCom 2020 will host a virtual <a href="https://src.acm.org/">ACM Student Research Competition (SRC)</a> alongside the Posters and Demos Program. SRC offers graduate and undergraduate students an opportunity to present their original research, and rewards outstanding student research. It aims to give students an opportunity to meet with conference attendees and distinguished researchers to receive feedback on their research. Although this year Mobicom will be held virtually, we are committed to ensure students the opportunity to (virtually) interact with conference attendees via chat channels during the entire conference and also during the virtual poster/demo sessions.
+<br/><br/>
 <h5><b>Guidelines</b></h5>
 <ul>
 <li>SRC has two categories - <b><em>Graduate Research</em></b> and <b><em>Undergraduate Research</em></b>:
@@ -48,9 +49,9 @@ The ACM is proud to have Microsoft as its Student Research Competition sponsor.<
 <br/>
 
 <h5><b>Contact</b></h5>
-For further questions, please contact the SRC co-chair:
+For further questions, please contact the SRC co-chair:<br/>
 
-Andra Lutu (andra.lutu _at_ telefonica.com)
+Andra Lutu (andra.lutu _at_ telefonica.com)<br/>
 
 Giovanni Pau (giovanni.pau _at_ unibo.it)
 
