@@ -51,7 +51,7 @@
         <a class="nav-link" href="demo.php">Demos</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="posters.php">Posters</a>
+        <a class="nav-link" href="poster.php">Posters</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="src.php">SRC</a>
