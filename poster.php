@@ -61,7 +61,7 @@ For each of the selected submissions for the poster session, we ask you to prepa
 <li>A pre-recorded 1-minute presentation to be played during the poster session (part of the conference program); we will organize a live chat channel (e.g., using Slack), where the authors can receive questions and engage in discussions with the attendees.</li>
 <li>A pre-recorded video of maximum 5 minutes explaining the poster at length, to be available offline on the conference webpage.</li>
 </ul>
-<br/><br/>
+
 
 <h5><b>Important Dates:</b></h5>
 <div class="table-responsive">
@@ -83,7 +83,7 @@ For each of the selected submissions for the poster session, we ask you to prepa
 </tr>
 </table>
 </div>
-<br/><br/>
+
 <h5><b>Contact</b></h5>
 For further questions, please contact the Poster co-chairs:<br/>
 
