@@ -42,7 +42,7 @@ Posters are solicited in all areas of mobile computing and wireless networking. 
 <li>Experimental large-scale testbeds for mobile networks</li>
 <li>Performance evaluation of mobile networks, protocols, and systems</li>
 </ul>
-
+<br/><br/>
 <h5><b>Poster Submission instructions</b></h5>
 The posters should be submitted via hotCRP: <a href="https://mobicom20posters.hotcrp.com/">https://mobicom20posters.hotcrp.com/</a></br></br>
 
@@ -52,9 +52,9 @@ Paper text blocks must follow ACM guidelines: double-column US letter size of 8.
 <li>Whether you would like the submission to be considered for the Student Research Competition</li>
 <li>If you would like your submission to be considered for the SRC, there is the additional need to indicate whether any of the student authors is an undergraduate student. Note that if any of the authors is a graduate student, then the submission will be considered under the graduate category</li>
 </ul>
-</br></br>
+<br/><br/>
 All poster submissions will be reviewed by the Posters committee. If your submission is selected for the Poster Session, you should follow the recommendations to prepare and produce your “virtual poster”.  Once your poster is accepted, we will include the abstract of your poster on the conference website and publish it in the main proceedings and the ACM digital library.
-</br></br>
+<br/><br/>
 <h5><b>Virtual Poster Session Instructions</b></h5>
 We will organize a <b><em>virtual poster session</em></b> as part of the conference program.
 For each of the selected submissions for the poster session, we ask you to prepare the following:
@@ -62,7 +62,7 @@ ul style="text-align:left">
 <li>A pre-recorded 1-minute presentation to be played during the poster session (part of the conference program); we will organize a live chat channel (e.g., using Slack), where the authors can receive questions and engage in discussions with the attendees.</li>
 <li>A pre-recorded video of maximum 5 minutes explaining the poster at length, to be available offline on the conference webpage.</li>
 </ul>
-</br></br>
+<br/><br/>
 
 <h5><b>Important Dates:</b></h5>
 <div class="table-responsive">
@@ -84,10 +84,12 @@ ul style="text-align:left">
 </tr>
 </table>
 </div>
-</br></br>
+<br/><br/>
 <h5><b>Contact</b></h5>
 For further questions, please contact the Poster co-chairs:
+
 Giovanni Pau (giovanni.pau _at_ unibo.it)
+
 Andra Lutu (andra.lutu _at_ telefonica.com)
 
 
