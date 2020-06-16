@@ -50,9 +50,9 @@ For all accepted submissions, authors will be required to prepare a long video o
 </tr>
 </table>
 </div>
+</br>
 
-
-<h5><b>TPC</b></h5>
+<h5 class="text-center"><b>TPC</b></h5>
 <table class='table-striped table-sm table-responsive pctable'>
 <tr>
 <td align="left" width="30%"><a href="">Diego Perino</a></td>
