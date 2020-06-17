@@ -32,11 +32,11 @@
       <li class="nav-item">
         <a class="nav-link" href="camera.php">Camera-Ready</a>
       </li>
-      <li class="nav-item">
+      <!--<li class="nav-item">
         <a class="nav-link" href="travel.php">Travel</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="location.php">Location & Activities</a>
+        <a class="nav-link" href="location.php">Location & Activities</a>-->
       </li>
       <li class="nav-item">
         <a class="nav-link" href="venue.php">Venue</a>
@@ -62,9 +62,9 @@
       <li class="nav-item">
         <a class="nav-link" href="n2women.php">N2Women</a>
       </li>
-      <li class="nav-item">
+      <!--<li class="nav-item">
         <a class="nav-link" href="travelgrant.php">Travel Grant</a>
-      </li>
+      </li>-->
       <li class="nav-item">
         <a class="nav-link" href="sponsorships.php">Sponsorships</a>
       </li>
