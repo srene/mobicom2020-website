@@ -70,14 +70,14 @@ For each of the selected submissions for the poster session, we ask you to prepa
 </tr>
 <tr>
 <td>Poster Submission Deadline</td>
-<td>July 6th</td>
+<td>July 15th</td>
 </tr>
 <tr>
 <td>Notification</td>
-<td>July 23th</td>
+<td>August 7th</td>
 <tr>
 <td>Camera-ready</td>
-<td>July 31st</td>
+<td>August 14th</td>
 </tr>
 </table>
 </div>
@@ -89,7 +89,73 @@ Giovanni Pau (giovanni.pau _at_ unibo.it)<br/>
 
 Andra Lutu (andra.lutu _at_ telefonica.com)<br/>
 
-
+<h5 class="text-center"><b>TPC</b></h5>
+<table class='table-striped table-sm table-responsive pctable'>
+<tr>
+<td align="left" width="30%"><a href="">Aaron Yi Ding</a></td>
+<td align="left" width="50%"">TU Delft</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Ana Aguiar</a></td>
+<td align="left" width="50%"">University of Porto</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Andres Garcia Saavedra</a></td>
+<td align="left" width="50%"">Andres Garcia Saavedra</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Anna Maria Mandalari</a></td>
+<td align="left" width="50%"">Imperial College London</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Aravindh Raman</a></td>
+<td align="left" width="50%"">Kings College London</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Catia Prandi</a></td>
+<td align="left" width="50%"">University of Bologna</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Diego Perino</a></td>
+<td align="left" width="50%"">Telefonica Research</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Francesco Bronzino</a></td>
+<td align="left" width="50%"">Nokia Bell Labs</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Luca Cominardi</a></td>
+<td align="left" width="50%"">ADLINK Technology</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Marco Gramaglia</a></td>
+<td align="left" width="50%"">Delft University of Technology</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Ozgu Alay</a></td>
+<td align="left" width="50%"">University of Oslo/Simula</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Qing Wang</a></td>
+<td align="left" width="50%"">Delft University of Technology</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Roberto Girau</a></td>
+<td align="left" width="50%"">University of Cagliari</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Shuban Jain</a></td>
+<td align="left" width="50%"">ODU</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Simone Ferlin</a></td>
+<td align="left" width="50%"">Ericsson Sweden</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Yuanchao Shu</a></td>
+<td align="left" width="50%"">Microsoft</td>
+</tr>
+</table>
 
 
 <!--
