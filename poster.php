@@ -87,7 +87,7 @@ For further questions, please contact the Poster co-chairs:<br/>
 
 Giovanni Pau (giovanni.pau _at_ unibo.it)<br/>
 
-Andra Lutu (andra.lutu _at_ telefonica.com)<br/>
+Andra Lutu (andra.lutu _at_ telefonica.com)<br/><br/>
 
 <h5 class="text-center"><b>TPC</b></h5>
 <table class='table-striped table-sm table-responsive pctable'>
@@ -101,7 +101,7 @@ Andra Lutu (andra.lutu _at_ telefonica.com)<br/>
 </tr>
 <tr>
 <td align="left" width="30%"><a href="">Andres Garcia Saavedra</a></td>
-<td align="left" width="50%"">Andres Garcia Saavedra</td>
+<td align="left" width="50%"">NEC Labs Europe</td>
 </tr>
 <tr>
 <td align="left" width="30%"><a href="">Anna Maria Mandalari</a></td>
@@ -129,7 +129,7 @@ Andra Lutu (andra.lutu _at_ telefonica.com)<br/>
 </tr>
 <tr>
 <td align="left" width="30%"><a href="">Marco Gramaglia</a></td>
-<td align="left" width="50%"">Delft University of Technology</td>
+<td align="left" width="50%"">Universidad Carlos III de Madrid</td>
 </tr>
 <tr>
 <td align="left" width="30%"><a href="">Ozgu Alay</a></td>
