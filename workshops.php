@@ -83,8 +83,8 @@ Organizers: <a href="mailto:sahil.garg@ieee.org">Dr. Sahil Garg</a> (École de t
 Organizers: <a href="mailto:jacobr@ethz.ch">Romain Jacob</a> (ETH Zürich), <a href="mailto:ramona.marfievici@digicatapult.org.uk">Ramona Marfievici</a> (Digital Catapult)
 , <a href="mailto:marco.zimmerling@tu-dresden.de"> Marco Zimmerling (TU Dresden)<br/><br/>
 
-<b><a href="http://www.netmode.ntua.gr/rebuild20/">(Full day) 5G Research, Business Applications, & Developments (5G-ReBuilD) - <em>Experimental track</em></a></b><br/>
-Organizers: Symeon Papavassiliou (NTUA), Vasileios Karyotis (Ionian Uni.), Haesik Kim(VTT)<br/><br/>
+<!--<b><a href="http://www.netmode.ntua.gr/rebuild20/">(Full day) 5G Research, Business Applications, & Developments (5G-ReBuilD) - <em>Experimental track</em></a></b><br/>
+Organizers: Symeon Papavassiliou (NTUA), Vasileios Karyotis (Ionian Uni.), Haesik Kim(VTT)<br/><br/>-->
 
 <b><a href="https://mmnets.cse.sc.edu/">(Half day - Morning) Millimeter-Wave Networks and Sensing Systems (mmNets 2020) - <em>Research track</em></a></b><br/>
 Organizers: Sanjib Sur (U Southern Carolina), Marina Petrova (KTH)<br/><br/>

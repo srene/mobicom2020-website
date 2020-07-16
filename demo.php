@@ -39,14 +39,14 @@ For all accepted submissions, authors will be required to prepare a long video o
 </tr>
 <tr>
 <td>Submission</td>
-<td>July 6th</td>
+<td>July 13th</td>
 </tr>
 <tr>
 <td>Notification of acceptance</td>
-<td>July 23th</td>
+<td>July 30th</td>
 <tr>
 <td>Camera-ready</td>
-<td>July 31st</td>
+<td>August 7th</td>
 </tr>
 </table>
 </div>
