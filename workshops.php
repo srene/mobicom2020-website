@@ -59,12 +59,12 @@ Organizers: <a href="mailto:pmanzoni@disca.upv.es">Pietro Manzoni</a> (Universit
 <b><a href="https://enlightem.eu/workshops/light_up_the_iot/">(Half day - Afternoon) Light up the IoT (LIoT 2020) - <em>Research track</em></a></b><br/>
 Organizers: <a href="mailto:daniele.puccinelli@supsi.ch">Daniele Puccinelli</a> (Institute for Information Systems and Networking), <a href="mailto:jrufo@lightbeecorp.com">Julio Rufo</a>  (LigthBee Visible Light Communication)<br/><br/>
 
-<b>(Half day - Afternoon) Tutorial: Towards Secure Data-Centric Mobile Communication</b><br/>
+<!--<b>(Half day - Afternoon) Tutorial: Towards Secure Data-Centric Mobile Communication</b><br/>
 Organizers: <a href="mailto:aa@cs.fiu.edu">Alex Afanasyev</a> (Florida International University),
 <a href="mailto:giovanni.pau@unibo.it">Giovanni Pau</a> (University of Bologna),
 <a href="mailto:lanwang@memphis.edu">Lan Wang</a> (University of Memphis),
 <a href="mailto:paulo.mendes@airbus.com">Paulo Mendes</a> (Airbus),
-<a href="mailto:lixia@cs.ucla.edu">Lixia Zhang (UCLA)</a><br/><br/>
+<a href="mailto:lixia@cs.ucla.edu">Lixia Zhang (UCLA)</a><br/><br/>-->
 
 
 <h5><b>Friday, September 25</b></h5>
@@ -89,8 +89,8 @@ Organizers: Symeon Papavassiliou (NTUA), Vasileios Karyotis (Ionian Uni.), Haesi
 <b><a href="https://mmnets.cse.sc.edu/">(Half day - Morning) Millimeter-Wave Networks and Sensing Systems (mmNets 2020) - <em>Research track</em></a></b><br/>
 Organizers: Sanjib Sur (U Southern Carolina), Marina Petrova (KTH)<br/><br/>
 
-<b>(Half day - Afternoon) Tutorial: COSMOS (“Cloud enhanced Open Software defined MObile wireless testbed for city-Scale
-deployment”) Testbed for Advanced Wireless and Edge Cloud Research</b><br/>
+<b><a href="https://www.cosmos-lab.org/outreach/mobicom20/">(Half day - Afternoon) Tutorial: COSMOS (“Cloud enhanced Open Software defined MObile wireless testbed for city-Scale
+deployment”) Testbed for Advanced Wireless and Edge Cloud Research</a></b><br/>
 Organizers: Tingjun Chen (Columbia University), Craig Gutterman (Columbia University),
 Jakub Kolodziejski (Rutgers University), Michael Sherman (Rutgers University), Panagiotis
 Skrimponis (NYU), Ivan Seskar (Rutgers University), Dipankar Raychaudhuri (Rutgers University),
