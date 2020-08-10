@@ -127,7 +127,7 @@ On-Site (Begins Oct 21st)<br/><br/>
 <li><b>June 2020</b> - <a href="poster.php">Call for posters  </a> is up.</li>
 <li><b>July 2020</b> - Posters submission deadline extended to July 15th.</li>
 <li><b>July 2020</b> - Demos submission deadline extended to July 13th.</li>
-
+<li><b>August 2020</b> - Online registration is open at https://www.cvent.com/d/z7qlq5.</li>
 
 </ul>
 </div>

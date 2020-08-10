@@ -17,7 +17,11 @@
     font-size: large;
 }
 </style>
-<h2 class="text-center">Registration & Hotel Reservations</h2>
+
+<h2 class="text-center">Registration </h2>
+</br></br>
+<p>Online registration is accessible via the URL: https://www.cvent.com/d/z7qlq5</p>
+<!--<h2 class="text-center">Registration & Hotel Reservations</h2>
 </br></br>
 <span class="bold-red">Please do not make any non-refundable travel plans to attend the conference. We will provide updates on MOBICOM 2020 in the coming months. Stay safe and healthy!</span>
 </br></br>
@@ -26,7 +30,7 @@
 <p>In addition, Imperial offers discounted hotel booking service year round, for online booking, more information on facilities, please follow the link to our Hotel booking page: <a href="http://www.imperial.ac.uk/visitors-accommodation/local-hotels/">http://www.imperial.ac.uk/visitors-accommodation/local-hotels/</a></p>
 
 
- </p>
+</p>-->
 
 <!--<br/>
 <h5><b>Conference registration and hotel reservation instructions will be here very soon.</b></h5>

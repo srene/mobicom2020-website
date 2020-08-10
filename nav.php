@@ -41,6 +41,9 @@
       <li class="nav-item">
         <a class="nav-link" href="venue.php">Venue</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="registration.php">Registration</a>
+      </li>
       <!--<li class="nav-item">
         <a class="nav-link" href="registration.php">Registration & Hotel Reservations</a>
       </li>-->
@@ -62,9 +65,9 @@
       <li class="nav-item">
         <a class="nav-link" href="n2women.php">N2Women</a>
       </li>
-      <!--<li class="nav-item">
+      <li class="nav-item">
         <a class="nav-link" href="travelgrant.php">Travel Grant</a>
-      </li>-->
+      </li>
       <li class="nav-item">
         <a class="nav-link" href="sponsorships.php">Sponsorships</a>
       </li>

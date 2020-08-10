@@ -89,7 +89,7 @@ Organizers: Symeon Papavassiliou (NTUA), Vasileios Karyotis (Ionian Uni.), Haesi
 <b><a href="https://mmnets.cse.sc.edu/">(Half day - Morning) Millimeter-Wave Networks and Sensing Systems (mmNets 2020) - <em>Research track</em></a></b><br/>
 Organizers: Sanjib Sur (U Southern Carolina), Marina Petrova (KTH)<br/><br/>
 
-<b><a href="https://www.cosmos-lab.org/outreach/mobicom20/">(Half day - Afternoon) Tutorial: COSMOS (“Cloud enhanced Open Software defined MObile wireless testbed for city-Scale
+<b><a href="https://www.cosmos-lab.org/mobicom2020/">(Half day - Afternoon) Tutorial: COSMOS (“Cloud enhanced Open Software defined MObile wireless testbed for city-Scale
 deployment”) Testbed for Advanced Wireless and Edge Cloud Research</a></b><br/>
 Organizers: Tingjun Chen (Columbia University), Craig Gutterman (Columbia University),
 Jakub Kolodziejski (Rutgers University), Michael Sherman (Rutgers University), Panagiotis

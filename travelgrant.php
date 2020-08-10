@@ -12,7 +12,7 @@
 <main>
 
 <h2 class="text-center">Student Travel Grant</h2>
-<center>TBC</center>
+<center>If you are applying for a student travel grant, please register using the code STG-MOBICOM2020 to obtain 100% discount</center>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 <!--
 <h5><b>Travel Grant Application</b></h5>
