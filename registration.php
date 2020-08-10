@@ -20,7 +20,7 @@
 
 <h2 class="text-center">Registration </h2>
 </br></br>
-<p>Online registration is accessible via the URL: https://www.cvent.com/d/z7qlq5</p>
+<p>Online registration is accessible via the URL: <a href="https://www.cvent.com/d/z7qlq5">https://www.cvent.com/d/z7qlq5</a></p>
 <!--<h2 class="text-center">Registration & Hotel Reservations</h2>
 </br></br>
 <span class="bold-red">Please do not make any non-refundable travel plans to attend the conference. We will provide updates on MOBICOM 2020 in the coming months. Stay safe and healthy!</span>
