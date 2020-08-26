@@ -12,28 +12,48 @@
 <main>
 
 <h2 class="text-center">N2Women Event</h2>
-<center>The N2Women workshop colocated with Mobicom 2020 will be run virtually.
+<!--<center>The N2Women workshop colocated with Mobicom 2020 will be run virtually.
 </br></br>
 Details about the event to come soon!</center>
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
-<!--<h5><b>N2Women Event Overview</b></h5>
-<p>Every year, the N2Women group hosts an event (typically a lunch) during the main conference to help under-represented graduate students create a cohort and meet senior researchers from the networking community. At MobiCom 2019, we will change the N2Women format to a dinner, allowing for more time for interaction and conversation. The dinner will be held in the evening of October 22, 2019.</p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>-->
+<!--<h5><b>N2Women Event Overview</b></h5>-->
+<p>The N2Women workshop aims to foster connections among the under-represented women in computer networking and related research fields. Its goal is to:</p>
+<ul>
+  <li>Connect newer generations of networking women researchers with the community and create mentorship relationships;</li>
+  <li>Create a research forum in which students and junior researchers learn and discuss current trends in networking, present their research and receive feedback;</li>
+  <li>Engage a diverse body of junior researchers in the field.</li>
+</ul>
+<p>We welcome here <b>everyone</b> who share the same research interests, attend the same events, and often face the same career hurdles and obstacles to joining us on Monday 21 September at 11:30am PST (7:30pm BST / 8:30pm CET) for our N2Women event co-located with Mobicom 2020!</p>
+<p>This year’s program will feature enlightening talks from women experts in mobile and wireless communications, as well as a live panel engaging both on technical challenges and soft skill assets in a de-facto online world.</p>
+<p>An associated Slack channel will also be available for live discussions throughout the Mobicom conference. Please stay tuned for details.</p>
 
-<p>This year MobiCom provides two avenues for financial support to offset expenses for women attending the conference and provide ample opportunities for professional development of groups that are underrepresented at MobiCom. We have the traditional <a href="#yr">N2Women Young Researcher Fellowship Award</a> and, in addition, this year MobiCom established the <a href="#tgrant">N2Women Travel Grants</a>. More information on how to apply is available below.</p>
+<h5><b>Workshop program</b></h5>
 
-<p>
-MobiCom’19 N2Women Event Chair<br/>
-Mariya Zheleva (<a href="mailto:mzheleva@albany.edu">mzheleva@albany.edu</a>)<br/>
-Computer Science<br/>
-University at Albany – SUNY<br/>
-</p>
+<b>Topic previews from women experts</b><br/>
 
-<h5><b><a name="tgrant">N2Women Travel Grants for MobiCom 2019</a></b></h5>
+<p>Dr Megumi Kaneko (National Institute of Informatics, Tokyo, Japan), Dr Toktam Mahmoodi (King’s College London, UK) and Dr Güliz Seray Tuncay (Google, US) will share their expertise on topics related to this year’s Mobicom papers in enlightening video presentations.</p>
 
-<b>Travel Grant Overview</b><br/>
-<p>The goal of the N2Women travel grants is to broaden participation of female students from universities traditionally underrepresented at MobiCom by enabling these students to participate both in the N2Women dinner as well as in the general MobiCom program. Note that these grants are different from the <a href="#yr">N2Women Young Researcher Fellowship Award</a>.</p>
+<p>Dr Megumi Kaneno – Multiple-Input and Multiple-Output (MIMO).</p>
+<center><img src="images/n2women/kaneko.png" height="200"></center>
+</br>
+<p><b>Dr Megumi Kaneko</b> (S’06, M’08, SM’17) received her Diplôme d'Ingénieur in 2004 from Télécom SudParis (French Grande Ecole), France, jointly with a MSc. degree from Aalborg University, Denmark, where she received her Ph.D. degree in 2007. In May 2017, she obtained her HDR degree (French Doctoral Habilitation for Directing Researches at Professor position) from Paris-Saclay University, France. She was a JSPS post-doctoral fellow at Kyoto University from April 2008 to August 2010. From September 2010 to March 2016, she was an Assistant Professor in the Department of Systems Science, Graduate School of Informatics, Kyoto University. She is currently an Associate Professor at the National Institute of Informatics as well as the Graduate University for Advanced Studies (Sokendai), Tokyo, Japan. Her research interests include wireless communications, Beyond 5G and IoT wireless systems, and PHY/MAC design and optimization. She serves as an Editor of IEEE Transactions on Wireless Communications, IEEE Communication Letters and IEICE Transactions on Communications. She received the 2009 Ericsson Young Scientist Award, the IEEE Globecom 2009 Best Paper Award, the 2011 Funai Young Researcher's Award, the WPMC 2011 Best Paper Award, the 2012 Telecom System Technology Award, the 2016 Inamori Foundation Research Grant and the 2019 Young Scientists’ Prize from the Minister of Education, Culture, Sports, Science and Technology of Japan. She is a Senior Member of IEEE.</p>
+</br>
 
-<b>Travel Grant Application</b><br/>
+<p>Dr Toktam Mahmoodi - Telecommunication Systems/ IP Multimedia Subsystem (IMS).</p>
+<center><img src="images/n2women/toktam.png" height="200"></center>
+</br>
+<p><b>Dr Toktam Mahmoodi</b> is Director of the Centre for Telecommunications Research (CTR) in King’s College London, where she has been member of the academic faculty since 2011. Previously, she was visiting research scientist at F5 Networks, research associate in Imperial College London, Mobile VCE researcher, and telecom R&D engineer. Toktam is and has been involved in number of European FP7 and H2020 projects on 5G mobile networks, vehicular communications, and Software-defined Networking. She is executive editor of Transactions on Emerging Telecommunications Technologies, series guest editor of JSAC on network softwarization, and area editor of IEEE Communications Standard Magazine on management & orchestration. Her research focuses on the areas of mobile and cloud networking, and includes ultra-low latency networking, network virtualisation, mobility management, network modelling and optimisation. She also works on applications of mobile communications in the healthcare, smart cities, emergency services, industrial networks and intelligent transportation.</p>
+</br>
+
+<p>Dr Güliz Seray Tuncay - Android Security</p>
+<center><img src="images/n2women/GulizSerayTuncay.jpg" height="200"></center>
+</br>
+<p><b>Dr. Güliz Seray Tuncay</b> is a security researcher (a.k.a the Android security princess) in Android Security at Google. Her research focuses on usable and secure app permissions on mobile operating systems. She obtained her Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign in 2019. She received her M.Sc. in Computer Engineering from the University of Florida in 2013 and her B.Sc. in Computer Engineering from the Middle East Technical University, graduating top of her class in 2010. She has had publications at various prestigious academic conferences in the field of computer security such as Computer and Communication Security (CCS), USENIX Security, and Network and Distributed System Security Symposium (NDSS). In particular, she received a distinguished paper award for her work on Android permissions at the NDSS Symposium in 2018. Dr. Tuncay’s work revealed several serious security vulnerabilities in the Android operating system and influenced the design and implementation of Android, prompting changes in the official releases.</p>
+</br>
+
+<b>Panel</b><br/>
+<p>Our guest panellists will share their views on a diversity of topics ranging from upcoming trends in the domain of mobile and wireless communications to novel modes of networking and active conference attendance in fully digital settings.</p>
+<!--<b>Travel Grant Application</b><br/>
 In order to apply for the N2Women travel grant, students should fill out <a href="https://forms.gle/yTmzMrxEPqx7Dyrj8">this form</a>. The form asks an applicant to provide:
 
 <ul>

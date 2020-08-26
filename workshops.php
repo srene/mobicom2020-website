@@ -14,7 +14,7 @@
 
 <p>Mobicom 2020 is pleased to announce the organization of the following workshops and tutorials. Workshop papers will be included with the MobiCom proceedings and published in the ACM Digital Library. This year at MobiCom, we are also organising two half day tutorials on topics of high interest to mobile systems researchers.</p>
 
-<h5><b>Monday, September 21</b></h5>
+<!--<h5><b>Monday, September 21</b></h5>-->
 
 <!-- <div class="table-responsive">
 <table class="table table-sm table-bordered">
@@ -43,6 +43,8 @@
 </table>
 </div>-->
 
+<h5><b>Friday, September 25</b></h5>
+
 <b><a href="http://cosafe.org.uk/mobiarch2020.html">(Full day) Workshop on Mobility in the Evolving Internet Architecture (MobiArch 2020) - <em>Research track</em></a></b><br/>
 Organizers: Jianhua He (University of Essex), Aline Carneiro Viana (INRIA)<br/><br/>
 
@@ -53,21 +55,12 @@ Organizers: Stylianos I. Venieris (Samsung AI Center-Cambridge), Nic Lane (Samsu
 Testbeds, Experimental evaluation & CHaracterization (ACM WiNTECH 2020) - <em>Experimental track</em></a></b><br/>
 Organizers: Tommaso Melodia (Northeastern University), Arturo Azcorra (IMDEA), Stefano Basagni (Northeastern University)<br/><br/>
 
-<b><a href="http://www.grc.upv.es/frugalthings2020/">(Half day - Morning) 1th Workshop on Experiences with the Design and Implementation of Frugal Smart Objects (FRUGALTHINGS 2020) - <em>Research track</em></a></b><br/>
-Organizers: <a href="mailto:pmanzoni@disca.upv.es">Pietro Manzoni</a> (Universitat Politècnica de València), <a href="mailto:cpalazzi@math.unipd.it">Claudio E. Palazzi</a> (Università degli Studi di Padova)<br/><br/>
-
-<b><a href="https://enlightem.eu/workshops/light_up_the_iot/">(Half day - Afternoon) Light up the IoT (LIoT 2020) - <em>Research track</em></a></b><br/>
-Organizers: <a href="mailto:daniele.puccinelli@supsi.ch">Daniele Puccinelli</a> (Institute for Information Systems and Networking), <a href="mailto:jrufo@lightbeecorp.com">Julio Rufo</a>  (LigthBee Visible Light Communication)<br/><br/>
-
 <!--<b>(Half day - Afternoon) Tutorial: Towards Secure Data-Centric Mobile Communication</b><br/>
 Organizers: <a href="mailto:aa@cs.fiu.edu">Alex Afanasyev</a> (Florida International University),
 <a href="mailto:giovanni.pau@unibo.it">Giovanni Pau</a> (University of Bologna),
 <a href="mailto:lanwang@memphis.edu">Lan Wang</a> (University of Memphis),
 <a href="mailto:paulo.mendes@airbus.com">Paulo Mendes</a> (Airbus),
 <a href="mailto:lixia@cs.ucla.edu">Lixia Zhang (UCLA)</a><br/><br/>-->
-
-
-<h5><b>Friday, September 25</b></h5>
 
 <b><a href="http://dronecom.info/">(Full day) Drone-Assisted Wireless Communications for 5G and Beyond (DroneCom) - <em>Research track</em></a></b><br/>
 Organizers: <a href="mailto:sahil.garg@ieee.org">Dr. Sahil Garg</a> (École de technologie supérieure, Montreal),
@@ -86,10 +79,16 @@ Organizers: <a href="mailto:jacobr@ethz.ch">Romain Jacob</a> (ETH Zürich), <a h
 <!--<b><a href="http://www.netmode.ntua.gr/rebuild20/">(Full day) 5G Research, Business Applications, & Developments (5G-ReBuilD) - <em>Experimental track</em></a></b><br/>
 Organizers: Symeon Papavassiliou (NTUA), Vasileios Karyotis (Ionian Uni.), Haesik Kim(VTT)<br/><br/>-->
 
-<b><a href="https://mmnets.cse.sc.edu/">(Half day - Morning) Millimeter-Wave Networks and Sensing Systems (mmNets 2020) - <em>Research track</em></a></b><br/>
+<b><a href="https://mmnets.cse.sc.edu/">(Half day) Millimeter-Wave Networks and Sensing Systems (mmNets 2020) - <em>Research track</em></a></b><br/>
 Organizers: Sanjib Sur (U Southern Carolina), Marina Petrova (KTH)<br/><br/>
 
-<b><a href="https://www.cosmos-lab.org/mobicom2020/">(Half day - Afternoon) Tutorial: COSMOS (“Cloud enhanced Open Software defined MObile wireless testbed for city-Scale
+<b><a href="http://www.grc.upv.es/frugalthings2020/">(Half day) 1th Workshop on Experiences with the Design and Implementation of Frugal Smart Objects (FRUGALTHINGS 2020) - <em>Research track</em></a></b><br/>
+Organizers: <a href="mailto:pmanzoni@disca.upv.es">Pietro Manzoni</a> (Universitat Politècnica de València), <a href="mailto:cpalazzi@math.unipd.it">Claudio E. Palazzi</a> (Università degli Studi di Padova)<br/><br/>
+
+<b><a href="https://enlightem.eu/workshops/light_up_the_iot/">(Half day) Light up the IoT (LIoT 2020) - <em>Research track</em></a></b><br/>
+Organizers: <a href="mailto:daniele.puccinelli@supsi.ch">Daniele Puccinelli</a> (Institute for Information Systems and Networking), <a href="mailto:jrufo@lightbeecorp.com">Julio Rufo</a>  (LigthBee Visible Light Communication)<br/><br/>
+
+<b><a href="https://www.cosmos-lab.org/mobicom2020/">(Half day) Tutorial: COSMOS (“Cloud enhanced Open Software defined MObile wireless testbed for city-Scale
 deployment”) Testbed for Advanced Wireless and Edge Cloud Research</a></b><br/>
 Organizers: Tingjun Chen (Columbia University), Craig Gutterman (Columbia University),
 Jakub Kolodziejski (Rutgers University), Michael Sherman (Rutgers University), Panagiotis
