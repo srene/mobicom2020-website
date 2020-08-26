@@ -5,7 +5,7 @@
   <div class="cd-schedule cd-schedule--loading margin-top--lg margin-bottom--lg js-cd-schedule">
     <div class="cd-schedule__events">
       <ul>
-        <li class="cd-schedule__group">
+        <!--<li class="cd-schedule__group">
           <div class="cd-schedule__top-info"><span>Sunday 10/20</span></div>
 
           <ul>
@@ -19,23 +19,17 @@
               </a>
             </li>
           </ul>
-        </li>
+        </li>-->
 
         <li class="cd-schedule__group">
-          <div class="cd-schedule__top-info"><span>Monday 10/21</span></div>
+          <div class="cd-schedule__top-info"><span>Day 1 21th September</span></div>
 
           <ul>
             <li class="cd-schedule__event">
-              <a data-start="8:00" data-end="18:00" data-start-human="8:00" data-end-human="6:00" data-event="event-2">
+              <a data-start="6:00" data-end="6:20" data-event="event-1">
                 <em class="cd-schedule__name">
-                  <span class="event" onclick="location.href='registration.php';" style="cursor:pointer; transition:.25s; " onMouseOver="this.style.color='rgb(255,255,255)'" onMouseOut="this.style.color='#0074D9'">Registration</span>,
-
-                  <span class="event" onclick="location.href='workshops.php';" style="cursor:pointer; transition:.25s; " onMouseOver="this.style.color='rgb(255,255,255)'" onMouseOut="this.style.color='#0074D9'">
-                  Workshops and Tutorials</span>,
-                  <span class="event" onclick="location.href='activities.php';" style="cursor:pointer; transition:.25s; " onMouseOver="this.style.color='rgb(255,255,255)'" onMouseOut="this.style.color='#0074D9'">
-                    Activities
-                  </span>
-                </em>
+                Opening remarks
+              </em>
               </a>
             </li>
 

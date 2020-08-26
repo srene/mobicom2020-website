@@ -18,6 +18,8 @@
 </br>
 <p>Finally, because we hope to have engaging discussions, it is difficult to repeat them in two time zones. We thus opted to have a single time-zone conference. It will take place Mon 21st – Thu 24th from 6am PDT – 11am PDT (Pacific). We appreciate that these times will not suit everyone ideally. However, adjusting to it is much less effort then a long distance travel and a jetlag. The selected times are a compromise that works well for most of the world. Also, note that the main conference will last 4 days, unlike previous years.</p>
 <p>Along with an amazing technical program, we will have an assortment of exciting keynotes and panels. We hope you will enjoy!</p>
+</br>
+<p>Bozidar and Qian</p>
 </div>
 
 <?php require_once('program-table.php'); ?>
