@@ -34,9 +34,9 @@
             </li>
 
             <li class="cd-schedule__event">
-              <a data-start="18:00" data-end="21:30" data-start-human="6:00" data-end-human="9:30" data-event="event-3">
+              <a data-start="06:25" data-end="07:25" data-start-human="6:25" data-end-human="7:25" data-event="event-3">
                 <em class="cd-schedule__name">
-                Opening reception
+                Keynote
               </em>
               </a>
             </li>
