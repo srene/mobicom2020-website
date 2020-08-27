@@ -130,6 +130,9 @@ On-Site (Begins Oct 21st)<br/><br/>
 <li><b>August 2020</b> - Online registration is open <a href="https://www.cvent.com/d/z7qlq5">here</a>.</li>
 <li><b>August 2020</b> - <a href="workshops.php">Workshops/tutorials</a> format has been changed. All the workshops/tutorial will be held on Sept. 25th.</li>
 <li><b>August 2020</b> - <a href="n2women.php">N2Women Event</a> announced.</li>
+<li><b>August 2020</b> - Provisional <a href="program.php">Program</a> announcement.</li>
+<li><b>August 2020</b> - <a href="video.php">Virtual Presentation Instructions</a> updated.</li>
+<li><b>August 2020</b> - <a href="workshops.php">New tutorial</a> announced.</li>
 
 </ul>
 </div>

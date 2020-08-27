@@ -95,6 +95,10 @@ Jakub Kolodziejski (Rutgers University), Michael Sherman (Rutgers University), P
 Skrimponis (NYU), Ivan Seskar (Rutgers University), Dipankar Raychaudhuri (Rutgers University),
 Thanasis Korakis (NYU), Gil Zussman (Columbia University)<br/><br/>
 
+<b><a href="https://mptp-mobicom2020.github.io/">(Half day) Tutorial: Multipath Transport Protocols</a></b><br/>
+Organizers: Olivier Bonaventure and Quentin De Coninck (UCLouvain)<br/><br/>
+
+
 <!-- <div class="table-responsive">
 <table class="table table-sm table-bordered">
 <thead>
