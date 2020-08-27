@@ -33,54 +33,7 @@
               </a>
             </li>
 
-            <li class="cd-schedule__event">
-              <a data-start="06:25" data-end="07:25" data-event="event-3">
-                <em class="cd-schedule__name">
-                Keynote
-              </em>
-              </a>
-            </li>
-
-            <li class="cd-schedule__event">
-              <a data-start="07:30" data-end="08:10" data-event="event-3">
-                <em class="cd-schedule__name">
-                Session
-              </em>
-              </a>
-            </li>
-
-            <li class="cd-schedule__event">
-              <a data-start="08:15" data-end="08:55" data-event="event-3">
-                <em class="cd-schedule__name">
-                Session
-              </em>
-              </a>
-            </li>
-
-            <li class="cd-schedule__event">
-              <a data-start="09:00" data-end="10:00" data-event="event-3">
-                <em class="cd-schedule__name">
-                Keynote
-              </em>
-              </a>
-            </li>
-
-            <li class="cd-schedule__event">
-              <a data-start="10:05" data-end="10:35" data-event="event-3">
-                <em class="cd-schedule__name">
-                Session
-              </em>
-              </a>
-            </li>
-
-            <li class="cd-schedule__event">
-              <a data-start="10:40" data-end="11:10" data-event="event-3">
-                <em class="cd-schedule__name">
-                Session
-              </em>
-              </a>
-            </li>
-
+  
           </ul>
         </li>
 
