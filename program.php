@@ -22,7 +22,9 @@
 <p>Bozidar and Qian</p>
 </div>
 
-<?php require_once('program-table.php'); ?>
+<!--<?php require_once('program-table.php'); ?>-->
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FLondon&amp;src=c3JlbmV2aWNAZ21haWwuY29t&amp;src=MGNjN2U2N240b24xanFpNTJoOGkyc283cnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4uc3BhaW4jaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=b3V0bGllcnZlbnR1cmVzLmlvX3Y4aWMxdDcxYW9zanZuNzRuNjIzaTZ1MWg4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%234285F4&amp;color=%23D81B60&amp;color=%237986CB&amp;color=%237CB342" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 
