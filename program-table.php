@@ -28,13 +28,7 @@
             <li class="cd-schedule__event">
               <a data-start="8:00" data-end="18:00" data-start-human="8:00" data-end-human="6:00" data-event="event-2">
                 <em class="cd-schedule__name">
-                  <span class="event" onclick="location.href='registration.php';" style="cursor:pointer; transition:.25s; " onMouseOver="this.style.color='rgb(255,255,255)'" onMouseOut="this.style.color='#0074D9'">Registration</span>,
-
-                  <span class="event" onclick="location.href='workshops.php';" style="cursor:pointer; transition:.25s; " onMouseOver="this.style.color='rgb(255,255,255)'" onMouseOut="this.style.color='#0074D9'">
-                  Workshops and Tutorials</span>,
-                  <span class="event" onclick="location.href='activities.php';" style="cursor:pointer; transition:.25s; " onMouseOver="this.style.color='rgb(255,255,255)'" onMouseOut="this.style.color='#0074D9'">
-                    Activities
-                  </span>
+                  Opening Remarks
                 </em>
               </a>
             </li>
