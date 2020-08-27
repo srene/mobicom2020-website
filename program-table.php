@@ -26,23 +26,57 @@
 
           <ul>
             <li class="cd-schedule__event">
-              <a data-start="8:00" data-end="18:00" data-start-human="8:00" data-end-human="6:00" data-event="event-2">
+              <a data-start="6:00" data-end="06:20" data-event="event-1">
                 <em class="cd-schedule__name">
-                  <span class="event" onclick="location.href='registration.php';" style="cursor:pointer; transition:.25s; " onMouseOver="this.style.color='rgb(255,255,255)'" onMouseOut="this.style.color='#0074D9'">Registration</span>,
-
-                  <span class="event" onclick="location.href='workshops.php';" style="cursor:pointer; transition:.25s; " onMouseOver="this.style.color='rgb(255,255,255)'" onMouseOut="this.style.color='#0074D9'">
-                  Workshops and Tutorials</span>,
-                  <span class="event" onclick="location.href='activities.php';" style="cursor:pointer; transition:.25s; " onMouseOver="this.style.color='rgb(255,255,255)'" onMouseOut="this.style.color='#0074D9'">
-                    Activities
-                  </span>
-                </em>
+                Opening remarks
+               </em>
               </a>
             </li>
 
             <li class="cd-schedule__event">
-              <a data-start="18:00" data-end="21:30" data-start-human="6:00" data-end-human="9:30" data-event="event-3">
+              <a data-start="06:25" data-end="07:25" data-event="event-3">
                 <em class="cd-schedule__name">
-                Opening reception
+                Keynote
+              </em>
+              </a>
+            </li>
+
+            <li class="cd-schedule__event">
+              <a data-start="07:30" data-end="08:10" data-event="event-3">
+                <em class="cd-schedule__name">
+                Session
+              </em>
+              </a>
+            </li>
+
+            <li class="cd-schedule__event">
+              <a data-start="08:15" data-end="08:55" data-event="event-3">
+                <em class="cd-schedule__name">
+                Session
+              </em>
+              </a>
+            </li>
+
+            <li class="cd-schedule__event">
+              <a data-start="09:00" data-end="10:00" data-event="event-3">
+                <em class="cd-schedule__name">
+                Keynote
+              </em>
+              </a>
+            </li>
+
+            <li class="cd-schedule__event">
+              <a data-start="10:05" data-end="10:35" data-event="event-3">
+                <em class="cd-schedule__name">
+                Session
+              </em>
+              </a>
+            </li>
+
+            <li class="cd-schedule__event">
+              <a data-start="10:40" data-end="11:10" data-event="event-3">
+                <em class="cd-schedule__name">
+                Session
               </em>
               </a>
             </li>
