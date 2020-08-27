@@ -26,7 +26,7 @@
 
           <ul>
             <li class="cd-schedule__event">
-              <a data-start="06:00" data-end="06:20" data-start-human="8:00" data-end-human="6:00" data-event="event-2">
+              <a data-start="06:00" data-end="06:20" data-start-human="6:00" data-end-human="6:20" data-event="event-2">
                 <em class="cd-schedule__name">
                   Opening Remarks
                 </em>
