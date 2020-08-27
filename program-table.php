@@ -128,7 +128,7 @@
           </ul>
         </li>
 
-        <li class="cd-schedule__group">
+      <!--  <li class="cd-schedule__group">
           <div class="cd-schedule__top-info"><span>Friday 10/25</span></div>
           <ul>
             <li class="cd-schedule__event">
@@ -161,7 +161,7 @@
               </a>
             </li>
           </ul>
-        </li>
+        </li>-->
       </ul>
     </div>
 
