@@ -28,12 +28,19 @@
             <li class="cd-schedule__event">
               <a data-start="6:00" data-end="06:20" data-event="event-1">
                 <em class="cd-schedule__name">
-                Opening remarks
-               </em>
+                  Opening remarks  
+                </em>
               </a>
             </li>
 
-  
+            <li class="cd-schedule__event">
+              <a data-start="18:00" data-end="21:30" data-start-human="6:00" data-end-human="9:30" data-event="event-3">
+                <em class="cd-schedule__name">
+                Opening reception
+              </em>
+              </a>
+            </li>
+
           </ul>
         </li>
 
