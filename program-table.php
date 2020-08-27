@@ -26,7 +26,7 @@
 
           <ul>
             <li class="cd-schedule__event">
-              <a data-start="06:00" data-end="06:20" data-start-human="6:00" data-end-human="6:20" data-event="event-2">
+              <a data-start="08:00" data-end="08:20" data-start-human="6:00" data-end-human="6:20" data-event="event-2">
                 <em class="cd-schedule__name">
                   Opening Remarks
                 </em>
@@ -34,7 +34,7 @@
             </li>
 
             <li class="cd-schedule__event">
-              <a data-start="06:25" data-end="07:25" data-start-human="6:25" data-end-human="7:25" data-event="event-3">
+              <a data-start="09:25" data-end="09:25" data-start-human="6:25" data-end-human="7:25" data-event="event-3">
                 <em class="cd-schedule__name">
                 Keynote
               </em>
