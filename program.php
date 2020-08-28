@@ -34,11 +34,11 @@
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
 <script type="text/javascript">
  var timezone = encodeURIComponent(jstz.determine().name());
- var pref = '<iframe src="https://calendar.google.com/calendar/embed?mode=agenda&src=MGNjN2U2N240b24xanFpNTJoOGkyc283cnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ%40group.calendar.google.com&ctz=';
+ var pref = '<iframe src="https://calendar.google.com/calendar/embed?height=800&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=MGNjN2U2N240b24xanFpNTJoOGkyc283cnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showDate=1&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;ctz=';
  var suff = '" style=" border-width:0 " width="1000" height="800" frameborder="0" scrolling="no"></iframe>';
  var iframe_html = pref + timezone + suff;
  document.getElementById('calendar-container').innerHTML = iframe_html;
- console.log(iframe_html+" "+pref+" "+timezone+" "+suff)
+ console.log(pref+" "+timezone+" "+suff)
 </script>
 
 <iframe src="https://calendar.google.com/calendar/embed?height=800&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=MGNjN2U2N240b24xanFpNTJoOGkyc283cnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showDate=1&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA" style="border:solid 1px #777" width="1024" height="800" frameborder="0" scrolling="no"></iframe>
