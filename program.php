@@ -16,6 +16,9 @@
     font-weight: bold;
     font-size: large;
 }
+div.centre {
+  text-align: center;
+}
 </style>
 <h2 class="text-center">Announcement</h2>
 <p>We want to update you on the Mobicom 2020 program. The new reality with COVID-19 requires us to go virtual and rethink the conference model in the new setting. This is a challenge because if we simply play a number of pre-recorded talks, the audience may prefer to watch them at their own time and will have little incentive to participate. It is also an opportunity because we can think of new models of interactions between speakers and the community that may make the conference even more attractive.</p>
@@ -29,7 +32,7 @@
 </div>
 
 <span class="bold-red">The program is provisional and is likely to change a bit until the final version.</span>
-<div id="calendar-container"></div>
+<div class="centre" id="calendar-container"></div>
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
 <script type="text/javascript">
@@ -41,7 +44,6 @@
  console.log(pref+" "+timezone+" "+suff)
 </script>
 
-<iframe src="https://calendar.google.com/calendar/embed?height=800&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=MGNjN2U2N240b24xanFpNTJoOGkyc283cnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showDate=1&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA" style="border:solid 1px #777" width="1024" height="800" frameborder="0" scrolling="no"></iframe>
 
 
 </center>
