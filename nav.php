@@ -71,6 +71,9 @@
       <li class="nav-item">
         <a class="nav-link" href="sponsorships.php">Sponsorships</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="mentorship.php">Menthorship</a>
+      </li>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="video.php">Presentation Instructions</a>
