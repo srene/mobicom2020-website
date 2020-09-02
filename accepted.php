@@ -135,7 +135,7 @@
 <br/>
 
 <li><b>Sniffing Visible Light Communication Through Walls</b>
-<div class="pauthors">Authors: M. Cui Y. Feng Q. Wang J. Xiong M. Cui Q. Wang</div></li>
+<div class="pauthors">Authors: M. Cui Y. Feng Q. Wang J. Xiong</div></li>
 <br/>
 
 <li><b>Billion-Scale Federated Learning on Mobile Clients: A Submodel Design with Tunable Privacy</b>
