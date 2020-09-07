@@ -12,6 +12,15 @@
 <main>
 <h2 class="text-center">Virtual Presentation Instructions</h2>
 
+<style type="text/css">
+ span.bold-red {
+    color: red;
+    font-weight: bold;
+    font-size: large;
+}
+</style>
+<p><span class="bold-red">Important: authors are expected to upload two videos by 15th September, a 5 min elevetor pitch video and a 20 min paper presentation, as indicated <a href="program.php">here</a>.</span></p>
+</br>
 <h4>Video recording</h4>
 
 <p>A good option is to use the recording feature in Zoom. Zoom allows you to share your screen, turn on your webcam, and record your presentation. While you are free to use any video recording/editing software, we provide some getting started instruction for Windows/Powerpoint users:</p>
@@ -20,6 +29,8 @@
   <li>Before starting the recording please ensure that the Slide Size is set to Widescreen (16:9). This can be found under Design -> Slide Size. Here is a <a href="https://support.office.com/en-us/article/video-record-presentations-2570dff5-f81c-40bc-b404-e04e95ffab33">link</a> from Microsoft that provides a step by step guide to using PowerPoint to record a presentation. The only change is in the last step when saving. Presenters are kindly asked to save the video as a .mp4 video</li>
   <li>Please ensure that the microphone volume in the computer and light level in the room are adjusted before recording to capture the presentation in the best quality.</li>
 </ul>
+<p>Please, all presenters should complete the <a href="SIGMOBILE_Permission_Form.pdf">SIGMOBILE Permission form</a> and send it to <a href="mailto:sidr@winlab.rutgers.edu">sidr@winlab.rutgers.edu</a> <b>before 15th September</b>.</p>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 <!--<div class="acceptedpapers">
 <ul>
 

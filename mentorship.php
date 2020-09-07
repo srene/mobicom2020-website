@@ -29,15 +29,15 @@ To be eligible for participation, you must be:
 <ol style="text-align:left" type="a">
 <li>currently enrolled as a graduate student (M.S. or PhD)</li>
 <li>a registered attendee at ACM MobiCom’20</li>
-<li>available on all days of the main conference: Sep 21 - Oct 24</li>
+<li>available on all days of the main conference: Sep 21 - Sep 24</li>
 </ol>
 
-Applications are now open. If you are interested, please fill the <a href="https://docs.google.com/forms/d/e/1FAIpQLSc2RNXyt7ZilLorecdEJCmnjCgFp2yP-9hsuB3zahHslvBcgw/viewform">Mentorship Program Application Form</a> by September 7, 2020. The application requires you to upload your most recent CV and a Mentorship Statement. The Mentorship Statement must be no longer than one US letter-sized paper (8.5in X 11 in), with font size no smaller than 10 points. Your statement must consist of the following:
+Applications are now open. If you are interested, please fill the <a href="https://docs.google.com/forms/d/e/1FAIpQLSc2RNXyt7ZilLorecdEJCmnjCgFp2yP-9hsuB3zahHslvBcgw/viewform">Mentorship Program Application Form</a> by September 10th, 2020. The application requires you to upload your most recent CV and a Mentorship Statement. The Mentorship Statement must be no longer than one US letter-sized paper (8.5in X 11 in), with font size no smaller than 10 points. Your statement must consist of the following:
 <ol style="text-align:left" type="a">
 <li><i>Research interests</i></li>
 <li><i>Expectations from the program:</i> If you have specific mentoring needs, please specify here. For example, please indicate if you are currently applying to industry and/or academia and are looking for a mentor to guide you in that aspect.</li>
 <li><i>Who would you like to meet:</i> If you would like a specific researcher as your mentor, please indicate so. We cannot guarantee that you will be paired with a mentor of your choice.</li>
-<li><i>vailability:</i>Please indicate if you are available on Workshop Days in addition to the Main Conference Days.</li>
+<li><i>Availability:</i> Please indicate if you are available on Workshop Days in addition to the Main Conference Days.</li>
 </ol>
 
 <h5><b>Important Dates:</b></h5>

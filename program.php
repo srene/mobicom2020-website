@@ -41,7 +41,6 @@ div.centre {
  var suff = '" style=" border-width:0 " width="1000" height="800" frameborder="0" scrolling="no"></iframe>';
  var iframe_html = pref + timezone + suff;
  document.getElementById('calendar-container').innerHTML = iframe_html;
- console.log(pref+" "+timezone+" "+suff)
 </script>
 
 

@@ -133,6 +133,7 @@ On-Site (Begins Oct 21st)<br/><br/>
 <li><b>August 2020</b> - Provisional <a href="program.php">Program</a> announcement.</li>
 <li><b>August 2020</b> - <a href="video.php">Virtual Presentation Instructions</a> updated.</li>
 <li><b>August 2020</b> - <a href="workshops.php">New tutorial</a> announced.</li>
+<li><b>September 2020</b> - <a href="mentorship.php">Mentorship program</a> announced.</li>
 
 </ul>
 </div>
