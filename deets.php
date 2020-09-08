@@ -1,16 +1,16 @@
 <div class="accordion">
-<p class="h4"><b> Tuesday, October 22, 2019</b></p>
+<p class="h4"><b> Monday, 21th September, 2020  PDT</b></p>
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#D62728">
-<b>8:30 - 9:00<br/>Opening remarks</b></h6>
+<b>06:00 - 06:20<br/>Opening remarks</b></h6>
 </div>
 
 <div class="card">
 <h6 class="card-header text-white" style="background-color:#D62728">
-<b>9:00 - 10:00<br/>Keynote: Maja Matarić</b></h6>
+<b>06:25 - 07:25<br/>Keynote 1: George Malliaras (University of Cambridge)</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynotes.php#maja"><b>Human-Machine and Human-Robot Interaction For Long-Term User Engagement and Behavior Change</b></a>
+<a href="keynotes.php#maja"><b>Electronics on the brain</b></a>
 </h6>
 </div>
 </div>
@@ -18,21 +18,21 @@
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse1" class="d-block" style="color:white">
-<b>10:30 - 11:50<br/><i class="fa fa-chevron-down float-right" ></i>
-Session 1: New Frontiers (6 papers)<br/> Chair: Dinesh Bharadia (University of California  San Diego)</b>
+<b>07:30 - 08:10<br/><i class="fa fa-chevron-down float-right" ></i>
+Session: Localization (4 papers)<br/> Chair: Nilanjan Banerjee (eastern US), Kyle Jamieson (eastern US) and Yunhao Liu</b>
 </a></h6>
 <div id="collapse1" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345441">Software Defined Cooking using a Microwave Oven</a></b></h6>
+<a href="">Deep Learning based Wireless Localization for Indoor Navigation</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Haojian Jin, Jingxian Wang, Swarun Kumar, Jason Hong (Carnegie Mellon University)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo1"></a>
 <br/>
 <div id="demo1" class="collapse">
-Despite widespread popularity, today's microwave ovens are limited in their cooking capabilities, given that they heat food blindly, resulting in a non-uniform and unpredictable heating distribution. We present SDC (software-defined cooking), a low-cost closed-loop microwave oven system that aims to heat the food in a software-defined thermal trajectory. SDC achieves this through a novel high-resolution heat sensing and actuation system that uses microwave-safe components to augment existing microwaves. SDC first senses thermal gradient by using arrays of neon lamps that are charged by the Electromagnetic (EM) field a microwave produces. SDC then modifies the EM-field strength to desired levels by accurately moving food on a programmable turntable towards sensed hot and cold spots. To create a more skewed arbitrary thermal pattern, SDC further introduces two types of programmable accessories: microwave shield and susceptor. We design and implement one experimental test-bed by modifying a commercial off-the-shelf microwave oven. Our evaluation shows that SDC can programmatically create temperature deltas at a resolution of 21 degrees with a spatial resolution of 3 cm without accessories and 183 degrees with the help of accessories. We further demonstrate how a SDC-enabled microwave can be enlisted to perform unexpected cooking tasks: cooking meat and fat in bacon discriminatively and heating milk uniformly.
+Location services, fundamentally, rely on two components: a mapping system and a positioning system. The mapping system provides the physical map of the space, and the positioning system identifies the position within the map. Outdoor location services have thrived over the last couple of decades because of well-established platforms for both these components (e.g. Google Maps for mapping, and GPS for positioning). In contrast, indoor location services haven't caught up because of the lack of reliable mapping and positioning frameworks. Wi-Fi positioning lacks maps and is also prone to environmental errors. In this paper, we present DLoc, a Deep Learning based wireless localization algorithm that can overcome the traditional limitations of RF-based localization approaches (like multipath, occlusions, etc.). We augment DLoc with an automated mapping platform, MapFind. MapFind constructs location-tagged maps of the environment and generates training data for DLoc. Together, they allow off-the-shelf Wi-Fi devices like smartphones to access a map of the environment and to estimate their position with respect to that map. During our evaluation, MapFind has collected location estimates of over 105 thousand points under 8 different scenarios with varying furniture positions and people motion across two different spaces covering 2000 sq. Ft. DLoc outperforms state-of-the-art methods in Wi-Fi-based localization by 80% (median & 90^{th} the percentile) across the 2000 sq. ft. spanning two different spaces.
 </div></li>
 
 <li class="list-group-item bg-light">
