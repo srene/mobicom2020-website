@@ -5,7 +5,7 @@
   <div class="cd-schedule cd-schedule--loading margin-top--lg margin-bottom--lg js-cd-schedule">
     <div class="cd-schedule__events">
       <ul>
-        <!--<li class="cd-schedule__group">
+        <li class="cd-schedule__group">
           <div class="cd-schedule__top-info"><span>Sunday 10/20</span></div>
 
           <ul>
@@ -19,24 +19,30 @@
               </a>
             </li>
           </ul>
-        </li>-->
+        </li>
 
         <li class="cd-schedule__group">
           <div class="cd-schedule__top-info"><span>Monday 10/21</span></div>
 
           <ul>
             <li class="cd-schedule__event">
-              <a data-start="09:00" data-end="09:20" data-start-human="6:00" data-end-human="6:20" data-event="event-2">
+              <a data-start="8:00" data-end="18:00" data-start-human="8:00" data-end-human="6:00" data-event="event-2">
                 <em class="cd-schedule__name">
-                  Opening Remarks
+                  <span class="event" onclick="location.href='registration.php';" style="cursor:pointer; transition:.25s; " onMouseOver="this.style.color='rgb(255,255,255)'" onMouseOut="this.style.color='#0074D9'">Registration</span>,
+
+                  <span class="event" onclick="location.href='workshops.php';" style="cursor:pointer; transition:.25s; " onMouseOver="this.style.color='rgb(255,255,255)'" onMouseOut="this.style.color='#0074D9'">
+                  Workshops and Tutorials</span>,
+                  <span class="event" onclick="location.href='activities.php';" style="cursor:pointer; transition:.25s; " onMouseOver="this.style.color='rgb(255,255,255)'" onMouseOut="this.style.color='#0074D9'">
+                    Activities
+                  </span>
                 </em>
               </a>
             </li>
 
             <li class="cd-schedule__event">
-              <a data-start="09:25" data-end="09:55" data-start-human="6:25" data-end-human="7:25" data-event="event-3">
+              <a data-start="18:00" data-end="21:30" data-start-human="6:00" data-end-human="9:30" data-event="event-3">
                 <em class="cd-schedule__name">
-                Keynote
+                Opening reception
               </em>
               </a>
             </li>
@@ -44,7 +50,7 @@
           </ul>
         </li>
 
-        <!--<li class="cd-schedule__group">
+        <li class="cd-schedule__group">
           <div class="cd-schedule__top-info"><span>Tuesday 10/22</span></div>
           <ul>
             <li class="cd-schedule__event">
@@ -120,9 +126,9 @@
               </a>
             </li>
           </ul>
-        </li>-->
+        </li>
 
-        <!--<li class="cd-schedule__group">
+        <li class="cd-schedule__group">
           <div class="cd-schedule__top-info"><span>Friday 10/25</span></div>
           <ul>
             <li class="cd-schedule__event">
@@ -155,7 +161,7 @@
               </a>
             </li>
           </ul>
-        </li>-->
+        </li>
       </ul>
     </div>
 
