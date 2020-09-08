@@ -42,7 +42,7 @@ div.centre {
  document.getElementById('calendar-container').innerHTML = iframe_html;
 </script>
 
-<?php require_once('program-table.php'); ?>
+<?php require_once('deets.php'); ?>
 
 </br>
 <h5><b>Keynote speakers</b></h5>
