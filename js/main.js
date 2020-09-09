@@ -5,13 +5,14 @@
 		// this.timelineItems = this.element.getElementsByClassName('cd-schedule__timeline')[0].getElementsByTagName('li');
 		// var a=this.timelineItems[0].textContent;
 		// var b=this.timelineItems[1].textContent;
-		var a="8:00";
-		var b="8:30";
+		var a="7:30";
+		var b="8:00";
 		this.timelineStart = getScheduleTimestamp(a);
 		this.timelineUnitDuration = getScheduleTimestamp(b) - getScheduleTimestamp(a);
 		
 		this.topInfoElement = this.element.getElementsByClassName('cd-schedule__top-info')[0];
 		this.singleEvents = this.element.getElementsByClassName('cd-schedule__event');
+		this.singleEvents2 = this.element.getElementsByClassName('cd-schedule__event-custom');
 		
 		this.modal = this.element.getElementsByClassName('cd-schedule-modal')[0];
 		this.modalHeader = this.element.getElementsByClassName('cd-schedule-modal__header')[0];
@@ -65,6 +66,9 @@
 		for(var i = 0; i < this.singleEvents.length; i++) {
 			this.singleEvents[i].removeAttribute('style');
 		}
+		for(var i = 0; i < this.singleEvents2.length; i++) {
+			this.singleEvents2[i].removeAttribute('style');
+		}
 	};
 
 	ScheduleTemplate.prototype.placeEvents = function() {
@@ -80,6 +84,16 @@
 				eventHeight = slotHeight*duration/self.timelineUnitDuration;
 
 			this.singleEvents[i].setAttribute('style', 'top: '+(eventTop-1)+'px; height: '+(eventHeight +1)+'px');
+		}
+		for(var i = 0; i < this.singleEvents2.length; i++) {
+			var anchor = this.singleEvents2[i].getElementsByTagName('a')[0];
+			var start = getScheduleTimestamp(anchor.getAttribute('data-start')),
+				duration = getScheduleTimestamp(anchor.getAttribute('data-end')) - start;
+
+			var eventTop = slotHeight*(start - self.timelineStart)/self.timelineUnitDuration,
+				eventHeight = slotHeight*duration/self.timelineUnitDuration;
+
+			this.singleEvents2[i].setAttribute('style', 'top: '+(eventTop-1)+'px; height: '+(eventHeight +1)+'px');
 		}
 
 		Util.removeClass(this.element, 'cd-schedule--loading');
@@ -123,6 +137,10 @@
 		setTimeout(function(){
 			//fixes a flash when an event is selected - desktop version only
 			Util.addClass(target.closest('li'), 'cd-schedule__event--selected');
+		}, 10);
+		setTimeout(function(){
+			//fixes a flash when an event is selected - desktop version only
+			Util.addClass(target.closest('li'), 'cd-schedule__event-custom--selected');
 		}, 10);
 
 		if( mq == 'mobile' ) {
@@ -178,6 +196,8 @@
 
 		var item = self.element.getElementsByClassName('cd-schedule__event--selected')[0],
 			target = item.getElementsByTagName('a')[0];
+		var item2 = self.element.getElementsByClassName('cd-schedule__event-custom--selected')[0],
+			target = item.getElementsByTagName('a')[0];
 
 		this.animating = true;
 
@@ -186,6 +206,7 @@
 			self.modal.addEventListener('transitionend', function cb(){
 				Util.removeClass(self.modal, 'cd-schedule-modal--content-loaded');
 				Util.removeClass(item, 'cd-schedule__event--selected');
+				Util.removeClass(item2, 'cd-schedule__event-custom--selected');
 				self.animating = false;
 				self.modal.removeEventListener('transitionend', cb);
 			});
@@ -229,6 +250,7 @@
 				self.animating = false;
 				Util.removeClass(self.modal, 'cd-schedule-modal--content-loaded');
 				Util.removeClass(item, 'cd-schedule__event--selected');
+				Util.removeClass(item2, 'cd-schedule__event-custom--selected');
 				self.modalHeaderBg.removeEventListener('transitionend', cb);
 			});
 		}
@@ -255,6 +277,8 @@
 			Util.addClass(self.modal, 'cd-schedule-modal--no-transition cd-schedule-modal--animation-completed');
 			var item = self.element.getElementsByClassName('cd-schedule__event--selected')[0],
 				target = item.getElementsByTagName('a')[0];
+			var item2 = self.element.getElementsByClassName('cd-schedule__event-custom--selected')[0],
+				target = item2.getElementsByTagName('a')[0];
 
 			var eventPosition = target.getBoundingClientRect(),
 				eventTop = eventPosition.top,

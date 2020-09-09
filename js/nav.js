@@ -22,9 +22,9 @@ $(document).ready(function() {
 // 	$('.collapse').collapse('hide');
 // });
 
-$(document).on('click','body *',function() {
-	$('.collapse').collapse('hide');
-});
+// $(document).on('click','body *',function() {
+// 	$('.collapse').collapse('hide');
+// });
 
 
 
