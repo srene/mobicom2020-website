@@ -127,7 +127,7 @@ We built our design on millimeter-sized integrated chips and flexible antenna su
 
 </ul></div></div></div>
 
-<div class="card">
+<!--<div class="card">
 <h6 class="card-header text-white" style="background-color:#D62728">
 <b>09:00 - 10:00<br/>Keynote 2: Sachin Katti (Stanford University)</b></h6>
 <div class="card-body bg-light">
@@ -463,7 +463,7 @@ Visible light communication (VLC) is gaining a significant amount of interest as
 </div>
 
 </div>
-<br/><hr/>
+<br/><hr/>-->
 <!--<div class="accordion">
 <p class="h4"><b> Thursday, October 24, 2019</b></p>
 <div class="card bg-light">
