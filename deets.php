@@ -10,7 +10,7 @@
 <b>06:25 - 07:25<br/>Keynote 1: George Malliaras (University of Cambridge)</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynotes.php#maja"><b>Electronics on the brain</b></a>
+<a href="keynotes.php"><b>Electronics on the brain</b></a>
 </h6>
 </div>
 </div>
@@ -126,6 +126,16 @@ We built our design on millimeter-sized integrated chips and flexible antenna su
 </div></li>
 
 </ul></div></div></div>
+
+<div class="card">
+<h6 class="card-header text-white" style="background-color:#D62728">
+<b>09:00 - 10:00<br/>Keynote 2: Sachin Katti (Stanford University)</b></h6>
+<div class="card-body bg-light">
+<h6 class="card-title">
+<a href="keynotes.php"><b>TBD</b></a>
+</h6>
+</div>
+</div>
 
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
