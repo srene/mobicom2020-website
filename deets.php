@@ -83,7 +83,7 @@ Session: Sensing and signal processing (4 papers)<br/>Chair: Tam Vu (mid US), Do
 <h6 class="card-title"><b>
 <a href="">Hummingbird: Energy Efficient GPS Receiver for Small Satellites</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Sujay Narayana, R Venkatesha Prasad, Vijay S Rao (TU Delft); Luca Mottola (Politecnico di Milano, Italy and RI.SE SICS Sweden); T Venkata Prabhakar (IISc, India)
+ Sujay Narayana, R Venkatesha Prasad, Vijay S Rao (TU Delft); Luca Mottola (Politecnico di Milano, Italy and RI.SE SICS Sweden); T Venkata Prabhakar (IISc, India)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo7"></a>
 <br/>
 <div id="demo5" class="collapse">
@@ -140,77 +140,153 @@ We built our design on millimeter-sized integrated chips and flexible antenna su
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse3" class="d-block" style="color:white">
-<b>4:10 - 5:15<br/><i class="fa fa-chevron-down float-right" ></i>
-Session 3: Computational Health (5 papers)<br/>Chair: Rajalakshmi Nandakumar (Cornell)</b>
+<b>10:05 - 10:35<br/><i class="fa fa-chevron-down float-right" ></i>
+Session: Acoustic (3 papers)<br/>Chair: Jennifer Chen (US) and Longfei Shangguan</b>
 </a></h6>
 <div id="collapse3" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345454">eBP: A Wearable System For Frequent and Comfortable Blood Pressure Monitoring From User’s Ear</a></b></h6>
+<a href="">Voice Localization Using Nearby Wall Reflections</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Nam Bui, Nhat Pham, Jessica Jacqueline Barnitz, Phuc Nguyen, Hoang Truong, Taeho Kim, Anh Nguyen, Zhanan Zou, Nicholas Farrow, Jianliang Xiao (University of Colorado Boulder); Robin Deterding (Children's Hospital Colorado); Thang Dinh (Virginia Commonwealth University); Tam Vu (University of Colorado Boulder)</h6>
+ Sheng Shen, Daguan Chen (University of Illinois at Urbana-Champaign); Yu-Lin Wei, Zhijian Yang, Romit Roy Choudhury (University of Illinois at Urbana Champaign)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo14"></a>
 <br/>
-<div id="demo14" class="collapse">
-Frequent blood pressure (BP) assessment is key to the diagnosis and treatment of many severe diseases, such as heart failure, kidney failure, hypertension, and hemodialysis. Current "gold-standard'' BP measurement techniques require the complete blockage of blood flow, which causes discomfort and disruption to normal activity when the assessment is done repetitively and frequently. Unfortunately, patients with hypertension or hemodialysis often have to get their BP measured every 15 minutes for a duration of 4-5 hours or more. The discomfort of wearing a cumbersome and limited mobility device affects their normal activities. In this work, we propose a device called eBP to measure BP from inside the user's ear aiming to minimize the measurement's impact on users' normal activities while maximizing its comfort level. eBP has 3 key components: (1) a light-based pulse sensor attached on an inflatable pipe that goes inside the ear, (2) a digital air pump with a fine controller, and (3) a BP estimation algorithm. In contrast to existing devices, eBP introduces a novel technique that eliminates the need to block the blood flow inside the ear, which alleviates the user's discomfort. We prototyped eBP custom hardware and software and evaluated the system through a comparative study on 35 subjects. The study shows that eBP obtains the average error of 1.8 mmHg and -3.1 mmHg and a standard deviation error of 7.2 mmHg and 7.9 mmHg for systolic (high-pressure value) and diastolic (low-pressure value), respectively. These errors are around the acceptable margins regulated by the FDA's AAMI protocol, which allows mean errors of up to 5 mmHg and a standard deviation of up to 8 mmHg.
+<div id="demo9" class="collapse">
+Voice assistants such as Amazon Echo (Alexa) and Google Home use microphone arrays to estimate the angle of arrival (AoA) of the human voice. This paper focuses on adding user localization as a new capability to voice assistants. For any voice command, we desire Alexa to be able to localize the user inside the home. The core challenge is two-fold: (1) accurately estimating the AoAs of multipath echoes without the knowledge of the source signal, and (2) tracing back these AoAs to reverse triangulate the user’s location.
+
+We develop VoLoc, a system that proposes an iterative align-and-cancel algorithm for improved multipath AoA estimation, followed by an error-minimization technique to estimate the geometry of a nearby wall reflection. The AoAs and geometric parameters of the nearby wall are then fused to reveal the user’s location. Under modest assumptions, we report localization accuracy of 0.44 m across different rooms, clutter, and user/microphone locations. VoLoc runs in near real-time but needs to hear around 15 voice commands before becoming operational.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345453">Contactless Infant Monitoring using White Noise</a></b></h6>
+<a href="">SpiroSonic: Monitoring Human Lung Function via Acoustic Sensing on Commodity Smartphones</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Anran Wang (University of Washington), Jacob Sunshine (University of Washington School of Medicine), Shyamnath Gollakota (University of Washington)</h6>
+  Xingzhe Song, Boyuan Yang, Ge Yang, Ruirong Chen, Erick Forno, Wei Chen, Wei Gao (University of Pittsburgh)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo15"></a>
 <br/>
-<div id="demo15" class="collapse">
-White noise machines are among the most popular devices to facilitate infant sleep. We introduce the first contactless system that uses white noise to achieve motion and respiratory monitoring in infants. Our system is designed for smart speakers that can monitor an infant's sleep using white noise. The key enabler underlying our system is a set of novel algorithms that can extract the minute infant breathing motion as well as position information from white noise which is random in both the time and frequency domain. We describe the design and implementation of our system, and present experiments with a life-like infant simulator as well as a clinical study at the neonatal intensive care unit with five new-born infants. Our study demonstrates that the respiratory rate computed by our system is highly correlated with the ground truth with a correlation coefficient of 0.938.
+<div id="demo10" class="collapse">
+Respiratory diseases have been a significant public health challenge. Efficient disease evaluation and monitoring call for daily spirometry tests, as an effective way of pulmonary function testing, out of clinic. This requirement, however, is hard to be satisfied due to the large size and high costs of current spirometry equipments. In this paper, we present SpiroSonic, a new system design that uses commodity smartphones to support complete, accurate yet reliable spirometry tests in regular home settings with various environmental and human factors. SpiroSonic measures the humans' chest wall motion via acoustic sensing and interprets such motion into lung function indices, based on the clinically validated correlation between them. We implemented SpiroSonic as a smartphone app, and verified SpiroSonic's monitoring error over healthy humans as <3%. Clinical studies further show that SpiroSonic reaches 5%-10% monitoring error among 83 pediatric patients. Given that the error of in-clinic spirometry is usually around 5%, SpiroSonic can be reliably used for disease tracking and evaluation out of clinic.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300125">PDVocal: Towards Privacy-preserving Parkinson's Disease Early Detection using Passive Body Sounds in Daily Life</a></b></h6>
+<a href="">Ear-AR: Indoor Acoustic Augmented Reality on Earphones</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Hanbin Zhang, Chen Song, Aosen Wang (University at Buffalo); Dongmei Li (University of Rochester Medical Center); Wenyao Xu (University at Buffalo)</h6>
+  Zhijian Yang, Yu-Lin Wei (University of Illinois Urbana Champaign); Sheng Shen (University of Illinois at Urbana-Champaign); Romit Roy Choudhury (University of Illinois at Urbana Champaign)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo16"></a>
 <br/>
-<div id="demo16" class="collapse">
-Parkinson's disease (PD) is a chronic neurodegenerative disorder resulting from the progressive loss of dopaminergic nerve cells. People with PD usually demonstrate deficits in performing basic daily activities, and the relevant annual social cost can reach about $25 billion in the United States. Early detection of PD plays an important role in symptom relief and improvement in the performance of activities in daily life (ADL), which eventually reduces societal and economic burden. However, conventional PD detection methods are inconvenient in daily life (e.g., requiring users to wear sensors). To overcome this challenge, we propose and identify the non-speech body sounds as the new PD biomarker, and utilize the data in smartphone usage to realize the passive PD detection in daily life without interrupting the user. Specifically, we present PDVocal, an end-to-end smartphone-based privacy-preserving system towards early PD detection. PDVocal can passively recognize the PD digital biomarkers in the voice data during daily phone conversation. At the user end, PDVocal filters the audio stream and only extracts the non-speech body sounds (e.g., breathing, clearing throat and swallowing) which contain no privacy-sensitive content. At the cloud end, PDVocal analyzes the body sounds of interest and assesses the health condition using a customized residual network. For the sake of reliability in real-world PD detection, we investigate the method of the performance optimizer including an opportunistic learning knob and a long-term tracking protocol. We evaluate our proposed PDVocal on a collected dataset from 890 participants and real-life conversations from publicly available data sources. Results indicate that non-speech body sounds are a promising digital biomarker for privacy-preserving PD detection in daily life.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345433">HealthSense: Software-defined Mobile-based Clinical Trials</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Aidan Curtis, Amruta Pai, Jian Cao (Rice University); Nidal Moukaddam (Baylor College of Medicine); Ashutosh Sabharwal (Rice University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo17"></a>
-<br/>
-<div id="demo17" class="collapse">
-With the rise of ever-more sophisticated wearables and sensing technologies, mobile health continues to be an active area of research. However, from a clinical researcher point of view, testing novel use of the mobile health innovations remains a major hurdle, as composing a clinical trial using a combination of technologies still remains in the realm of computer scientists. We take a software-inspired viewpoint of clinical trial designs to design, develop and validate HealthSense to enable expressibility of complex ideas, composability with diverse devices and services while maximally maintaining simplicity for a clinical research user. A key innovation in HealthSense is the concept of a study state manager (SSM) that modifies parameters of the study over time as data accumulates and can trigger external events that affect the participant; this design allows us to implement nearly arbitrary clinical trial designs. The SSM can funnel data streams to custom or third-party cloud processing pipelines and the result can be used to give interventions and modify parameters of the study. HealthSense supports both Android and iOS platforms and is secure, scalable and fully operational. We outline three trials (two with clinical populations) to highlight simplicity, composability, and expressibility of HealthSense.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345432">Experience: Design, Development and Evaluation of a Wearable Device for mHealth Applications</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- George Boateng (ETH Zurich); Vivian Genaro Motti (George Mason); Varun Mishra (Dartmouth); John A. Batsis (Dartmouth-Hitchcock Medical Center); Josiah Hester (Northwestern); David Kotz (Dartmouth)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo18"></a>
-<br/>
-<div id="demo18" class="collapse">
-Wrist-worn devices hold great potential as a platform for mobile health (mHealth) applications because they comprise a familiar, convenient form factor and can embed sensors in proximity to the human body. Despite this potential, however, they are severely limited in battery life, storage, bandwidth, computing power, and screen size. In this paper, we describe the experience of the research and development team designing, implementing and evaluating Amulet? an open-hardware, open-software wrist-worn computing device? and its experience using Amulet to deploy mHealth apps in the field. In the past five years the team conducted 11 studies in the lab and in the field, involving 204 participants and collecting over 77,780 hours of sensor data. We describe the technical issues the team encountered and the lessons they learned, and conclude with a set of recommendations. We anticipate the experience described herein will be useful for the development of other research-oriented computing platforms. It should also be useful for researchers interested in developing and deploying mHealth applications, whether with the Amulet system or with other wearable platforms.
+<div id="demo11" class="collapse">
+This paper aims to use modern earphones as a platform for acoustic augmented reality (AAR). We intend to play 3D audio-annotations in the user’s ears as she moves and looks at AAR objects in the environment. While companies like Bose and Microsoft are beginning to release such capabilities, they are intended for outdoor environments. Our system aims to explore the challenges indoors, without requiring any infrastructure deployment. Our core idea is two-fold.(1) We jointly use the inertial sensors (IMUs) in earphones and smartphones to estimate a user’s indoor location and gazing orientation. (2) We play 3D sounds in the earphones and exploit the human’s responses to (re)calibrate errors in location and orientation. We believe this fusion of IMU and acoustics is novel, and could be an important step towards indoor AAR. Our system, EAAR, is tested on 7 volunteers invited to an AAR exhibition – like a museum – that we set up in our building’s lobby and lab. Across 60 different test sessions, the volunteers browsed different subsets of 24 annotated objects as they walked around. Results show that EAAR plays the correct audio-annotations with good accuracy. The user-feedback is encouraging and points to further areas of research and applications.
 </div></li>
 
 </ul></div></div></div>
 
 <div class="card bg-light">
-<h6 class="card-header text-white" style="background-color:#D62728">
-<b>5:30 - 7:00<br/>Poster and demo session</b></h6>
-</div>
-</div>
+<h6 class="card-header text-white" style="background-color:#2CA02C">
+<a data-toggle="collapse" href="#collapse3" class="d-block" style="color:white">
+<b>10:40 - 11:10<br/><i class="fa fa-chevron-down float-right" ></i>
+Session: mmWave and above (3 papers)<br/>Chair: Dinesh Bharadia (US) and Tommaso Melodia (Eastern US)</b>
+</a></h6>
+<div id="collapse3" class="collapse show">
+<div class="card-body">
+<ul class="list-group list-group-flush">
+<li class="list-group-item bg-light">
+<h6 class="card-title"><b>
+<a href="">ThermoWave: A New Paradigm of Wireless Passive Temperature Monitoring via mmWave Sensing</a></b></h6>
+<h6 class="card-subtitle mb-2 text-muted">
+  Baicheng Chen (University at Buffalo); Huining Li (SUNY University at Buffalo); Zhengxiong Li (The State University of New York at Buffalo); Xingyu Chen (University at Buffalo); Chenhan Xu (University at Buffalo, SUNY); Wenyao Xu (SUNY Buffalo)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo14"></a>
+<br/>
+<div id="demo12" class="collapse">
+Temperature sensor is one of the most widespread technologies in the IoT era. Wireless temperature monitoring systems are convenient to deploy and can drive mass applications in the fields of smart home, transportation and logistics. Currently, wireless temperature monitoring products are based on microelectronic and semiconductor components, which are not cost-effective (e.g., a few dollars) and more importantly, generate electronic wastes. In this work, we present ThermoWave, a new paradigm of wireless temperature monitoring that is ecological, battery-less, and ultra-low cost. Specifically, ThermoWave is on the basis of the thermal scattering effect on millimeter-wave (mmWave) signals. Specifically, cholesteryl materials align their molecular patterns at different environmental temperatures, and this temperature-induced pattern change will be modulated and sensed by the scattered mmWave signals. There are three functional modules in the ThermoWave system. The ThermoTag is a cholesteryl material inked film or paper tag that can be conveniently attached to the object of interest to monitor temperature changes. Each ThermoTag costs less than 0.01 dollars. {The temperature modulated mmWave scattering will be received by a mmWave-radar based ThermoScanner and demodulated by a software-based temperature decoder ThermoSense, which includes a model-based method (i.e., ThermoDot) for point temperature estimation and a data-driven method (i.e., ThermoNet) for thermal imaging.} We prototype and evaluate the ThermoWave system performance in both controlled and real-world setups. Experimental results show that the ThermoWave achieves the precision of ± 1.0 \degree° F in the range of 30 ° F to 120 ° F in a controlled setup. We also investigate the performance in real-world applications, and the ThermoWave can reach the ± 3.0 ° F precision in the temperature estimation. {We also test and discuss sustainability, durability, robustness, and cost-effectiveness of the ThermoWave in both design and experiments.
+</div></li>
+
+<li class="list-group-item bg-light">
+<h6 class="card-title"><b>
+<a href="">mmVib: Micrometer-Level Vibration Measurement with mmWave Radar</a></b></h6>
+<h6 class="card-subtitle mb-2 text-muted">
+  Chengkun Jiang, Junchen Guo, Yuan He, Meng Jin, Shuai Li (Tsinghua University); Yunhao Liu (Tsinghua University & MSU)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo15"></a>
+<br/>
+<div id="demo13" class="collapse">
+Vibration measurement is a crucial task in industrial systems, where vibration characteristics reflect the health and indicate anomalies of the objects. Previous approaches either work in an intrusive manner or fail to capture the micrometer-level vibrations. In this work, we propose mmVib, a practical approach to measure micrometer-level vibrations with mmWave radar. By introducing a Multi-Signal Consolidation (MSC) model to describe the properties of the reflected signals, we exploit the inherent consistency among those signals to accurately recover the vibration characteristics. We implement a prototype of mmVib, and the experiments show that this design achieves 8.2% relative amplitude error and 0.5% relative frequency error in median. Typically, the median amplitude error is 3.4um for the 100um-amplitude vibration. Compared to two existing approaches, mmVib reduces the 80th percentile amplitude error by 62.9% and 68.9% respectively.
+</div></li>
+
+<li class="list-group-item bg-light">
+<h6 class="card-title"><b>
+<a href="">Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility</a></b></h6>
+<h6 class="card-subtitle mb-2 text-muted">
+  Song Wang, Jingqi Huang, Xinyu Zhang (University of California San Diego)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo16"></a>
+<br/>
+<div id="demo14" class="collapse">
+Millimeter-wave (mmWave) networking represents a core technology to meet the demanding bandwidth requirements of emerging connected vehicles. However, the feasibility of mmWave vehicle-to-everything (V2X) connectivity has long been questioned. One major doubt lies in how the highly directional mmWave links can sustain under high mobility. In this paper, we present the first comprehensive reality check of mmWave V2X networks. We deploy an experimental testbed to mimic a typical 5G V2X scenario, and customize a COTS mmWave radio to enable microscopic investigation of the channel and the link. We further construct a high-fidelity 3D ray-tracer to reproduce the mmWave characteristics at scale. With this tool set, we study the mmWave V2X coverage, mobility and blockage, codebook/beam management, and spatial multiplexing.  Our measurement debunks some common misperceptions of mmWave V2X networks.  In particular, due to the constrained roadway network structures, we find the beam management can be handled easily by the often-denounced beam scanning schemes, as long as the codebook is properly designed. Blockage can be almost eliminated through proper gNB deployment and cooperation. Highly effective spatial multiplexing can be realized even without sophisticated MIMO radios. Our work points to possible ways to realize efficient and reliable mmWave networks under high mobility, while maintaining the simplicity of standard network protocols.
+</div></li>
+
+</ul></div></div></div>
+
 <br/><hr/>
 <div class="accordion">
-<p class="h4"><b> Wednesday, October 23, 2019</b></p>
+<p class="h4"><b> Tuesday, 22nd September, 2020</b></p>
+
+<div class="card bg-light">
+<h6 class="card-header text-white" style="background-color:#2CA02C">
+<a data-toggle="collapse" href="#collapse3" class="d-block" style="color:white">
+<b>06:00 - 06:40<br/><i class="fa fa-chevron-down float-right" ></i>
+Session: mmWave and above (5 papers)<br/>Chair: Kate Lin (Taiwan), Guoliang Xing (Hong Kong) and Mo Li (Singapore)</b>
+</a></h6>
+<div id="collapse3" class="collapse show">
+<div class="card-body">
+<ul class="list-group list-group-flush">
+<li class="list-group-item bg-light">
+<h6 class="card-title"><b>
+<a href="">X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased-Arrays</a></b></h6>
+<h6 class="card-subtitle mb-2 text-muted">
+  Song Wang, Jingqi Huang, Xinyu Zhang (University of California, San Diego); Hyoil Kim (Ulsan National Institute of Science and Technology); Sujit Dey (University of California, San Diego)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo14"></a>
+<br/>
+<div id="demo13" class="collapse">
+Millimeter-wave (mmWave) networks are conventionally considered to bear a fundamental coverage limitation, due to the directional beams and limited field-of-view (FoV) of the phased array antennas. In this paper, we explore an array of phased arrays (APA) architecture, which aggregates co-located phased arrays with complementary FoVs to approximate WiFi-like omni-directional coverage. We found that straightforwardly activating all the arrays may even hamper network performance. To fully exploit the APA's potential, we propose X-Array, which jointly selects the arrays and beams, and applies a dynamic co-phasing mechanism to ensure different arrays' signals enhance each other. X-Array also incorporates a link recovery mechanism to identify alternative arrays/beams that can efficiently recover the link from outage. We have implemented X-Array on a commodity 802.11ad APA radio. Our experiments demonstrate that X-Array can approach omni-directional coverage and maintain high performance in spite of link dynamics.
+</div></li>
+
+<li class="list-group-item bg-light">
+<h6 class="card-title"><b>
+<a href="">M-Cube: A Millimeter-Wave Massive MIMO Software Radio</a></b></h6>
+<h6 class="card-subtitle mb-2 text-muted">
+  Renjie Zhao, Timothy Woodford, Teng Wei, Kun Qian, Xinyu Zhang (University of California San Diego)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo15"></a>
+<br/>
+<div id="demo14" class="collapse">
+Millimeter-wave (mmWave) technologies represent a cornerstone for emerging wireless network infrastructure, and for RF sensing systems in security, health, and automotive domains. Through a MIMO array of phased arrays with hundreds of antenna elements, mmWave can boost wireless bit-rate to 100+~Gbps, and potentially achieve near-vision sensing resolution. However, lack of an experimental platform has been impeding research in this field. This paper fills the gap with M^3M (M-Cube), the first mmWave massive MIMO software radio. M^3M features a fully reconfigurable array of phased arrays, with up to 8 RF chains and 288 antenna elements. Despite the orders of magnitude larger antenna arrays, its cost is orders of magnitude lower, even when compared with state-of-the-art single RF chain mmWave software radios. The key design principle behind M^3M is to hijack a low-cost commodity 802.11ad radio, separate the control path and data path inside, regenerate the phased array control signals, and recreate the data signals using a programmable baseband. Extensive experiments have demonstrated the effectiveness of the M^3M design, and its usefulness for research in mmWave massive MIMO communication and sensing.
+</div></li>
+
+<li class="list-group-item bg-light">
+<h6 class="card-title"><b>
+<a href="">Single Shot Single Antenna Path Discovery in THz Networks</a></b></h6>
+<h6 class="card-subtitle mb-2 text-muted">
+  Yasaman Ghasempour, Chia-Yi Yeh (Rice University); Rabi Shrestha, Daniel Mittleman (Brown University); Edward W. Knightly (Rice University)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo16"></a>
+<br/>
+<div id="demo15" class="collapse">
+THz communication has the potential to realize an order of magnitude increase in data rates due to the availability of wide THz-scale spectral bands. Unfortunately, establishing and managing highly directional beams in THz networks is challenging as links lack the “pseudo-omni” reception capability of lower bands and the product of AP-client beam resolution is high due to narrow beams of only a few degrees. In this paper, we present One-shot Path discovEry with a THz RAinbow (OPERA), a novel system that identifies dominant paths between the AP and all clients in order to efficiently steer directional beams. The key idea is to embed path direction into the inherent characteristics of signals traveling along each path. To do so, we exploit a single leaky wave antenna and create a THz Rainbow. A THz Rainbow transmission consists of distinct signals with unique spectral characteristics across the angular domain. Leveraging the spatial-spectral signatures in the THz Rainbow, all receivers can correlate the measured signal with the known transmission signatures to discover the sender’s path directions in one-shot. Our experiments demonstrate that OPERA achieves average direction estimates within 2^{\circ}2 of ground truth for LOS and reflected paths.
+</div></li>
+
+<li class="list-group-item bg-light">
+<h6 class="card-title"><b>
+<a href="">Millimeter-Wave Full Duplex Radios</a></b></h6>
+<h6 class="card-subtitle mb-2 text-muted">
+  Vaibhav Singh, Susnata Mondal, Akshay Gadre (Carnegie Mellon University); Milind Srivastava (Indian Institute of Technology Madras); Jeyanandh Paramesh, Swarun Kumar (Carnegie Mellon University)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo16"></a>
+<br/>
+<div id="demo16" class="collapse">
+mm-Wave has emerged as an attractive high-speed wireless communication paradigm owing to the high available bandwidth at mm-wave frequencies. Full-Duplex has the potential to double the available capacity in the mm-wave bands by enabling simultaneous radio transmission and reception. While full-duplex has been extensively studied in sub-6 GHz bands, this paper exposes the unique challenges in porting this capability to mm-wave frequencies.
+
+We present mmFD, the first comprehensive system design of a mm-wave full-duplex platform. mmFD achieves large self-interference cancellation through novel designs at the antenna, analog and digital frontends. We exploit the small wavelength of mm-wave to achieve strong signal isolation between transmit and receive antennas. We further build a custom IC that achieves high-bandwidth analog cancellation at mm-wave frequencies. Finally, we present digital self-interference cancellation algorithms that address the unique hardware impairments observed at mm-wave frequencies. A detailed evaluation of mmFD  demonstrates 84 dB of cancellation and 1.7x throughput gain over equivalent half-duplex systems in rich indoor settings.
+</div></li>
+
+</ul></div></div></div>
 
 <div class="card">
 <h6 class="card-header text-white" style="background-color:#D62728">
