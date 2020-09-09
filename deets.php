@@ -116,7 +116,7 @@ This paper presents the design, implementation and evaluation of In-N-Out, a sof
 <h6 class="card-title"><b>
 <a href="">Self-Reconfigurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
-  Mohamed R. Abdelhamid, Ruicong Chen, Joonhyuk Cho, Anantha P. Chandrakasan, Fadel Adib (Massachusetts Institute of Technology)
+  Mohamed R. Abdelhamid, Ruicong Chen, Joonhyuk Cho, Anantha P. Chandrakasan, Fadel Adib (Massachusetts Institute of Technology)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo10"></a>
 <br/>
 <div id="demo8" class="collapse">
