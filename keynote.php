@@ -36,7 +36,7 @@
 <br/>
 <p>Sachin Katti is an Associate Professor of Electrical Engineering and Computer Science at Stanford University and an Advisor in charge of Telco Strategy at VMware. He is also the Co-Chair of the Technical Steering Committee for O-RAN Alliance and the Director of the xRAN Foundation. He is also Co-Founder and ex-CEO of Uhana (now part of VMware) which built a network AI platform to monitor and optimize mobile networks and applications. He has previously co-founded Kumu Networks, which is commercializing breakthrough research from his lab on full duplex radios. He received his PhD in EECS from MIT in 2009. His research focuses on designing and building next generation high capacity wireless networks by combining techniques from information and coding theory, RF systems, and networking.  His research has won numerous awards, including the 2008 ACM Doctoral Dissertation Award - Honorable Mention, the George Sprowls Award for Best Doctoral Dissertation in EECS at MIT, the IEEE William Bennett Prize, the Best Student Paper Award at ACM SIGCOMM 2012, USENIX ATC 2013, the Sloan Fellowship, the NSF Career Award as well as Okawa, Hooover, Packard and Terman Faculty Fellowships.</p></br>
 
-<h5><b>Keynote 3: What’s next in the cellular infrastructure</b></h5>
+<h5><b>Keynote 4: What’s next in the cellular infrastructure</b></h5>
 <b>Durga Malladi. Qualcomm Technologies.</b>
 </br>
 <p>Abstract:</p>

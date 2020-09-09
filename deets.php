@@ -229,7 +229,7 @@ Millimeter-wave (mmWave) networking represents a core technology to meet the dem
 
 <br/><hr/>
 <div class="accordion">
-<p class="h4"><b> Tuesday, 22nd September, 2020</b></p>
+<p class="h4"><b>Tuesday, 22nd September, 2020 PDT</b></p>
 
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
@@ -288,89 +288,35 @@ We present mmFD, the first comprehensive system design of a mm-wave full-duplex 
 
 </ul></div></div></div>
 
-<div class="card">
-<h6 class="card-header text-white" style="background-color:#D62728">
-<b>9:00 - 10:00<br/>Keynote: Carlos Guestrin</b></h6>
-<div class="card-body bg-light">
-<h6 class="card-title">
-<a href="keynotes.php#carlos"><b>4 Systems Perspectives into Human-Centered Machine Learning</b></a>
-</h6>
-</div>
-</div>
-
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse4" class="d-block" style="color:white">
-<b>10:30 - 12:00<br/><i class="fa fa-chevron-down float-right" ></i>
-Session 4: Video Streaming, Analytics and Intelligent Edge (6 papers)<br/>Chair: Aruna Balasubramanian (Stony Brook University)</b>
+<b>06:45 - 07:05<br/><i class="fa fa-chevron-down float-right" ></i>
+Session: Testbed (2 papers)<br/>Chair: Xenofon Foukas (UK) and Nigel Davies</b>
 </a></h6>
 <div id="collapse4" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345430">Learning to Coordinate Video Codec with Transport Protocol for Mobile Video Telephony</a></b></h6>
+<a href="">Challenge: COSMOS: A City-Scale Programmable Testbed for Experimentation with Advanced Wireless</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Anfu Zhou, Huanhuan Zhang, Guangyuan Su, Leilei Wu, Ruoxuan Ma, Zhen Meng (Beijing University of Posts and Telecommunications); Xinyu Zhang (University of California San Diego); Xiufeng Xie (Hewlett Packard Labs); Huadong Ma (Beijing University of Posts and Telecommunications); Xiaojiang Chen (Alibaba Inc.)</h6>
+ Dipankar Raychaudhuri, Ivan Seskar (Rutgers University); Gil Zussman (Columbia University); Thanasis Korakis (New York University); Dan Kilper (University of Arizona); Tingjun Chen (Columbia University); Jakub Kolodziejski, Michael Sherman (Rutgers University); Zoran Kostic (Columbia University); Xiaoxiong Gu (IBM Research); Harish Krishnaswamy (Columbia University); Sumit Maheshwari (Rutgers); Panagiotis Skrimponis (New York University); Craig Gutterman (Columbia University)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo19"></a>
 <br/>
-<div id="demo19" class="collapse">
-Despite the pervasive use of real-time video telephony services, the users' quality of experience (QoE) remains unsatisfactory, especially over the mobile Internet. Previous work studied the problem via controlled experiments, while a systematic and in-depth investigation in the wild is still missing. To bridge the gap, we conduct a large-scale measurement campaign on Taobao-Live, an operational mobile video telephony service. Our measurement logs fine-grained performance metrics over 1 million video call sessions. Our analysis shows that the application-layer video codec and transport-layer protocols remain highly uncoordinated, which represents one major reason for the low QoE. We thus propose Concerto, a machine learning based framework to resolve the issue. Instead of blindly following the transport layer's estimation of network capacity, Concerto reviews historical logs of both layers, and extracts high-level features of codec/network dynamics, based on which it determines the highest bitrates for forthcoming video frames without incurring congestion. To attain the ability, we train Concerto with the aforementioned massive data traces using a custom-designed imitation learning algorithm, which enables Concerto to learn from past experience. We have implemented and incorporated Concerto into Taobao-Live. Our experiments show that Concerto outperforms state-of-the-art solutions, improving video quality while reducing stalling time by multi-folds under various practical scenarios.
+<div id="demo17" class="collapse">
+This paper focuses on COSMOS - Cloud enhanced Open Software defined MObile wireless testbed for city-Scale deployment. The COSMOS testbed is being deployed in West Harlem (New York City) as part of the NSF Platforms for Advanced Wireless Research (PAWR) program. It will enable researchers to explore the technology ``sweet spot'' of ultra-high bandwidth and ultra-low latency in the most demanding real-world environment. We describe the testbed's architecture, the design and deployment challenges, and the experience gained during the design and pilot deployment. Specifically, we describe COSMOS' computing and network architectures, the critical building blocks, and its programmability at different layers. The building blocks include software-defined radios, 28 GHz millimeter-wave phased array modules, optical transport network, core and edge cloud, and control and management software. We describe COSMOS' deployment phases in a dense urban environment, the research areas that could be studied in the testbed, and specific example experiments. Finally, we discuss our experience with using COSMOS as an educational tool.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300127">Jigsaw: Robust Live 4K Video Streaming</a></b></h6>
+<a href="">Experience: Advanced Network Operations in (Un)-Connected Remote Communities</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Ghufran Baig, Jian He, Mubashir Adnan Qureshi, Lili Qiu (The University of Texas at Austin); Peng Chen, Yinliang Hu (Huawei)</h6>
+  Diego Perino (Telefonica Research); Xiaoyuan Yang (Telefonica); Joan Serra (Dolby Labs); Andra Lutu (Telefonica Research); Ilias Leontiadis (Samsung AI)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo20"></a>
 <br/>
-<div id="demo20" class="collapse">
-The popularity of 4K videos has grown significantly in the past few years. Yet coding and streaming live 4K videos incurs prohibitive cost to the network and end system. Motivated by this observation, we explore the feasibility of supporting live 4K video streaming over wireless networks using commodity devices. Given the high data rate requirement of 4K videos, 60 GHz is appealing, but its large and unpredictable throughput fluctuation makes it hard to provide desirable user experience. In particular, to support live 4K video streaming, we should (i) adapt to highly variable and unpredictable wireless throughput, (ii) support efficient 4K video coding on commodity devices. To this end, we propose a novel system, Jigsaw. It consists of (i) easy-to-compute layered video coding to seamlessly adapt to unpredictable wireless link fluctuations, (ii) efficient GPU implementation of video coding on commodity devices, and (iii) effectively leveraging both WiFi and WiGig through delayed video adaptation and smart scheduling. Using real experiments and emulation, we demonstrate the feasibility and effectiveness of our system. Our results show that it improves PSNR by 6-15dB and improves SSIM by 0.011-0.217 over state-of-the-art approaches. Moreover, even when throughput fluctuates widely between 0.2Gbps-2Gbps, it can achieve an average PSNR of 33dB.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345455">MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Royson Lee, Stylianos I. Venieris, Lukasz Dudziak, Sourav Bhattacharya, Nicholas D. Lane (Samsung AI Center Cambridge)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo21"></a>
-<br/>
-<div id="demo21" class="collapse">
-In recent years, convolutional networks have demonstrated unprecedented performance in the image restoration task of super-resolution (SR). SR entails the upscaling of a single low-resolution image in order to meet application-specific image quality demands and plays a key role in mobile devices. To comply with privacy regulations and reduce the overhead of cloud computing, executing SR models locally on-device constitutes a key alternative approach. Nevertheless, the excessive compute and memory requirements of SR workloads pose a challenge in mapping SR networks on resource-constrained mobile platforms. This work presents MobiSR, a novel framework for performing efficient super-resolution on-device. Given a target mobile platform, the proposed framework considers popular model compression techniques and traverses the design space to reach the highest performing trade-off between image quality and processing speed. At run time, a novel scheduler dispatches incoming image patches to the appropriate model-engine pair based on the patch's estimated upscaling difficulty in order to meet the required image quality with minimum processing latency. Quantitative evaluation shows that the proposed framework yields on-device SR designs that achieve an average speedup of 2.13x over highly-optimized parallel difficulty-unaware mappings and 4.79x over highly-optimized single compute engine implementations.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300116">Edge Assisted Real-time Object Detection for Mobile Augmented Reality</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Luyang Liu, Hongyu Li, Marco Gruteser (WINLAB, Rutgers University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo22"></a>
-<br/>
-<div id="demo22" class="collapse">
-Most existing Augmented Reality (AR) and Mixed Reality (MR) systems are able to understand the 3D geometry of the surroundings but lack the ability to detect and classify complex objects in the real world. Such capabilities can be enabled with deep Convolutional Neural Networks (CNN), but it remains difficult to execute large networks on mobile devices. Offloading object detection to the edge or cloud is also very challenging due to the stringent requirements on high detection accuracy and low end-to-end latency. The long latency of existing offloading techniques can significantly reduce the detection accuracy due to changes in the user's view. To address the problem, we design a system that enables high accuracy object detection for commodity AR/MR system running at 60fps. The system employs low latency offloading techniques, decouples the rendering pipeline from the offloading pipeline, and uses a fast object tracking method to maintain detection accuracy. The result shows that the system can improve the detection accuracy by 20.2%-34.8% for the object detection and human keypoint detection tasks, and only requires 2.24ms latency for object tracking on the AR device. Thus, the system leaves more time and computational resources to render virtual elements for the next frame and enables higher quality AR/MR experiences.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345448">Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Xiufeng Xie, Kyu-Han Kim (Hewlett Packard Labs)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo23"></a>
-<br/>
-<div id="demo23" class="collapse">
-IoT and deep learning based computer vision together create an immense market opportunity, but running deep neural networks (DNNs) on resource-constrained IoT devices remains challenging. Offloading DNN inference to an edge server is a promising solution, but limited wireless bandwidth bottlenecks its end-to-end performance and scalability. While IoT devices can adopt source compression to cope with the limited bandwidth, existing compression algorithms (or codecs) are not designed for DNN (but for human eyes), and thus, suffer from either low compression rates or high DNN inference errors. This paper presents GRACE, a DNN-aware compression algorithm that facilitates the edge inference by significantly saving the network bandwidth consumption without disturbing the inference performance. Given a target DNN, GRACE (i) analyzes DNN's perception model w.r.t both spatial frequencies and colors and (ii) generates an optimized compression strategy for the model - one-time offline process. Next, GRACE deploys thus-generated compression strategy at IoT devices (or source) to perform online source compression within the existing codec framework, adding no extra overhead. We prototype GRACE on JPEG (the most popular image codec framework), and our evaluation results show that GRACE indeed achieves the superior compression performance over existing strategies for key DNN applications. For semantic segmentation tasks, GRACE reduces a source size by 23% compared to JPEG with similar interference accuracy (0.38% lower than GRACE). Further, GRACE even achieves 7.5% higher inference accuracy than JPEG with a commonly used quality level of 75 does. For classification tasks, GRACE reduces the bandwidth consumption by 90% over JPEG with the same inference accuracy.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345447">Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Taegyeong Lee (KAIST); Zhiqi Lin (University of Science and Technology of China); Saumay Pushp (KAIST); Caihua Li (Rice University); Yunxin Liu (Microsoft Research); Youngki Lee (Seoul National University); Fengyuan Xu (Najing University); Chenren Xu (Peking University); Lintao Zhang (Microsoft Research); Junehwa Song (KAIST)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo24"></a>
-<br/>
-<div id="demo24" class="collapse">
-Deep-learning (DL) is receiving huge attention as enabling techniques for emerging mobile and IoT applications. It is a common practice to conduct DNN model-based inference using cloud services due to their high computation and memory cost. However, such a cloud-offloaded inference raises serious privacy concerns. Malicious external attackers or untrustworthy internal administrators of clouds may leak highly sensitive and private data such as image, voice and textual data. In this paper, we propose Occlumency, a novel cloud-driven solution designed to protect user privacy without compromising the benefit of using powerful cloud resources. Occlumency leverages secure SGX enclave to preserve the confidentiality and the integrity of user data throughout the entire DL inference process. DL inference in SGX enclave, however, impose a severe performance degradation due to limited physical memory space and inefficient page swapping. We designed a suite of novel techniques to accelerate DL inference inside the enclave with a limited memory size and implemented Occlumency based on Caffe. Our experiment with various DNN models shows that Occlumency improves inference speed by 3.6x compared to the baseline DL inference in SGX and achieves a secure DL inference within 72% of latency overhead compared to inference in the native environment.
+<div id="demo18" class="collapse">
+The Anonymous program is working to provide sustainable mobile broadband to 100 M unconnected people in Latin America. In this paper we present our commercial deployment in thousands remote small communities and describe the unique experience of maintaining this infrastructure. We describe the challenges related to managing operations containing the cost in these extreme geographical conditions. We also analyze operational data to understand outage patterns and present typical operational issues in this unique remote community environment. Finally, we present an extension of the operations support system (OSS) leveraging advanced analytics and machine learning with the goal of optimizing network maintenance reducing costs.
 </div></li>
 
 </ul></div></div></div>
@@ -378,87 +324,65 @@ Deep-learning (DL) is receiving huge attention as enabling techniques for emergi
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse5" class="d-block" style="color:white">
-<b>1:30 - 3:00<br/><i class="fa fa-chevron-down float-right" ></i>
-Session 5: Advancing Wireless Networks: Tools, Techniques and Deployments (7 papers)<br/>Chair: Swarun Kumar (Carnegie Mellon University)</b>
+<b>07:10 - 8:00<br/><i class="fa fa-chevron-down float-right" ></i>
+Session: Cellular (5 papers)<br/>Chair: Suman Banerjee (middle US), Heather Zheng (middle US) and Morley Mao</b>
 </a></h6>
 <div id="collapse5" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300140">Detecting if LTE is the Bottleneck with BurstTracker</a></b></h6>
+<a href="">Ghost Calls from Operational 4G Call Systems: IMS Vulnerability, Call DoS Attack, and Countermeasure</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Arjun Balasingam (Stanford University); Manu Bansal (Stanford University); Rakesh Misra (Uhana Inc.); Kanthi Nagaraj (Stanford University); Rahul Tandra (Uhana Inc.); Sachin Katti (Stanford University); Aaron Schulman (UC San Diego)</h6>
+ Yu-Han Lu, Chi-Yu Li, Yao-Yu Li, Sandy Hsin-Yu Hsiao (National Chiao Tung University); Tian Xie (Michigan State Univeristy); Guan-Hua Tu (Michigan State University); Wei-Xun Chen (National Chiao Tung University)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo25"></a>
 <br/>
-<div id="demo25" class="collapse">
-We present BurstTracker, the first tool that developers can use to detect if the LTE downlink is the bottleneck for their applications. BurstTracker is driven by our discovery that the proprietary LTE downlink schedulers running on LTE base stations allocate resources to users in a way that reveals if a user's downlink queue runs empty during a download. We demonstrate that BurstTracker works across Tier-1 cellular providers and across a variety of network conditions. We also present a case study that shows how application developers can use this tool in practice. Surprisingly, with BurstTracker, we find that the LTE downlink may not be the bottleneck for video streaming on several Tier-1 providers, even during peak hours at busy locations. Rather, transparent TCP middleboxes deployed by these providers lead to downlink underutilization, because they force Slow-Start Restart. With a simple workaround, we improve video streaming bitrate on busy LTE links by 35%.
+<div id="demo19" class="collapse">
+IMS (IP Multimedia Subsystem) is an essential framework for providing 4G/5G multimedia services. It has been deployed worldwide to support two call services: VoLTE (Voice over LTE) and VoWi-Fi (Voice over Wi-Fi). VoWi-Fi enables telephony calls over the Wi-Fi network to complement VoLTE. In this work, we uncover that the VoWi-Fi signaling session can be hijacked to maliciously manipulate the IMS call operation. An adversary can easily make ghost calls to launch a stealthy call DoS (Denial of Service) attack against specific cellular users. Only phone numbers, but not any malware or network information, are required from the victims. This sophisticated attack harnesses a design defect of the IMS call state machine, but not simply flooding or a crash trigger. To stealthily detect attackable phones at run time, we exploit a vulnerability of the 4G network infrastructure, call information leakage, which we explore using machine learning. We validate these vulnerabilities in operational 4G networks of 4 top-tier carriers across Asia and North America countries with 7 phone brands. Our result shows that the call DoS attack can prevent the victims from receiving incoming calls up to 99.0% time without user awareness. We finally propose and evaluate recommended solutions.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345446">Experiences: Design, Implementation, and Deployment of CoLTE, a Community LTE Solution</a></b></h6>
+<a href="">DMM: Fast Map Matching Framework for Cellular Data</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Spencer Sevilla, Matthew Johnson, Pathirat Kosakanchit, Jenny Ting Liang, Kurtis Heimerl (University of Washington)</h6>
+ Zhihao Shen (Xi’an Jiaotong University); Wan Du (University of California, Merced); Xi Zhao, Jianhua Zou (Xi’an Jiaotong University)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo26"></a>
 <br/>
-<div id="demo26" class="collapse">
-In this paper we introduce CoLTE, a solution for LTE-based community networks. CoLTE is a lightweight, Internet-only LTE core network (EPC) designed to facilitate the deployment and operation of small-scale, community owned and operated LTE networks in rural areas with limited and unreliable backhaul. The key differentiator of CoLTE, when compared to existing LTE solutions, is that in CoLTE the EPC is designed to be located in the field and deployed alongside a small number of cellular radios (eNodeBs), as opposed to the centralized model seen in large-scale telecom networks. We also provide performance results and lessons learned from a real-world CoLTE network deployed in rural Indonesia. This network has been sustainably operating for over six months, currently serves over 40 active users, and provides measured backhaul reductions of up to 45% when compared to cloud-core solutions.
+<div id="demo20" class="collapse">
+Map matching for cellular data is to transform a sequence of cell tower locations to a trajectory on a road map. It is an essential processing step for many applications, such as traffic optimization and human mobility analysis. However, most current map matching approaches are based on Hidden Markov Models (HMMs) that have heavy computation overhead to consider high-order cell tower information. This paper presents a fast map matching framework for cellular data, named as DMM, which adopts a recurrent neural network (RNN) to identify the most-likely trajectory of roads given a sequence of cell towers. Once the RNN model is trained, it can process cell tower sequences as making RNN inference, resulting in fast map matching speed. To transform DMM into a practical system, several challenges are addressed by developing a set of techniques, including spatial-aware representation of input cell tower sequences, an encoder-decoder framework for map matching model with variable-length input and output, and a reinforcement learning based model for optimizing the matched outputs. Extensive experiments on a large-scale anonymized cellular dataset reveal that DMM provides high map matching accuracy (precision 80.43% and recall 85.42%) and reduces the average inference time of HMM-based approaches by 46.58x.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300134">Systematic way to LTE Testing</a></b></h6>
+<a href="">Microscope: Mobile Service Traffic Decomposition for Network Slicing as a Service</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Muhammad Taqi Raza, Songwu Lu (UCLA)</h6>
+ Chaoyun Zhang (University of Edinburgh); Marco Fiore (IMDEA Networks Institute); Cezary Ziemlicki (Orange Labs); Paul Patras (University of Edinburgh)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo27"></a>
 <br/>
-<div id="demo27" class="collapse">
-LTE test cases are standardized by 3GPP. They must be executed on every LTE-capable device model before commercial release. In this work, we examine the LTE testing practices in terms of completeness and efficiency. We discover that the standardized tests are incomplete in that a number of test cases related to multiple protocol interactions are missing. Our analysis also shows that, the isolated treatment of test cases, but not from the system perspective, incurs repetitive executions of test operations, thus resulting in testing inefficiencies. We thus make a case for a paradigm shift from ad hoc testing to a methodical approach to LTE testing. We follow a few guidelines from the LTE standards and propose an algorithmic approach to systematic testing. In the process, we address various challenges, provide complete list of test cases, and present the related algorithms. Our evaluation shows that, by eliminating repetitive operations, our new scheme reduces up to 70% of LTE testing steps. We also find 87 new, yet valid test cases that are not defined by the LTE standards.
+<div id="demo21" class="collapse">
+The growing diversification of mobile services imposes requirements on network performance that are ever more stringent and heterogeneous. Network slicing aligns mobile network operation to this context, by enabling operators to isolate and customize network resources on a per-service basis. A key input for provisioning resources to slices is real-time information about the traffic demands generated by individual services. Acquiring such knowledge is however challenging. In particular, legacy approaches based on in-depth inspection of traffic streams have high computational costs, which inflate with the widening adoption of encryption over data and control traffic. In this paper, we present an original approach to service-level demand estimation for slicing, which hinges on decomposition, the inference of per-service demands from traffic aggregates. By operating on total traffic volumes only, our approach overcomes the complexity and limitations of legacy traffic classification techniques, and provides an output suitable for recent 'Network Slice as a Service' models. We implement decomposition through Microscope, a dedicated framework based on novel 3D Deformable Convolutional Neural Networks (3D-DefCNNs), which we design to handle spatial distortion in the input data due to irregular radio access deployment and coverage, and to exploit spatiotemporal features hidden in traffic aggregates. Experiments with metropolitan-scale measurements collected in an operational network demonstrate that Microscope accurately infers per-service traffic demands, with estimation errors below 1.2%.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300123">An Active-Passive Measurement Study of TCP Performance over LTE on High-speed Rails</a></b></h6>
+<a href="">iCellSpeed: Increasing Cellular Data Speed with Device-Assisted Cell Selection</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Jing Wang, Yufan Zheng, Yunzhe Ni, Chenren Xu (Peking University), Feng Qian (University of Minnesota - Twin Cities), Wangyang Li, Wantong Jiang, Yihua Cheng, Zhuo Cheng (Peking University), Yuanjie Li, Xiufeng Xie (Hewlett Packard Labs), Yi Sun (Institute of Computing Technology, University of Chinese Academy of Sciences), Zhongfeng Wang (China Academy of Railway Sciences)</h6>
+ Haotian Deng (Purdue University); Qianru Li (UCLA); Jingqi Huang, Chunyi Peng (Purdue University)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo28"></a>
 <br/>
-<div id="demo28" class="collapse">
-High-speed rail (HSR) systems potentially provide a more efficient way of door-to-door transportation than airplane. However, they also pose unprecedented challenges in delivering seamless Internet service for on-board passengers. In this paper, we conduct a large-scale active-passive measurement study of TCP performance over LTE on HSR. Our measurement targets the HSR routes in China operating at above 300 km/h. We performed extensive data collection through both controlled setting and passive monitoring, obtaining 1732.9 GB data collected over 135719 km of trips. Leveraging such a unique dataset, we measure important performance metrics such as TCP goodput, latency, loss rate, as well as key characteristics of TCP flows, application breakdown, and users' behaviors. We further quantitatively study the impact of frequent cellular handover on HSR networking performance, and conduct in-depth examination of the performance of two widely deployed transport-layer protocols: TCP CUBIC and TCP BBR. Our findings reveal the performance of today's commercial HSR networks "in the wild'', as well as identify several performance inefficiencies, which motivate us to design a simple yet effective congestion control algorithm based on BBR to further boost the throughput by up to 36.5%. They together highlight the need to develop dedicated protocol mechanisms that are friendly to extreme mobility.
+<div id="demo22" class="collapse">
+In this paper, we propose iCellSpeed, an on-device solution to increase data access speed by substantiating unrealized performance potentials. We find that performance potentials are missed in today’s mobile networks, as the data speed a user device gets is much lower than what the device could get. The issue is rooted in the current cell selection practice, which misses good candidate cells that offer faster access speed, thus under-utilizing the available capabilities in mobile networks. We design iCellSpeed to facilitate network-controlled cell selection with proactive device-side assistance towards more desirable cells. Our evaluation over AT&T and Verizon confirms its effectiveness. iCellSpeed increases data access speed by more than 10 Mbps at 79% of test locations (> 25Mbps at 29% of locations, up to 80.6 Mbps). It doubles access speed at 62.5% of locations with the gain up to 28.4x. Datasets are available at 7].
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300131">MP-H2: a Client-only Multipath Solution for HTTP/2</a></b></h6>
+<a href="">Experience: Towards Automated Customer Issue Resolution in Cellular Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Ashkan Nikravesh, Yihua Guo, Xiao Zhu (University of Michigan); Feng Qian (University of Minnesota - Twin Cities); Z. Morley Mao (University of Michigan)</h6>
+ Amit Sheoran, Sonia Fahmy (Purdue University); Matthew Osinski (AT&T Labs Research); Chunyi Peng, Bruno Ribeiro (Purdue University); Jia Wang (AT&T Labs Research)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo29"></a>
 <br/>
-<div id="demo29" class="collapse">
-MP-H2 is a client-only, HTTP-based multipath solution. It enables an HTTP client to fetch content (an HTTP object) over multiple network paths such as WiFi and cellular on smartphones. Compared to MPTCP, MP-H2 offers several key advantages including server transparency, middlebox compatibility, and friendliness to CDN, anycast, and load balancing. MP-H2 strategically splits the file into byte range requests sent over multipath, and dynamically balances the workload across all paths. Furthermore, MP-H2 leverages new features in HTTP/2 including stream multiplexing, flow control, and application-layer PING to boost the performance. MP-H2 also supports multi-homing where each path contacts a different CDN server for enhanced performance. Evaluations show that MP-H2 offers only slightly degraded performance (6% on average) while being much easier to deploy compared to MPTCP. Compared to other state-of-the-art HTTP multipath solutions, MP-H2 reduces the file download time by up to 47%, and increases the DASH video streaming bitrate by up to 44%.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345435">MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Swetank Kumar Saha, Shivang Aggarwal, Rohan Pathak, Dimitrios Koutsonikolas (University at Buffalo, The State University of New York); Joerg Widmer (IMDEA Networks Institute)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo30"></a>
-<br/>
-<div id="demo30" class="collapse">
-Future WLAN devices will combine both IEEE 802.11ad and 802.11ac interfaces. The former provides multi-Gbps rates but is susceptible to blockage, whereas the latter is slower but offers reliable connectivity. A fundamental challenge is thus how to combine those complementary technologies, to make the most of the advantages they offer. In this work, we explore leveraging Multipath TCP (MPTCP) to use both interfaces simultaneously in order to achieve a higher overall throughput as well as seamlessly switching to a single interface when the other one fails. We find that standard MPTCP often performs sub-optimally and may even yield a throughput much lower than that of single path TCP over the faster of the two interfaces. We analyze the cause of these performance issues in detail and then design MuSher, an agile MPTCP scheduler that allows MPTCP to fully utilize the channel resources available to both interfaces. Our evaluation in realistic scenarios shows that MuSher provides a throughput improvement of up to 1.5x/2.3x and speeds up the recovery of a traffic stream, after disruption, by a factor of up to 8x/75x, under WLAN/Internet settings respectively, compared to the default MPTCP scheduler.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300135">ClientMarshal: Regaining Control from Wireless Clients for Better Experience in Enterprise WLANs</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Apurv Bhartia, Bo Chen, Derrick Pallas, Waldin Stone (Cisco Meraki)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo31"></a>
-<br/>
-<div id="demo31" class="collapse">
-Client devices must cooperate to share limited resources in wireless local area networks (WLANs). Standards exist for access points (APs), to use a more holistic view of the RF environment, to share information with clients (802.11v/k), allowing clients to make better performance-impacting decisions, e.g. choosing to roam between APs. Standards intended to lower the cost of these expensive control-plane operations (802.11r) also exist. In this paper, we use large scale measurements to show the limited adoption of existing client-based techniques. We propose ClientMarshal for enterprise WLANs, which provides network infrastructure more control over these decisions without modification to client device software. ClientMarshal divides the enterprise network into logical groups called cells, each consisting of a small number of neighboring APs operating on different channels. All APs belonging to the same cell broadcast the same wireless identity (BSSID) to client devices, and appear as a single virtual AP. The key enabler behind ClientMarshal is FreeSteer (FST), a novel protocol we develop that allows an AP to dynamically steer an associated client to another AP in the same cell based on various network measurements in order to improve overall network performance. This design also improves the roaming experience by bypassing traditional control-plane operations, avoiding significant overhead as well as client implementation defects. Using systematic evaluation and implementation on commodity APs, we show the efficacy and control of FST protocol in client steering. Compared to state-of-the-art approaches, FST can steer clients almost 2.5X faster, with 52% higher success rate, and reduce packet loss by more than 68%.
+<div id="demo23" class="collapse">
+Cellular service carriers often employ reactive strategies to assist customers who experience non-outage related individual service degradation issues (e.g., service performance degradations that do not impact customers at scale and are likely caused by network provisioning issues for individual devices). Customers need to contact customer care to request assistance before these issues are resolved. This paper presents our experience with PACE (ProActive customer CarE), a novel, proactive system that monitors, troubleshoots and resolves individual service issues, without having to rely on customers to first contact customer care for assistance. PACE seeks to improve customer experience and care operation efficiency by automatically detecting individual (non-outage related) service issues, prioritizing repair actions by predicting customers who are likely to contact care to report their issues, and proactively triggering actions to resolve these issues. We develop three machine learning-based prediction models, and implement a fully automated system that integrates these prediction models and takes resolution actions for individual customers. We conduct a large-scale trace-driven evaluation using real-world data collected from a major cellular carrier in the US, and demonstrate that PACE is able to predict customers who are likely to contact care due to non-outage related individual service issues with high accuracy. We further deploy PACE into this cellular carrier network. Our field trial results show that PACE is effective in proactively resolving non-outage related individual customer service issues, improving customer experience, and reducing the need for customers to report their service issues.
 </div></li>
 
 </ul></div></div></div>
@@ -466,94 +390,81 @@ Client devices must cooperate to share limited resources in wireless local area 
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse6" class="d-block" style="color:white">
-<b>3:30 - 5:00<br/><i class="fa fa-chevron-down float-right" ></i>
-Session 6: Mobile Systems: Performance, Energy and Data Analytics (7 papers)<br/>Chair: Heather Zheng (University of Chicago)</b>
+<b>08:05 - 08:45<br/><i class="fa fa-chevron-down float-right" ></i>
+Session: Communication Systems (4 papers)<br/>Chair: Bo Chen (US), Jie Xiong (Eastern US) and Ranveer Chandra</b>
 </a></h6>
 <div id="collapse6" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300122">Mobile Gaming on Personal Computers with Direct Android Emulation</a></b></h6>
+<a href="">SDR Receiver Using Commodity WiFi via Physical-Layer Signal Reconstruction</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Qifan Yang, Zhenhua Li (Tsinghua University); Tianyin Xu (UIUC); Ennan Zhai (Alibaba Group Inc.); Yunhao Liu (Tsinghua University); Yuanchao Huang, Jiaming He, Hai Long (Tencent Security)</h6>
+ Woojae Jeong, Jinhwan Jung (KAIST); Yuanda Wang (Michigan State University); Shuai Wang (George Mason University); Seokwon Yang (KAIST); Qiben Yan (Michigan State University); Yung Yi, Song Min Kim (KAIST)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo32"></a>
 <br/>
-<div id="demo32" class="collapse">
-Playing Android games on Windows x86 PCs has gained enormous popularity in recent years, and the de facto solution is to use mobile emulators built with the AOVB (Android-x86 On VirtualBox) architecture. When playing heavy 3D Android games with AOVB, however, users often suffer unsatisfactory smoothness due to the considerable overhead of full virtualization. This paper presents DAOW, a game-oriented Android emulator implementing the idea of direct Android emulation, which eliminates the overhead of full virtualization by directly executing Android app binaries on top of x86-based Windows. Based on pragmatic, efficient instruction rewriting and syscall emulation, DAOW offers foreign Android binaries direct access to the domestic PC hardware through Windows kernel interfaces, achieving nearly native hardware performance. Moreover, it leverages graphics and security techniques to enhance user experiences and prevent cheating in gaming. As of late 2018, DAOW has been adopted by over 50 million PC users to run thousands of heavy 3D Android games. Compared with AOVB, DAOW improves the smoothness by 21% on average, decreases the game startup time by 48%, and reduces the memory usage by 22%.
+<div id="demo24" class="collapse">
+With the explosive increase in wireless devices, physical-layer signal analysis has become critically beneficial across distinctive domains including interference minimization in network planning, security and privacy (e.g., drone and spycam detection), and mobile health with remote sensing. While SDR is known to be highly effective in realizing such services, they are rarely deployed or used by the end-users due to the costly hardware∼1K USD (e.g., USRP). Low-cost SDRs (e.g., RTL-SDR) are available, but their bandwidth is limited to 2-3 MHz and operation range falls well below 2.4 GHz – the unlicensed band holding majority of the wireless devices. This paper presents SDR-Lite, the first zero-cost, software-only soft-ware defined radio (SDR) receiver that empowers commodity WiFi to retrieve the In-phase and Quadrature of an ambient signal. With the full compatibility to pervasively-deployed WiFi infrastructure (without any change to the hardware and firmware), SDR-Lite aims to spread the blessing of SDR receiver functionalities to billions of WiFi users and households to enhance our everyday lives. The key idea of SDR-Lite is to trick WiFi to begin packet reception (i.e., the decoding process) when the packet is absent, so that it accepts ambient signals in the air and outputs corresponding bits. The bits are then reconstructed to the original physical-layer waveform, on which diverse SDR applications are performed. Our comprehensive evaluation shows that the reconstructed signal closely reassembles the original ambient signal (>85% correlation). We extensively demonstrate SDR-Lite effectiveness across seven distinctive SDR receiver applications under three representative categories: (i) RFfingerprinting, (ii) spectrum monitoring, and (iii) (ZigBee) decoding. For instance, in security applications of drone and rogue WiFi AP detection, SDR-Lite achieves 99% and 97% accuracy, which is comparable to USRP.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345452">Device Administrator Use and Abuse in Android: Detection and Characterization</a></b></h6>
+<a href="">Towards Quantum Belief Propagation for LDPC Decoding in Wireless Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Zhiyong Shan (Wichita State University); Raina Samuel, Iulian Neamtiu (New Jersey Institute of Technology)</h6>
+ Srikar Kasi, Kyle Jamieson (Princeton University)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo33"></a>
 <br/>
-<div id="demo33" class="collapse">
-Device Administrator (DA) capabilities for mobile devices, e.g., remote locking/wiping, or enforcing password strength, were originally introduced to help organizations manage phone fleets or enable parental control. However, DA capabilities have been subverted and abused: malicious apps have used DA to create ransomware or lock users out, while benign apps have used DA to prevent or hinder uninstallation; in certain cases the only remedy is to factory-reset the phone. We call these apps "Deathless Device Administrator" (DDA), i.e., apps that cannot be uninstalled. We provide the first systematic study of Android DA capabilities, DDA apps, DDA-attack resistance across Android versions, and DDA-induced families in malicious apps. To enable scalable studies of questionable DA behavior, we developed DAAX, a static analyzer which exposes potential DA abuse effectively and efficiently. In a corpus of 39,459 apps (20,467 malicious and 18,992 benign) DAAX has found 4,135 DA apps and 691 potential DDA apps. The static analysis results on the 4,135 apps were cross-checked via dynamic analysis on at least 3 phones, confirming 578 true DDAs, including apps currently on Google Play. The study has shown that DAAX is effective (84.8% F-measure) and efficient (analysis typically takes 205 seconds per app).
+<div id="demo25" class="collapse">
+We present Quantum Belief Propagation (QBP), a Quantum Annealing (QA) based decoder design for Low Density Parity Check (LDPC) error control codes, which have found many useful applications in Wi-Fi, satellite communications, mobile cellular systems, and data storage systems. QBP reduces the LDPC decoding to a discrete optimization problem, then embeds that reduced design onto quantum annealing hardware. QBP's embedding design can support LDPC codes of block length up to 420 bits on real state-of-the-art QA hardware with 2,048 qubits. We evaluate performance on real quantum annealer hardware, performing sensitivity analyses on a variety of parameter settings. Our design achieves a bit error rate of 10^{-8}10 in 20 μs and a 1,500 byte frame error rate of 10^{-6}10 in 50 μs at SNR 9 dB over a Gaussian noise wireless channel. Further experiments measure performance over real-world wireless channels, requiring 30 μs to achieve a 1,500 byte 99.99% frame delivery rate at SNR 15-20 dB. QBP achieves a performance improvement over an FPGA based soft belief propagation LDPC decoder, by reaching a bit error rate of 10^{-8}10 and a frame error rate of 10^{-6}10 at an SNR 2.5--3.5 dB lower. In terms of limitations, QBP currently cannot realize practical protocol-sized (\textit{e.g.,}e.g., Wi-Fi, WiMax) LDPC codes on current QA processors. Our further studies in this work present future cost, throughput, and QA hardware trend considerations.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300137">AMP up your mobile web experience: Characterizing the impact of Google’s Accelerated Mobile Project</a></b></h6>
+<a href="">ScatterMIMO: Enabling Virtual MIMO with Smart Surfaces</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Byungjin Jun, Fabián E. Bustamante, Sung Yoon Whang (Northwestern University); Zachary S. Bischof (IIJ Research)</h6>
+  Manideep Dunna, Chi Zhang (UC San Diego); Daniel Sievenpiper, Dinesh Bharadia (University of California San Diego)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo34"></a>
 <br/>
-<div id="demo34" class="collapse">
-The rapid growth in the number of mobile devices, subscriptions and their associated traffic, has served as motivation for several projects focused on improving mobile users' quality of experience (QoE). Few have been as contentious as the Google-initiated Accelerated Mobile Project (AMP), both praised for its seemingly instant mobile web experience and criticized based on concerns about the enforcement of its formats. This paper presents the first characterization of AMP's impact on users' QoE. We do this using a corpus of over 2,100 AMP webpages, and their corresponding non-AMP counterparts, based on trendy-keyword-based searches. We characterized AMP's impact looking at common web QoE metrics, including Page Load Time, Time to First Byte and SpeedIndex (SI). Our results show that AMP significantly improves SI, yielding on average a 60% lower SI than non-AMP pages without accounting for prefetching. Prefetching of AMP pages pushes this advantage even further, with prefetched pages loading over 2,000ms faster than non-prefetched AMP pages. This clear boost may come, however, at a non-negligible cost for users with limited data plans as it incurs an average of over 1.4 MB of additional data downloaded, unbeknownst to users.
+<div id="demo26" class="collapse">
+In the last decade, the bandwidth expansion and MIMO spatial multiplexing have promised to increase data throughput by orders of magnitude. However, we are yet to enjoy such improvement in real-world environments, as they lack rich scattering and preclude effective MIMO spatial multiplexing. In this paper, we present ScatterMIMO, which uses smart surface to increase the scattering in the environment, to provide MIMO spatial multiplexing gain. Specifically, smart surface pairs up with a wireless transmitter device say an active AP and re-radiates the same amount of power as any active access point (AP), thereby creating virtual passive APs. ScatterMIMO avoids the synchronization, interference, and power requirements of conventional distributed MIMO systems by leveraging virtual passive APs, allowing its smart surface to provide spatial multiplexing gain, which can be deployed at a very low cost. We show that with optimal placement, these virtual APs can provide signals to their clients with power comparable to real active APs, and can increase the coverage of an AP. Furthermore, we design algorithms to optimize ScatterMIMO's smart surface for each client with minimal measurement overhead and to overcome random per-packet phase offsets during the measurement. Our evaluations show that with commercial off-the-shelf MIMO WiFi (11ac) AP and unmodified clients, ScatterMIMO provides a median throughput improvement of 2x over the active AP alone.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345449">Optimizing Energy Efficiency of Browsers in Energy-Aware Scheduling–enabled Mobile Devices</a></b></h6>
+<a href="">Sniffing Visible Light Communication Through Walls</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Yonghun Choi, Seonghoon Park, Hojung Cha (Yonsei University)</h6>
+  Minhao Cui, Yuda Feng (University of Massachusetts Amherst); Qing Wang (Delft University of Technology); Jie Xiong (University of Massachusetts Amherst)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo35"></a>
 <br/>
-<div id="demo35" class="collapse">
-Web browsing, previously optimized for the desktop environment, is being fine-tuned for energy-efficient use on mobile devices. Although active attempts have been made to reduce energy consumption, the advent of energy-aware scheduling (EAS) integrated in the recent devices suggests the possibility of a new approach for optimizing energy use by browsers. Our preliminary analysis showed that the existing EAS-enabled system is overly optimized for performance, leading to energy inefficiencies while a web browser is running. In this paper, we analyze the characteristics of web browsers, and investigate the cause of energy inefficiency in EAS-enabled mobile devices. We then propose a system, called WebTune, to improve the energy efficiency of mobile browsers. Exploiting the reinforcement learning technique, WebTune learns the optimal execution speed of the web browser's processes, and adjusts the speed at runtime, thus saving energy and ensuring the quality of service (QoS). WebTune is implemented on the latest Android-based smartphones, and evaluated with Alexa's top 200 websites. The experimental results show that WebTune reduced the device-level energy consumption of the Google Pixel 2 XL and Samsung Galaxy S9 Plus smartphones by 18.7-22.0% and 13.7-16.1%, respectively, without degrading the QoS.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300126">Diagnosing Vehicles with Automotive Batteries</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Liang He (University of Colorado Denver); Linghe Kong, Ziyang Liu (Shanghai Jiao Tong University); Yuanchao Shu (Microsoft Research); Cong Liu (University of Texas at Dallas)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo36"></a>
-<br/>
-<div id="demo36" class="collapse">
-The automotive industry is increasingly employing software- based solutions to provide value-added features on vehicles, especially with the coming era of electric vehicles and autonomous driving. The ever-increasing cyber components of vehicles (i.e., computation, communication, and control), however, incur new risks of anomalies, as demonstrated by the millions of vehicles recalled by different manufactures. To mitigate these risks, we design B-Diag, a battery-based diagnostics system that guards vehicles against anomalies with a cyber-physical approach, and implement B-Diag as an add-on module of commodity vehicles attached to automotive batteries, thus providing vehicles an additional layer of protection. B-Diag is inspired by the fact that the automotive battery operates in strong dependency with many physical components of the vehicle, which is observable as correlations between battery voltage and the vehicle's corresponding operational parameters, e.g., a faster revolutions-per-minute (RPM) of the engine, in general, leads to a higher battery voltage. B-Diag exploits such physically-induced correlations to diagnose vehicles by cross-validating the vehicle information with battery voltage, based on a set of data-driven norm models constructed online. Such a design of B-Diag is steered by a dataset collected with a prototype system when driving a 2018 Subaru Crosstrek in real-life over 3 months, covering a total mileage of about 1, 400 miles. Besides the Crosstrek, we have also evaluated B-Diag with driving traces of a 2008 Honda Fit, a 2018 Volvo XC60, and a 2017 Volkswagen Passat, showing B-Diag detects vehicle anomalies with >86% (up to 99%) averaged detection rate.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300132">Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Fleets</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Guang Wang, Xiuyuan Chen (Rutgers University); Fan Zhang (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Yang Wang (University of Science and Technology of China); Desheng Zhang (Rutgers University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo37"></a>
-<br/>
-<div id="demo37" class="collapse">
-Due to the ever-growing concerns over air pollution and energy security, many cities have started to update their taxi fleets with electric ones. In this paper, we perform the first comprehensive measurement investigation called ePat to explore the evolving mobility and charging patterns of electric vehicles. Our ePat is based on 5-year 4.8 TB taxi GPS data, 240 GB taxi transaction data, and metadata from 117 charging stations, during an evolving process from 427 electric taxis in 2013 to 13,178 in 2018. Moreover, ePat also explores the impacts of various contexts and benefits during the evolving process. Our ePat as a comprehensive investigation of the electric taxi network mobility and charging evolving has the potential to advance the understanding of the evolving patterns of electric taxi networks and pave the way for analyzing future shared autonomous vehicles.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300130">VeMo: Enabling Transparent Vehicular Mobility Modeling at Individual Levels with Full Penetration</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Yu Yang, Xiaoyang Xie, Zhihan Fang (Rutgers University); Fan Zhang (Shenzhen Institute of Advanced Technology); Yang Wang (University of Science and Technology of China); Desheng Zhang (Rutgers University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo38"></a>
-<br/>
-<div id="demo38" class="collapse">
-Understanding and predicting real-time vehicle mobility patterns on highways are essential to address traffic congestion and respond to the emergency. However, almost all existing works (e.g., based on cellphones, onboard devices, or traffic cameras) suffer from high costs, low penetration rates, or only aggregate results. To address these drawbacks, we utilize Electric Toll Collection systems (ETC) as a large-scale sensor network and design a system called VeMo to transparently model and predict vehicle mobility at the individual level with a full penetration rate. Our novelty is how we address uncertainty issues (i.e., unknown routes and speeds) due to sparse implicit ETC data based on a key data-driven insight, i.e., individual driving behaviors are strongly correlated with crowds of drivers under certain spatiotemporal contexts and can be predicted by combining both personal habits and context information. More importantly, we evaluate VeMo with (i) a large-scale ETC system with tracking devices at 773 highway entrances and exits capturing more than 2 million vehicles every day; (ii) a fleet consisting of 114 thousand vehicles with GPS data as ground truth. We compared VeMo with state-of-the-art benchmark mobility models, and the experimental results show that VeMo outperforms them by average 10% in terms of accuracy.
+<div id="demo27" class="collapse">
+Visible light communication (VLC) is gaining a significant amount of interest as a new paradigm to meet rapidly increasing demands on wireless capacity required by a digitalized world. VLC is considered as a secure wireless communication scheme because VLC signals can be easily constrained within physical boundaries.  In this paper, for the first time, we show that VLC is not as secure as people thought: VLC can be sniffed through walls! The key principle behind this is that in VLC transmissions, a VLC transmitter not only emits visible light signals but also leaks out "side channel RF signals". The leaked RF signals can be sniffed by a receiver to decode the VLC transmissions even the receiver is blocked (e.g., by walls) from the VLC transmitter. In this work, we establish a theoretical model to quantify the amplitude of the leaked RF signal and verify the model with comprehensive experiments. We design and implement a VLC sniffing system including receiver coil design, signal processing and frame decoding, spanning across hardware and software.  Field studies show that with a cheap receiver design, our system can simultaneously sniff transmissions from multiple VLC transmitters  6.4 meters away with a 14 cm concrete wall in between, where the distance exceeds the communication range of most state-of-the-art VLC systems. By simply twining a wired earphone on the arm, we can sniff the VLC transmission 1.9 meters away.
 </div></li>
 
 </ul></div></div></div>
 
+<div class="card">
+<h6 class="card-header text-white" style="background-color:#D62728">
+<b>09:00 - 10:00<br/>Keynote 3: Nic Lane (Rock Star)</b></h6>
+<div class="card-body bg-light">
+<h6 class="card-title">
+<a href="keynotes.php"><b>TBD</b></a>
+</h6>
+</div>
+
+</div>
+<div class="card">
+<h6 class="card-header text-white" style="background-color:#D62728">
+<b>10:05 - 11:00<br/>Panel 1: Future of Wi-Fi and 5G sensing and localization</b></h6>
+<div class="card-body bg-light">
+<h6 class="card-title">
+<a href="keynotes.php"><b>Moderator: Yasamin Mostofi</b></a>
+</h6>
+</div>
+</div>
+
 </div>
 <br/><hr/>
-<div class="accordion">
+<!--<div class="accordion">
 <p class="h4"><b> Thursday, October 24, 2019</b></p>
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
@@ -810,4 +721,4 @@ CenceMe was the first paper to demonstrate how smartphones can be used to derive
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#D62728">
 <b>4:00 - 4:30<br/>Closing remarks</b></h6>
-</div>
+</div>-->
