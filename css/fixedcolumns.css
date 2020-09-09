@@ -1,0 +1,39 @@
+
+.table-scroll {
+  position:relative;
+  margin:auto;
+  overflow:hidden;
+}
+.table-wrap {
+  width:100%;
+  overflow:auto;
+}
+.table-scroll table {
+  width:100%;
+  margin:auto;
+}
+.table-scroll th, .table-scroll td {
+  background:#fff;
+  vertical-align:top;
+}
+.table-scroll thead, .table-scroll tfoot {
+}
+.clone {
+  position:absolute;
+  top:0;
+  left:0;
+  pointer-events:none;
+}
+.clone th, .clone td {
+  visibility:hidden
+}
+.clone td, .clone th {
+}
+.clone tbody th {
+  visibility:visible;
+}
+.clone .fixed-side {
+  background:#eee;
+  visibility:visible;
+}
+.clone thead, .clone tfoot{background:transparent;}

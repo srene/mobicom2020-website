@@ -1,0 +1,1822 @@
+body {
+	text-align: center;
+	margin-top: 15px;
+}
+
+p,div {
+	font-family: Myriad Pro, Helvetica, Tahoma, Verdana, sans-serif;
+    text-align:justify;
+}
+
+td {
+    font-family: Myriad Pro, Helvetica, Tahoma, Verdana, sans-serif;
+}
+
+td {
+	color: #000000;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+table.ocTable td {
+	padding: 5px 30px 5px 5px;
+}
+
+.ocTableTitle {
+	width:40%;
+	text-align:right;
+}
+
+.ocTablePerson {
+	width: 50%;
+}
+
+a:link {
+	color: #3e3e3e;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #3e3e3e;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #9999FF;
+	text-decoration: none
+}
+
+.bottomLinksBg {
+	background-image: url(http://www.sigmobile.org/mobicom/2014/images/links_middle.jpg);
+	text-align: center;
+}
+.bottomLinksBg p {
+    text-align: center;
+}
+h2 {
+	color: black;
+	font-size: 12px;
+    margin-bottom:0px;
+}
+
+.copyright {
+	font-size: 9px;
+    text-align: center;
+}
+
+.paragraph {
+	line-height: 16px;
+	vertical-align: top;
+}
+
+body {
+	background-color: #CCCCCC;
+}
+
+.normalText{
+	font-size:15px;
+	text-align:left;
+}
+
+.social {
+	width: 50%; 
+	margin: 0 auto;
+}
+
+.redText {
+	color:black;
+}
+
+.paragraphTitle {
+	line-height: 16px;
+	font-size: 14px;
+	/*font-weight: bold;*/
+    hyphens: none | manual | auto;
+	background-color: rgb(13,103,147);
+	padding:5px;
+	margin-bottom:5px;
+	color:white;
+}
+
+.TitleText {
+	line-height: 17px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.topLinksBg {
+	background-color: #CCCCCC;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	background-image: url(http://www.sigmobile.org/mobicom/2014/images/slash.jpg);
+}
+
+.topLinksTop {
+	background: #EAEAEA;
+	border-bottom: 1px solid #000000;
+	border-right: 1px solid #000000;
+}
+
+.topLinksBot {
+	background: #EAEAEA;
+	border-bottom: 1px solid #000000;
+	border-right: 1px solid #000000;
+}
+
+.topLinksTopL {
+	background: #EAEAEA;
+	border-left: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	border-right: 1px solid #000000;
+}
+
+.topLinksBotL {
+	background-image: none;
+	border-left: none;
+	border-bottom: none;
+	border-right: 1px solid #000000;
+}
+
+.topLinksBotR {
+	background-image: none;
+	background-position: right;
+	border-bottom: none;
+	border-right: none;
+}
+
+.topLinksTopD {
+	background: #666666;
+	color: #FFFFFF;
+	border-bottom: 1px solid #000000;
+	border-right: 1px solid #000000;
+}
+
+.topLinksBotD {
+	background: #666666;
+	color: #FFFFFF;
+	border-bottom: 1px solid #000000;
+	border-right: 1px solid #000000;
+}
+
+.topLinksTopDL {
+	background: #666666;
+	color: #FFFFFF;
+	border-left: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	border-right: 1px solid #000000;
+}
+
+.topLinksBotDL {
+	background-image: url(../images/links_topleft2_down.jpg);
+	background-repeat: no-repeat; /*	background-image: none;*/
+	color: #FFFFFF;
+	border-left: none;
+	border-bottom: none;
+	border-right: 1px solid #000000;
+}
+
+.topLinksBotDR {
+	background-image: url(../images/links_topright2_down.jpg);
+	background-repeat: no-repeat; /*	background-image: none;*/
+	background-position: right;
+	color: #FFFFFF;
+	border-bottom: none;
+	border-right: none;
+}
+
+.topLinksBG {
+	background: #EAEAEA;
+}
+
+.outlinedBox {
+	background: #EAEAEA;
+	border-bottom: 1px solid #333333;
+	border-top: 1px solid #333333;
+	border-right: 1px solid #333333;
+	border-left: 1px solid #333333;
+}
+
+.whiteoutlinedBox {
+	background: #FFFFFF;
+	border-bottom: 1px solid #666666;
+	border-top: 1px solid #666666;
+	border-right: 1px solid #666666;
+	border-left: 1px solid #666666;
+}
+
+#menuBG {
+	background-image: url(../images/links_bottomBG.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#menu {
+	margin: 0;
+	padding: 0;
+}
+
+#menu td {
+	font-size: 13px;
+	font-weight: bold;
+	border-top: none;
+	text-align: center;
+}
+
+#menu td a {
+	text-decoration: none;
+	color: #000000;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+#menu td a:hover {
+	color: #FFFFFF;
+}
+
+.pageTitleUL {
+	background-image: url(../images/title_slash_4.jpg);
+	background-repeat: repeat-x;
+}
+
+.srcSubtitle {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.divider {
+	font-size: 19px;
+	color: #9999CC;
+	font-weight: bold;
+	padding-top: 2px;
+}
+
+.pageHeading {
+	line-height: 20px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
+	word-spacing: -1pt;
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+	background-image: url(../images/title_line2_purp.jpg);
+	margin-top: 10px;
+	background-repeat: repeat-x;
+}
+
+.sponsor{
+	text-align:-webkit-center;
+	padding: 25;
+	border-spacing: 0;
+	border:0;
+}
+
+.pageHeadingText {
+	line-height: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #000000;
+	word-spacing: -1pt;
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+	margin-top: 9px;
+}
+
+.paragraphTitleUL {
+	background-image: url(../images/title_solid_l.jpg);
+}
+
+.pageTitleUL {
+	background-image: url(../images/title_solid_s.jpg);
+	background-position: bottom;
+}
+
+.altrow {
+	background-color:rgb(232,232,232);
+}
+
+.mytable {
+	border-collapse:collapse;
+}
+
+td {
+	font-size:15px;
+}
+
+li {
+	text-align: left;
+	font-size: 14px;
+}
+
+.mainHeadingText {
+	line-height: 20px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
+	word-spacing: 0pt;
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.introText {
+	font-size:15px;
+	line-height: 20px;
+}
+
+.mainParagraphTitle {
+	line-height: 16px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	width: 1px;
+	height: 15px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.spacing {
+	height:20px;
+}
+
+.paragraphSubtitle {
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.browserTabTB {
+	font-size: 13px;
+	font-weight: bold;
+	background-image: url(../images/browser_tb.jpg);
+}
+
+.browserTabB {
+	font-size: 13px;
+	font-weight: bold;
+	background-image: url(../images/browser_b.jpg);
+}
+
+.browserEdgeLeft {
+	background-image: url(../images/browser_edgel.jpg);
+	background-repeat: repeat-y;
+}
+
+.browserEdgeRight {
+	background-image: url(../images/browser_edger.jpg);
+	background-repeat: repeat-y;
+}
+
+.browserTabT {
+	font-size: 13px;
+	font-weight: bold;
+	background-image: url(../images/browser_t2.jpg);
+}
+
+.browserTabT2 {
+	background-image: url(../images/browser_t.jpg);
+}
+
+.browser {
+	width: 200px;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: auto;
+	padding: 0;
+}
+
+.browser li {
+	list-style-type: none;
+}
+
+li a.browserLinks:link,a.browserLinks:visited {
+	color: #000000;
+	text-decoration: none;
+	color: black;
+	display: block;
+	height: 100%;
+	padding-left: 7px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	line-height: 14px;
+	text-align: left;
+	width: 100%;
+}
+
+li a.browserLinks:hover {
+	background: #FFFFFF;
+	color: #000000;
+	text-decoration: none;
+}
+
+a.tabLinks:link {
+	color: #000000;
+	text-decoration: none
+}
+
+a.tabLinks:visited {
+	color: #000000;
+	text-decoration: none
+}
+
+a.tabLinks:hover {
+	color: #FFFFFF;
+	text-decoration: none
+}
+
+.browserTabBLegend {
+	font-size: 12px;
+	background-image: url(../images/browser_b.jpg);
+	text-align: right;
+}
+
+div#about1 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#about2 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#about3 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#travel1 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#travel2 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#travel3 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#travel4 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#cfp1 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#cfp2 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#cfp3 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#cfp4 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#cfp5 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#cfp6 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#cfp7 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#cfp8 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#cfp9 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#cfp10 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#cfp11 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#comm1 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#comm2 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#src1 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#src2 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#src3 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#src4 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#src5 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#works1 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#works2 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#works3 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#sub1 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#sub2 {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#browserNone {
+	display: block;
+	margin: 0px 0px 0px 0px;
+}
+
+div#browserRest {
+	display: none;
+	margin: 0px 0px 0px 0px;
+}
+
+div#browserAct {
+	display: none;
+	margin: 0px 0px 0px 0px;
+}
+
+.workshopLinks {
+	font-size: 16px;
+}
+
+.strk {
+	text-decoration: line-through;
+}
+
+.programTime {
+	vertical-align: top;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.programDesc {
+	vertical-align: top;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.programDesc li {
+	font-weight: normal;
+	margin-top: -6px;
+	font-size: 12px;
+	line-height: 1.3em;
+}
+
+.sched1 {
+	font: bold 10pt Arial, Helvetica, sans-serif;
+	color: #000000;
+}
+
+.sched2 {
+	font: 10pt Arial, Helvetica, sans-serif;
+	color: #000000;
+}
+
+.sched3 {
+	font: 10pt Arial, Helvetica, sans-serif;
+	color: #000000;
+}
+
+div.twtr-timeline {
+	height: auto !important;
+}
+
+div.twtr-hd,div.twtr-ft {
+	display: none !important;
+}
+
+div.twtr-tweet {
+	border-bottom: 0px dotted #067A6A !important;
+}
+
+div.twtr-tweet-wrap {
+	padding: 0.5em 0em !important;
+}
+
+div.twtr-tweet-text>p {
+	font-size: 1em !important;
+	text-align: left;
+}
+
+div.twtr-tweet-text p a {
+	color: #067A6A !important;
+}
+
+a#follow_link {
+	display: block;
+	width: 100%;
+	text-align: center;
+	margin: 0em 0em;
+}
+
+div.pp_default .pp_top,div.pp_default .pp_top .pp_middle,div.pp_default .pp_top .pp_left,div.pp_default .pp_top .pp_right,div.pp_default .pp_bottom,div.pp_default .pp_bottom .pp_left,div.pp_default .pp_bottom .pp_middle,div.pp_default .pp_bottom .pp_right
+	{
+	height: 13px
+}
+
+div.pp_default .pp_top .pp_left {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite.png) -78px -93px
+		no-repeat
+}
+
+div.pp_default .pp_top .pp_middle {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite_x.png) top left
+		repeat-x
+}
+
+div.pp_default .pp_top .pp_right {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite.png) -112px -93px
+		no-repeat
+}
+
+div.pp_default .pp_content .ppt {
+	color: #f8f8f8
+}
+
+div.pp_default .pp_content_container .pp_left {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite_y.png) -7px 0
+		repeat-y;
+	padding-left: 13px
+}
+
+div.pp_default .pp_content_container .pp_right {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite_y.png) top right
+		repeat-y;
+	padding-right: 13px
+}
+
+div.pp_default .pp_next:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite_next.png) center
+		right no-repeat;
+	cursor: pointer
+}
+
+div.pp_default .pp_previous:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite_prev.png) center
+		left no-repeat;
+	cursor: pointer
+}
+
+div.pp_default .pp_expand {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite.png) 0 -29px
+		no-repeat;
+	cursor: pointer;
+	width: 28px;
+	height: 28px
+}
+
+div.pp_default .pp_expand:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite.png) 0 -56px
+		no-repeat;
+	cursor: pointer
+}
+
+div.pp_default .pp_contract {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite.png) 0 -84px
+		no-repeat;
+	cursor: pointer;
+	width: 28px;
+	height: 28px
+}
+
+div.pp_default .pp_contract:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite.png) 0 -113px
+		no-repeat;
+	cursor: pointer
+}
+
+div.pp_default .pp_close {
+	width: 30px;
+	height: 30px;
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite.png) 2px 1px
+		no-repeat;
+	cursor: pointer
+}
+
+div.pp_default .pp_gallery ul li a {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/default_thumb.png) center
+		center #f8f8f8;
+	border: 1px solid #aaa
+}
+
+div.pp_default .pp_social {
+	margin-top: 7px
+}
+
+div.pp_default .pp_gallery a.pp_arrow_previous,div.pp_default .pp_gallery a.pp_arrow_next
+	{
+	position: static;
+	left: auto
+}
+
+div.pp_default .pp_nav .pp_play,div.pp_default .pp_nav .pp_pause {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite.png) -51px 1px
+		no-repeat;
+	height: 30px;
+	width: 30px
+}
+
+div.pp_default .pp_nav .pp_pause {
+	background-position: -51px -29px
+}
+
+div.pp_default a.pp_arrow_previous,div.pp_default a.pp_arrow_next {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite.png) -31px -3px
+		no-repeat;
+	height: 20px;
+	width: 20px;
+	margin: 4px 0 0
+}
+
+div.pp_default a.pp_arrow_next {
+	left: 52px;
+	background-position: -82px -3px
+}
+
+div.pp_default .pp_content_container .pp_details {
+	margin-top: 5px
+}
+
+div.pp_default .pp_nav {
+	clear: none;
+	height: 30px;
+	width: 110px;
+	position: relative
+}
+
+div.pp_default .pp_nav .currentTextHolder {
+	font-family: Georgia;
+	font-style: italic;
+	color: #999;
+	font-size: 11px;
+	left: 75px;
+	line-height: 25px;
+	position: absolute;
+	top: 2px;
+	margin: 0;
+	padding: 0 0 0 10px
+}
+
+div.pp_default .pp_close:hover,div.pp_default .pp_nav .pp_play:hover,div.pp_default .pp_nav .pp_pause:hover,div.pp_default .pp_arrow_next:hover,div.pp_default .pp_arrow_previous:hover
+	{
+	opacity: 0.7
+}
+
+div.pp_default .pp_description {
+	font-size: 11px;
+	font-weight: 700;
+	line-height: 14px;
+	margin: 5px 50px 5px 0
+}
+
+div.pp_default .pp_bottom .pp_left {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite.png) -78px -127px
+		no-repeat
+}
+
+div.pp_default .pp_bottom .pp_middle {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite_x.png) bottom left
+		repeat-x
+}
+
+div.pp_default .pp_bottom .pp_right {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/sprite.png) -112px -127px
+		no-repeat
+}
+
+div.pp_default .pp_loaderIcon {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/default/loader.gif) center center
+		no-repeat
+}
+
+div.light_rounded .pp_top .pp_left {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/sprite.png) -88px
+		-53px no-repeat
+}
+
+div.light_rounded .pp_top .pp_right {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/sprite.png) -110px
+		-53px no-repeat
+}
+
+div.light_rounded .pp_next:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/btnNext.png) center
+		right no-repeat;
+	cursor: pointer
+}
+
+div.light_rounded .pp_previous:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/btnPrevious.png)
+		center left no-repeat;
+	cursor: pointer
+}
+
+div.light_rounded .pp_expand {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/sprite.png) -31px
+		-26px no-repeat;
+	cursor: pointer
+}
+
+div.light_rounded .pp_expand:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/sprite.png) -31px
+		-47px no-repeat;
+	cursor: pointer
+}
+
+div.light_rounded .pp_contract {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/sprite.png) 0 -26px
+		no-repeat;
+	cursor: pointer
+}
+
+div.light_rounded .pp_contract:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/sprite.png) 0 -47px
+		no-repeat;
+	cursor: pointer
+}
+
+div.light_rounded .pp_close {
+	width: 75px;
+	height: 22px;
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/sprite.png) -1px
+		-1px no-repeat;
+	cursor: pointer
+}
+
+div.light_rounded .pp_nav .pp_play {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/sprite.png) -1px
+		-100px no-repeat;
+	height: 15px;
+	width: 14px
+}
+
+div.light_rounded .pp_nav .pp_pause {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/sprite.png) -24px
+		-100px no-repeat;
+	height: 15px;
+	width: 14px
+}
+
+div.light_rounded .pp_arrow_previous {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/sprite.png) 0 -71px
+		no-repeat
+}
+
+div.light_rounded .pp_arrow_next {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/sprite.png) -22px
+		-71px no-repeat
+}
+
+div.light_rounded .pp_bottom .pp_left {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/sprite.png) -88px
+		-80px no-repeat
+}
+
+div.light_rounded .pp_bottom .pp_right {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/sprite.png) -110px
+		-80px no-repeat
+}
+
+div.dark_rounded .pp_top .pp_left {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/sprite.png) -88px
+		-53px no-repeat
+}
+
+div.dark_rounded .pp_top .pp_right {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/sprite.png) -110px
+		-53px no-repeat
+}
+
+div.dark_rounded .pp_content_container .pp_left {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/contentPattern.png)
+		top left repeat-y
+}
+
+div.dark_rounded .pp_content_container .pp_right {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/contentPattern.png)
+		top right repeat-y
+}
+
+div.dark_rounded .pp_next:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/btnNext.png) center
+		right no-repeat;
+	cursor: pointer
+}
+
+div.dark_rounded .pp_previous:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/btnPrevious.png)
+		center left no-repeat;
+	cursor: pointer
+}
+
+div.dark_rounded .pp_expand {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/sprite.png) -31px
+		-26px no-repeat;
+	cursor: pointer
+}
+
+div.dark_rounded .pp_expand:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/sprite.png) -31px
+		-47px no-repeat;
+	cursor: pointer
+}
+
+div.dark_rounded .pp_contract {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/sprite.png) 0 -26px
+		no-repeat;
+	cursor: pointer
+}
+
+div.dark_rounded .pp_contract:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/sprite.png) 0 -47px
+		no-repeat;
+	cursor: pointer
+}
+
+div.dark_rounded .pp_close {
+	width: 75px;
+	height: 22px;
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/sprite.png) -1px -1px
+		no-repeat;
+	cursor: pointer
+}
+
+div.dark_rounded .pp_description {
+	margin-right: 85px;
+	color: #fff
+}
+
+div.dark_rounded .pp_nav .pp_play {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/sprite.png) -1px
+		-100px no-repeat;
+	height: 15px;
+	width: 14px
+}
+
+div.dark_rounded .pp_nav .pp_pause {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/sprite.png) -24px
+		-100px no-repeat;
+	height: 15px;
+	width: 14px
+}
+
+div.dark_rounded .pp_arrow_previous {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/sprite.png) 0 -71px
+		no-repeat
+}
+
+div.dark_rounded .pp_arrow_next {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/sprite.png) -22px
+		-71px no-repeat
+}
+
+div.dark_rounded .pp_bottom .pp_left {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/sprite.png) -88px
+		-80px no-repeat
+}
+
+div.dark_rounded .pp_bottom .pp_right {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/sprite.png) -110px
+		-80px no-repeat
+}
+
+div.dark_rounded .pp_loaderIcon {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/loader.gif) center
+		center no-repeat
+}
+
+div.dark_square .pp_left,div.dark_square .pp_middle,div.dark_square .pp_right,div.dark_square .pp_content
+	{
+	background: #000
+}
+
+div.dark_square .pp_description {
+	color: #fff;
+	margin: 0 85px 0 0
+}
+
+div.dark_square .pp_loaderIcon {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_square/loader.gif) center
+		center no-repeat
+}
+
+div.dark_square .pp_expand {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_square/sprite.png) -31px
+		-26px no-repeat;
+	cursor: pointer
+}
+
+div.dark_square .pp_expand:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_square/sprite.png) -31px
+		-47px no-repeat;
+	cursor: pointer
+}
+
+div.dark_square .pp_contract {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_square/sprite.png) 0 -26px
+		no-repeat;
+	cursor: pointer
+}
+
+div.dark_square .pp_contract:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_square/sprite.png) 0 -47px
+		no-repeat;
+	cursor: pointer
+}
+
+div.dark_square .pp_close {
+	width: 75px;
+	height: 22px;
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_square/sprite.png) -1px -1px
+		no-repeat;
+	cursor: pointer
+}
+
+div.dark_square .pp_nav {
+	clear: none
+}
+
+div.dark_square .pp_nav .pp_play {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_square/sprite.png) -1px
+		-100px no-repeat;
+	height: 15px;
+	width: 14px
+}
+
+div.dark_square .pp_nav .pp_pause {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_square/sprite.png) -24px
+		-100px no-repeat;
+	height: 15px;
+	width: 14px
+}
+
+div.dark_square .pp_arrow_previous {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_square/sprite.png) 0 -71px
+		no-repeat
+}
+
+div.dark_square .pp_arrow_next {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_square/sprite.png) -22px
+		-71px no-repeat
+}
+
+div.dark_square .pp_next:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_square/btnNext.png) center
+		right no-repeat;
+	cursor: pointer
+}
+
+div.dark_square .pp_previous:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_square/btnPrevious.png)
+		center left no-repeat;
+	cursor: pointer
+}
+
+div.light_square .pp_expand {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_square/sprite.png) -31px
+		-26px no-repeat;
+	cursor: pointer
+}
+
+div.light_square .pp_expand:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_square/sprite.png) -31px
+		-47px no-repeat;
+	cursor: pointer
+}
+
+div.light_square .pp_contract {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_square/sprite.png) 0 -26px
+		no-repeat;
+	cursor: pointer
+}
+
+div.light_square .pp_contract:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_square/sprite.png) 0 -47px
+		no-repeat;
+	cursor: pointer
+}
+
+div.light_square .pp_close {
+	width: 75px;
+	height: 22px;
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_square/sprite.png) -1px -1px
+		no-repeat;
+	cursor: pointer
+}
+
+div.light_square .pp_nav .pp_play {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_square/sprite.png) -1px
+		-100px no-repeat;
+	height: 15px;
+	width: 14px
+}
+
+div.light_square .pp_nav .pp_pause {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_square/sprite.png) -24px
+		-100px no-repeat;
+	height: 15px;
+	width: 14px
+}
+
+div.light_square .pp_arrow_previous {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_square/sprite.png) 0 -71px
+		no-repeat
+}
+
+div.light_square .pp_arrow_next {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_square/sprite.png) -22px
+		-71px no-repeat
+}
+
+div.light_square .pp_next:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_square/btnNext.png) center
+		right no-repeat;
+	cursor: pointer
+}
+
+div.light_square .pp_previous:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_square/btnPrevious.png)
+		center left no-repeat;
+	cursor: pointer
+}
+
+div.facebook .pp_top .pp_left {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/sprite.png) -88px -53px
+		no-repeat
+}
+
+div.facebook .pp_top .pp_middle {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/contentPatternTop.png)
+		top left repeat-x
+}
+
+div.facebook .pp_top .pp_right {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/sprite.png) -110px -53px
+		no-repeat
+}
+
+div.facebook .pp_content_container .pp_left {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/contentPatternLeft.png)
+		top left repeat-y
+}
+
+div.facebook .pp_content_container .pp_right {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/contentPatternRight.png)
+		top right repeat-y
+}
+
+div.facebook .pp_expand {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/sprite.png) -31px -26px
+		no-repeat;
+	cursor: pointer
+}
+
+div.facebook .pp_expand:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/sprite.png) -31px -47px
+		no-repeat;
+	cursor: pointer
+}
+
+div.facebook .pp_contract {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/sprite.png) 0 -26px
+		no-repeat;
+	cursor: pointer
+}
+
+div.facebook .pp_contract:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/sprite.png) 0 -47px
+		no-repeat;
+	cursor: pointer
+}
+
+div.facebook .pp_close {
+	width: 22px;
+	height: 22px;
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/sprite.png) -1px -1px
+		no-repeat;
+	cursor: pointer
+}
+
+div.facebook .pp_description {
+	margin: 0 37px 0 0
+}
+
+div.facebook .pp_loaderIcon {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/loader.gif) center center
+		no-repeat
+}
+
+div.facebook .pp_arrow_previous {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/sprite.png) 0 -71px
+		no-repeat;
+	height: 22px;
+	margin-top: 0;
+	width: 22px
+}
+
+div.facebook .pp_arrow_previous.disabled {
+	background-position: 0 -96px;
+	cursor: default
+}
+
+div.facebook .pp_arrow_next {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/sprite.png) -32px -71px
+		no-repeat;
+	height: 22px;
+	margin-top: 0;
+	width: 22px
+}
+
+div.facebook .pp_arrow_next.disabled {
+	background-position: -32px -96px;
+	cursor: default
+}
+
+div.facebook .pp_nav {
+	margin-top: 0
+}
+
+div.facebook .pp_nav p {
+	font-size: 15px;
+	padding: 0 3px 0 4px
+}
+
+div.facebook .pp_nav .pp_play {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/sprite.png) -1px -123px
+		no-repeat;
+	height: 22px;
+	width: 22px
+}
+
+div.facebook .pp_nav .pp_pause {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/sprite.png) -32px -123px
+		no-repeat;
+	height: 22px;
+	width: 22px
+}
+
+div.facebook .pp_next:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/btnNext.png) center right
+		no-repeat;
+	cursor: pointer
+}
+
+div.facebook .pp_previous:hover {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/btnPrevious.png) center
+		left no-repeat;
+	cursor: pointer
+}
+
+div.facebook .pp_bottom .pp_left {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/sprite.png) -88px -80px
+		no-repeat
+}
+
+div.facebook .pp_bottom .pp_middle {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/contentPatternBottom.png)
+		top left repeat-x
+}
+
+div.facebook .pp_bottom .pp_right {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/sprite.png) -110px -80px
+		no-repeat
+}
+
+div.pp_pic_holder a:focus {
+	outline: none
+}
+
+div.pp_overlay {
+	background: #000;
+	display: none;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 9500
+}
+
+div.pp_pic_holder {
+	display: none;
+	position: absolute;
+	width: 100px;
+	z-index: 10000
+}
+
+.pp_content {
+	height: 40px;
+	min-width: 40px
+}
+
+* html .pp_content {
+	width: 40px
+}
+
+.pp_content_container {
+	position: relative;
+	text-align: left;
+	width: 100%
+}
+
+.pp_content_container .pp_left {
+	padding-left: 20px
+}
+
+.pp_content_container .pp_right {
+	padding-right: 20px
+}
+
+.pp_content_container .pp_details {
+	float: left;
+	margin: 10px 0 2px
+}
+
+.pp_description {
+	display: none;
+	margin: 0
+}
+
+.pp_social {
+	float: left;
+	margin: 0
+}
+
+.pp_social .facebook {
+	float: left;
+	margin-left: 5px;
+	width: 55px;
+	overflow: hidden
+}
+
+.pp_social .twitter {
+	float: left
+}
+
+.pp_nav {
+	clear: right;
+	float: left;
+	margin: 3px 10px 0 0
+}
+
+.pp_nav p {
+	float: left;
+	white-space: nowrap;
+	margin: 2px 4px
+}
+
+.pp_nav .pp_play,.pp_nav .pp_pause {
+	float: left;
+	margin-right: 4px;
+	text-indent: -10000px
+}
+
+a.pp_arrow_previous,a.pp_arrow_next {
+	display: block;
+	float: left;
+	height: 15px;
+	margin-top: 3px;
+	overflow: hidden;
+	text-indent: -10000px;
+	width: 14px
+}
+
+.pp_hoverContainer {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 2000
+}
+
+.pp_gallery {
+	display: none;
+	left: 50%;
+	margin-top: -50px;
+	position: absolute;
+	z-index: 10000
+}
+
+.pp_gallery div {
+	float: left;
+	overflow: hidden;
+	position: relative
+}
+
+.pp_gallery ul {
+	float: left;
+	height: 35px;
+	position: relative;
+	white-space: nowrap;
+	margin: 0 0 0 5px;
+	padding: 0
+}
+
+.pp_gallery ul a {
+	border: 1px rgba(0, 0, 0, 0.5) solid;
+	display: block;
+	float: left;
+	height: 33px;
+	overflow: hidden
+}
+
+.pp_gallery ul a img {
+	border: 0
+}
+
+.pp_gallery li {
+	display: block;
+	float: left;
+	margin: 0 5px 0 0;
+	padding: 0
+}
+
+.pp_gallery li.default a {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/facebook/default_thumbnail.gif) 0
+		0 no-repeat;
+	display: block;
+	height: 33px;
+	width: 50px
+}
+
+.pp_gallery .pp_arrow_previous,.pp_gallery .pp_arrow_next {
+	margin-top: 7px !important
+}
+
+a.pp_next {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/btnNext.png) 10000px
+		10000px no-repeat;
+	display: block;
+	float: right;
+	height: 100%;
+	text-indent: -10000px;
+	width: 49%
+}
+
+a.pp_previous {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/btnNext.png) 10000px
+		10000px no-repeat;
+	display: block;
+	float: left;
+	height: 100%;
+	text-indent: -10000px;
+	width: 49%
+}
+
+a.pp_expand,a.pp_contract {
+	cursor: pointer;
+	display: none;
+	height: 20px;
+	position: absolute;
+	right: 30px;
+	text-indent: -10000px;
+	top: 10px;
+	width: 20px;
+	z-index: 20000
+}
+
+a.pp_close {
+	position: absolute;
+	right: 0;
+	top: 0;
+	display: block;
+	line-height: 22px;
+	text-indent: -10000px
+}
+
+.pp_loaderIcon {
+	display: block;
+	height: 24px;
+	left: 50%;
+	position: absolute;
+	top: 50%;
+	width: 24px;
+	margin: -12px 0 0 -12px
+}
+
+#pp_full_res {
+	line-height: 1 !important
+}
+
+#pp_full_res .pp_inline {
+	text-align: left
+}
+
+#pp_full_res .pp_inline p {
+	margin: 0 0 15px
+}
+
+div.ppt {
+	color: #fff;
+	display: none;
+	font-size: 17px;
+	z-index: 9999;
+	margin: 0 0 5px 15px
+}
+
+div.pp_default .pp_content,div.light_rounded .pp_content {
+	background-color: #fff
+}
+
+div.pp_default #pp_full_res .pp_inline,div.light_rounded .pp_content .ppt,div.light_rounded #pp_full_res .pp_inline,div.light_square .pp_content .ppt,div.light_square #pp_full_res .pp_inline,div.facebook .pp_content .ppt,div.facebook #pp_full_res .pp_inline
+	{
+	color: #000
+}
+
+div.pp_default .pp_gallery ul li a:hover,div.pp_default .pp_gallery ul li.selected a,.pp_gallery ul a:hover,.pp_gallery li.selected a
+	{
+	border-color: #fff
+}
+
+div.pp_default .pp_details,div.light_rounded .pp_details,div.dark_rounded .pp_details,div.dark_square .pp_details,div.light_square .pp_details,div.facebook .pp_details
+	{
+	position: relative
+}
+
+div.light_rounded .pp_top .pp_middle,div.light_rounded .pp_content_container .pp_left,div.light_rounded .pp_content_container .pp_right,div.light_rounded .pp_bottom .pp_middle,div.light_square .pp_left,div.light_square .pp_middle,div.light_square .pp_right,div.light_square .pp_content,div.facebook .pp_content
+	{
+	background: #fff
+}
+
+div.light_rounded .pp_description,div.light_square .pp_description {
+	margin-right: 85px
+}
+
+div.light_rounded .pp_gallery a.pp_arrow_previous,div.light_rounded .pp_gallery a.pp_arrow_next,div.dark_rounded .pp_gallery a.pp_arrow_previous,div.dark_rounded .pp_gallery a.pp_arrow_next,div.dark_square .pp_gallery a.pp_arrow_previous,div.dark_square .pp_gallery a.pp_arrow_next,div.light_square .pp_gallery a.pp_arrow_previous,div.light_square .pp_gallery a.pp_arrow_next
+	{
+	margin-top: 12px !important
+}
+
+div.light_rounded .pp_arrow_previous.disabled,div.dark_rounded .pp_arrow_previous.disabled,div.dark_square .pp_arrow_previous.disabled,div.light_square .pp_arrow_previous.disabled
+	{
+	background-position: 0 -87px;
+	cursor: default
+}
+
+div.light_rounded .pp_arrow_next.disabled,div.dark_rounded .pp_arrow_next.disabled,div.dark_square .pp_arrow_next.disabled,div.light_square .pp_arrow_next.disabled
+	{
+	background-position: -22px -87px;
+	cursor: default
+}
+
+div.light_rounded .pp_loaderIcon,div.light_square .pp_loaderIcon {
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/light_rounded/loader.gif) center
+		center no-repeat
+}
+
+div.dark_rounded .pp_top .pp_middle,div.dark_rounded .pp_content,div.dark_rounded .pp_bottom .pp_middle
+	{
+	background: url(http://www.sigmobile.org/mobicom/images/prettyPhoto/dark_rounded/contentPattern.png)
+		top left repeat
+}
+
+div.dark_rounded .currentTextHolder,div.dark_square .currentTextHolder {
+	color: #c4c4c4
+}
+
+div.dark_rounded #pp_full_res .pp_inline,div.dark_square #pp_full_res .pp_inline
+	{
+	color: #fff
+}
+
+.pp_top,.pp_bottom {
+	height: 20px;
+	position: relative
+}
+
+* html .pp_top,* html .pp_bottom {
+	padding: 0 20px
+}
+
+.pp_top .pp_left,.pp_bottom .pp_left {
+	height: 20px;
+	left: 0;
+	position: absolute;
+	width: 20px
+}
+
+.pp_top .pp_middle,.pp_bottom .pp_middle {
+	height: 20px;
+	left: 20px;
+	position: absolute;
+	right: 20px
+}
+
+* html .pp_top .pp_middle,* html .pp_bottom .pp_middle {
+	left: 0;
+	position: static
+}
+
+.pp_top .pp_right,.pp_bottom .pp_right {
+	height: 20px;
+	left: auto;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 20px
+}
+
+.pp_fade,.pp_gallery li.default a img {
+	display: none
+}
+
+table.thinborder {
+	border-width: 0 0 1px 1px;
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-style: solid;
+}
+
+.thinborder td {
+	margin: 0;
+	padding: 4px;
+	border-width: 1px 1px 0 0;
+	border-style: solid;
+}
+.thinborder th {
+	margin: 0;
+	padding: 4px;
+	font-size: 14px;
+	border-width: 1px 1px 0 0;
+	border-style: solid;
+}
+
+.photoAttr {
+    position:absolute;
+    width: 200px;
+    top:70px;
+    height: 160px;
+    left:0px;
+    overflow:hidden;
+}
+.photoAttr a#showLink {
+	position: absolute;
+	padding: 0px 4px; 
+	bottom:1px; left:2px; 
+	font-size:8pt;
+	display:block;
+	color: #aaa;
+	border:1px solid #aaa;
+	text-decoration:none;
+	background-color: black;
+}
+
+.photoAttr a#showLink:hover, #photoInfo a#hideLink:hover {
+	color:#fff;
+	border-color: #fff;
+}
+
+#photoInfo a#hideLink {
+	position:absolute;
+	padding: 0px 14px; 
+	font-size:8pt;
+	display:block;
+	color: #aaa;
+	border:1px solid #aaa;
+	text-decoration:none;
+	bottom:1px;
+	left:2px;
+}
+
+.photoAttr #photoInfoPane {
+	position:absolute;
+	width: 180px;
+	top:0px;
+	height: 170px;
+	left:-200px;
+	background-color: black;
+	color:white;
+}
+.photoAttr #photoInfo {
+	position:absolute;
+	width: 180px;
+	top:0px;
+	height: 120px;
+	left:-200px;
+	color:white;
+	font-size: 8pt;
+	padding: 20px 10px;
+}
+#photoInfo a {
+	color: #ddeeff;
+}
+
+#photoInfo .flick {
+	font-size:10pt;
+	font-weight:bold;
+	color: #00aaff;
+}
+#photoInfo .flickr {
+	font-size:10pt;
+	font-weight:bold;
+	color: #ff00aa;
+}
+a.aflickr {
+	text-decoration:none;
+}
+a.aflickr:hover {
+	text-decoration:underline;
+}
+#photoInfo p {
+display:block;
+text-align: left;
+}
+
+
+/* News */
+#news h3
+{
+	margin-top:20px;
+	color: #444;
+	text-align:center;
+	border: 1px solid #aaa;
+	background-color: #e8e8e8;
+	font-size:9pt;
+	padding: 2px;
+}
+#news ul {
+	margin:0;
+	padding:0;
+}
+#news li {
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #aaa;
+	list-style:none;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#news .date {
+	font-weight: bold;
+	color: #444;
+}
+
+.grayout {
+    opacity: 0.6; /* Real browsers */
+    filter: alpha(opacity = 60); /* MSIE */
+}
+
+#tab { padding-left: 10px; }
