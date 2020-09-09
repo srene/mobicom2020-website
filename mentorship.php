@@ -32,7 +32,7 @@ To be eligible for participation, you must be:
 <li>available on all days of the main conference: Sep 21 - Sep 24</li>
 </ol>
 
-Applications are now open. If you are interested, please fill the <a href="https://docs.google.com/forms/d/e/1FAIpQLSc2RNXyt7ZilLorecdEJCmnjCgFp2yP-9hsuB3zahHslvBcgw/viewform">Mentorship Program Application Form</a> by September 10th, 2020. The application requires you to upload your most recent CV and a Mentorship Statement. The Mentorship Statement must be no longer than one US letter-sized paper (8.5in X 11 in), with font size no smaller than 10 points. Your statement must consist of the following:
+Applications are now open. If you are interested, please fill the <a href="https://docs.google.com/forms/d/e/1FAIpQLSc2RNXyt7ZilLorecdEJCmnjCgFp2yP-9hsuB3zahHslvBcgw/viewform">Mentorship Program Application Form</a> by September 13th, 2020. The application requires you to upload your most recent CV and a Mentorship Statement. The Mentorship Statement must be no longer than one US letter-sized paper (8.5in X 11 in), with font size no smaller than 10 points. Your statement must consist of the following:
 <ol style="text-align:left" type="a">
 <li><i>Research interests</i></li>
 <li><i>Expectations from the program:</i> If you have specific mentoring needs, please specify here. For example, please indicate if you are currently applying to industry and/or academia and are looking for a mentor to guide you in that aspect.</li>
@@ -49,7 +49,7 @@ Applications are now open. If you are interested, please fill the <a href="https
 </tr>
 <tr>
 <td>Applications Due</td>
-<td>September 10th 2020</td>
+<td>September 13th 2020</td>
 </tr>
 <tr>
 <td>Acceptance Notifications</td>

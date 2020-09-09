@@ -44,7 +44,7 @@ distributed systems, ad hoc, sensor, multimedia, Ubiquitous, Pervasive, Mobile A
 
 <link rel="SHORTCUT ICON" href="images/favicon.ico">
 
-<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<!--<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
 <script
   src="https://code.jquery.com/jquery-3.3.1.min.js"
@@ -57,7 +57,29 @@ distributed systems, ad hoc, sensor, multimedia, Ubiquitous, Pervasive, Mobile A
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 
-<!--<link rel="stylesheet" type="text/css" href="css/fixedcolumns.css?ver=<?php echo filemtime("css/fixedcolumns.css") ?>">-->
+<link rel="stylesheet" type="text/css" href="css/fixedcolumns.css?ver=<?php echo filemtime("css/fixedcolumns.css") ?>">
+
+<link rel="stylesheet" type="text/css" href="css/filt.css?ver=<?php echo filemtime("css/filt.css") ?>">-->
+
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<script src="https://kit.fontawesome.com/6c0403a86b.js"></script>
+
+<!-- <link rel="stylesheet" href="//code.jquery.com/mobile/1.5.0-alpha.1/jquery.mobile-1.5.0-alpha.1.min.css"> -->
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+<!-- <script src="//code.jquery.com/mobile/1.5.0-alpha.1/jquery.mobile-1.5.0-alpha.1.min.js"></script> -->
+
+<script type="text/javascript" src="js/nav.js?ver=<?php echo filemtime("js/nav.js") ?>"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
+<link rel="stylesheet" type="text/css" href="css/fixedcolumns.css?ver=<?php echo filemtime("css/fixedcolumns.css") ?>">
 
 <link rel="stylesheet" type="text/css" href="css/filt.css?ver=<?php echo filemtime("css/filt.css") ?>">
 

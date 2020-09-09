@@ -19,7 +19,7 @@
 </style>
 
 <h2 class="text-center">Registration </h2>
-</br></br>
+</br>
 <p>To attend MOBICOM 2020, please register at the link below. There is only a single registration fee of $25 covering the conference and all workshops, for everyone irrespective of ACM membership and the number of events attending. If you are unable to afford the registration fee, please visit the <a href="travelgrant.php">travel grants page</a>.</p>
 <p>Online registration is accessible via the URL: <a href="https://www.cvent.com/d/z7qlq5">https://www.cvent.com/d/z7qlq5</a></p>
 <!--<h2 class="text-center">Registration & Hotel Reservations</h2>
