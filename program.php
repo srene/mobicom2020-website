@@ -27,6 +27,8 @@
 
 </div>
 
+<div class="centre" id="calendar-container"></div>
+
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
 <script type="text/javascript">
  var timezone = encodeURIComponent(jstz.determine().name());
@@ -35,11 +37,6 @@
  var iframe_html = pref + timezone + suff;
  document.getElementById('calendar-container').innerHTML = iframe_html;
 </script>
-
-<!--<br/>
-<?php require_once('program-table.php'); ?>
-
-<br/>-->
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
 <script type="text/javascript">
