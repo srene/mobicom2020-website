@@ -73,87 +73,56 @@ Social scientists, psychologists, and epidemiologists use empirical human intera
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse2" class="d-block" style="color:white">
-<b>2:10 - 3:40<br/><i class="fa fa-chevron-down float-right" ></i>
-Session 2: Innovations in Communication: IoT, Backscatter and Full Duplex (7 papers)<br/>Chair: Kate Lin (National Chiao Tung University)</b>
+<b>08:15 - 08:55<br/><i class="fa fa-chevron-down float-right" ></i>
+Session: Sensing and signal processing (4 papers)<br/>Chair: Tam Vu (mid US), Domenico Giustiniano and Hun-Seok Kim (US)</b>
 </a></h6>
 <div id="collapse2" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345444">Challenge: Unlicensed LPWANs Are Not Yet the Path to Ubiquitous Connectivity</a></b></h6>
+<a href="">Hummingbird: Energy Efficient GPS Receiver for Small Satellites</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Branden Ghena, Joshua Adkins (University of California, Berkeley); Longfei Shangguan (Microsoft Cloud & AI); Kyle Jamieson (Princeton University); Phil Levis (Stanford University); Prabal Dutta (University of California, Berkeley)</h6>
+ Sujay Narayana, R Venkatesha Prasad, Vijay S Rao (TU Delft); Luca Mottola (Politecnico di Milano, Italy and RI.SE SICS Sweden); T Venkata Prabhakar (IISc, India)
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo7"></a>
 <br/>
-<div id="demo7" class="collapse">
-Low-power wide-area networks (LPWANs) are a compelling answer to the networking challenges faced by many Internet of Things devices. Their combination of low power, long range, and deployment ease has motivated a flurry of research, including exciting results on backscatter and interference cancellation that further lower power budgets and increase capacity. But despite the interest, we argue that unlicensed LPWAN technologies can only serve a narrow class of Internet of Things applications due to two principal challenges: capacity and coexistence. We propose a metric, bit flux, to describe networks and applications in terms of throughput over a coverage area. Using bit flux, we find that the combination of low bit rate and long range restricts the use case of LPWANs to sparse sensing applications. Furthermore, this lack of capacity leads networks to use as much available bandwidth as possible, and a lack of coexistence mechanisms causes poor performance in the presence of multiple, independently-administered networks. We discuss a variety of techniques and approaches that could be used to address these two challenges and enable LPWANs to achieve the promise of ubiquitous connectivity.
+<div id="demo5" class="collapse">
+  Global Positioning System is a widely adopted localization technique. With the increasing demand for small satellites, the need for a low-power GPS for satellites is also increasing. To enable many state-of-the-art applications, the exact position of the satellites is necessary. However, building low-power GPS receivers which operate in low earth orbit pose significant challenges. This is mainly due to the high speed (~7.8km/s) of small satellites. While duty-cycling the receiver is a possible solution, the high relative Doppler shift between the GPS satellites and the small satellite contributes to the increase in Time To First Fix (TTFF), thus increasing the energy consumption. Further, if the GPS receiver is tumbling along with the small satellite on which it is mounted, longer TTFF may lead to no GPS fix due to disorientation of the receiver antenna. In this paper, we elucidate the design of a low-cost, low-power GPS receiver for small satellite applications. We also propose an energy optimization algorithm called F3 to improve the TTFF which is the main contributor to the energy consumption during cold start. With simulations and in-orbit evaluation from a launched nanosatellite with our μGPS and high-end GPS simulators, we show that up to 96.16% of energy savings (consuming only ~ 1/25th energy compared to the state of the art) can be achieved using our algorithm without compromising much (~10m) on the navigation accuracy. The TTFF achieved is at most 33s.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345427">Blind Distributed MU-MIMO for IoT Networking over VHF Narrowband Spectrum</a></b></h6>
+<a href="">MET: A Novel Magneto-Inductive Sensing Based Electric Toothbrushing Monitoring System</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Chuhan Gao (University of Wisconsin-Madison); Mehrdad Hessar (University of Washington); Krishna Chintalapudi, Bodhi Priyantha (Microsoft Research)</h6>
+ Hua Huang, Shan Lin (Stony Brook University)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo8"></a>
 <br/>
-<div id="demo8" class="collapse">
-Longer range, in rural/urban IoT networks, allow a large geographical coverage with only a few base-stations, making their deployment and operation economical. In this paper we explore the 150-174 MHz spectrum for long range IoT networks comprising unlicensed MURS and licensed VHF narrowbands. Range in these bands is boosted by the lower RF frequencies as well as higher transmit powers allowed by the FCC. Through a 400 sq km wide area deployment study, we show that, these spectrum bands can provide > 20× the geographical coverage than that in the 900 MHz ISM band LoRa. Increased range translates to greater uplink IoT device traffic. The key contribution of this paper is a novel technique - Blind Distributed MU-MIMO, that allows capacity to scale with the number of antennas (base- stations) while not requiring any coordinated channel measurements between the devices and IoT base- stations. This requirement is crucial since in IoT networks power constrained IoT devices typically sleep and wake up to transmit short messages in response to unpredictable events without any coordination with the base-stations. We demonstrate the efficacy of Blind Distributed MU-MIMO through a real wide area deployment.
+<div id="demo6" class="collapse">
+Electric toothbrushes are widely used for home oral care, but many users do not achieve desired hygiene results due to insufficient brushing coverage or incorrect brushing techniques. Existing electric toothbrushing monitoring systems fail to detect these issues because they cannot achieve fine-grained position tracking. In this paper, we present a novel electric toothbrushing monitoring system called MET that tracks brushing coverage for all the 15 surfaces of teeth and detects different types of incorrect brushing techniques. This design is inspired by our observation that the motor inside an electric toothbrush generates a unique magnetic field, which can serve as a reliable signal for position and orientation tracking.  MET is the first system that tracks both the position and orientation of an unmodified electric motor using magnetic inductive sensing. Experiments with fourteen users show that the average toothbrushing surface recognition accuracy of MET is 85.3%. Moreover, MET is robust to user location changes and posture variations and does not require any training from the users. Experimental results also demonstrate our significant advantages over existing commercial systems.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345451">TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes</a></b></h6>
+<a href="">Towards Flexible Wireless Charging for Medical Implants Using Distributed Antenna System</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Ambuj Varshney, Andreas Soleiman, Thiemo Voigt (Uppsala University, Sweden)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo9"></a>
 <br/>
-<div id="demo9" class="collapse">
-Due to extremely low power consumption, backscatter has become the transmission mechanism of choice for battery-free devices that operate on harvested energy. However, a limitation of recent backscatter systems is that the communication range scales with the strength of the ambient carrier signal (ACS). This means that to achieve a long-range, a backscatter tag needs to reflect a strong ACS, which in practice means that it needs to be close to an ACS emitter. We present TunnelScatter, a mechanism that overcomes this limitation. TunnelScatter uses a tunnel diode-based radio frequency oscillator to enable transmissions when there is no ACS, and the same oscillator as a reflection amplifier to support backscatter transmissions when the ACS is weak. Our results show that even without an ACS, TunnelScatter is able to transmit through several walls covering a distance of 18m while consuming a peak biasing power of 57 µW. Based on TunnelScatter, we design battery-free sensor tags, called TunnelTags, that can sense physical phenomena and transmit them using the TunnelScatter mechanism.
+<div id="demo7" class="collapse">
+This paper presents the design, implementation and evaluation of In-N-Out, a software-hardware solution for far-field wireless power transfer.In-N-Out can continuously charge the medical implant residing in deep tissues with consistently near-optimal power, even when the implant moves around inside the human body. To accomplish this, we exploit the structure of a distributed antenna array and devise a backscatter-assisted beamforming algorithm that can concentrate RF energy on a tiny spot surrounding the medical implant. Meanwhile,we can keep radiation exposure levels on other body parts very low, reducing the risk of overheating. We prototype In-N-Out on 21 software-defined radios and a printed circuit board (PCB). Through extensive experimentation, we show that In-N-Out achieves 0.37 mW average charging power in-side a 10 cm-thick pork belly, which is sufficient to wirelessly power a range of commercial medical devices from outside the body. Our head-to-head comparison with the state-of-the-art approach shows that In-N-Out achieves 5.4×–18.1×power gain when the implant is stationary, and 5.3×–7.4×power gain when the implant is in motion.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345436">On-Off Noise Power Communication</a></b></h6>
+<a href="">Self-Reconfigurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Philip Lundrigan (Brigham Young University); Neal Patwari (Washington University in St. Louis); Sneha Kasera (University of Utah)</h6>
+  Mohamed R. Abdelhamid, Ruicong Chen, Joonhyuk Cho, Anantha P. Chandrakasan, Fadel Adib (Massachusetts Institute of Technology)
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo10"></a>
 <br/>
-<div id="demo10" class="collapse">
-We design and build a protocol called on-off noise power communication (ONPC), which modifies the software in commodity packet radios to allow communication, independent of their standard protocol, at a very slow rate at long range. To achieve this long range, we use the transmitter as an RF power source that can be on or off if it does or does not send a packet, respectively, and a receiver that repeatedly measures the noise and interference power level. We use spread spectrum techniques on top of the basic on/off mechanism to overcome the interference caused by other devices' channel access to provide long ranges at a much lower data rate. We implement the protocol on top of commodity WiFi hardware. We discuss our design and how we overcome key challenges such as non-stationary interference, carrier sensing and hardware timing delays. We test ONPC in several situations to show that it achieves significantly longer range than standard WiFi.
-</div></li>
+<div id="demo8" class="collapse">
+We present the design, implementation, and evaluation of μmedIC, a fully-integrated wireless and batteryless micro-implanted sensor. The sensor powers up by harvesting energy from RF signals and communicates at near-zero power via backscatter. In contrast to prior designs which cannot operate across various in-body environments, our sensor can self-reconfigure to adapt to different tissues and channel conditions. This adaptation is made possible by two key innovations: a reprogrammable antenna that can tune its energy harvesting resonance to surrounding tissues, and a backscatter rate adaptation protocol that closes the feedback loop by tracking circuit-level sensor hints.
 
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300121">OFDMA-Enabled Wi-Fi Backscatter</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Renjie Zhao, Fengyuan Zhu, Siyuan Peng, Yuda Feng, Xiaohua Tian, Hui Yu, Xinbing Wang (Shanghai Jiao Tong University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo11"></a>
-<br/>
-<div id="demo11" class="collapse">
-In this paper, we for the first time demonstrate how to enable OFDMA in Wi-Fi backscatter for capacity and concurrency enhancement. With our approach, the excitation signal is reflected, modulated and shifted to lie in the frequency band of the OFDM subcarrier by the tag; OFDMA is realized by coordinating tags to convey information to the receiver with orthogonal subcarriers concurrently through backscatter. The crux of the design is to achieve strict synchronization among communication components, which is more challenging than in regular OFDMA systems due to the more prominent hardware diversity and uncertainty for backscattering. We reveal how the subtle asychnronization scenarios particularly for backscattering can incur system offsets, and present a series of novel designs for the excitation signal transmitter, tag, and receiver to address the issue. We build a prototype in 802.11g OFDM framework to validate our design. Experimental results show that our system can achieve 5.2-16Mbps aggregate throughput by allowing 48 tags to transmit concurrently, which is 1.45-5x capacity and 48x concurrency compared with the existing design respectively. We also design an OFDMA tag IC, and the simulation and numerical analysis results show that the tag's power consumption is in tens of µW.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300138">Wideband Full-Duplex Wireless via Frequency-Domain Equalization: Design and Experimentation</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Tingjun Chen, Mahmood Baraani Dastjerdi (Columbia University); Jin Zhou (University of Illinois at Urbana-Champaign); Harish Krishnaswamy, Gil Zussman (Columbia University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo12"></a>
-<br/>
-<div id="demo12" class="collapse">
-Full-duplex (FD) wireless can significantly enhance spectrum efficiency but requires tremendous amount of self-interference (SI) cancellation. Recent advances in the RFIC community enabled wideband RF SI cancellation (SIC) in integrated circuits (ICs) via frequency-domain equalization (FDE), where RF filters channelize the SI signal path. Unlike other FD implementations, that mostly rely on delay lines, FDE-based cancellers can be realized in small-form-factor devices. However, the fundamental limits and higher layer challenges associated with these cancellers were not explored yet. Therefore, and in order to support the integration with a software-defined radio (SDR) and to facilitate experimentation in a testbed with several nodes, we design and implement an FDE-based RF canceller on a printed circuit board (PCB). We derive and experimentally validate the PCB canceller model and present a canceller configuration scheme based on an optimization problem. We then extensively evaluate the performance of the FDE-based FD radio in the SDR testbed. Experiments show that it achieves 95dB overall SIC (52dB from RF SIC) across 20MHz bandwidth, and an average link-level FD gain of 1.87x. We also conduct experiments in: (i) uplink-downlink networks with inter-user interference, and (ii) heterogeneous networks with half-duplex and FD users. The experimental FD gains in the two types of networks confirm previous analytical results. They depend on the users' SNR values and the number of FD users, and are 1.14x-1.25x and 1.25x-1.73x, respectively. Finally, we numerically evaluate and compare the RFIC and PCB implementations and study various design tradeoffs.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345445">Verification: Constructive and Destructive Full Duplex Relays</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Lu Chen, Kannan Srinivasan, Fang Liu (Ohio State University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo13"></a>
-<br/>
-<div id="demo13" class="collapse">
-With recent advances in in-band full duplex techniques, full duplex capable relays have been shown feasible in many recent works. Instead of generating data itself to transmit, a full duplex relay can forward the received signal while receiving it. It also has the opportunity to properly modify the signal before forwarding it, which has been explored to enable constructive and destructive full duplex relaying recently. With these designs, the signal through the full duplex relay could constructively or destructively add up with the signal from the direct link at the receiver side. As a result, the received signal power may be boosted or greatly reduced, compared with direct forwarding. In this paper, we do detailed analysis on whether such constructive and destructive full duplex relays are possible. We find that for OFDM signals, such relays can not be achieved if the additional latency of the relayed path is more than one sample time than the direct link. Our analysis and results challenge the assumptions on the relay latency requirements of previous works to realize such systems.
+We built our design on millimeter-sized integrated chips and flexible antenna substrates, and tested it in environments that span both in-vitro (fluids) and ex-vivo (tissues) conditions. Our evaluation demonstrates μmedIC’s ability to tune its energy harvesting resonance by more than 200 MHz (i.e., adapt to different tissues) and to scale its bitrate by an order of magnitude up to 6Mbps, allowing it to support higher data rate applications (such as streaming low-res images) without sacrificing availability. This rate adaptation also allows μmedIC to scale its energy consumption by an order of magnitude down to 350 nanoWatts. These capabilities pave way for a new generation of networked micro-implants that can adapt to complex and time-varying in-body environments.
 </div></li>
 
 </ul></div></div></div>
