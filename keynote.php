@@ -33,7 +33,7 @@
 <h5 align="center"><i>Monday, 21st September, 09:00-10:00 PDT</i></h5>
 <br/>
 <p>
-<b>Abstract:</b>
+<b>Abstract:</b> TBD
 </p>
 
 <img src="images/keynote/katti.png" height="200" style="float: left;margin-right:15px">
@@ -46,7 +46,7 @@
 <h5 align="center"><div id="niclane"></div><b>Keynote 3: TBD</b></h5>
 <h5 align="center"><b>Nic Lane</b></h5>
 <h5 align="center">Rock Star</h5>
-<h5 align="center"><i>Tuesday, 22nd September, 9:00-10:00 PDT</i></h5>
+<h5 align="center"><i>Tuesday, 22nd September, 09:00-10:00 PDT</i></h5>
 <br/>
 <p>
 <b>Abstract:</b> TBD</p>
@@ -106,7 +106,7 @@ Durga holds a B.Tech from Indian Institute of Technology, Madras, and an M.S and
 
 <hr/>
 
-<h5 align="center"><div id="ron"></div><b>Keynote 6: Ron Marquardt</b></h5>
+<h5 align="center"><div id="ron"></div><b>Keynote 6: TBD</b></h5>
 <h5 align="center"><b>Dr. Ron Marquardt</b></h5>
 <h5 align="center">Vice President of Advanced Technologies & Innovation, T-Mobile</h5>
 <h5 align="center"><i>Thursday, 24th September, 08:15-09:15 PDT</i></h5>
