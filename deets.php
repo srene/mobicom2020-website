@@ -478,7 +478,7 @@ Visible light communication (VLC) is gaining a significant amount of interest as
 <b>10:05 - 11:00<br/>Panel 1. Moderator: Yasamin Mostofi</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="panel.php"><b>Future of Wi-Fi and 5G sensing and localization</b></a>
+<a href="panel.php#panel1"><b>Future of Wi-Fi and 5G sensing and localization</b></a>
 </h6>
 </div>
 </div>
@@ -943,7 +943,7 @@ We present the first system that can airdrop wireless sensors from small drones 
 <b>09:20 - 10:20<br/>Panel 2. Moderator: Lili Qiu</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynote.php"><b>5G and Edge Applications</b></a>
+<a href="panel.php#panel2"><b>5G and Edge Applications</b></a>
 </h6>
 </div>
 </div>
