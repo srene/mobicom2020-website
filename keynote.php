@@ -36,7 +36,7 @@
 <b>Abstract:</b>
 </p>
 
-<img src="images/keynote/katti.png" class='kimage' style="margin-right:15px">
+<img src="images/keynote/katti.png" height="200" style="float: left;margin-right:15px">
 <p>
 <b>Bio:</b> <i>Sachin Katti</i> is an Associate Professor of Electrical Engineering and Computer Science at Stanford University and an Advisor in charge of Telco Strategy at VMware. He is also the Co-Chair of the Technical Steering Committee for O-RAN Alliance and the Director of the xRAN Foundation. He is also Co-Founder and ex-CEO of Uhana (now part of VMware) which built a network AI platform to monitor and optimize mobile networks and applications. He has previously co-founded Kumu Networks, which is commercializing breakthrough research from his lab on full duplex radios. He received his PhD in EECS from MIT in 2009. His research focuses on designing and building next generation high capacity wireless networks by combining techniques from information and coding theory, RF systems, and networking.  His research has won numerous awards, including the 2008 ACM Doctoral Dissertation Award - Honorable Mention, the George Sprowls Award for Best Doctoral Dissertation in EECS at MIT, the IEEE William Bennett Prize, the Best Student Paper Award at ACM SIGCOMM 2012, USENIX ATC 2013, the Sloan Fellowship, the NSF Career Award as well as Okawa, Hooover, Packard and Terman Faculty Fellowships.
 </p>
@@ -51,7 +51,7 @@
 <p>
 <b>Abstract:</b> TBD</p>
 
-<img src="images/keynote/niclane.png" class='kimage' style="margin-right:15px">
+<img src="images/keynote/niclane.png" height="200" style="float: left;margin-right:15px">
 <p>
 <b>Bio:</b> TBC</p>
 
@@ -72,7 +72,7 @@
 </ol>
 </p>
 
-<img src="images/keynote/malladi.png" class='kimage' style="margin-right:15px">
+<img src="images/keynote/malladi.png" height="200" style="float: left;margin-right:15px">
 <p>
 <b>Bio:</b> <i>Durga Malladi</i> is Senior Vice President and General Manager, 4G/5G in Qualcomm Technologies, Inc.
 
@@ -99,7 +99,7 @@ Durga holds a B.Tech from Indian Institute of Technology, Madras, and an M.S and
 <p>
 <b>Abstract:</b> Preparing research for production—so-called technology transfer—is, beyond the lab, a fraught and often thankless exercise in organizational diplomacy, problem solving, and improvisation. After nearly a decade of bridging the research and product worlds at Google, I have many stories of tech transfer that highlight lessons I've learned—lessons I hope can help others transforming research into cutting-edge tech that ships quickly and at scale.</p>
 
-<img src="images/keynote/alex.png" class='kimage' style="margin-right:15px">
+<img src="images/keynote/alex.png" height="200" style="float: left;margin-right:15px">
 <p>
 <b>Bio:</b> <i>Alex Kauffmann</i> has spent the last decade working in research and development at Google—initially at Google X, where he built the first interfaces for Google Glass; then at Google Research, where he worked on gestural computing and computational photography and led the design of Google Cardboard; and most recently at Google's Advanced Technology and Projects division where he runs Direct Objects, a hardware R+D team intent on making computers disappear. His current research interests include low-power communication technologies, ad-hoc networks, and unusual devices. He has degrees from Harvard and NYU, where he studied technology and its history, and spent six years at ad and media agencies in China.
 </p>
