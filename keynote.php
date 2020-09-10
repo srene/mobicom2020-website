@@ -114,7 +114,7 @@ Durga holds a B.Tech from Indian Institute of Technology, Madras, and an M.S and
 <p>
 <b>Abstract:</b> TBD</p>
 
-<img src="images/keynote/ron.png" height="200" style="float: left;" >
+<img src="images/keynote/ron.png" height="200" style="float: left;margin-right:15px">
 <p>
 <b>Bio:</b>As Vice President of Advanced Technologies & Innovation for T-Mobile, <i>Dr. Marquardt</i> is responsible for the exploration of new and enabling technologies, partnerships with business leaders for their use in new categories of products and services, and the related industry relationships and investments enabling T-Mobile innovation and ecosystem development goals.  He also represents T-Mobile at speaking engagements, in press and analyst interviews, and as needed with regulatory bodies and other industry stakeholders.  Previously, he held a similar role at Sprint before the companies merged.
 
