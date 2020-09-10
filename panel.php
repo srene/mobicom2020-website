@@ -13,7 +13,6 @@
 <h2 class="text-center">Panels</h2>
 <br/>
 <h5 align="center"><div id="panel1"></div><b>Panel 1: Future of Wi-Fi and 5G sensing and localization</i></h5>
-<h5 align="center"><b>Moderator: Yasamin Mostofi</b></h5>
 <h5 align="center"><i>Tuesday, 22nd September, 10:05-11:00 PDT</i></h5>
 <br/>
 
@@ -31,6 +30,10 @@ Panelists:
 <img src="images/panel/wang.png" height="150" style="float: left;margin-right:15px">
 <i>Beibei Wang</i> is Vice President of Research and Director of Intellectual Properties at Origin Wireless Inc., and an affiliated researcher with the Department of Electrical and Computer Engineering, University of Maryland, College Park. She received the B.S. degree in electrical engineering (Hons.) from the University of Science and Technology of China, Hefei, in 2004, and the Ph.D. degree in electrical engineering from the University of Maryland, College Park in 2009. She was with the University of Maryland as a research associate in 2009-2010, and with Qualcomm Research and Development in 2010- 2014. Her research interests include Internet of Things, mobile computing, wireless sensing and positioning, and communications and networking. Dr. Wang is the recipient of the 2015 IEEE Signal Processing Society Overview Paper Award and several research and invention awards from the University of Maryland. She is a co-author of Cognitive Radio Networking and Security: A Game-Theoretic View (Cambridge University Press, 2010) and Wireless AI: Wireless Sensing, Positioning, IoT, and Communications (Cambridge University Press, 2019). She has served on the editorial board of IEEE Signal Processing Letters, IEEE Internet of Things Journal, and IEEE Journal on Selected Areas in Communications and on the technical program committee of conferences in signal processing and wireless communications.
 </br></br>
+</br>
+</br>
+Moderator:
+</br></br>
 <img src="images/panel/mostofi.png" height="150" style="float: left;margin-right:15px">
 <i>Yasamin Mostofi</i> received the B.S. degree in electrical engineering from Sharif University of Technology, and the M.S. and Ph.D. degrees from Stanford University. She is currently a professor in the Department of Electrical and Computer Engineering at the University of California Santa Barbara. Yasamin is the recipient of the Presidential Early Career Award for Scientists and Engineers (PECASE), the National Science Foundation (NSF) CAREER award, the 2016 Antonio Ruberti Prize from the IEEE Control Systems Society, and the IEEE 2012 Outstanding Engineer Award of Region 6 (more than 10 Western U.S. states), among other awards. She was a semi-plenary speaker at the 2018 IEEE Conference on Decision and Control (CDC) and a keynote speaker at the 2018 Mediterranean Conference on Control and Automation (MED). She has worked extensively on many different aspects of RF Sensing, such as occupancy analytics, person identification, robotic x-ray vision, and see-through imaging, with an emphasis on using everyday communication signals, such as WiFi, for sensing.  She has also worked extensively on robotic networks, mobility-enabled connectivity, and human-robot collaboration.  She is a fellow of IEEE
 </br></br>
@@ -38,7 +41,6 @@ Panelists:
 <hr/>
 
 <h5 align="center"><div id="panel2"></div><b>Panel 2: 5G and Edge Applications</i></h5>
-<h5 align="center"><b>Moderator: Lili Qiu</b></h5>
 <h5 align="center"><i>Thursday, 24th September, 09:20-10:20 PDT</i></h5>
 <br/>
 <p>
@@ -52,6 +54,10 @@ Panelists:
 </p>
 </br>
 </br>
+Moderator:
+<ul>
+<li>Lili Qiu, Professor at Computer Science Dept. in UT Austin..</li>
+</ul>
 </main>
 
 </center>
