@@ -70,7 +70,7 @@ Social scientists, psychologists, and epidemiologists use empirical human intera
 
 </ul></div></div></div>
 
-<div class="card bg-light">
+<!--<div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse2" class="d-block" style="color:white">
 <b>08:15 - 08:55<br/><i class="fa fa-chevron-down float-right" ></i>
@@ -125,7 +125,7 @@ We present the design, implementation, and evaluation of μmedIC, a fully-integr
 We built our design on millimeter-sized integrated chips and flexible antenna substrates, and tested it in environments that span both in-vitro (fluids) and ex-vivo (tissues) conditions. Our evaluation demonstrates μmedIC’s ability to tune its energy harvesting resonance by more than 200 MHz (i.e., adapt to different tissues) and to scale its bitrate by an order of magnitude up to 6Mbps, allowing it to support higher data rate applications (such as streaming low-res images) without sacrificing availability. This rate adaptation also allows μmedIC to scale its energy consumption by an order of magnitude down to 350 nanoWatts. These capabilities pave way for a new generation of networked micro-implants that can adapt to complex and time-varying in-body environments.
 </div></li>
 
-</ul></div></div></div>
+</ul></div></div></div>-->
 
 <div class="card">
 <h6 class="card-header text-white" style="background-color:#D62728">
@@ -682,4 +682,4 @@ CenceMe was the first paper to demonstrate how smartphones can be used to derive
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#D62728">
 <b>4:00 - 4:30<br/>Closing remarks</b></h6>
-</div>-->
+</div>
