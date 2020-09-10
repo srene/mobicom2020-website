@@ -471,14 +471,12 @@ Visible light communication (VLC) is gaining a significant amount of interest as
 <a href="keynotes.php"><b>TBD</b></a>
 </h6>
 </div>
+</div>
 
 <div class="card">
+<div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#D62728">
 <b>10:05 - 11:00<br/>Panel 1: Future of Wi-Fi and 5G sensing and localization</b></h6>
-<div class="card-body bg-light">
-<h6 class="card-title">
-<a href="keynotes.php"><b>TBD</b></a>
-</h6>
 </div>
 
 <br/><hr/>
