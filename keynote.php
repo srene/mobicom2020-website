@@ -12,10 +12,11 @@
 <main>
 <h2 class="text-center">Keynotes</h2>
 <br/>
-<h5 align="center"><div id="malliarasa"></div><b>Keynote 1: Electronics on the brain</b><i>Session Chair: Cecilia Mascolo</i></h5>
+<h5 align="center"><div id="malliarasa"></div><b>Keynote 1: Electronics on the brain</b></h5>
 <h5 align="center"><b>George Malliaras</b></h5>
 <h5 align="center">Department of Engineering, University of Cambridge</h5>
 <h5 align="center"><i>Monday, 21st September, 06:25-07:25 PDT</i></h5>
+<h5 align="center"><i>Session Chair: Cecilia Mascolo</i></h5>
 <br/>
 
 <p>
@@ -27,10 +28,11 @@
 </br>
 <hr/>
 
-<h5 align="center"><div id="katti"></div><b>Keynote 2: TBD</b><i>Session Chair: Joerg Widmer</i></h5>
+<h5 align="center"><div id="katti"></div><b>Keynote 2: TBD</b></h5>
 <h5 align="center"><b>Sachin Katti</b></h5>
 <h5 align="center">Stanford University and VMware</h5>
 <h5 align="center"><i>Monday, 21st September, 09:00-10:00 PDT</i></h5>
+<h5 align="center"><i>Session Chair: Joerg Widmer</i></h5>
 <br/>
 <p>
 <b>Abstract:</b> TBD
@@ -43,10 +45,11 @@
 </br>
 <hr/>
 
-<h5 align="center"><div id="niclane"></div><b>Keynote 3: TBD</b><i>Session Chair: Dave Kotz</i></h5>
+<h5 align="center"><div id="niclane"></div><b>Keynote 3: TBD</b></h5>
 <h5 align="center"><b>Nic Lane</b></h5>
 <h5 align="center">Rock Star</h5>
 <h5 align="center"><i>Tuesday, 22nd September, 09:00-10:00 PDT</i></h5>
+<h5 align="center"><i>Session Chair: Dave Kotz</i></h5>
 <br/>
 <p>
 <b>Abstract:</b> TBD</p>
@@ -57,10 +60,11 @@
 </br>
 <hr/>
 
-<h5 align="center"><div id="malladi"></div><b>Keynote 4: What’s next in the cellular infrastructure</b><i>Session Chair: TBD</i></h5>
+<h5 align="center"><div id="malladi"></div><b>Keynote 4: What’s next in the cellular infrastructure</b></h5>
 <h5 align="center"><b>Durga Malladi</b></h5>
 <h5 align="center">Qualcomm Technologies</h5>
 <h5 align="center"><i>Wednesday, 23rd September, 09:15-10:15 PDT</i></h5>
+<h5 align="center"><i>Session Chair: TBD</i></h5>
 <br/>
 <p>
 <b>Abstract:</b>
@@ -91,10 +95,11 @@ Durga holds a B.Tech from Indian Institute of Technology, Madras, and an M.S and
 </br>
 <hr/>
 
-<h5 align="center"><div id="alex"></div><b>Keynote 5: From Research to Product: Stories from the Frontlines of R+D</b><i>Session Chair: Shyam Gollakota</i></h5>
+<h5 align="center"><div id="alex"></div><b>Keynote 5: From Research to Product: Stories from the Frontlines of R+D</b></h5>
 <h5 align="center"><b>Alex Kauffmann</b></h5>
 <h5 align="center">Google</h5>
 <h5 align="center"><i>Wednesday, 23rd September, 10:20-11:20 PDT</i></h5>
+<h5 align="center"><i>Session Chair: Shyam Gollakota</i></h5>
 <br/>
 <p>
 <b>Abstract:</b> Preparing research for production—so-called technology transfer—is, beyond the lab, a fraught and often thankless exercise in organizational diplomacy, problem solving, and improvisation. After nearly a decade of bridging the research and product worlds at Google, I have many stories of tech transfer that highlight lessons I've learned—lessons I hope can help others transforming research into cutting-edge tech that ships quickly and at scale.</p>
@@ -106,10 +111,11 @@ Durga holds a B.Tech from Indian Institute of Technology, Madras, and an M.S and
 </br>
 <hr/>
 
-<h5 align="center"><div id="ron"></div><b>Keynote 6: TBD</b><i>Session Chair: TBD</i></h5>
+<h5 align="center"><div id="ron"></div><b>Keynote 6: TBD</b></h5>
 <h5 align="center"><b>Dr. Ron Marquardt</b></h5>
 <h5 align="center">Vice President of Advanced Technologies & Innovation, T-Mobile</h5>
 <h5 align="center"><i>Thursday, 24th September, 08:15-09:15 PDT</i></h5>
+<h5 align="center"><i>Session Chair: TBD</i></h5>
 <br/>
 <p>
 <b>Abstract:</b> TBD</p>
