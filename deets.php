@@ -19,7 +19,7 @@
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse1" class="d-block" style="color:white">
 <b>07:30 - 08:10<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Localization (4 papers)<br/> Chair: Nilanjan Banerjee (eastern US), Kyle Jamieson (eastern US) and Yunhao Liu</b>
+Session: Localization (4 papers)<br/>Chair: Nilanjan Banerjee (eastern US), Kyle Jamieson (eastern US) and Yunhao Liu</b>
 </a></h6>
 <div id="collapse1" class="collapse show">
 <div class="card-body">
@@ -90,7 +90,7 @@ Session: Sensing and signal processing (4 papers)<br/>Chair: Tam Vu (mid US), Do
   Global Positioning System is a widely adopted localization technique. With the increasing demand for small satellites, the need for a low-power GPS for satellites is also increasing. To enable many state-of-the-art applications, the exact position of the satellites is necessary. However, building low-power GPS receivers which operate in low earth orbit pose significant challenges. This is mainly due to the high speed (~7.8km/s) of small satellites. While duty-cycling the receiver is a possible solution, the high relative Doppler shift between the GPS satellites and the small satellite contributes to the increase in Time To First Fix (TTFF), thus increasing the energy consumption. Further, if the GPS receiver is tumbling along with the small satellite on which it is mounted, longer TTFF may lead to no GPS fix due to disorientation of the receiver antenna. In this paper, we elucidate the design of a low-cost, low-power GPS receiver for small satellite applications. We also propose an energy optimization algorithm called F3 to improve the TTFF which is the main contributor to the energy consumption during cold start. With simulations and in-orbit evaluation from a launched nanosatellite with our μGPS and high-end GPS simulators, we show that up to 96.16% of energy savings (consuming only ~ 1/25th energy compared to the state of the art) can be achieved using our algorithm without compromising much (~10m) on the navigation accuracy. The TTFF achieved is at most 33s.
 </div></li>
 
-<li class="list-group-item bg-light">
+<!--<li class="list-group-item bg-light">
 <h6 class="card-title"><b>
 <a href="">MET: A Novel Magneto-Inductive Sensing Based Electric Toothbrushing Monitoring System</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
@@ -123,7 +123,7 @@ This paper presents the design, implementation and evaluation of In-N-Out, a sof
 We present the design, implementation, and evaluation of μmedIC, a fully-integrated wireless and batteryless micro-implanted sensor. The sensor powers up by harvesting energy from RF signals and communicates at near-zero power via backscatter. In contrast to prior designs which cannot operate across various in-body environments, our sensor can self-reconfigure to adapt to different tissues and channel conditions. This adaptation is made possible by two key innovations: a reprogrammable antenna that can tune its energy harvesting resonance to surrounding tissues, and a backscatter rate adaptation protocol that closes the feedback loop by tracking circuit-level sensor hints.
 
 We built our design on millimeter-sized integrated chips and flexible antenna substrates, and tested it in environments that span both in-vitro (fluids) and ex-vivo (tissues) conditions. Our evaluation demonstrates μmedIC’s ability to tune its energy harvesting resonance by more than 200 MHz (i.e., adapt to different tissues) and to scale its bitrate by an order of magnitude up to 6Mbps, allowing it to support higher data rate applications (such as streaming low-res images) without sacrificing availability. This rate adaptation also allows μmedIC to scale its energy consumption by an order of magnitude down to 350 nanoWatts. These capabilities pave way for a new generation of networked micro-implants that can adapt to complex and time-varying in-body environments.
-</div></li>
+</div></li>-->
 
 </ul></div></div></div>
 
