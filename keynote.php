@@ -21,7 +21,7 @@
 <p>
 <b>Abstract:</b> One of the most important scientific and technological frontiers of our time is the interfacing of electronics with the human brain. This endeavour promises to help understand how the brain works and deliver new tools for diagnosis and treatment of pathologies including epilepsy and Parkinson’s disease. Current solutions, however, are limited by the materials that are brought in contact with the tissue and transduce signals across the biotic/abiotic interface. Recent advances in electronics have made available materials with a unique combination of attractive properties, including mechanical flexibility, mixed ionic/electronic conduction, enhanced biocompatibility, and capability for drug delivery. I will present examples of novel devices for recording and stimulation of neurons and show that organic electronic materials offer tremendous opportunities to study the brain and treat its pathologies.</p>
 
-<img src="images/keynote/malliaras.png" class='kimage' style="margin-right:15px">
+<img src="images/keynote/malliaras.png" height="200" style="float: left;margin-right:15px">
 <p>
 <b>Bio:</b> <i>George Malliaras</i> is the Prince Philip Professor of Technology at the University of Cambridge (UK). He received a PhD from the University of Groningen (the Netherlands) and did a postdoc at the IBM Almaden Research Center (USA). Before joining Cambridge, he was a faculty member at School of Mines (France) and at Cornell University (USA), and served as the Director of the Cornell NanoScale Facility. His research has been recognized with awards from the New York Academy of Sciences, the US National Science Foundation, and DuPont, and an Honorary Doctorate from the University of Linköping in Sweden. He is a Fellow of the Materials Research Society and of the Royal Society of Chemistry and serves as Deputy Editor of Science Advances.</p>
 
@@ -99,7 +99,7 @@ Durga holds a B.Tech from Indian Institute of Technology, Madras, and an M.S and
 <p>
 <b>Abstract:</b> Preparing research for production—so-called technology transfer—is, beyond the lab, a fraught and often thankless exercise in organizational diplomacy, problem solving, and improvisation. After nearly a decade of bridging the research and product worlds at Google, I have many stories of tech transfer that highlight lessons I've learned—lessons I hope can help others transforming research into cutting-edge tech that ships quickly and at scale.</p>
 
-<img src="images/keynote/alex.png" height="200" style="float: left;margin-right:15px">
+<img src="images/keynote/alex.png" height="180" style="float: left;margin-right:15px">
 <p>
 <b>Bio:</b> <i>Alex Kauffmann</i> has spent the last decade working in research and development at Google—initially at Google X, where he built the first interfaces for Google Glass; then at Google Research, where he worked on gestural computing and computational photography and led the design of Google Cardboard; and most recently at Google's Advanced Technology and Projects division where he runs Direct Objects, a hardware R+D team intent on making computers disappear. His current research interests include low-power communication technologies, ad-hoc networks, and unusual devices. He has degrees from Harvard and NYU, where he studied technology and its history, and spent six years at ad and media agencies in China.
 </p>
