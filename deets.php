@@ -535,46 +535,57 @@ Facial authentication mechanisms are gaining traction on smartphones because of 
 
 </ul></div></div></div>
 
-<!--<div class="card bg-light">
+<div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse8" class="d-block" style="color:white">
-<b>11:00 - 11:40<br/><i class="fa fa-chevron-down float-right" ></i>
-Session 8: Machine Learning for Wireless Networking (3 papers)<br/>Chair: Lili Qiu (University of Texas at Austin)</b>
+<b>06:35 - 07:15<br/><i class="fa fa-chevron-down float-right" ></i>
+Session: Advanced sensing capability (4 papers)<br/>Chair: Hun-Seok Kim and Haitham Hassanieh (mid US) and Fadel Adib (US)</b>
 </a></h6>
 <div id="collapse8" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345431">vrAIn: A Deep Learning Approach Tailoring Computing and Radio Resources in Virtualized RANs</a></b></h6>
+<a href="">Towards 3D Human Pose Construction Using WiFi</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Jose A. Ayala-Romero (Technical University of Cartagena); Andres Garcia-Saavedra (NEC Laboratories Europe); Marco Gramaglia (Universidad Carlos III de Madrid); Xavier Costa-Perez (NEC Laboratories Europe); Albert Banchs (Universidad Carlos III de Madrid); Juan J. Alcaraz (Technical University of Cartagena)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo46"></a>
+ Wenjun Jiang, Hongfei Xue, Chenglin Miao, Shiyang Wang, Sen Lin, Chong Tian, Srinivasan Murali, Haochen Hu, Zhi Sun, Lu Su (State University of New York at Buffalo)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo40"></a>
 <br/>
-<div id="demo46" class="collapse">
-The virtualization of radio access networks (vRAN) is the last milestone in the NFV revolution. However, the complex dependencies between computing and radio resources make vRAN resource control particularly daunting. We present vrAIn, a dynamic resource controller for vRANs based on deep reinforcement learning. First, we use an autoencoder to project high-dimensional context data (traffic and signal quality patterns) into a latent representation. Then, we use a deep deterministic policy gradient (DDPG) algorithm based on an actor-critic neural network structure and a classifier to map (encoded) contexts into resource control decisions. We have implemented vrAIn using an open-source LTE stack over different platforms. Our results show that vrAIn successfully derives appropriate compute and radio control actions irrespective of the platform and context: (i) it provides savings in computational capacity of up to 30% over CPU-unaware methods; (ii) it improves the probability of meeting QoS targets by 25% over static allocation policies using similar CPU resources in average; (iii) upon CPU capacity shortage, it improves throughput performance by 25% over state-of-the-art schemes; and (iv) it performs close to optimal policies resulting from an offline oracle. To the best of our knowledge, this is the first work that thoroughly studies the computational behavior of vRANs, and the first approach to a model-free solution that does not need to assume any particular vRAN platform or system conditions.
+<div id="demo40" class="collapse">
+This paper presents WiPose, the first 3D human pose construction framework using commercial WiFi devices. From the pervasive WiFi signals, WiPose can reconstruct 3D skeletons composed of the joints on both limbs and torso of the human body. By overcoming the technical challenges faced by traditional camera-based human perception solutions, such as lighting and occlusion, the proposed WiFi human sensing technique demonstrates the potential to enable a new generation of applications such as health care, assisted living, gaming, and virtual reality. WiPose is based on a novel deep learning model that addresses a series of technical challenges. First, WiPose can encode the prior knowledge of human skeleton into the posture construction process to ensure the estimated joints satisfy the skeletal structure of the human body. Second, to achieve cross environment generalization, WiPose takes as input a 3D velocity profile which can capture the movements of the whole 3D space, and thus separate posture-specific features from the static objects in the ambient environment. Finally, WiPose employs a recurrent neural network (RNN) and a smooth loss to enforce smooth movements of the generated skeletons. Our evaluation results on a real-world WiFi sensing testbed with distributed antennas show that WiPose can localize each joint on the human skeleton with an average error of 2.83cm, achieving a 35% improvement in accuracy over the state-of-the-art posture construction model designed for dedicated radar sensors.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345438">Fast and Efficient Cross Band Channel Prediction Using Machine Learning</a></b></h6>
+<a href="">Contactless Seismocardiography via Deep Learning Radars</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Arjun Bakshi, Yifan Mao, Srinivasan Parthasarathy, Kannan Srinivasan (The Ohio State University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo47"></a>
+ Unsoo Ha, Salah Assana (MIT Media Lab); Fadel Adib (Massachusetts Institute of Technology)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo41"></a>
 <br/>
-<div id="demo47" class="collapse">
-Channel information plays an important role in modern wireless communication systems. Systems that use different frequency bands for uplink and downlink communication often need feedback between devices to exchange band specific channel information. The current state-of-the-art approach proposes a way to predict the channel in the downlink based on that of the observed uplink by identifying variables underlying the uplink channel. In this paper we present a solution that greatly reduces the complexity of this task, and is even applicable for single antenna devices. Our approach uses a neural network trained on a standard channel model to generate coarse estimates for the variables underlying the channel. We then use a simple and efficient single antenna optimization framework to get more accurate variable estimates, which can be used for downlink channel prediction. We implement our approach on software defined radios and compare it to the state-of-the-art through experiments and simulations. Results show that our approach reduces the time complexity by at least an order of magnitude (10x), while maintaining similar prediction quality.
+<div id="demo41" class="collapse">
+The seismocardiogram (SCG) is a recording of a human heart’s mechanical activity. It captures fine-grained cardiovascular events such as the opening and closing of heart valves and the contraction and relaxation of heart chambers. Today, SCG recordings are obtained by strapping an accelerometer at the apex of the heart to measure chest wall vibrations. These recordings can be used to diagnose and monitor various cardiovascular conditions including myocardial infarction (heart attack), coronary heart disease, and ischemia. This paper introduces RF-SCG, a system that can capture SCG recordings without requiring any contact with the human body. The system operates by analyzing the reflections of millimeter-wave radar signals off the human body. RF-SCG can reconstruct the SCG waveform, and it can time 5 cardiovascular events within individual heartbeats with high accuracy. Our design is based on a hybrid architecture that combines signal processing with deep learning. The pipeline includes a 4D Cardiac Beamformer that can focus on the reflections of the human heart and  a deep learning pipeline (RF-to-SCG Translator) that can transform these reflections into SCG waveforms. Empirical evaluation with 40,000 heartbeats from 21 healthy subjects demonstrates RF-SCG’s ability to robustly time five key cardiovascular events (aortic valve opening, aortic valve closing, mitral valve opening, mitral valve closing, and isovolumetric contraction) with a median error between 0.26%-1.29%.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345450">A Framework for Analyzing Spectrum Characteristics in Large Spatio-temporal Scales</a></b></h6>
+<a href="">RFGo: A Seamless Self-checkout System for Apparel Stores Using RFID</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Yijing Zeng, Varun Chandrasekaran, Suman Banerjee (UW-Madison); Domenico Giustiniano (IMDEA Networks)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo48"></a>
+ Carlos Bocanegra (Northeastern University); Mohammad A. (Amir) Khojastepour, Mustafa Y. Arslan, Eugene Chai, Sampath Rangarajan (NEC Labs America); Kaushik R. Chowdhury (Northeastern University)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo42"></a>
 <br/>
-<div id="demo48" class="collapse">
-Understanding spectrum characteristics with little prior knowledge requires fine-grained spectrum data in the frequency, spatial, and temporal domains; gathering such a diverse set of measurements results in a large data volume. Analysis of the resulting dataset poses unique challenges; methods in the status quo are tailored for specific spectrum-related applications (apps), and are ill equipped to process data of this magnitude. In this paper, we design BigSpec, a general-purpose framework that allows for fast processing of apps. The key idea is to reduce computation costs by performing computation extensively on compressed data that preserves signal features. Adhering to this guideline, we build solutions for three apps, i.e., energy detection, spatio-temporal spectrum estimation, and anomaly detection. These apps were chosen to highlight BigSpec's efficiency, scalability, and extensibility. To evaluate BigSpec's performance, we collect more than 1 terabyte of spectrum data spanning a year, across 300MHz-4GHz, covering 400 km2. Compared with baselines and prior works, we achieve 17× run time efficiency, sublinear rather than linear run time scalability, and extend the definition of anomaly to different domains (frequency & spatio-temporal). We also obtain high-level insights from the data to provide valuable advice on future spectrum measurement and data analysis.
+<div id="demo42" class="collapse">
+Retailers are aiming to enhance customer experience by automating the checkout process.  The key impediment here is the effort to manually align the product barcode with the scanner, requiring sequential handling of items without blocking the line-of-sight of the laser beam.  While recent systems such as Amazon Go eliminate human involvement using an extensive array of cameras, we propose a privacy-preserving alternative, RFGo, that identifies products using passive RFID tags. Foregoing continuous monitoring of customers throughout the store, RFGo scans the products in a dedicated checkout area that is large enough for customers to simply walk in and stand until the scan is complete (in two seconds). Achieving such low-latency checkout is not possible with traditional RFID readers, which decode tags using one antenna at a time. To overcome this, RFGo includes a custom-built RFID reader that simultaneously decodes a tag's response from multiple carrier-level synchronized antennas enabling a large set of tag observations in a very short time. RFGo then feeds these observations to a neural network that accurately distinguishes the products within the checkout area from those that are outside. We build a prototype of RFGo and evaluate its performance in challenging scenarios. Our experiments show that RFGo is extremely accurate, fast and well-suited for practical deployment in apparel stores.
+</div></li>
+
+<li class="list-group-item bg-light">
+<h6 class="card-title"><b>
+<a href="">Understanding and Embracing the Complexities of the Molecular Communication Channel in Liquids</a></b></h6>
+<h6 class="card-subtitle mb-2 text-muted">
+  Jiaming Wang, Dongyin Hu, Chirag Shetty, Haitham Hassanieh (University of Illinois Urbana Champaign)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo43"></a>
+<br/>
+<div id="demo43" class="collapse">
+Molecular communication has recently gained a lot of interest due to its potential to enable micro-implants to communicate by releasing molecules into the bloodstream. In this paper, we aim to explore the molecular communication channel through theoretical and empirical modeling in order to achieve a better understanding of its characteristics, which tend to be more complex in practice than traditional wireless and wired channels. Our study reveals two key new characteristics that have been overlooked by past work. Specifically, the molecular communication channel exhibits non-causal inter-symbol-interference and a long delay spread, that extends beyond the channel coherence time, which limit decoding performance. To address this, we design, μ-Link a molecular communication protocol and decoder that accounts for these new insights. We build a testbed to experimentally validate our findings and show that μ-Link can improve the achievable data rates with significantly lower bit error rates.
 </div></li>
 
 </ul></div></div></div>
@@ -582,87 +593,46 @@ Understanding spectrum characteristics with little prior knowledge requires fine
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse9" class="d-block" style="color:white">
-<b>1:30 - 3:00<br/><i class="fa fa-chevron-down float-right" ></i>
-Session 9: Mobile Interfaces (7 papers)<br/>Chair: Tam Vu (University of Colorado Boulder)</b>
+<b>07:20 - 07:50<br/><i class="fa fa-chevron-down float-right" ></i>
+Session: Mobile systems (3 papers)<br/>Chair: Chen Qian (US), Pengyu Zhang (western US) and Joerg Widmer (Spain)</b>
 </a></h6>
 <div id="collapse9" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300119">Keep Others From Peeking At Your Mobile Device Screen!</a></b></h6>
+<a href="">Internet-of-Microchips: Direct Radio-to-Bus Communication with SPI Backscatter</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Chun-Yu Chen, Bo-Yao Lin, Junding Wang, Kang G. Shin (University of Michigan, Ann Arbor)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo49"></a>
+  Songfan Li, Chong Zhang, Yihang Song, Hui Zheng, Lu Liu (University of Electronic Science and Technology of China); Li Lu (School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC), P.R. China); Mo Li (Nanyang Technological University)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo44"></a>
 <br/>
-<div id="demo49" class="collapse">
-The information displayed on mobile device screens can be seen by nearby (unauthorized) parties, called shoulder surfers. To protect sensitive on-screen information, we have developed HideScreen by utilizing the human vision and optical system properties to hide the users' on-screen information from the shoulder surfers. <br/><br/>Specifically, HideScreen discretizes the on-screen information (OSI) into grid patterns to neutralize the low-frequency components so that the OSI will "blend into" the background when viewed from the outside of the designed range. We have developed and evaluated several ways of hiding both on-screen texts and images from shoulder surfers. Our extensive experimental evaluation of HideScreen has demonstrated its high protection rates (>96% for texts and >99% for images) while providing good user experience.
+<div id="demo44" class="collapse">
+Energy consumption of Internet-of-Things end devices is a major constraint that limits their long-term and large-scale deployment. Conventionally, the radios and processors used in these end devices are major power consumption that drains at the level of milliwatts (mmWs). However, in recent decades, backscatter communication has dramatically reduced the power consumed by the radios in end devices to microwatts (\muμWs), and thus the processor remains the major bottleneck for energy optimization.
+In this paper, we propose a processor-free architecture as a novel design that allows the radio to interface directly with peripheral sensor chips for control and data collection, thereby separating the processors from the end device design to significantly reduce the energy consumed by end devices. The main problem is that the peripheral chips are designed to be accessed by the processor via a standard digital bus and they cannot communicate directly with the radio. In order to support such processor-free design, we propose radio-to-bus (R2B) as a novel communication paradigm that allows direct data exchange between a backscatter radio and the serial peripheral interface (SPI) bus. We implement the processor-free architecture in proof-of-concept prototypes and demonstrate that the power consumption decreases by 4.5 times compared with the conventional end device design.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300124">Taprint: Secure Text Input for Commodity Smart Wearables</a></b></h6>
+<a href="">TinyLink 2.0: Integrating Device, Cloud, and Client Development for IoT Applications</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Wenqiang Chen, Lin Chen, Yandao Huang (Shenzhen University); Xinyu Zhang (University of California San Diego); Lu Wang, Rukhsana Ruby, Kaishun Wu (Shenzhen University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo50"></a>
+  Gaoyang Guan, Borui Li, Yi Gao, Yuxuan Zhang, Jiajun Bu, Wei Dong (Zhejiang University)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo45"></a>
 <br/>
-<div id="demo50" class="collapse">
-Smart wristband has become a dominant device in the wearable ecosystem, providing versatile functions such as fitness tracking, mobile payment, and transport ticketing. However, the small form-factor, low-profile hardware interfaces and computational resources limit their capabilities in security checking. Many wristband devices have recently witnessed alarming vulnerabilities, e.g., personal data leakage and payment fraud, due to the lack of authentication and access control. To fill this gap, we propose a secure text pin input system, namely Taprint, which extends a virtual number pad on the back of a user's hand. Taprint builds on the key observation that the hand "landmarks'', especially finger knuckles, bear unique vibration characteristics when being tapped by the user herself. It thus uses the tapping vibrometry as biometrics to authenticate the user, while distinguishing the tapping locations. Taprint reuses the inertial measurement unit in the wristband, "overclocks'' its sampling rate to extrapolate fine-grained features, and further refines the features to enhance the uniqueness and reliability. Extensive experiments on 128 users demonstrate that Taprint achieves a high accuracy (96%) of keystrokes recognition. It can authenticate users, even through a single-tap, at extremely low error rate (2.4%), and under various practical usage disturbances.
+<div id="demo45" class="collapse">
+The recent years have witnessed the rapid growth of IoT (Internet of Things) applications. A typical IoT application usually consists of three essential parts: the device side, the cloud side, and the client side. The development of a complete IoT application is very difficult for non-expert developers because it involves drastically different technologies and complex interactions between different sides. Unlike traditional IoT development platforms which use separate approaches for these three sides, we present TinyLink 2.0, an integrated IoT development approach with a single coherent language. It achieves high expressiveness for diverse IoT applications by an enhanced IFTTT rule design and a virtual sensor mechanism which helps developers express application logic with machine learning. Moreover, TinyLink 2.0 optimizes the IoT application performance by using both static and dynamic optimizers, especially for resource-constrained IoT devices. We implement TinyLink 2.0 and evaluate it with eight case studies, a user study, and a detailed evaluation of the proposed programming language as well as the performance optimizers. Results show that TinyLink 2.0 can speed up IoT development significantly compared with existing approaches from both industry and academia, while still achieving high expressiveness.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3345434">Touch Well Before Use: Intuitive and Secure Authentication for IoT Devices</a></b></h6>
+<a href="">Experience: Aging or Glitching? Why Does Android Stop Responding and What Can We Do About It?</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Xiaopeng Li, Fengyao Yan, Fei Zuo, Qiang Zeng, Lannan Luo (University of South Carolina)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo51"></a>
+ Mingliang Li (Xiaomi Co. LTD & Tsinghua University); Hao Lin (Tsinghua University); Cai Liu (Xiaomi Co. LTD); Zhenhua Li (Tsinghua University); Feng Qian (University of Minnesota - Twin Cities); Yunhao Liu (MSU & Tsinghua University); Nian Sun (Xiaomi Co. LTD); Tianyin Xu (University of Illinois Urbana-Champaign)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo46"></a>
 <br/>
-<div id="demo51" class="collapse">
-Internet of Things (IoT) are densely deployed in smart environments, such as homes, factories and laboratories, where many people have physical access to IoT devices. How to authenticate users operating on these devices is thus an important problem. IoT devices usually lack conventional user interfaces, such as keyboards and mice, which makes traditional authentication methods inapplicable. We present a virtual sensing technique that allows IoT devices to virtually sense user 'petting' (in the form of some very simple touches for about 2 seconds) on the devices. Based on this technique, we build a secure and intuitive authentication method that authenticates device users by comparing the petting operations sensed by devices and those captured by the user wristband. The authentication method is highly secure as physical operations are required, rather than based on proximity. It is also intuitive, adopting very simple authentication operations, e.g., clicking buttons, twisting rotary knobs, and swiping touchscreens. Unlike the state-of-the-art methods, our method does not require any hardware modifications of devices, and thus can be applied to commercial off-the-shelf (COTS) devices. We build prototypes and evaluate them comprehensively, demonstrating their high effectiveness, security, usability, and efficiency.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300118">Towards Touch-to-Access Device Authentication Using Body Electric Potentials</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Zhenyu Yan, Qun Song, Rui Tan (Nanyang Technological University, Singapore); Yang Li (Shenzhen University, P. R. China); Adams Wai Kin Kong (Nanyang Technological University, Singapore)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo52"></a>
-<br/>
-<div id="demo52" class="collapse">
-This paper presents TouchAuth, a new touch-to-access device authentication approach using induced body electric potentials (iBEPs) caused by the indoor ambient electric field that is mainly emitted from the building's electrical cabling. The design of TouchAuth is based on the electrostatics of iBEP generation and a resulting property, i.e., the iBEPs at two close locations on the same human body are similar, whereas those from different human bodies are distinct. Extensive experiments verify the above property and show that TouchAuth achieves high-profile receiver operating characteristics in implementing the touch-to-access policy. Our experiments also show that a range of possible interfering sources including appliances' electromagnetic emanations and noise injections into the power network do not affect the performance of TouchAuth. A key advantage of TouchAuth is that the iBEP sensing requires a simple analog-to-digital converter only, which is widely available on microcontrollers. Compared with existing approaches including intra-body communication and physiological sensing, TouchAuth is a low-cost, lightweight, and convenient approach for authorized users to access the smart objects found in indoor environments.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300117">SignSpeaker: A Real-time, High-Precision SmartWatch-based Sign Language Translator</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Jiahui Hou (University of Science and Technology of China & Illinois Institute of Technology); Xiang-Yang Li, Peide Zhu, Zefan Wang (University of Science and Technology of China); Yu Wang (University of North Carolina at Charlotte); Jianwei Qian (Illinois Institute of Technology); Panglong Yang (University of Science and Technology of China)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo53"></a>
-<br/>
-<div id="demo53" class="collapse">
-Sign language is a natural and fully-formed communication method for deaf or hearing-impaired people. Unfortunately, most of the state-of-the-art sign recognition technologies are limited by either high energy consumption or expensive device costs and have a difficult time providing a real-time service in a daily-life environment. Inspired by previous works on motion detection with wearable devices, we propose Sign Speaker - a real-time, robust, and user-friendly American sign language recognition (ASLR) system with affordable and portable commodity mobile devices. SignSpeaker is deployed on a smartwatch along with a smartphone; the smartwatch collects the sign signals and the smartphone outputs translation through an inbuilt loudspeaker. We implement a prototype system and run a series of experiments that demonstrate the promising performance of our system. For example, the average translation time is approximately 1.1 seconds for a sentence with eleven words. The average detection ratio and reliability of sign recognition are 99.2% and 99.5%, respectively. The average word error rate of continuous sentence recognition is 1.04% on average.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300129">SolarGest: Ubiquitous and Battery-free Gesture Recognition using Solar Cells</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Dong Ma, Guohao Lan, Mahbub Hassan, Wen Hu, Mushfika Baishakhi Upama, Ashraf Uddin (University of New South Wales); Moustafa Youssef (Egypt-Japan University of Science and Technology)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo54"></a>
-<br/>
-<div id="demo54" class="collapse">
-We design a system, SolarGest, which can recognize hand gestures near a solar-powered device by analyzing the patterns of the photocurrent. SolarGest is based on the observation that each gesture interferes with incident light rays on the solar panel in a unique way, leaving its distinguishable signature in harvested photocurrent. Using solar energy harvesting laws, we develop a model to optimize design and usage of SolarGest. To further improve the robustness of SolarGest under non-deterministic operating conditions, we combine dynamic time warping with Z-score transformation in a signal processing pipeline to pre-process each gesture waveform before it is analyzed for classification. We evaluate SolarGest with both conventional opaque solar cells as well as emerging see-through transparent cells. Our experiments with 6,960 gesture samples for 6 different gestures reveal that even with transparent cells, SolarGest can detect 96% of the gestures while consuming 44% less power compared to light sensor based systems.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=3300128">Fire in Your Hands: Understanding Thermal Behavior of Smartphones</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
- Soowon Kang (KAIST); Hyeonwoo Choi (Samsung Electronics); Soo Young Park (KAIST); Chunjong Park (University of Washington); Jemin Lee, Uichin Lee, Sung-Ju Lee (KAIST)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo55"></a>
-<br/>
-<div id="demo55" class="collapse">
-Overheating smartphones could hamper user experiences. While there have been numerous reports on smartphone overheating, a systematic measurement and user experience study on the thermal aspect of smartphones is missing. Using thermal imaging cameras, we measure and analyze the temperatures of various smartphones running diverse application workloads such as voice calling, video recording, video chatting, and 3D online gaming. Our experiments show that running popular applications such as video chat, could raise the smartphone's surface temperature to over 50°C in only 10 minutes, which could easily cause thermal pain to users. Recent ubiquitous scenarios such as augmented reality and mobile deep learning also have considerable thermal issues. We then perform a user study to examine when the users perceive heat discomfort from the smartphones and how they react to overheating. Most of our user study participants reported considerable thermal discomfort while playing a mobile game, and that overheating disrupted interaction flows. With this in mind, we devise a smartphone surface temperature prediction model, by using only system statistics and internal sensor values. Our evaluation showed high prediction accuracy with root-mean-square errors of less than 2°C. We discuss several insights from our findings and recommendations for user experience, OS design, and developer support for better user-thermal interactions.
+<div id="demo46" class="collapse">
+Almost every Android user has unsatisfying experiences regarding responsiveness, in particular Application Not Responding (ANR) and System Not Responding (SNR) that directly disrupt user experience.
+Unfortunately, the community have limited understanding of the prevalence, characteristics, and root causes of unresponsiveness. In this paper, we make an in-depth study of ANR and SNR at scale based on fine-grained system-level traces crowdsourced from 30,000 Android systems. We find that ANR and SNR occur prevalently on all the studied 15 hardware models, and better hardware does not seem to relieve the problem. Moreover, as Android evolves from version 7.0 to 9.0, there are fewer ANR events but more SNR events. Most importantly, we uncover multifold root causes of ANR and SNR and pinpoint the largest pathology which roots in Android's flawed implementation of Write Amplification Mitigation (WAM). We design a practical approach to eliminating this largest root cause; after large-scale deployment, it reduces almost all (>99%) ANR and SNR caused by WAM while only decreasing 3% of the data write speed.
+In addition, we document important lessons we have learned from this study, and have also released our measurement code/data to the research community.
 </div></li>
 
 </ul></div></div></div>
