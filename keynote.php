@@ -24,7 +24,7 @@
 <img src="images/keynote/malliaras.png" height="180" style="float: left;margin-right:15px">
 <p>
 <b>Bio:</b> <i>George Malliaras</i> is the Prince Philip Professor of Technology at the University of Cambridge (UK). He received a PhD from the University of Groningen (the Netherlands) and did a postdoc at the IBM Almaden Research Center (USA). Before joining Cambridge, he was a faculty member at School of Mines (France) and at Cornell University (USA), and served as the Director of the Cornell NanoScale Facility. His research has been recognized with awards from the New York Academy of Sciences, the US National Science Foundation, and DuPont, and an Honorary Doctorate from the University of Linköping in Sweden. He is a Fellow of the Materials Research Society and of the Royal Society of Chemistry and serves as Deputy Editor of Science Advances.</p>
-
+</br>
 <hr/>
 
 <h5 align="center"><div id="katti"></div><b>Keynote 2: TBD</b></h5>
@@ -40,7 +40,7 @@
 <p>
 <b>Bio:</b> <i>Sachin Katti</i> is an Associate Professor of Electrical Engineering and Computer Science at Stanford University and an Advisor in charge of Telco Strategy at VMware. He is also the Co-Chair of the Technical Steering Committee for O-RAN Alliance and the Director of the xRAN Foundation. He is also Co-Founder and ex-CEO of Uhana (now part of VMware) which built a network AI platform to monitor and optimize mobile networks and applications. He has previously co-founded Kumu Networks, which is commercializing breakthrough research from his lab on full duplex radios. He received his PhD in EECS from MIT in 2009. His research focuses on designing and building next generation high capacity wireless networks by combining techniques from information and coding theory, RF systems, and networking.  His research has won numerous awards, including the 2008 ACM Doctoral Dissertation Award - Honorable Mention, the George Sprowls Award for Best Doctoral Dissertation in EECS at MIT, the IEEE William Bennett Prize, the Best Student Paper Award at ACM SIGCOMM 2012, USENIX ATC 2013, the Sloan Fellowship, the NSF Career Award as well as Okawa, Hooover, Packard and Terman Faculty Fellowships.
 </p>
-
+</br>
 <hr/>
 
 <h5 align="center"><div id="niclane"></div><b>Keynote 3: TBD</b></h5>
@@ -54,7 +54,7 @@
 <img src="images/keynote/niclane.png" height="200" style="float: left;margin-right:15px">
 <p>
 <b>Bio:</b> TBC</p>
-
+</br>
 <hr/>
 
 <h5 align="center"><div id="malladi"></div><b>Keynote 4: What’s next in the cellular infrastructure</b></h5>
@@ -88,7 +88,7 @@ He is the recipient of Qualcomm’s IP Excellence Award, Qualcomm Distinguished 
 
 Durga holds a B.Tech from Indian Institute of Technology, Madras, and an M.S and Ph.D. from UCLA. His Ph.D. dissertation is on Sequential Detection and Adaptive Estimation techniques, and his research interests include Signal Processing, Communication Theory and Artificial Intelligence. He is a member of IEEE and holds 505 U.S. patents.
 </p>
-
+</br>
 <hr/>
 
 <h5 align="center"><div id="alex"></div><b>Keynote 5: From Research to Product: Stories from the Frontlines of R+D</b></h5>
@@ -103,7 +103,7 @@ Durga holds a B.Tech from Indian Institute of Technology, Madras, and an M.S and
 <p>
 <b>Bio:</b> <i>Alex Kauffmann</i> has spent the last decade working in research and development at Google—initially at Google X, where he built the first interfaces for Google Glass; then at Google Research, where he worked on gestural computing and computational photography and led the design of Google Cardboard; and most recently at Google's Advanced Technology and Projects division where he runs Direct Objects, a hardware R+D team intent on making computers disappear. His current research interests include low-power communication technologies, ad-hoc networks, and unusual devices. He has degrees from Harvard and NYU, where he studied technology and its history, and spent six years at ad and media agencies in China.
 </p>
-
+</br>
 <hr/>
 
 <h5 align="center"><div id="ron"></div><b>Keynote 6: TBD</b></h5>
