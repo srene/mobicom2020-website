@@ -248,6 +248,7 @@ Millimeter-wave (mmWave) networking represents a core technology to meet the dem
 </ul></div></div></div>
 
 <br/><hr/>
+
 <div class="accordion">
 <p class="h4"><b>Tuesday, 22nd September, 2020 PDT</b></p>
 
@@ -479,6 +480,8 @@ Visible light communication (VLC) is gaining a significant amount of interest as
 <a href="keynotes.php"><b>TBD</b></a>
 </h6>
 </div>
+
+<br/><hr/>
 
 <div class="accordion">
 <p class="h4"><b> Wednesday, 23rd September, 2020 PDT</b></p>
@@ -753,7 +756,7 @@ Conventional road signs convey very concise and static visual information to hum
 </h6>
 </div>
 </div>
-
+<br/><hr/>
 
 <div class="accordion">
 <p class="h4"><b> Thursday, 24th September, 2020 PDT</b></p>
