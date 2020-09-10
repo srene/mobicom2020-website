@@ -474,9 +474,13 @@ Visible light communication (VLC) is gaining a significant amount of interest as
 </div>
 
 <div class="card">
-<div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#D62728">
-<b>10:05 - 11:00<br/>Panel 1: Future of Wi-Fi and 5G sensing and localization</b></h6>
+<b>10:05 - 11:00<br/>Panel 1. Moderator: Yasamin Mostofi</b></h6>
+<div class="card-body bg-light">
+<h6 class="card-title">
+<a href="keynotes.php"><b>Future of Wi-Fi and 5G sensing and localization</b></a>
+</h6>
+</div>
 </div>
 
 <br/><hr/>
