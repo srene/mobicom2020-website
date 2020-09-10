@@ -70,6 +70,26 @@ Social scientists, psychologists, and epidemiologists use empirical human intera
 
 </ul></div></div></div>
 
+<!--<div class="card bg-light">
+<h6 class="card-header text-white" style="background-color:#2CA02C">
+<a data-toggle="collapse" href="#collapse2" class="d-block" style="color:white">
+<b>2:10 - 3:40<br/><i class="fa fa-chevron-down float-right" ></i>
+Session 2: Innovations in Communication: IoT, Backscatter and Full Duplex (7 papers)<br/>Chair: Kate Lin (National Chiao Tung University)</b>
+</a></h6>
+<div id="collapse2" class="collapse show">
+<div class="card-body">
+<ul class="list-group list-group-flush">
+<li class="list-group-item bg-light">
+<h6 class="card-title"><b>
+<a href="https://dl.acm.org/citation.cfm?id=3345444">Challenge: Unlicensed LPWANs Are Not Yet the Path to Ubiquitous Connectivity</a></b></h6>
+<h6 class="card-subtitle mb-2 text-muted">
+ Branden Ghena, Joshua Adkins (University of California, Berkeley); Longfei Shangguan (Microsoft Cloud & AI); Kyle Jamieson (Princeton University); Phil Levis (Stanford University); Prabal Dutta (University of California, Berkeley)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo7"></a>
+<br/>
+<div id="demo7" class="collapse">
+Low-power wide-area networks (LPWANs) are a compelling answer to the networking challenges faced by many Internet of Things devices. Their combination of low power, long range, and deployment ease has motivated a flurry of research, including exciting results on backscatter and interference cancellation that further lower power budgets and increase capacity. But despite the interest, we argue that unlicensed LPWAN technologies can only serve a narrow class of Internet of Things applications due to two principal challenges: capacity and coexistence. We propose a metric, bit flux, to describe networks and applications in terms of throughput over a coverage area. Using bit flux, we find that the combination of low bit rate and long range restricts the use case of LPWANs to sparse sensing applications. Furthermore, this lack of capacity leads networks to use as much available bandwidth as possible, and a lack of coexistence mechanisms causes poor performance in the presence of multiple, independently-administered networks. We discuss a variety of techniques and approaches that could be used to address these two challenges and enable LPWANs to achieve the promise of ubiquitous connectivity.
+</div></li>-->
+
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse2" class="d-block" style="color:white">
@@ -84,18 +104,18 @@ Session: Sensing and signal processing (4 papers)<br/>Chair: Tam Vu (mid US), Do
 <a href="">Hummingbird: Energy Efficient GPS Receiver for Small Satellites</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Sujay Narayana, R Venkatesha Prasad, Vijay S Rao (TU Delft); Luca Mottola (Politecnico di Milano, Italy and RI.SE SICS Sweden); T Venkata Prabhakar (IISc, India)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo7"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo5"></a>
 <br/>
 <div id="demo5" class="collapse">
-  Global Positioning System is a widely adopted localization technique. With the increasing demand for small satellites, the need for a low-power GPS for satellites is also increasing. To enable many state-of-the-art applications, the exact position of the satellites is necessary. However, building low-power GPS receivers which operate in low earth orbit pose significant challenges. This is mainly due to the high speed (~7.8km/s) of small satellites. While duty-cycling the receiver is a possible solution, the high relative Doppler shift between the GPS satellites and the small satellite contributes to the increase in Time To First Fix (TTFF), thus increasing the energy consumption. Further, if the GPS receiver is tumbling along with the small satellite on which it is mounted, longer TTFF may lead to no GPS fix due to disorientation of the receiver antenna. In this paper, we elucidate the design of a low-cost, low-power GPS receiver for small satellite applications. We also propose an energy optimization algorithm called F3 to improve the TTFF which is the main contributor to the energy consumption during cold start. With simulations and in-orbit evaluation from a launched nanosatellite with our μGPS and high-end GPS simulators, we show that up to 96.16% of energy savings (consuming only ~ 1/25th energy compared to the state of the art) can be achieved using our algorithm without compromising much (~10m) on the navigation accuracy. The TTFF achieved is at most 33s.
+Global Positioning System is a widely adopted localization technique. With the increasing demand for small satellites, the need for a low-power GPS for satellites is also increasing. To enable many state-of-the-art applications, the exact position of the satellites is necessary. However, building low-power GPS receivers which operate in low earth orbit pose significant challenges. This is mainly due to the high speed (~7.8km/s) of small satellites. While duty-cycling the receiver is a possible solution, the high relative Doppler shift between the GPS satellites and the small satellite contributes to the increase in Time To First Fix (TTFF), thus increasing the energy consumption. Further, if the GPS receiver is tumbling along with the small satellite on which it is mounted, longer TTFF may lead to no GPS fix due to disorientation of the receiver antenna. In this paper, we elucidate the design of a low-cost, low-power GPS receiver for small satellite applications. We also propose an energy optimization algorithm called F3 to improve the TTFF which is the main contributor to the energy consumption during cold start. With simulations and in-orbit evaluation from a launched nanosatellite with our μGPS and high-end GPS simulators, we show that up to 96.16% of energy savings (consuming only ~ 1/25th energy compared to the state of the art) can be achieved using our algorithm without compromising much (~10m) on the navigation accuracy. The TTFF achieved is at most 33s.
 </div></li>
 
-<!--<li class="list-group-item bg-light">
+<li class="list-group-item bg-light">
 <h6 class="card-title"><b>
 <a href="">MET: A Novel Magneto-Inductive Sensing Based Electric Toothbrushing Monitoring System</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Hua Huang, Shan Lin (Stony Brook University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo8"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo6"></a>
 <br/>
 <div id="demo6" class="collapse">
 Electric toothbrushes are widely used for home oral care, but many users do not achieve desired hygiene results due to insufficient brushing coverage or incorrect brushing techniques. Existing electric toothbrushing monitoring systems fail to detect these issues because they cannot achieve fine-grained position tracking. In this paper, we present a novel electric toothbrushing monitoring system called MET that tracks brushing coverage for all the 15 surfaces of teeth and detects different types of incorrect brushing techniques. This design is inspired by our observation that the motor inside an electric toothbrush generates a unique magnetic field, which can serve as a reliable signal for position and orientation tracking.  MET is the first system that tracks both the position and orientation of an unmodified electric motor using magnetic inductive sensing. Experiments with fourteen users show that the average toothbrushing surface recognition accuracy of MET is 85.3%. Moreover, MET is robust to user location changes and posture variations and does not require any training from the users. Experimental results also demonstrate our significant advantages over existing commercial systems.
@@ -106,7 +126,7 @@ Electric toothbrushes are widely used for home oral care, but many users do not 
 <a href="">Towards Flexible Wireless Charging for Medical Implants Using Distributed Antenna System</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Ambuj Varshney, Andreas Soleiman, Thiemo Voigt (Uppsala University, Sweden)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo9"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo7"></a>
 <br/>
 <div id="demo7" class="collapse">
 This paper presents the design, implementation and evaluation of In-N-Out, a software-hardware solution for far-field wireless power transfer.In-N-Out can continuously charge the medical implant residing in deep tissues with consistently near-optimal power, even when the implant moves around inside the human body. To accomplish this, we exploit the structure of a distributed antenna array and devise a backscatter-assisted beamforming algorithm that can concentrate RF energy on a tiny spot surrounding the medical implant. Meanwhile,we can keep radiation exposure levels on other body parts very low, reducing the risk of overheating. We prototype In-N-Out on 21 software-defined radios and a printed circuit board (PCB). Through extensive experimentation, we show that In-N-Out achieves 0.37 mW average charging power in-side a 10 cm-thick pork belly, which is sufficient to wirelessly power a range of commercial medical devices from outside the body. Our head-to-head comparison with the state-of-the-art approach shows that In-N-Out achieves 5.4×–18.1×power gain when the implant is stationary, and 5.3×–7.4×power gain when the implant is in motion.
@@ -117,7 +137,7 @@ This paper presents the design, implementation and evaluation of In-N-Out, a sof
 <a href="">Self-Reconfigurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Mohamed R. Abdelhamid, Ruicong Chen, Joonhyuk Cho, Anantha P. Chandrakasan, Fadel Adib (Massachusetts Institute of Technology)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo10"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo8"></a>
 <br/>
 <div id="demo8" class="collapse">
 We present the design, implementation, and evaluation of μmedIC, a fully-integrated wireless and batteryless micro-implanted sensor. The sensor powers up by harvesting energy from RF signals and communicates at near-zero power via backscatter. In contrast to prior designs which cannot operate across various in-body environments, our sensor can self-reconfigure to adapt to different tissues and channel conditions. This adaptation is made possible by two key innovations: a reprogrammable antenna that can tune its energy harvesting resonance to surrounding tissues, and a backscatter rate adaptation protocol that closes the feedback loop by tracking circuit-level sensor hints.
@@ -127,7 +147,7 @@ We built our design on millimeter-sized integrated chips and flexible antenna su
 
 </ul></div></div></div>
 
-<!--<div class="card">
+<div class="card">
 <h6 class="card-header text-white" style="background-color:#D62728">
 <b>09:00 - 10:00<br/>Keynote 2: Sachin Katti (Stanford University)</b></h6>
 <div class="card-body bg-light">
@@ -151,7 +171,7 @@ Session: Acoustic (3 papers)<br/>Chair: Jennifer Chen (US) and Longfei Shangguan
 <a href="">Voice Localization Using Nearby Wall Reflections</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Sheng Shen, Daguan Chen (University of Illinois at Urbana-Champaign); Yu-Lin Wei, Zhijian Yang, Romit Roy Choudhury (University of Illinois at Urbana Champaign)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo14"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo9"></a>
 <br/>
 <div id="demo9" class="collapse">
 Voice assistants such as Amazon Echo (Alexa) and Google Home use microphone arrays to estimate the angle of arrival (AoA) of the human voice. This paper focuses on adding user localization as a new capability to voice assistants. For any voice command, we desire Alexa to be able to localize the user inside the home. The core challenge is two-fold: (1) accurately estimating the AoAs of multipath echoes without the knowledge of the source signal, and (2) tracing back these AoAs to reverse triangulate the user’s location.
@@ -164,7 +184,7 @@ We develop VoLoc, a system that proposes an iterative align-and-cancel algorithm
 <a href="">SpiroSonic: Monitoring Human Lung Function via Acoustic Sensing on Commodity Smartphones</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Xingzhe Song, Boyuan Yang, Ge Yang, Ruirong Chen, Erick Forno, Wei Chen, Wei Gao (University of Pittsburgh)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo15"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo10"></a>
 <br/>
 <div id="demo10" class="collapse">
 Respiratory diseases have been a significant public health challenge. Efficient disease evaluation and monitoring call for daily spirometry tests, as an effective way of pulmonary function testing, out of clinic. This requirement, however, is hard to be satisfied due to the large size and high costs of current spirometry equipments. In this paper, we present SpiroSonic, a new system design that uses commodity smartphones to support complete, accurate yet reliable spirometry tests in regular home settings with various environmental and human factors. SpiroSonic measures the humans' chest wall motion via acoustic sensing and interprets such motion into lung function indices, based on the clinically validated correlation between them. We implemented SpiroSonic as a smartphone app, and verified SpiroSonic's monitoring error over healthy humans as <3%. Clinical studies further show that SpiroSonic reaches 5%-10% monitoring error among 83 pediatric patients. Given that the error of in-clinic spirometry is usually around 5%, SpiroSonic can be reliably used for disease tracking and evaluation out of clinic.
@@ -175,7 +195,7 @@ Respiratory diseases have been a significant public health challenge. Efficient 
 <a href="">Ear-AR: Indoor Acoustic Augmented Reality on Earphones</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Zhijian Yang, Yu-Lin Wei (University of Illinois Urbana Champaign); Sheng Shen (University of Illinois at Urbana-Champaign); Romit Roy Choudhury (University of Illinois at Urbana Champaign)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo16"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo11"></a>
 <br/>
 <div id="demo11" class="collapse">
 This paper aims to use modern earphones as a platform for acoustic augmented reality (AAR). We intend to play 3D audio-annotations in the user’s ears as she moves and looks at AAR objects in the environment. While companies like Bose and Microsoft are beginning to release such capabilities, they are intended for outdoor environments. Our system aims to explore the challenges indoors, without requiring any infrastructure deployment. Our core idea is two-fold.(1) We jointly use the inertial sensors (IMUs) in earphones and smartphones to estimate a user’s indoor location and gazing orientation. (2) We play 3D sounds in the earphones and exploit the human’s responses to (re)calibrate errors in location and orientation. We believe this fusion of IMU and acoustics is novel, and could be an important step towards indoor AAR. Our system, EAAR, is tested on 7 volunteers invited to an AAR exhibition – like a museum – that we set up in our building’s lobby and lab. Across 60 different test sessions, the volunteers browsed different subsets of 24 annotated objects as they walked around. Results show that EAAR plays the correct audio-annotations with good accuracy. The user-feedback is encouraging and points to further areas of research and applications.
@@ -197,7 +217,7 @@ Session: mmWave and above (3 papers)<br/>Chair: Dinesh Bharadia (US) and Tommaso
 <a href="">ThermoWave: A New Paradigm of Wireless Passive Temperature Monitoring via mmWave Sensing</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Baicheng Chen (University at Buffalo); Huining Li (SUNY University at Buffalo); Zhengxiong Li (The State University of New York at Buffalo); Xingyu Chen (University at Buffalo); Chenhan Xu (University at Buffalo, SUNY); Wenyao Xu (SUNY Buffalo)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo14"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo12"></a>
 <br/>
 <div id="demo12" class="collapse">
 Temperature sensor is one of the most widespread technologies in the IoT era. Wireless temperature monitoring systems are convenient to deploy and can drive mass applications in the fields of smart home, transportation and logistics. Currently, wireless temperature monitoring products are based on microelectronic and semiconductor components, which are not cost-effective (e.g., a few dollars) and more importantly, generate electronic wastes. In this work, we present ThermoWave, a new paradigm of wireless temperature monitoring that is ecological, battery-less, and ultra-low cost. Specifically, ThermoWave is on the basis of the thermal scattering effect on millimeter-wave (mmWave) signals. Specifically, cholesteryl materials align their molecular patterns at different environmental temperatures, and this temperature-induced pattern change will be modulated and sensed by the scattered mmWave signals. There are three functional modules in the ThermoWave system. The ThermoTag is a cholesteryl material inked film or paper tag that can be conveniently attached to the object of interest to monitor temperature changes. Each ThermoTag costs less than 0.01 dollars. {The temperature modulated mmWave scattering will be received by a mmWave-radar based ThermoScanner and demodulated by a software-based temperature decoder ThermoSense, which includes a model-based method (i.e., ThermoDot) for point temperature estimation and a data-driven method (i.e., ThermoNet) for thermal imaging.} We prototype and evaluate the ThermoWave system performance in both controlled and real-world setups. Experimental results show that the ThermoWave achieves the precision of ± 1.0 \degree° F in the range of 30 ° F to 120 ° F in a controlled setup. We also investigate the performance in real-world applications, and the ThermoWave can reach the ± 3.0 ° F precision in the temperature estimation. {We also test and discuss sustainability, durability, robustness, and cost-effectiveness of the ThermoWave in both design and experiments.
@@ -208,7 +228,7 @@ Temperature sensor is one of the most widespread technologies in the IoT era. Wi
 <a href="">mmVib: Micrometer-Level Vibration Measurement with mmWave Radar</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Chengkun Jiang, Junchen Guo, Yuan He, Meng Jin, Shuai Li (Tsinghua University); Yunhao Liu (Tsinghua University & MSU)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo15"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo13"></a>
 <br/>
 <div id="demo13" class="collapse">
 Vibration measurement is a crucial task in industrial systems, where vibration characteristics reflect the health and indicate anomalies of the objects. Previous approaches either work in an intrusive manner or fail to capture the micrometer-level vibrations. In this work, we propose mmVib, a practical approach to measure micrometer-level vibrations with mmWave radar. By introducing a Multi-Signal Consolidation (MSC) model to describe the properties of the reflected signals, we exploit the inherent consistency among those signals to accurately recover the vibration characteristics. We implement a prototype of mmVib, and the experiments show that this design achieves 8.2% relative amplitude error and 0.5% relative frequency error in median. Typically, the median amplitude error is 3.4um for the 100um-amplitude vibration. Compared to two existing approaches, mmVib reduces the 80th percentile amplitude error by 62.9% and 68.9% respectively.
@@ -219,7 +239,7 @@ Vibration measurement is a crucial task in industrial systems, where vibration c
 <a href="">Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Song Wang, Jingqi Huang, Xinyu Zhang (University of California San Diego)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo16"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo14"></a>
 <br/>
 <div id="demo14" class="collapse">
 Millimeter-wave (mmWave) networking represents a core technology to meet the demanding bandwidth requirements of emerging connected vehicles. However, the feasibility of mmWave vehicle-to-everything (V2X) connectivity has long been questioned. One major doubt lies in how the highly directional mmWave links can sustain under high mobility. In this paper, we present the first comprehensive reality check of mmWave V2X networks. We deploy an experimental testbed to mimic a typical 5G V2X scenario, and customize a COTS mmWave radio to enable microscopic investigation of the channel and the link. We further construct a high-fidelity 3D ray-tracer to reproduce the mmWave characteristics at scale. With this tool set, we study the mmWave V2X coverage, mobility and blockage, codebook/beam management, and spatial multiplexing.  Our measurement debunks some common misperceptions of mmWave V2X networks.  In particular, due to the constrained roadway network structures, we find the beam management can be handled easily by the often-denounced beam scanning schemes, as long as the codebook is properly designed. Blockage can be almost eliminated through proper gNB deployment and cooperation. Highly effective spatial multiplexing can be realized even without sophisticated MIMO radios. Our work points to possible ways to realize efficient and reliable mmWave networks under high mobility, while maintaining the simplicity of standard network protocols.
@@ -245,9 +265,9 @@ Session: mmWave and above (5 papers)<br/>Chair: Kate Lin (Taiwan), Guoliang Xing
 <a href="">X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased-Arrays</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Song Wang, Jingqi Huang, Xinyu Zhang (University of California, San Diego); Hyoil Kim (Ulsan National Institute of Science and Technology); Sujit Dey (University of California, San Diego)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo14"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo15"></a>
 <br/>
-<div id="demo13" class="collapse">
+<div id="demo15" class="collapse">
 Millimeter-wave (mmWave) networks are conventionally considered to bear a fundamental coverage limitation, due to the directional beams and limited field-of-view (FoV) of the phased array antennas. In this paper, we explore an array of phased arrays (APA) architecture, which aggregates co-located phased arrays with complementary FoVs to approximate WiFi-like omni-directional coverage. We found that straightforwardly activating all the arrays may even hamper network performance. To fully exploit the APA's potential, we propose X-Array, which jointly selects the arrays and beams, and applies a dynamic co-phasing mechanism to ensure different arrays' signals enhance each other. X-Array also incorporates a link recovery mechanism to identify alternative arrays/beams that can efficiently recover the link from outage. We have implemented X-Array on a commodity 802.11ad APA radio. Our experiments demonstrate that X-Array can approach omni-directional coverage and maintain high performance in spite of link dynamics.
 </div></li>
 
@@ -256,9 +276,9 @@ Millimeter-wave (mmWave) networks are conventionally considered to bear a fundam
 <a href="">M-Cube: A Millimeter-Wave Massive MIMO Software Radio</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Renjie Zhao, Timothy Woodford, Teng Wei, Kun Qian, Xinyu Zhang (University of California San Diego)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo15"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo16"></a>
 <br/>
-<div id="demo14" class="collapse">
+<div id="demo16" class="collapse">
 Millimeter-wave (mmWave) technologies represent a cornerstone for emerging wireless network infrastructure, and for RF sensing systems in security, health, and automotive domains. Through a MIMO array of phased arrays with hundreds of antenna elements, mmWave can boost wireless bit-rate to 100+~Gbps, and potentially achieve near-vision sensing resolution. However, lack of an experimental platform has been impeding research in this field. This paper fills the gap with M^3M (M-Cube), the first mmWave massive MIMO software radio. M^3M features a fully reconfigurable array of phased arrays, with up to 8 RF chains and 288 antenna elements. Despite the orders of magnitude larger antenna arrays, its cost is orders of magnitude lower, even when compared with state-of-the-art single RF chain mmWave software radios. The key design principle behind M^3M is to hijack a low-cost commodity 802.11ad radio, separate the control path and data path inside, regenerate the phased array control signals, and recreate the data signals using a programmable baseband. Extensive experiments have demonstrated the effectiveness of the M^3M design, and its usefulness for research in mmWave massive MIMO communication and sensing.
 </div></li>
 
@@ -267,9 +287,9 @@ Millimeter-wave (mmWave) technologies represent a cornerstone for emerging wirel
 <a href="">Single Shot Single Antenna Path Discovery in THz Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Yasaman Ghasempour, Chia-Yi Yeh (Rice University); Rabi Shrestha, Daniel Mittleman (Brown University); Edward W. Knightly (Rice University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo16"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo17"></a>
 <br/>
-<div id="demo15" class="collapse">
+<div id="demo17" class="collapse">
 THz communication has the potential to realize an order of magnitude increase in data rates due to the availability of wide THz-scale spectral bands. Unfortunately, establishing and managing highly directional beams in THz networks is challenging as links lack the “pseudo-omni” reception capability of lower bands and the product of AP-client beam resolution is high due to narrow beams of only a few degrees. In this paper, we present One-shot Path discovEry with a THz RAinbow (OPERA), a novel system that identifies dominant paths between the AP and all clients in order to efficiently steer directional beams. The key idea is to embed path direction into the inherent characteristics of signals traveling along each path. To do so, we exploit a single leaky wave antenna and create a THz Rainbow. A THz Rainbow transmission consists of distinct signals with unique spectral characteristics across the angular domain. Leveraging the spatial-spectral signatures in the THz Rainbow, all receivers can correlate the measured signal with the known transmission signatures to discover the sender’s path directions in one-shot. Our experiments demonstrate that OPERA achieves average direction estimates within 2^{\circ}2 of ground truth for LOS and reflected paths.
 </div></li>
 
@@ -278,9 +298,9 @@ THz communication has the potential to realize an order of magnitude increase in
 <a href="">Millimeter-Wave Full Duplex Radios</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Vaibhav Singh, Susnata Mondal, Akshay Gadre (Carnegie Mellon University); Milind Srivastava (Indian Institute of Technology Madras); Jeyanandh Paramesh, Swarun Kumar (Carnegie Mellon University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo16"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo18"></a>
 <br/>
-<div id="demo16" class="collapse">
+<div id="demo18" class="collapse">
 mm-Wave has emerged as an attractive high-speed wireless communication paradigm owing to the high available bandwidth at mm-wave frequencies. Full-Duplex has the potential to double the available capacity in the mm-wave bands by enabling simultaneous radio transmission and reception. While full-duplex has been extensively studied in sub-6 GHz bands, this paper exposes the unique challenges in porting this capability to mm-wave frequencies.
 
 We present mmFD, the first comprehensive system design of a mm-wave full-duplex platform. mmFD achieves large self-interference cancellation through novel designs at the antenna, analog and digital frontends. We exploit the small wavelength of mm-wave to achieve strong signal isolation between transmit and receive antennas. We further build a custom IC that achieves high-bandwidth analog cancellation at mm-wave frequencies. Finally, we present digital self-interference cancellation algorithms that address the unique hardware impairments observed at mm-wave frequencies. A detailed evaluation of mmFD  demonstrates 84 dB of cancellation and 1.7x throughput gain over equivalent half-duplex systems in rich indoor settings.
@@ -304,7 +324,7 @@ Session: Testbed (2 papers)<br/>Chair: Xenofon Foukas (UK) and Nigel Davies</b>
  Dipankar Raychaudhuri, Ivan Seskar (Rutgers University); Gil Zussman (Columbia University); Thanasis Korakis (New York University); Dan Kilper (University of Arizona); Tingjun Chen (Columbia University); Jakub Kolodziejski, Michael Sherman (Rutgers University); Zoran Kostic (Columbia University); Xiaoxiong Gu (IBM Research); Harish Krishnaswamy (Columbia University); Sumit Maheshwari (Rutgers); Panagiotis Skrimponis (New York University); Craig Gutterman (Columbia University)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo19"></a>
 <br/>
-<div id="demo17" class="collapse">
+<div id="demo19" class="collapse">
 This paper focuses on COSMOS - Cloud enhanced Open Software defined MObile wireless testbed for city-Scale deployment. The COSMOS testbed is being deployed in West Harlem (New York City) as part of the NSF Platforms for Advanced Wireless Research (PAWR) program. It will enable researchers to explore the technology ``sweet spot'' of ultra-high bandwidth and ultra-low latency in the most demanding real-world environment. We describe the testbed's architecture, the design and deployment challenges, and the experience gained during the design and pilot deployment. Specifically, we describe COSMOS' computing and network architectures, the critical building blocks, and its programmability at different layers. The building blocks include software-defined radios, 28 GHz millimeter-wave phased array modules, optical transport network, core and edge cloud, and control and management software. We describe COSMOS' deployment phases in a dense urban environment, the research areas that could be studied in the testbed, and specific example experiments. Finally, we discuss our experience with using COSMOS as an educational tool.
 </div></li>
 
@@ -315,7 +335,7 @@ This paper focuses on COSMOS - Cloud enhanced Open Software defined MObile wirel
   Diego Perino (Telefonica Research); Xiaoyuan Yang (Telefonica); Joan Serra (Dolby Labs); Andra Lutu (Telefonica Research); Ilias Leontiadis (Samsung AI)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo20"></a>
 <br/>
-<div id="demo18" class="collapse">
+<div id="demo20" class="collapse">
 The Anonymous program is working to provide sustainable mobile broadband to 100 M unconnected people in Latin America. In this paper we present our commercial deployment in thousands remote small communities and describe the unique experience of maintaining this infrastructure. We describe the challenges related to managing operations containing the cost in these extreme geographical conditions. We also analyze operational data to understand outage patterns and present typical operational issues in this unique remote community environment. Finally, we present an extension of the operations support system (OSS) leveraging advanced analytics and machine learning with the goal of optimizing network maintenance reducing costs.
 </div></li>
 
@@ -335,9 +355,9 @@ Session: Cellular (5 papers)<br/>Chair: Suman Banerjee (middle US), Heather Zhen
 <a href="">Ghost Calls from Operational 4G Call Systems: IMS Vulnerability, Call DoS Attack, and Countermeasure</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Yu-Han Lu, Chi-Yu Li, Yao-Yu Li, Sandy Hsin-Yu Hsiao (National Chiao Tung University); Tian Xie (Michigan State Univeristy); Guan-Hua Tu (Michigan State University); Wei-Xun Chen (National Chiao Tung University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo25"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo21"></a>
 <br/>
-<div id="demo19" class="collapse">
+<div id="demo21" class="collapse">
 IMS (IP Multimedia Subsystem) is an essential framework for providing 4G/5G multimedia services. It has been deployed worldwide to support two call services: VoLTE (Voice over LTE) and VoWi-Fi (Voice over Wi-Fi). VoWi-Fi enables telephony calls over the Wi-Fi network to complement VoLTE. In this work, we uncover that the VoWi-Fi signaling session can be hijacked to maliciously manipulate the IMS call operation. An adversary can easily make ghost calls to launch a stealthy call DoS (Denial of Service) attack against specific cellular users. Only phone numbers, but not any malware or network information, are required from the victims. This sophisticated attack harnesses a design defect of the IMS call state machine, but not simply flooding or a crash trigger. To stealthily detect attackable phones at run time, we exploit a vulnerability of the 4G network infrastructure, call information leakage, which we explore using machine learning. We validate these vulnerabilities in operational 4G networks of 4 top-tier carriers across Asia and North America countries with 7 phone brands. Our result shows that the call DoS attack can prevent the victims from receiving incoming calls up to 99.0% time without user awareness. We finally propose and evaluate recommended solutions.
 </div></li>
 
@@ -346,9 +366,9 @@ IMS (IP Multimedia Subsystem) is an essential framework for providing 4G/5G mult
 <a href="">DMM: Fast Map Matching Framework for Cellular Data</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Zhihao Shen (Xi’an Jiaotong University); Wan Du (University of California, Merced); Xi Zhao, Jianhua Zou (Xi’an Jiaotong University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo26"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo29"></a>
 <br/>
-<div id="demo20" class="collapse">
+<div id="demo29" class="collapse">
 Map matching for cellular data is to transform a sequence of cell tower locations to a trajectory on a road map. It is an essential processing step for many applications, such as traffic optimization and human mobility analysis. However, most current map matching approaches are based on Hidden Markov Models (HMMs) that have heavy computation overhead to consider high-order cell tower information. This paper presents a fast map matching framework for cellular data, named as DMM, which adopts a recurrent neural network (RNN) to identify the most-likely trajectory of roads given a sequence of cell towers. Once the RNN model is trained, it can process cell tower sequences as making RNN inference, resulting in fast map matching speed. To transform DMM into a practical system, several challenges are addressed by developing a set of techniques, including spatial-aware representation of input cell tower sequences, an encoder-decoder framework for map matching model with variable-length input and output, and a reinforcement learning based model for optimizing the matched outputs. Extensive experiments on a large-scale anonymized cellular dataset reveal that DMM provides high map matching accuracy (precision 80.43% and recall 85.42%) and reduces the average inference time of HMM-based approaches by 46.58x.
 </div></li>
 
@@ -357,9 +377,9 @@ Map matching for cellular data is to transform a sequence of cell tower location
 <a href="">Microscope: Mobile Service Traffic Decomposition for Network Slicing as a Service</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Chaoyun Zhang (University of Edinburgh); Marco Fiore (IMDEA Networks Institute); Cezary Ziemlicki (Orange Labs); Paul Patras (University of Edinburgh)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo27"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo30"></a>
 <br/>
-<div id="demo21" class="collapse">
+<div id="demo30" class="collapse">
 The growing diversification of mobile services imposes requirements on network performance that are ever more stringent and heterogeneous. Network slicing aligns mobile network operation to this context, by enabling operators to isolate and customize network resources on a per-service basis. A key input for provisioning resources to slices is real-time information about the traffic demands generated by individual services. Acquiring such knowledge is however challenging. In particular, legacy approaches based on in-depth inspection of traffic streams have high computational costs, which inflate with the widening adoption of encryption over data and control traffic. In this paper, we present an original approach to service-level demand estimation for slicing, which hinges on decomposition, the inference of per-service demands from traffic aggregates. By operating on total traffic volumes only, our approach overcomes the complexity and limitations of legacy traffic classification techniques, and provides an output suitable for recent 'Network Slice as a Service' models. We implement decomposition through Microscope, a dedicated framework based on novel 3D Deformable Convolutional Neural Networks (3D-DefCNNs), which we design to handle spatial distortion in the input data due to irregular radio access deployment and coverage, and to exploit spatiotemporal features hidden in traffic aggregates. Experiments with metropolitan-scale measurements collected in an operational network demonstrate that Microscope accurately infers per-service traffic demands, with estimation errors below 1.2%.
 </div></li>
 
@@ -368,9 +388,9 @@ The growing diversification of mobile services imposes requirements on network p
 <a href="">iCellSpeed: Increasing Cellular Data Speed with Device-Assisted Cell Selection</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Haotian Deng (Purdue University); Qianru Li (UCLA); Jingqi Huang, Chunyi Peng (Purdue University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo28"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo31"></a>
 <br/>
-<div id="demo22" class="collapse">
+<div id="demo31" class="collapse">
 In this paper, we propose iCellSpeed, an on-device solution to increase data access speed by substantiating unrealized performance potentials. We find that performance potentials are missed in today’s mobile networks, as the data speed a user device gets is much lower than what the device could get. The issue is rooted in the current cell selection practice, which misses good candidate cells that offer faster access speed, thus under-utilizing the available capabilities in mobile networks. We design iCellSpeed to facilitate network-controlled cell selection with proactive device-side assistance towards more desirable cells. Our evaluation over AT&T and Verizon confirms its effectiveness. iCellSpeed increases data access speed by more than 10 Mbps at 79% of test locations (> 25Mbps at 29% of locations, up to 80.6 Mbps). It doubles access speed at 62.5% of locations with the gain up to 28.4x. Datasets are available at 7].
 </div></li>
 
@@ -379,9 +399,9 @@ In this paper, we propose iCellSpeed, an on-device solution to increase data acc
 <a href="">Experience: Towards Automated Customer Issue Resolution in Cellular Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Amit Sheoran, Sonia Fahmy (Purdue University); Matthew Osinski (AT&T Labs Research); Chunyi Peng, Bruno Ribeiro (Purdue University); Jia Wang (AT&T Labs Research)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo29"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo32"></a>
 <br/>
-<div id="demo23" class="collapse">
+<div id="demo32" class="collapse">
 Cellular service carriers often employ reactive strategies to assist customers who experience non-outage related individual service degradation issues (e.g., service performance degradations that do not impact customers at scale and are likely caused by network provisioning issues for individual devices). Customers need to contact customer care to request assistance before these issues are resolved. This paper presents our experience with PACE (ProActive customer CarE), a novel, proactive system that monitors, troubleshoots and resolves individual service issues, without having to rely on customers to first contact customer care for assistance. PACE seeks to improve customer experience and care operation efficiency by automatically detecting individual (non-outage related) service issues, prioritizing repair actions by predicting customers who are likely to contact care to report their issues, and proactively triggering actions to resolve these issues. We develop three machine learning-based prediction models, and implement a fully automated system that integrates these prediction models and takes resolution actions for individual customers. We conduct a large-scale trace-driven evaluation using real-world data collected from a major cellular carrier in the US, and demonstrate that PACE is able to predict customers who are likely to contact care due to non-outage related individual service issues with high accuracy. We further deploy PACE into this cellular carrier network. Our field trial results show that PACE is effective in proactively resolving non-outage related individual customer service issues, improving customer experience, and reducing the need for customers to report their service issues.
 </div></li>
 
@@ -401,9 +421,9 @@ Session: Communication Systems (4 papers)<br/>Chair: Bo Chen (US), Jie Xiong (Ea
 <a href="">SDR Receiver Using Commodity WiFi via Physical-Layer Signal Reconstruction</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Woojae Jeong, Jinhwan Jung (KAIST); Yuanda Wang (Michigan State University); Shuai Wang (George Mason University); Seokwon Yang (KAIST); Qiben Yan (Michigan State University); Yung Yi, Song Min Kim (KAIST)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo32"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo33"></a>
 <br/>
-<div id="demo24" class="collapse">
+<div id="demo33" class="collapse">
 With the explosive increase in wireless devices, physical-layer signal analysis has become critically beneficial across distinctive domains including interference minimization in network planning, security and privacy (e.g., drone and spycam detection), and mobile health with remote sensing. While SDR is known to be highly effective in realizing such services, they are rarely deployed or used by the end-users due to the costly hardware∼1K USD (e.g., USRP). Low-cost SDRs (e.g., RTL-SDR) are available, but their bandwidth is limited to 2-3 MHz and operation range falls well below 2.4 GHz – the unlicensed band holding majority of the wireless devices. This paper presents SDR-Lite, the first zero-cost, software-only soft-ware defined radio (SDR) receiver that empowers commodity WiFi to retrieve the In-phase and Quadrature of an ambient signal. With the full compatibility to pervasively-deployed WiFi infrastructure (without any change to the hardware and firmware), SDR-Lite aims to spread the blessing of SDR receiver functionalities to billions of WiFi users and households to enhance our everyday lives. The key idea of SDR-Lite is to trick WiFi to begin packet reception (i.e., the decoding process) when the packet is absent, so that it accepts ambient signals in the air and outputs corresponding bits. The bits are then reconstructed to the original physical-layer waveform, on which diverse SDR applications are performed. Our comprehensive evaluation shows that the reconstructed signal closely reassembles the original ambient signal (>85% correlation). We extensively demonstrate SDR-Lite effectiveness across seven distinctive SDR receiver applications under three representative categories: (i) RFfingerprinting, (ii) spectrum monitoring, and (iii) (ZigBee) decoding. For instance, in security applications of drone and rogue WiFi AP detection, SDR-Lite achieves 99% and 97% accuracy, which is comparable to USRP.
 </div></li>
 
@@ -412,9 +432,9 @@ With the explosive increase in wireless devices, physical-layer signal analysis 
 <a href="">Towards Quantum Belief Propagation for LDPC Decoding in Wireless Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Srikar Kasi, Kyle Jamieson (Princeton University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo33"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo34"></a>
 <br/>
-<div id="demo25" class="collapse">
+<div id="demo34" class="collapse">
 We present Quantum Belief Propagation (QBP), a Quantum Annealing (QA) based decoder design for Low Density Parity Check (LDPC) error control codes, which have found many useful applications in Wi-Fi, satellite communications, mobile cellular systems, and data storage systems. QBP reduces the LDPC decoding to a discrete optimization problem, then embeds that reduced design onto quantum annealing hardware. QBP's embedding design can support LDPC codes of block length up to 420 bits on real state-of-the-art QA hardware with 2,048 qubits. We evaluate performance on real quantum annealer hardware, performing sensitivity analyses on a variety of parameter settings. Our design achieves a bit error rate of 10^{-8}10 in 20 μs and a 1,500 byte frame error rate of 10^{-6}10 in 50 μs at SNR 9 dB over a Gaussian noise wireless channel. Further experiments measure performance over real-world wireless channels, requiring 30 μs to achieve a 1,500 byte 99.99% frame delivery rate at SNR 15-20 dB. QBP achieves a performance improvement over an FPGA based soft belief propagation LDPC decoder, by reaching a bit error rate of 10^{-8}10 and a frame error rate of 10^{-6}10 at an SNR 2.5--3.5 dB lower. In terms of limitations, QBP currently cannot realize practical protocol-sized (\textit{e.g.,}e.g., Wi-Fi, WiMax) LDPC codes on current QA processors. Our further studies in this work present future cost, throughput, and QA hardware trend considerations.
 </div></li>
 
@@ -423,9 +443,9 @@ We present Quantum Belief Propagation (QBP), a Quantum Annealing (QA) based deco
 <a href="">ScatterMIMO: Enabling Virtual MIMO with Smart Surfaces</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Manideep Dunna, Chi Zhang (UC San Diego); Daniel Sievenpiper, Dinesh Bharadia (University of California San Diego)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo34"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo35"></a>
 <br/>
-<div id="demo26" class="collapse">
+<div id="demo35" class="collapse">
 In the last decade, the bandwidth expansion and MIMO spatial multiplexing have promised to increase data throughput by orders of magnitude. However, we are yet to enjoy such improvement in real-world environments, as they lack rich scattering and preclude effective MIMO spatial multiplexing. In this paper, we present ScatterMIMO, which uses smart surface to increase the scattering in the environment, to provide MIMO spatial multiplexing gain. Specifically, smart surface pairs up with a wireless transmitter device say an active AP and re-radiates the same amount of power as any active access point (AP), thereby creating virtual passive APs. ScatterMIMO avoids the synchronization, interference, and power requirements of conventional distributed MIMO systems by leveraging virtual passive APs, allowing its smart surface to provide spatial multiplexing gain, which can be deployed at a very low cost. We show that with optimal placement, these virtual APs can provide signals to their clients with power comparable to real active APs, and can increase the coverage of an AP. Furthermore, we design algorithms to optimize ScatterMIMO's smart surface for each client with minimal measurement overhead and to overcome random per-packet phase offsets during the measurement. Our evaluations show that with commercial off-the-shelf MIMO WiFi (11ac) AP and unmodified clients, ScatterMIMO provides a median throughput improvement of 2x over the active AP alone.
 </div></li>
 
@@ -434,9 +454,9 @@ In the last decade, the bandwidth expansion and MIMO spatial multiplexing have p
 <a href="">Sniffing Visible Light Communication Through Walls</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Minhao Cui, Yuda Feng (University of Massachusetts Amherst); Qing Wang (Delft University of Technology); Jie Xiong (University of Massachusetts Amherst)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo35"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo36"></a>
 <br/>
-<div id="demo27" class="collapse">
+<div id="demo36" class="collapse">
 Visible light communication (VLC) is gaining a significant amount of interest as a new paradigm to meet rapidly increasing demands on wireless capacity required by a digitalized world. VLC is considered as a secure wireless communication scheme because VLC signals can be easily constrained within physical boundaries.  In this paper, for the first time, we show that VLC is not as secure as people thought: VLC can be sniffed through walls! The key principle behind this is that in VLC transmissions, a VLC transmitter not only emits visible light signals but also leaks out "side channel RF signals". The leaked RF signals can be sniffed by a receiver to decode the VLC transmissions even the receiver is blocked (e.g., by walls) from the VLC transmitter. In this work, we establish a theoretical model to quantify the amplitude of the leaked RF signal and verify the model with comprehensive experiments. We design and implement a VLC sniffing system including receiver coil design, signal processing and frame decoding, spanning across hardware and software.  Field studies show that with a cheap receiver design, our system can simultaneously sniff transmissions from multiple VLC transmitters  6.4 meters away with a 14 cm concrete wall in between, where the distance exceeds the communication range of most state-of-the-art VLC systems. By simply twining a wired earphone on the arm, we can sniff the VLC transmission 1.9 meters away.
 </div></li>
 
@@ -481,9 +501,9 @@ Session: Privacy and identity (3 papers)<br/>Chair: Hamed Haddadi (UK) and Jinso
 <a href="">Re-identification of Mobile Devices using Real-Time Bidding Advertising Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Keen Sung, JianYi Huang, Mark D. Corner, Brian N. Levine (University of Massachusetts Amherst)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo39"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo37"></a>
 <br/>
-<div id="demo28" class="collapse">
+<div id="demo37" class="collapse">
 Advertisers gather data about users and their mobile devices through ads placed within Android and iOS apps. Most of the time, location, device, and app information are linked to the same device using a unique advertising ID (Ad ID). If the Ad ID is not available, advertisers can still use geo-coordinates or IP address to infer links in data gathered from different ad placements.
 
 Even though the Ad ID can be disabled by users on both OSes, we demonstrate that advertisers can leave their own unique strings (marks) in the app storage, and use these strings to link information collected from ads. Users cannot clear these marks without losing all data within the app. Because advertising platforms allow connection filtering and geofencing, users who either connect using a non-cellular IP address or allow location access to the app are substantially easier to be rediscovered by the advertiser.
@@ -496,9 +516,9 @@ We carried out many large-scale experiments on iOS and Android devices involving
 <a href="">Billion-Scale Federated Learning on Mobile Clients: A Submodel Design with Tunable Privacy</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Chaoyue Niu, Fan Wu (Shanghai Jiao Tong University); Shaojie Tang (University of Texas at Dallas); Lifeng Hua, Rongfei Jia, Chengfei Lv, Zhihua Wu (Alibaba Group); Guihai Chen (Shanghai Jiao Tong University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo40"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo38"></a>
 <br/>
-<div id="demo29" class="collapse">
+<div id="demo38" class="collapse">
 Federated learning was proposed with an intriguing vision of achieving collaborative machine learning among numerous clients without uploading their private data to a cloud server. However, the conventional framework requires each client to leverage the full model for learning, which can be prohibitively inefficient for large-scale learning tasks and resource-constrained mobile devices. Thus, we proposed a submodel framework, where clients download only the needed parts of the full model, namely, submodels, and then upload the submodel updates. Nevertheless, the "position" of a client's truly required submodel corresponds to its private data, while the disclosure of the true position to the cloud server during interactions inevitably breaks the tenet of federated learning. To integrate efficiency and privacy, we designed a secure federated submodel learning scheme coupled with a private set union protocol as a cornerstone. The secure scheme features the properties of randomized response, secure aggregation, and Bloom filter, and endows each client with customized plausible deniability (in terms of local differential privacy) against the position of its desired submodel, thereby protecting private data. We further instantiated the scheme with Alibaba's e-commerce recommendation, implemented a prototype system, and extensively evaluated over 30-day Taobao user data. Empirical results demonstrate the feasibility and scalability of the proposed scheme as well as its remarkable advantages over the conventional federated learning framework, from model accuracy and convergency, practical communication, computation, and storage overhead.
 </div></li>
 
@@ -507,15 +527,15 @@ Federated learning was proposed with an intriguing vision of achieving collabora
 <a href="">FaceRevelio: A Face Liveness Detection System for Smartphones with a Single Front Camera</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Habiba Farrukh, Reham Mohamed Aburas, Siyuan Cao, He Wang (Purdue University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo41"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo39"></a>
 <br/>
-<div id="demo30" class="collapse">
+<div id="demo39" class="collapse">
 Facial authentication mechanisms are gaining traction on smartphones because of their convenience and increasingly good performance of face recognition systems. However, mainstream systems use traditional 2D face recognition technologies, which are vulnerable to various spoofing attacks. Existing systems perform liveness detection via specialized hardware, such as infrared dot projectors and dedicated cameras. Although effective, such methods do not align well with the smartphone industry’s desire to maximize screen space. This paper presents a new liveness detection system, FaceRevelio, for commodity smartphones with a single front camera. It utilizes the smartphone screen to illuminate a user’s face from multiple directions. The facial images captured under varying illumination enable the recovery of the face surface normals via photometric stereo, which can then be integrated into a 3D shape. We leverage the facial depth features of this 3D surface to distinguish a human face from its 2D counterpart. On top of this, we change the screen via a light passcode consisting of a combination of random light patterns to provide security against replay attacks. We evaluate FaceRevelio with 30 users trying to authenticate under various lighting conditions and with a series of 2D spoofing attacks. The results show that using a passcode of 1s, FaceRevelio achieves a mean EER of 1.4% and 0.15% against photo and video attacks, respectively.
 </div></li>
 
 </ul></div></div></div>
 
-<div class="card bg-light">
+<!--<div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse8" class="d-block" style="color:white">
 <b>11:00 - 11:40<br/><i class="fa fa-chevron-down float-right" ></i>
