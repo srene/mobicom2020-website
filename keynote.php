@@ -44,7 +44,7 @@
 <hr/>
 
 <h5 align="center"><div id="niclane"></div><b>Keynote 3: TBD</b><i>Session Chair: Dave Kotz</i></h5>
-s<h5 align="center"><b>Nic Lane</b></h5>
+<h5 align="center"><b>Nic Lane</b></h5>
 <h5 align="center">Rock Star</h5>
 <h5 align="center"><i>Tuesday, 22nd September, 09:00-10:00 PDT</i></h5>
 <br/>
@@ -64,12 +64,12 @@ s<h5 align="center"><b>Nic Lane</b></h5>
 <br/>
 <p>
 <b>Abstract:</b>
-<ol>
+<ul>
 <li>5G Network Topology.</li>
 <li>Challenges with diversity of networks, venues, city-wide, enterprise, industrial deployments spanning public & private domains.</li>
 <li>New paradigms with open interfaces, virtualization and COTS.</li>
 <li>High performance radios, inline accelerators.</li>
-</ol>
+</ul>
 </p>
 
 <img src="images/keynote/malladi.png" height="200" style="float: left;margin-right:15px">
