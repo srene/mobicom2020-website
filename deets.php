@@ -10,7 +10,7 @@
 <b>06:25 - 07:25<br/>Keynote 1: George Malliaras (University of Cambridge)</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynotes.php"><b>Electronics on the brain</b></a>
+<a href="keynote.php"><b>Electronics on the brain</b></a>
 </h6>
 </div>
 </div>
@@ -152,7 +152,7 @@ We built our design on millimeter-sized integrated chips and flexible antenna su
 <b>09:00 - 10:00<br/>Keynote 2: Sachin Katti (Stanford University)</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynotes.php"><b>TBD</b></a>
+<a href="keynote.php"><b>TBD</b></a>
 </h6>
 </div>
 </div>
@@ -468,7 +468,7 @@ Visible light communication (VLC) is gaining a significant amount of interest as
 <b>09:00 - 10:00<br/>Keynote 3: Nic Lane (Rock Star)</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynotes.php"><b>TBD</b></a>
+<a href="keynote.php"><b>TBD</b></a>
 </h6>
 </div>
 </div>
@@ -478,7 +478,7 @@ Visible light communication (VLC) is gaining a significant amount of interest as
 <b>10:05 - 11:00<br/>Panel 1. Moderator: Yasamin Mostofi</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynotes.php"><b>Future of Wi-Fi and 5G sensing and localization</b></a>
+<a href="keynote.php"><b>Future of Wi-Fi and 5G sensing and localization</b></a>
 </h6>
 </div>
 </div>
@@ -744,7 +744,7 @@ Conventional road signs convey very concise and static visual information to hum
 <b>09:15 - 10:15<br/>Keynote 4: Durga Malladi (Qualcomm Technologies)</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynotes.php"><b>What’s next in the cellular infrastructure</b></a>
+<a href="keynote.php"><b>What’s next in the cellular infrastructure</b></a>
 </h6>
 </div>
 </div>
@@ -754,7 +754,7 @@ Conventional road signs convey very concise and static visual information to hum
 <b>10:20 - 11:20<br/>Keynote 5: Alex Kauffmann</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynotes.php"><b>TBD</b></a>
+<a href="keynote.php"><b>TBD</b></a>
 </h6>
 </div>
 </div>
@@ -935,7 +935,7 @@ In addition, we document important lessons we have learned from this study, and 
 <b>08:15 - 9:15<br/>Keynote 6: Ron Marquardt</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynotes.php"><b>TBD</b></a>
+<a href="keynote.php"><b>TBD</b></a>
 </h6>
 </div>
 </div>
@@ -945,7 +945,7 @@ In addition, we document important lessons we have learned from this study, and 
 <b>09:20 - 10:20<br/>Panel 2. Moderator: Lili Qiu</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynotes.php"><b>5G and Edge Applications</b></a>
+<a href="keynote.php"><b>5G and Edge Applications</b></a>
 </h6>
 </div>
 </div>
