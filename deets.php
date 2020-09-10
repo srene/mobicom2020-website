@@ -26,7 +26,7 @@ Session: Localization (4 papers)<br/>Chair: Nilanjan Banerjee (eastern US), Kyle
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Deep Learning based Wireless Localization for Indoor Navigation</a></b></h6><img style="width:3%" src="/sigcomm/2020/images/artifact-available.jpg" alt="Artifac available"/><i>Artifact available</i> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="">Deep Learning based Wireless Localization for Indoor Navigation</a></b><img style="width:3%" src="images/artifact-available.jpg" alt="Artifac available"/><i>Artifact available</i> &nbsp;&nbsp;&nbsp;&nbsp;</h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Haojian Jin, Jingxian Wang, Swarun Kumar, Jason Hong (Carnegie Mellon University)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo1"></a>
