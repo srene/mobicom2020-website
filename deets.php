@@ -1,5 +1,5 @@
 <div class="accordion">
-<p class="h4"><b> Monday, 21th September, 2020  PDT</b></p>
+<p class="h4"><b> Monday, 21st September, 2020  PDT</b></p>
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#D62728">
 <b>06:00 - 06:20<br/>Opening remarks</b></h6>
@@ -773,50 +773,46 @@ Session: Mobile sensing and UI (4 papers)<br/>Chair: Anthony Rowe, Yunxin Liu (C
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Re-identification of Mobile Devices using Real-Time Bidding Advertising Networks</a></b></h6>
+<a href="">TouchPass: Towards Behavior-irrelevant on-touch User Authentication on Smartphones Leveraging Vibrations</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Keen Sung, JianYi Huang, Mark D. Corner, Brian N. Levine (University of Massachusetts Amherst)</h6>
+ Xiangyu Xu, Jiadi Yu (Shanghai Jiao Tong University); Yingying Chen (Rutgers University); Qin Hua, Yanmin Zhu, Yi-Chao Chen, Minglu Li (Shanghai Jiao Tong University)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo54"></a>
 <br/>
 <div id="demo54" class="collapse">
-Advertisers gather data about users and their mobile devices through ads placed within Android and iOS apps. Most of the time, location, device, and app information are linked to the same device using a unique advertising ID (Ad ID). If the Ad ID is not available, advertisers can still use geo-coordinates or IP address to infer links in data gathered from different ad placements.
-
-Even though the Ad ID can be disabled by users on both OSes, we demonstrate that advertisers can leave their own unique strings (marks) in the app storage, and use these strings to link information collected from ads. Users cannot clear these marks without losing all data within the app. Because advertising platforms allow connection filtering and geofencing, users who either connect using a non-cellular IP address or allow location access to the app are substantially easier to be rediscovered by the advertiser.
-
-We carried out many large-scale experiments on iOS and Android devices involving hundreds of thousands of impressions. We found that on average 49% of impressions from an iOS device, and 59% of Android impressions could be re-identified for less than $5/day using this strategy. We subsequently verified this method on 1,727 devices and recovered 660 of them within 48 hours for $86.73. Finally, we explore the behaviour of privacy-seeking VPN users. We found that for the majority, their clearnet IP address and location could be unmasked easily using ads.
+With increasing private and sensitive data stored in mobile devices, secure and effective mobile-based user authentication schemes are desired. As the most natural way to contact with mobile devices, finger touches have shown potentials for user authentication. Most existing approaches utilize finger touches as behavioral biometrics for identifying individuals, which are vulnerable to spoofer attacks. To resist attacks for on-touch user authentication on mobile devices, this paper exploits physical characters of touching fingers by investigating active vibration signal transmission through fingers, and we find that physical characters of touching fingers present unique patterns on active vibration signals for different individuals. Based on the observation, we propose a behavior-irrelevant on-touch user authentication system, TouchPass, which leverages active vibration signals on smartphones to extract only physical characters of touching fingers for user identification. TouchPass first extracts features that mix physical characters of touching fingers and behavior biometrics of touching behaviors from vibration signals generated and received by smartphones. Then, we design a Siamese network-based architecture with a specific training sample selection strategy to reconstruct the extracted signal features to behavior-irrelevant features and further build a behavior-irrelevant on-touch user authentication scheme leveraging knowledge distillation. Our extensive experiments validate that TouchPass can accurately authenticate users and defend various attacks.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Billion-Scale Federated Learning on Mobile Clients: A Submodel Design with Tunable Privacy</a></b></h6>
+<a href="">EarSense: Earphones as a Teeth Activity Sensor</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Chaoyue Niu, Fan Wu (Shanghai Jiao Tong University); Shaojie Tang (University of Texas at Dallas); Lifeng Hua, Rongfei Jia, Chengfei Lv, Zhihua Wu (Alibaba Group); Guihai Chen (Shanghai Jiao Tong University)</h6>
+ Jay Prakash (Singapore University of Technology and Design, Singapore); Zhijian Yang, Yu-Lin Wei, Haitham Hassanieh (University of Illinois Urbana Champaign); Romit Roy Choudhury (University of Illinois at Urbana Champaign)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo55"></a>
 <br/>
 <div id="demo55" class="collapse">
-Federated learning was proposed with an intriguing vision of achieving collaborative machine learning among numerous clients without uploading their private data to a cloud server. However, the conventional framework requires each client to leverage the full model for learning, which can be prohibitively inefficient for large-scale learning tasks and resource-constrained mobile devices. Thus, we proposed a submodel framework, where clients download only the needed parts of the full model, namely, submodels, and then upload the submodel updates. Nevertheless, the "position" of a client's truly required submodel corresponds to its private data, while the disclosure of the true position to the cloud server during interactions inevitably breaks the tenet of federated learning. To integrate efficiency and privacy, we designed a secure federated submodel learning scheme coupled with a private set union protocol as a cornerstone. The secure scheme features the properties of randomized response, secure aggregation, and Bloom filter, and endows each client with customized plausible deniability (in terms of local differential privacy) against the position of its desired submodel, thereby protecting private data. We further instantiated the scheme with Alibaba's e-commerce recommendation, implemented a prototype system, and extensively evaluated over 30-day Taobao user data. Empirical results demonstrate the feasibility and scalability of the proposed scheme as well as its remarkable advantages over the conventional federated learning framework, from model accuracy and convergency, practical communication, computation, and storage overhead.
+This paper finds that actions of the teeth, namely tapping and sliding, produce vibrations in the jaw and skull. These vibrations are strong enough to propagate to the edge of the face and produce vibratory signals at an earphone. By re-tasking the earphone speaker as an input transducer -- a software modification in the sound card -- we are able to sense teeth-related gestures across various models of ear/headphones. In fact, by analyzing the signals at the two earphones, we show the feasibility of also localizing teeth gestures, resulting in a human-to-machine interface. Challenges range from coping with weak signals, distortions due to different teeth compositions, lack of timing resolution, spectral dispersion, etc. We address these problems with a sequence of sensing techniques, resulting in the ability to detect 6 distinct gestures in real-time. Results from 18 volunteers exhibit robustness, even though our system --EarSense -- does not depend on per-user training. Importantly, EarSense also remains robust in the presence of concurrent user activities, like walking, nodding, cooking and cycling. Our ongoing work is focused on detecting teeth gestures even while music is being played in the earphone; once that problem is solved, we believe EarSense could be even more compelling.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">FaceRevelio: A Face Liveness Detection System for Smartphones with a Single Front Camera</a></b></h6>
+<a href="">PDLens: Smartphone Knows Drug Effectiveness among Parkinson's via Daily-Life Activity Fusion</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Habiba Farrukh, Reham Mohamed Aburas, Siyuan Cao, He Wang (Purdue University)</h6>
+ Hanbin Zhang, Gabriel Guo, Chen Song, Chenhan Xu, Kevin Cheung, Jasleen Alexis, Huining Li (University at Buffalo, SUNY); Dongmei Li (University of Rochester Medical Center); Kun Wang (University of California, Los Angeles); Wenyao Xu (University at Buffalo, SUNY)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo56"></a>
 <br/>
 <div id="demo56" class="collapse">
-Facial authentication mechanisms are gaining traction on smartphones because of their convenience and increasingly good performance of face recognition systems. However, mainstream systems use traditional 2D face recognition technologies, which are vulnerable to various spoofing attacks. Existing systems perform liveness detection via specialized hardware, such as infrared dot projectors and dedicated cameras. Although effective, such methods do not align well with the smartphone industry’s desire to maximize screen space. This paper presents a new liveness detection system, FaceRevelio, for commodity smartphones with a single front camera. It utilizes the smartphone screen to illuminate a user’s face from multiple directions. The facial images captured under varying illumination enable the recovery of the face surface normals via photometric stereo, which can then be integrated into a 3D shape. We leverage the facial depth features of this 3D surface to distinguish a human face from its 2D counterpart. On top of this, we change the screen via a light passcode consisting of a combination of random light patterns to provide security against replay attacks. We evaluate FaceRevelio with 30 users trying to authenticate under various lighting conditions and with a series of 2D spoofing attacks. The results show that using a passcode of 1s, FaceRevelio achieves a mean EER of 1.4% and 0.15% against photo and video attacks, respectively.
+Drug effectiveness management is a complicated and challenging task in chronic diseases, like Parkinson's Disease (PD). Drug effectiveness control is not only linked to personal out-of-pocket cost but also affecting the quality of life among patients with chronic symptoms. In the current practice, although that health and medical professionals still play a key role in the personalized treatment plan, the critical decision on drug selection falls upon the individual report when patients call in or visit the clinics. Unfortunately, most of the patients with chronic diseases either fail to report their day-to-day symptoms or have a limited access to medical resources due to economic constraints. In this paper, we present \textit{PDLens}, a first smartphone-based system to detect drug effectiveness among Parkinson's in daily life. Specifically, PDLens can extract digital behavioral markers related to PD drug responses from everyday activities, including phone calls, standing, and walking. PDLens models the PD symptom severity on drug treatment and detects the change of severity scores before and after drug intake. A ranking-based multi-view deep neural network is developed to decide the drug effectiveness upon the symptom severity changes. To validate the performance of PDLens, we conduct a pilot study with 8181 PD patients and monitor their smartphone activities and severity changes over 3369333693 drug intake events across six (6) months. Compared with the standard clinical drug effectiveness test developed by Motor Disorder Society, results reveal that \textit{PDLens} is a promising tool to facilitate drug effectiveness detection among PD patients in their daily lives.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">FaceRevelio: A Face Liveness Detection System for Smartphones with a Single Front Camera</a></b></h6>
+<a href="">Deaf-Aid: Mobile IoT Communication Exploiting Stealthy Speaker-to-Gyroscope Channel</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Habiba Farrukh, Reham Mohamed Aburas, Siyuan Cao, He Wang (Purdue University)</h6>
+ Ming Gao (Zhejiang University, Alibaba-Zhejiang University Joint Research Institute of Frontier Technologise); Feng Lin, Weiye Xu, Muertikepu Nuermaimaiti (Zhejiang University); Jinsong Han (Zhejiang University, Alibaba-Zhejiang University Joint Research Institute of Frontier Technologise); Wenyao Xu (SUNY Buffalo); Kui Ren (Zhejiang University)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo57"></a>
 <br/>
 <div id="demo57" class="collapse">
-Facial authentication mechanisms are gaining traction on smartphones because of their convenience and increasingly good performance of face recognition systems. However, mainstream systems use traditional 2D face recognition technologies, which are vulnerable to various spoofing attacks. Existing systems perform liveness detection via specialized hardware, such as infrared dot projectors and dedicated cameras. Although effective, such methods do not align well with the smartphone industry’s desire to maximize screen space. This paper presents a new liveness detection system, FaceRevelio, for commodity smartphones with a single front camera. It utilizes the smartphone screen to illuminate a user’s face from multiple directions. The facial images captured under varying illumination enable the recovery of the face surface normals via photometric stereo, which can then be integrated into a 3D shape. We leverage the facial depth features of this 3D surface to distinguish a human face from its 2D counterpart. On top of this, we change the screen via a light passcode consisting of a combination of random light patterns to provide security against replay attacks. We evaluate FaceRevelio with 30 users trying to authenticate under various lighting conditions and with a series of 2D spoofing attacks. The results show that using a passcode of 1s, FaceRevelio achieves a mean EER of 1.4% and 0.15% against photo and video attacks, respectively.
+Internet of Things (IoT) devices are hindered from communicating with their neighbors by incompatible protocols or electromagnetic interference. Existing solutions adopting physical covert channels have limitations in receiver distinction, additional hardware, conditional placement, or physical contact. Our system, Deaf-Aid, utilizes the stealthy speaker-to-gyroscope channel to build robust protocol-independent communication with automatic receiver identification. Deaf-Aid exploits ultrasonic signals at a frequency corresponding to the target receiver, forcing the gyroscope inside to resonate, so as to convey information. We probe the relationship among axes in a gyroscope to surmount frequency offset ingeniously and support multi-channel communication. Meanwhile, Deaf-Aid identifies the receivers automatically via device fingerprints constituted by the diversity of resonant frequency ranges. Furthermore, we entitle Deaf-Aid the capability of mobile communication which is an essential demand for IoT devices. We address the challenge of accurate signals recovery from motion interference. Extensive evaluations demonstrate that Deaf-Aid yields 47bps with BER lower than 1% under motion interference. To our best knowledge, Deaf-Aid is the first work to enable stealthy mobile IoT communication on the basis of inertial motion sensors.
 </div></li>
 
 </ul></div></div></div>
@@ -946,10 +942,10 @@ In addition, we document important lessons we have learned from this study, and 
 
 <div class="card">
 <h6 class="card-header text-white" style="background-color:#D62728">
-<b>10:20 - 11:20<br/>Keynote 5: Alex Kauffmann</b></h6>
+<b>09:20 - 10:20<br/>Panel 2. Moderator: Lili Qiu</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynotes.php"><b>TBD</b></a>
+<a href="keynotes.php"><b>5G and Edge Applications</b></a>
 </h6>
 </div>
 </div>
@@ -957,8 +953,8 @@ In addition, we document important lessons we have learned from this study, and 
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse9" class="d-block" style="color:white">
-<b>07:55 - 08:35<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: ML (4 papers)<br/>Chair: Robert LiKamWa  (western US) and  Y. Charlie Hu (US)</b>
+<b>10:25 - 11:05<br/><i class="fa fa-chevron-down float-right" ></i>
+Session: Video (4 papers)<br/>Chair: Dinesh Bharadia (western US), Xinyu Zhang (western US) and Yuanjie Li</b>
 </a></h6>
 <div id="collapse9" class="collapse show">
 <div class="card-body">
@@ -968,9 +964,9 @@ Session: ML (4 papers)<br/>Chair: Robert LiKamWa  (western US) and  Y. Charlie
 <a href="">SPINN: Synergistic Progressive Inference of Neural Networks over Device and Cloud</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Stefanos Laskaridis, Stylianos I. Venieris, Mario Almeida, Ilias Leontiadis (Samsung AI Center Cambridge); Nicholas D. Lane (Samsung AI Center Cambridge and University of Cambridge)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo47"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo66"></a>
 <br/>
-<div id="demo47" class="collapse">
+<div id="demo66" class="collapse">
 Despite the soaring use of convolutional neural networks (CNNs) in mobile applications, uniformly sustaining high-performance inference on the mobile side has been elusive due to the excessive computational demands of modern CNNs and the increasing diversity of deployed devices. A popular alternative comprises offloading CNN processing to powerful cloud-based servers. Nevertheless, by relying on the cloud to produce outputs, emerging mission-critical and high-mobility applications, such as drone obstacle avoidance or interactive applications, can suffer from the dynamic connectivity conditions and the uncertain availability of the cloud. In this paper, we propose SPINN, a distributed inference system that employs synergistic device-cloud computation together with a progressive inference method to deliver fast and robust CNN inference across diverse settings. The proposed system introduces a novel scheduler that co-optimises the early-exit policy and the CNN splitting at run time, in order to adapt to dynamic conditions and meet user-defined service-level requirements. Quantitative evaluation illustrates that SPINN outperforms its state-of-the-art collaborative inference counterparts by up to 2\times× in achieved throughput under varying network conditions, reduces the server cost by up to 6.8× and improves accuracy by 20.7% under latency constraints, while providing robust operation under uncertain connectivity conditions and significant energy savings compared to cloud-centric execution.
 </div></li>
 
@@ -979,9 +975,9 @@ Despite the soaring use of convolutional neural networks (CNNs) in mobile applic
 <a href="">CLIO: Enabling automatic compilation of deep learning pipelines across IoT and Cloud</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Jin Huang, Colin Samplawski, Deepak Ganesan, Benjamin Marlin (UMass Amherst); Heesung Kwon (ARL)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo48"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo67"></a>
 <br/>
-<div id="demo48" class="collapse">
+<div id="demo67" class="collapse">
 Recent years have seen dramatic advances in low-power neural accelerators that aim to bring deep learning analytics to IoT devices; simultaneously, there have been considerable advances in the design of low-power radios aimed at enabling efficient compute offload from IoT devices to the cloud. Neither is a panacea --- deep learning models are often too large for low-power accelerators and bandwidth needs often too high for low-power radios. While there has been considerable work on deep learning for smartphone-class devices, we lack a good understanding of how to design efficient and low-power deep learning systems for resource-constrained IoT devices.
 In this paper, we attempt to bridge this gap by designing a continuously tunable method for leveraging both local and remote resources to optimize performance of a deep learning model. CLIO presents a novel approach to split machine learning models between an IoT device and cloud in a progressive manner to adapt to wireless dynamics. We show that this method can be combined with model compression, adaptive model partitioning and privacy preservation to create an integrated system for IoT-cloud partitioning. We implement CLIO on the GAP8 low-power neural accelerator and provide an exhaustive characterization of the operating regimes where each method performs best and show that CLIO can enable graceful degradation of prediction accuracy as resources diminish.
 </div></li>
@@ -991,9 +987,9 @@ In this paper, we attempt to bridge this gap by designing a continuously tunable
 <a href="">EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Juheon Yi (Seoul National University); Sunghyun Choi (Samsung Research); Youngki Lee (Seoul National University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo49"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo68"></a>
 <br/>
-<div id="demo49" class="collapse">
+<div id="demo68" class="collapse">
 We present EagleEye, an AR-based system that identifies missing person (or people) in large, crowded urban spaces. Designing involves critical technical challenges for both accuracy and latency. Firstly, despite recent advances in Deep Neural Network (DNN)-based face identification, we observe that state-of-the-art models fail to accurately identify Low-Resolution (LR) faces. Accordingly, we design a novel Identity Clarification Network to recover missing details in the LR faces, which enhances true positives by 78% with only 14% false positives. Furthermore, designing EagleEye involves unique challenges compared to recent continuous mobile vision systems in that it requires running a series of complex DNNs multiple times on a high-resolution image. To tackle the challenge, we develop Content-Adaptive Parallel Execution to optimize complex multi-DNN face identification pipeline execution latency using heterogeneous processors on mobile and cloud. Our results show that EagleEye achieves 9.07\times× faster latency compared to naive execution, with only 108 KBytes of data offloaded.
 </div></li>
 
@@ -1002,56 +998,10 @@ We present EagleEye, an AR-based system that identifies missing person (or peopl
 <a href="">Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Juheon Yi, Youngki Lee (Seoul National University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo50"></a>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo69"></a>
 <br/>
-<div id="demo50" class="collapse">
+<div id="demo69" class="collapse">
 We present Heimdall, a mobile GPU coordination platform for emerging Augmented Reality (AR) applications. Future AR apps impose an explored challenging workload: i) concurrent execution of multiple Deep Neural Networks (DNNs) for physical world and user behavior analysis, and ii) seamless rendering in presence of the DNN execution for immersive user experience. Existing mobile deep learning frameworks, however, fail to support such workload: multi-DNN GPU contention slows down inference latency (e.g., from 59.93 to 1181 ms), and rendering-DNN GPU contention degrades frame rate (e.g., from 30 to ~12 fps). Multi-tasking for desktop GPUs (e.g., parallelization, preemption) cannot be applied to mobile GPUs as well due to limited architectural support and memory bandwidth. To tackle the challenge, we design a Pseudo-Preemption mechanism which i) breaks down the bulky DNN into smaller units, and ii) prioritizes and flexibly schedules concurrent GPU tasks. We prototyped Heimdall over various mobile GPUs (i.e., recent Adreno series) and multiple AR app scenarios that involve combinations of 8 state-of-the-art DNNs. Our extensive evaluation shows that Heimdall enhances the frame rate from ~12 to ~30 fps while reducing the worst-case DNN inference latency by up to ~15 times compared to the baseline multi-threading approach.
-</div></li>
-
-</ul></div></div></div>
-
-<div class="card bg-light">
-<h6 class="card-header text-white" style="background-color:#2CA02C">
-<a data-toggle="collapse" href="#collapse9" class="d-block" style="color:white">
-<b>08:40 - 09:10<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Backscatter (3 papers)<br/>Chair: Shyam Gollakota and Longfei Shangguan (western US)</b>
-</a></h6>
-<div id="collapse9" class="collapse show">
-<div class="card-body">
-<ul class="list-group list-group-flush">
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="">Redefining Passive in Backscattering with Commodity Devices</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
-  Mohammad Rostami (UMass Amherst); Karthik Sundaresan, Eugene Chai, Sampath Rangarajan (NEC Labs America); Deepak Ganesan (UMass Amherst)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo51"></a>
-<br/>
-<div id="demo51" class="collapse">
-The recent innovation of frequency-shifted (FS) backscatter allows for backscattering with commodity devices, which are inherently half-duplex. However, their reliance on oscillators for generating the frequency-shifting signal on the tag, forces them to incur the transient phase of the oscillator before steady-state operation. We show how the oscillator's transient phase can pose a fundamental limitation for battery-less tags, resulting in significantly low bandwidth efficiencies, thereby limiting their practical usage.
-To this end, we propose a novel approach to FS-backscatter called xSHIFT that shifts the core functionality of FS away from the tag and onto the commodity device, thereby eliminating the need for on-tag oscillators altogether. The key innovation in xSHIFT lies in addressing the formidable challenges that arise in making this vision a reality. Specifically, xSHIFT’s design for commodity backscatter is built on the construct of beating twin carrier tones through a non-linear device to generate the desired FS signal -- while the twin RF carriers are generated externally through a careful embedding into the resource units of commodity WiFi transmissions, the beating is achieved through a carefully-designed passive tag circuitry. We prototype xSHIFT 's tag, which is the same form factor as RFID Gen 2 tags, and characterize its promising real-world performance. We believe xSHIFT demonstrates one of the first, truly passive tag designs that has the potential to bring commodity backscatter to consumer spaces.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="">Tunnel Emitter: Tunnel Diode based Low-Power Carrier Emitters for Backscatter Tags</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
-  Ambuj Varshney, Lorenzo Corneo (Uppsala University, Sweden)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo52"></a>
-<br/>
-<div id="demo52" class="collapse">
-Backscatter enables transmissions at orders of magnitude lower energy consumption when compared to conventional radio transmitters. Backscatter tags achieve this by the reflection or absorption of carrier signal generated from emitter devices. However, backscatter systems are limited by these emitter devices, as they are significantly energy-expensive when compared to the tags. While backscatter tags can operate without requiring batteries, relying on the minuscule amounts of energy harvested from the ambient environment. However, the emitter devices, are commonly tethered to an external power supply or operate on large batteries.
-We present Tunnel Emitter: a tunnel diode oscillator based system that enables the generation of carrier signals at a peak biasing power of tens of \SI{}{\micro\watt}. Thus, for the first time, it allows battery-free emitter devices. The key enabler to the design is a phenomenon exhibited by tunnel diode oscillators that we call back injection, and we are the first to demonstrate. Back injection enables the emitter devices to amplify~(up to \SI{20}{\decibel}) and relay the backscattered signal. Our results show that \tags{} when operating together with a tag from long-range backscatter system, facilitates multi-floor communication. Tunnel Emitter, due to the back injection phenomenon, achieves this with a carrier signal that is orders of magnitude weaker than used in state-of-the-art systems. We believe Tunnel Emitter overcomes the key constraint restricting backscatter systems and thus can make backscatter systems ubiquitous.
-</div></li>
-
-<li class="list-group-item bg-light">
-<h6 class="card-title"><b>
-<a href="">Renovating Road Signs for Infrastructure-to-Vehicle Networking: A Visible Light Backscatter Communication and Networking Approach</a></b></h6>
-<h6 class="card-subtitle mb-2 text-muted">
-  Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu (Peking University); Guobin Shen (JoveAI, Inc.); Kuntai Du, Gang Huang, Xuanzhe Liu (Peking University)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo53"></a>
-<br/>
-<div id="demo53" class="collapse">
-Conventional road signs convey very concise and static visual information to human drivers, and bear retroreflective coating for better visibility at night. This paper introduces RetroI2V - a novel infrastructure-to-vehicle (I2V) communication and networking system that renovates conventional road signs to convey additional and dynamic information to vehicles while keeping intact their original functionality. In particular, RetroI2V exploits the retroreflective coating of road signs and establishes visible light backscattering communication (VLBC), and further coordinates multiple concurrent VLBC sessions among road signs and approaching vehicles. RetroI2V features a suite of novel VLBC designs including late-polarization, complementary optical signaling and polarization-based differential reception which are crucial to avoid flickering and achieve long VLBC range, as well as a decentralized MAC protocol that make practical multiple access in highly mobile and transient I2V settings. Experimental results from our prototyped system show that RetroI2V supports up to 101 m communication range and efficient multiple access at scale.
 </div></li>
 
 </ul></div></div></div>
