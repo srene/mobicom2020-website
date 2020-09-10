@@ -143,7 +143,7 @@ This paper presents the design, implementation and evaluation of In-N-Out, a sof
 We present the design, implementation, and evaluation of μmedIC, a fully-integrated wireless and batteryless micro-implanted sensor. The sensor powers up by harvesting energy from RF signals and communicates at near-zero power via backscatter. In contrast to prior designs which cannot operate across various in-body environments, our sensor can self-reconfigure to adapt to different tissues and channel conditions. This adaptation is made possible by two key innovations: a reprogrammable antenna that can tune its energy harvesting resonance to surrounding tissues, and a backscatter rate adaptation protocol that closes the feedback loop by tracking circuit-level sensor hints.
 
 We built our design on millimeter-sized integrated chips and flexible antenna substrates, and tested it in environments that span both in-vitro (fluids) and ex-vivo (tissues) conditions. Our evaluation demonstrates μmedIC’s ability to tune its energy harvesting resonance by more than 200 MHz (i.e., adapt to different tissues) and to scale its bitrate by an order of magnitude up to 6Mbps, allowing it to support higher data rate applications (such as streaming low-res images) without sacrificing availability. This rate adaptation also allows μmedIC to scale its energy consumption by an order of magnitude down to 350 nanoWatts. These capabilities pave way for a new generation of networked micro-implants that can adapt to complex and time-varying in-body environments.
-</div></li>-->
+</div></li>
 
 </ul></div></div></div>
 
@@ -638,38 +638,123 @@ In addition, we document important lessons we have learned from this study, and 
 </ul></div></div></div>
 
 <div class="card bg-light">
-<h6 class="card-header text-white" style="background-color:#D62728">
-<a href="keynotes.php#tot" class="d-block" style="color:white">
-<b>3:30 - 4:00<br/>Test of Time Award Talks<br/>Chair: Marco Gruteser (WINLAB - Rutgers University)</b>
+<h6 class="card-header text-white" style="background-color:#2CA02C">
+<a data-toggle="collapse" href="#collapse9" class="d-block" style="color:white">
+<b>07:55 - 08:35<br/><i class="fa fa-chevron-down float-right" ></i>
+Session: ML (4 papers)<br/>Chair: Robert LiKamWa  (western US) and  Y. Charlie Hu (US)</b>
 </a></h6>
-<div id="collapse10" class="collapse show">
+<div id="collapse9" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://ieeexplore.ieee.org/document/7071706">Design of WARP: a wireless open-access research platform</a></b></h6>
+<a href="">SPINN: Synergistic Progressive Inference of Neural Networks over Device and Cloud</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
-Patrick Murphy, Ashutosh Sabharwal, and Behnaam Aazhang<br/>European Signal Processing Conference, 2006.</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo56"></a>
+  Stefanos Laskaridis, Stylianos I. Venieris, Mario Almeida, Ilias Leontiadis (Samsung AI Center Cambridge); Nicholas D. Lane (Samsung AI Center Cambridge and University of Cambridge)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo47"></a>
 <br/>
-<div id="demo56" class="collapse">
-WARP was a groundbreaking open-source specialized hardware platform for high-performance wireless research. As one of the very few university hardware projects that moved outside the university, WARP has served as an experimental enabler for hundreds of ideas, which otherwise would have hardly been demonstrated, due to code base limitations and the large cost of wireless platforms capable of supporting high-end research. In the process, WARP was instrumental in changing the way the SIGMOBILE wireless community did research – strong experimental evidence versus oversimplified simulations.
+<div id="demo47" class="collapse">
+Despite the soaring use of convolutional neural networks (CNNs) in mobile applications, uniformly sustaining high-performance inference on the mobile side has been elusive due to the excessive computational demands of modern CNNs and the increasing diversity of deployed devices. A popular alternative comprises offloading CNN processing to powerful cloud-based servers. Nevertheless, by relying on the cloud to produce outputs, emerging mission-critical and high-mobility applications, such as drone obstacle avoidance or interactive applications, can suffer from the dynamic connectivity conditions and the uncertain availability of the cloud. In this paper, we propose SPINN, a distributed inference system that employs synergistic device-cloud computation together with a progressive inference method to deliver fast and robust CNN inference across diverse settings. The proposed system introduces a novel scheduler that co-optimises the early-exit policy and the CNN splitting at run time, in order to adapt to dynamic conditions and meet user-defined service-level requirements. Quantitative evaluation illustrates that SPINN outperforms its state-of-the-art collaborative inference counterparts by up to 2\times× in achieved throughput under varying network conditions, reduces the server cost by up to 6.8× and improves accuracy by 20.7% under latency constraints, while providing robust operation under uncertain connectivity conditions and significant energy savings compared to cloud-centric execution.
 </div></li>
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/citation.cfm?id=1460445">Sensing meets mobile social networks: the design, implementation and evaluation of the CenceMe application</a></b></h6>
+<a href="">CLIO: Enabling automatic compilation of deep learning pipelines across IoT and Cloud</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
-Emiliano Miluzzo, Nicholas D. Lane, Kristof Fodor, Ronald Peterson, Hong Lu, Mirco Musolesi, Shane B. Eisenman, Xiao Zheng, and Andrew T. Campbell<br/>ACM SenSys, 2008.</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo57"></a>
+  Jin Huang, Colin Samplawski, Deepak Ganesan, Benjamin Marlin (UMass Amherst); Heesung Kwon (ARL)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo48"></a>
 <br/>
-<div id="demo57" class="collapse">
-CenceMe was the first paper to demonstrate how smartphones can be used to derive rich behavioral insights continuously from onboard sensors. Since its publication, the work has inspired a huge body of research and commercial endeavors that has continued to increase the breadth and depth of personal sensing. Some of the activity inference methods that are now common in smartphone operating systems can be traced back to the original CenceMe system.
+<div id="demo48" class="collapse">
+Recent years have seen dramatic advances in low-power neural accelerators that aim to bring deep learning analytics to IoT devices; simultaneously, there have been considerable advances in the design of low-power radios aimed at enabling efficient compute offload from IoT devices to the cloud. Neither is a panacea --- deep learning models are often too large for low-power accelerators and bandwidth needs often too high for low-power radios. While there has been considerable work on deep learning for smartphone-class devices, we lack a good understanding of how to design efficient and low-power deep learning systems for resource-constrained IoT devices.
+In this paper, we attempt to bridge this gap by designing a continuously tunable method for leveraging both local and remote resources to optimize performance of a deep learning model. CLIO presents a novel approach to split machine learning models between an IoT device and cloud in a progressive manner to adapt to wireless dynamics. We show that this method can be combined with model compression, adaptive model partitioning and privacy preservation to create an integrated system for IoT-cloud partitioning. We implement CLIO on the GAP8 low-power neural accelerator and provide an exhaustive characterization of the operating regimes where each method performs best and show that CLIO can enable graceful degradation of prediction accuracy as resources diminish.
+</div></li>
+
+<li class="list-group-item bg-light">
+<h6 class="card-title"><b>
+<a href="">EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces</a></b></h6>
+<h6 class="card-subtitle mb-2 text-muted">
+  Juheon Yi (Seoul National University); Sunghyun Choi (Samsung Research); Youngki Lee (Seoul National University)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo49"></a>
+<br/>
+<div id="demo49" class="collapse">
+We present EagleEye, an AR-based system that identifies missing person (or people) in large, crowded urban spaces. Designing involves critical technical challenges for both accuracy and latency. Firstly, despite recent advances in Deep Neural Network (DNN)-based face identification, we observe that state-of-the-art models fail to accurately identify Low-Resolution (LR) faces. Accordingly, we design a novel Identity Clarification Network to recover missing details in the LR faces, which enhances true positives by 78% with only 14% false positives. Furthermore, designing EagleEye involves unique challenges compared to recent continuous mobile vision systems in that it requires running a series of complex DNNs multiple times on a high-resolution image. To tackle the challenge, we develop Content-Adaptive Parallel Execution to optimize complex multi-DNN face identification pipeline execution latency using heterogeneous processors on mobile and cloud. Our results show that EagleEye achieves 9.07\times× faster latency compared to naive execution, with only 108 KBytes of data offloaded.
+</div></li>
+
+<li class="list-group-item bg-light">
+<h6 class="card-title"><b>
+<a href="">Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications</a></b></h6>
+<h6 class="card-subtitle mb-2 text-muted">
+ Juheon Yi, Youngki Lee (Seoul National University)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo50"></a>
+<br/>
+<div id="demo50" class="collapse">
+We present Heimdall, a mobile GPU coordination platform for emerging Augmented Reality (AR) applications. Future AR apps impose an explored challenging workload: i) concurrent execution of multiple Deep Neural Networks (DNNs) for physical world and user behavior analysis, and ii) seamless rendering in presence of the DNN execution for immersive user experience. Existing mobile deep learning frameworks, however, fail to support such workload: multi-DNN GPU contention slows down inference latency (e.g., from 59.93 to 1181 ms), and rendering-DNN GPU contention degrades frame rate (e.g., from 30 to ~12 fps). Multi-tasking for desktop GPUs (e.g., parallelization, preemption) cannot be applied to mobile GPUs as well due to limited architectural support and memory bandwidth. To tackle the challenge, we design a Pseudo-Preemption mechanism which i) breaks down the bulky DNN into smaller units, and ii) prioritizes and flexibly schedules concurrent GPU tasks. We prototyped Heimdall over various mobile GPUs (i.e., recent Adreno series) and multiple AR app scenarios that involve combinations of 8 state-of-the-art DNNs. Our extensive evaluation shows that Heimdall enhances the frame rate from ~12 to ~30 fps while reducing the worst-case DNN inference latency by up to ~15 times compared to the baseline multi-threading approach.
 </div></li>
 
 </ul></div></div></div>
 
 <div class="card bg-light">
+<h6 class="card-header text-white" style="background-color:#2CA02C">
+<a data-toggle="collapse" href="#collapse9" class="d-block" style="color:white">
+<b>08:40 - 09:10<br/><i class="fa fa-chevron-down float-right" ></i>
+Session: Backscatter (3 papers)<br/>Chair: Shyam Gollakota and Longfei Shangguan (western US)</b>
+</a></h6>
+<div id="collapse9" class="collapse show">
+<div class="card-body">
+<ul class="list-group list-group-flush">
+<li class="list-group-item bg-light">
+<h6 class="card-title"><b>
+<a href="">Redefining Passive in Backscattering with Commodity Devices</a></b></h6>
+<h6 class="card-subtitle mb-2 text-muted">
+  Mohammad Rostami (UMass Amherst); Karthik Sundaresan, Eugene Chai, Sampath Rangarajan (NEC Labs America); Deepak Ganesan (UMass Amherst)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo51"></a>
+<br/>
+<div id="demo51" class="collapse">
+The recent innovation of frequency-shifted (FS) backscatter allows for backscattering with commodity devices, which are inherently half-duplex. However, their reliance on oscillators for generating the frequency-shifting signal on the tag, forces them to incur the transient phase of the oscillator before steady-state operation. We show how the oscillator's transient phase can pose a fundamental limitation for battery-less tags, resulting in significantly low bandwidth efficiencies, thereby limiting their practical usage.
+To this end, we propose a novel approach to FS-backscatter called xSHIFT that shifts the core functionality of FS away from the tag and onto the commodity device, thereby eliminating the need for on-tag oscillators altogether. The key innovation in xSHIFT lies in addressing the formidable challenges that arise in making this vision a reality. Specifically, xSHIFT’s design for commodity backscatter is built on the construct of beating twin carrier tones through a non-linear device to generate the desired FS signal -- while the twin RF carriers are generated externally through a careful embedding into the resource units of commodity WiFi transmissions, the beating is achieved through a carefully-designed passive tag circuitry. We prototype xSHIFT 's tag, which is the same form factor as RFID Gen 2 tags, and characterize its promising real-world performance. We believe xSHIFT demonstrates one of the first, truly passive tag designs that has the potential to bring commodity backscatter to consumer spaces.
+</div></li>
+
+<li class="list-group-item bg-light">
+<h6 class="card-title"><b>
+<a href="">Tunnel Emitter: Tunnel Diode based Low-Power Carrier Emitters for Backscatter Tags</a></b></h6>
+<h6 class="card-subtitle mb-2 text-muted">
+  Ambuj Varshney, Lorenzo Corneo (Uppsala University, Sweden)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo52"></a>
+<br/>
+<div id="demo52" class="collapse">
+Backscatter enables transmissions at orders of magnitude lower energy consumption when compared to conventional radio transmitters. Backscatter tags achieve this by the reflection or absorption of carrier signal generated from emitter devices. However, backscatter systems are limited by these emitter devices, as they are significantly energy-expensive when compared to the tags. While backscatter tags can operate without requiring batteries, relying on the minuscule amounts of energy harvested from the ambient environment. However, the emitter devices, are commonly tethered to an external power supply or operate on large batteries.
+We present Tunnel Emitter: a tunnel diode oscillator based system that enables the generation of carrier signals at a peak biasing power of tens of \SI{}{\micro\watt}. Thus, for the first time, it allows battery-free emitter devices. The key enabler to the design is a phenomenon exhibited by tunnel diode oscillators that we call back injection, and we are the first to demonstrate. Back injection enables the emitter devices to amplify~(up to \SI{20}{\decibel}) and relay the backscattered signal. Our results show that \tags{} when operating together with a tag from long-range backscatter system, facilitates multi-floor communication. Tunnel Emitter, due to the back injection phenomenon, achieves this with a carrier signal that is orders of magnitude weaker than used in state-of-the-art systems. We believe Tunnel Emitter overcomes the key constraint restricting backscatter systems and thus can make backscatter systems ubiquitous.
+</div></li>
+
+<li class="list-group-item bg-light">
+<h6 class="card-title"><b>
+<a href="">Renovating Road Signs for Infrastructure-to-Vehicle Networking: A Visible Light Backscatter Communication and Networking Approach</a></b></h6>
+<h6 class="card-subtitle mb-2 text-muted">
+  Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu (Peking University); Guobin Shen (JoveAI, Inc.); Kuntai Du, Gang Huang, Xuanzhe Liu (Peking University)</h6>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo53"></a>
+<br/>
+<div id="demo53" class="collapse">
+Conventional road signs convey very concise and static visual information to human drivers, and bear retroreflective coating for better visibility at night. This paper introduces RetroI2V - a novel infrastructure-to-vehicle (I2V) communication and networking system that renovates conventional road signs to convey additional and dynamic information to vehicles while keeping intact their original functionality. In particular, RetroI2V exploits the retroreflective coating of road signs and establishes visible light backscattering communication (VLBC), and further coordinates multiple concurrent VLBC sessions among road signs and approaching vehicles. RetroI2V features a suite of novel VLBC designs including late-polarization, complementary optical signaling and polarization-based differential reception which are crucial to avoid flickering and achieve long VLBC range, as well as a decentralized MAC protocol that make practical multiple access in highly mobile and transient I2V settings. Experimental results from our prototyped system show that RetroI2V supports up to 101 m communication range and efficient multiple access at scale.
+</div></li>
+
+</ul></div></div></div>
+
+<div class="card">
 <h6 class="card-header text-white" style="background-color:#D62728">
-<b>4:00 - 4:30<br/>Closing remarks</b></h6>
-</div>-->
+<b>09:15 - 10:15<br/>Keynote 4: Durga Malladi (Qualcomm Technologies)</b></h6>
+<div class="card-body bg-light">
+<h6 class="card-title">
+<a href="keynotes.php"><b>What’s next in the cellular infrastructure</b></a>
+</h6>
+</div>
+</div>
+
+<div class="card">
+<h6 class="card-header text-white" style="background-color:#D62728">
+<b>10:20 - 11:20<br/>Keynote 5: Alex Kauffmann</b></h6>
+<div class="card-body bg-light">
+<h6 class="card-title">
+<a href="keynotes.php"><b>TBD</b></a>
+</h6>
+</div>
+</div>
