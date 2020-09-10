@@ -27,7 +27,7 @@
         <a class="nav-link" href="keynote.php">Keynotes</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="keynote.php">Panels</a>
+        <a class="nav-link" href="panel.php">Panels</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="workshops.php">Workshops & Tutorials</a>
