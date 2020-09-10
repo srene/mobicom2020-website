@@ -906,7 +906,7 @@ We present Bleep, a side-channel messaging system that modulates UAV motors soun
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">C-14: Assured Timestamps for Drone Videos</a></b></h6>
+<a href="">C-14: Assured Timestamps for Drone Videos</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifac available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Zhipeng Tang, Fabien Delattre, Pia Bideau, Mark D. Corner, Erik Learned-Miller (University of Massachusetts Amherst)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo64"></a>
@@ -970,7 +970,7 @@ In this paper, we perform a first comprehensive study of mobile volumetric video
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">NEMO: Enabling Neural-enhanced Video Streaming on Commodity Mobile Devices</a></b></h6>
+<a href="">NEMO: Enabling Neural-enhanced Video Streaming on Commodity Mobile Devices</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifac available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Hyunho Yeo, Chan Ju Chong, Youngmok Jung, Juncheol Ye, Dongsu Han (KAIST)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo67"></a>
