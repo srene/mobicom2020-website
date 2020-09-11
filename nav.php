@@ -54,9 +54,6 @@
         <a class="nav-link" href="registration.php">Registration & Hotel Reservations</a>
       </li>-->
       <li class="nav-item">
-        <a class="nav-link" href="mobijob.php">MobiJob</a>
-      </li>
-      <li class="nav-item">
         <a class="nav-link" href="demo.php">Demos</a>
       </li>
       <li class="nav-item">
