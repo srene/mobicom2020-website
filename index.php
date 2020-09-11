@@ -134,13 +134,30 @@ On-Site (Begins Oct 21st)<br/><br/>
 <li><b>August 2020</b> - <a href="video.php">Virtual Presentation Instructions</a> updated.</li>
 <li><b>August 2020</b> - <a href="workshops.php">New tutorial</a> announced.</li>
 <li><b>September 2020</b> - <a href="mentorship.php">Mentorship program</a> announced.</li>
-
+<li><b>September 2020</b> - <a href="program.php">MobiCom program</a> details available.</li>
 </ul>
 </div>
 
 </br>
 
  <?php require_once('sponsors.php'); ?>
+
+</br>
+ACM Journals relevant to MOBICOM:
+ <ul>
+ <li>
+ ACM Transactions on Sensor Networks (TOSN) - Publishing research and applications of distributed, wireless or wireline sensor and actuator networks. https://tosn.acm.org/
+ </li>
+ <li>
+ ACM Transactions on Privacy and Security (TOPS) - High-quality research results in the fields of information and system security and privacy. https://tops.acm.org/
+ </li>
+ <li>
+ ACM Transactions on Quantum Computing (TQC) - High-impact, original research papers and select surveys on topics in quantum computing and quantum information science. https://tqc.acm.org/
+ </li>
+ <li>
+ ACM Transactions on Modeling and Computer Simulation (TOMACS) - High-quality research and developmental results referring to all phases of the modeling and simulation life cycle. https://tomacs.acm.org/
+ </li>
+ </ul>
 
 <!--<h2 class="text-center">Call for Papers</h2>
 
