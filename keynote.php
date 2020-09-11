@@ -64,7 +64,7 @@
 <h5 align="center"><b>Durga Malladi</b></h5>
 <h5 align="center">Qualcomm Technologies</h5>
 <h5 align="center"><i>Wednesday, 23rd September, 09:15-10:15 PDT</i></h5>
-<h5 align="center"><i>Session Chair: TBD</i></h5>
+<h5 align="center"><i>Session Chair: Bozidar Radunovic</i></h5>
 <br/>
 <p>
 <b>Abstract:</b>
@@ -115,14 +115,14 @@ Durga holds a B.Tech from Indian Institute of Technology, Madras, and an M.S and
 <h5 align="center"><b>Dr. Ron Marquardt</b></h5>
 <h5 align="center">Vice President of Advanced Technologies & Innovation, T-Mobile</h5>
 <h5 align="center"><i>Thursday, 24th September, 08:15-09:15 PDT</i></h5>
-<h5 align="center"><i>Session Chair: TBD</i></h5>
+<h5 align="center"><i>Session Chair: Karthik Sundaresan</i></h5>
 <br/>
 <p>
 <b>Abstract:</b> TBD</p>
 
 <img src="images/keynote/ron.png" height="200" style="float: left;margin-right:15px">
 <p>
-<b>Bio:</b>As Vice President of Advanced Technologies & Innovation for T-Mobile, <i>Dr. Marquardt</i> is responsible for the exploration of new and enabling technologies, partnerships with business leaders for their use in new categories of products and services, and the related industry relationships and investments enabling T-Mobile innovation and ecosystem development goals.  He also represents T-Mobile at speaking engagements, in press and analyst interviews, and as needed with regulatory bodies and other industry stakeholders.  Previously, he held a similar role at Sprint before the companies merged.
+<b>Bio:</b> As Vice President of Advanced Technologies & Innovation for T-Mobile, <i>Dr. Marquardt</i> is responsible for the exploration of new and enabling technologies, partnerships with business leaders for their use in new categories of products and services, and the related industry relationships and investments enabling T-Mobile innovation and ecosystem development goals.  He also represents T-Mobile at speaking engagements, in press and analyst interviews, and as needed with regulatory bodies and other industry stakeholders.  Previously, he held a similar role at Sprint before the companies merged.
 
 Prior to Sprint, Dr. Marquardt was VP of Technology Development at Clearwire Corporation, responsible for that company’s technology strategy as well as the architecture, design, testing, and implementation of its mobile broadband 4G network, devices, and services.  He also was CTO at Covad Communications where he led teams responsible for the engineering and network planning of VoIP, wireless, and broadband services across the United States. Prior to that role, he was in various positions at network equipment manufacturers.
 
