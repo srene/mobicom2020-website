@@ -19,7 +19,7 @@
     font-size: large;
 }
 </style>
-<p><span class="bold-red">Important: authors are expected to upload two videos by 15th September, a 5 min elevetor pitch video and a 20 min paper presentation, as indicated <a href="program.php">here</a>.</span></p>
+<p><span class="bold-red">Important: authors are expected to upload two videos by 15th September, a 5 min elevetor pitch video and a 20 min paper presentation.</span></p>
 </br>
 <h4>Video recording</h4>
 

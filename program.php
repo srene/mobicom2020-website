@@ -13,7 +13,8 @@
 <h2 class="text-center">Program</h2>
 
 <div class="text-center">
-
+<p><span class="bold-red">Important: authors are expected to upload two videos by 15th September, as indicated <a href="video.php">here</a>.</span></p>
+</br>
 <a href="https://calendar.google.com/calendar/embed?src=0cc7e67n4on1jqi52h8i2so7rs%40group.calendar.google.com&ctz=Europe%2FLondon" class="cbutton btn btn-primary ">Add MobiCom program<br/>to your Google Calendar</a>
 
 <a href="https://calendar.google.com/calendar/ical/0cc7e67n4on1jqi52h8i2so7rs%40group.calendar.google.com/public/basic.ics" class="cbutton btn btn-primary  ">Download MobiCom <br/> program in iCal format</a>
