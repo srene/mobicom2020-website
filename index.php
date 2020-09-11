@@ -142,6 +142,7 @@ On-Site (Begins Oct 21st)<br/><br/>
 
  <?php require_once('sponsors.php'); ?>
 
+</br>
 <div style="margin-bottom:15px">
 </div>
 
@@ -154,13 +155,13 @@ On-Site (Begins Oct 21st)<br/><br/>
  <a href="https://tosn.acm.org/">ACM Transactions on Sensor Networks (TOSN)</a> - Publishing research and applications of distributed, wireless or wireline sensor and actuator networks.
  </li>
  <li>
- <a href="https://tops.acm.org/">ACM Transactions on Privacy and Security (TOPS) - High-quality research results in the fields of information and system security and privacy.
+ <a href="https://tops.acm.org/">ACM Transactions on Privacy and Security (TOPS)</a>  - High-quality research results in the fields of information and system security and privacy.
  </li>
  <li>
- <a href="https://tqc.acm.org//">ACM Transactions on Quantum Computing (TQC) - High-impact, original research papers and select surveys on topics in quantum computing and quantum information science.
+ <a href="https://tqc.acm.org//">ACM Transactions on Quantum Computing (TQC)</a>  - High-impact, original research papers and select surveys on topics in quantum computing and quantum information science.
  </li>
  <li>
- <a href="https://tomacs.acm.org/">ACM Transactions on Modeling and Computer Simulation (TOMACS) - High-quality research and developmental results referring to all phases of the modeling and simulation life cycle.
+ <a href="https://tomacs.acm.org/">ACM Transactions on Modeling and Computer Simulation (TOMACS)</a>  - High-quality research and developmental results referring to all phases of the modeling and simulation life cycle.
  </li>
  </ul>
 
