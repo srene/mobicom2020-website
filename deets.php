@@ -28,7 +28,7 @@ Session: Localization (4 papers)<br/>Chair: Nilanjan Banerjee (eastern US), Kyle
 <h6 class="card-title"><b>
 <a href="">Deep Learning based Wireless Localization for Indoor Navigation</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifac available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Haojian Jin, Jingxian Wang, Swarun Kumar, Jason Hong (Carnegie Mellon University)</h6>
+ R. Ayyalasomayajula, A. Arun, C. Wu, S. Sharma,A. Sethi, D. Vasisht, D. Bharadia</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo1"></a>
 <br/>
 <div id="demo1" class="collapse">
@@ -125,8 +125,8 @@ Electric toothbrushes are widely used for home oral care, but many users do not 
 <h6 class="card-title"><b>
 <a href="">Towards Flexible Wireless Charging for Medical Implants Using Distributed Antenna System</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
- Ambuj Varshney, Andreas Soleiman, Thiemo Voigt (Uppsala University, Sweden)</h6>
-<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo7"></a>
+ Xiaoran Fan (Rutgers University); Longfei  Shangguan (Microsoft); R E Howard (Rutgers University); Yanyong Zhang (University of Science and Technology of China); Yao Peng (Northwest University); Jie Xiong (University of Massachusetts Amherst); Yunfei Ma (Alibaba Group); Xiangyang Li (University of Science and Technology of China)</h6>
+ <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo7"></a>
 <br/>
 <div id="demo7" class="collapse">
 This paper presents the design, implementation and evaluation of In-N-Out, a software-hardware solution for far-field wireless power transfer.In-N-Out can continuously charge the medical implant residing in deep tissues with consistently near-optimal power, even when the implant moves around inside the human body. To accomplish this, we exploit the structure of a distributed antenna array and devise a backscatter-assisted beamforming algorithm that can concentrate RF energy on a tiny spot surrounding the medical implant. Meanwhile,we can keep radiation exposure levels on other body parts very low, reducing the risk of overheating. We prototype In-N-Out on 21 software-defined radios and a printed circuit board (PCB). Through extensive experimentation, we show that In-N-Out achieves 0.37 mW average charging power in-side a 10 cm-thick pork belly, which is sufficient to wirelessly power a range of commercial medical devices from outside the body. Our head-to-head comparison with the state-of-the-art approach shows that In-N-Out achieves 5.4×–18.1×power gain when the implant is stationary, and 5.3×–7.4×power gain when the implant is in motion.
