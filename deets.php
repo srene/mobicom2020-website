@@ -152,7 +152,7 @@ We built our design on millimeter-sized integrated chips and flexible antenna su
 <b>09:00 - 10:00<br/>Keynote 2: Sachin Katti (Stanford University)</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynote.php#katti"><b>TBD</b></a>
+<a href="keynote.php#katti"><b>Disaggregating the Cellular Radio Access Network with O-RAN</b></a>
 </h6>
 </div>
 </div>
@@ -488,6 +488,10 @@ Visible light communication (VLC) is gaining a significant amount of interest as
 <div class="accordion">
 <p class="h4"><b> Wednesday, 23rd September, 2020 PDT</b></p>
 <div class="card bg-light">
+<h6 class="card-header text-white" style="background-color:#D62728">
+<b>04:30 - 06:00<br/>Posters & Demos</b></h6>
+</div>
+<div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse7" class="d-block" style="color:white">
 <b>06:00 - 06:30<br/><i class="fa fa-chevron-down float-right" ></i>
@@ -718,7 +722,7 @@ To this end, we propose a novel approach to FS-backscatter called xSHIFT that sh
 <h6 class="card-title"><b>
 <a href="">Tunnel Emitter: Tunnel Diode based Low-Power Carrier Emitters for Backscatter Tags</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
-  Ambuj Varshney, Lorenzo Corneo (Uppsala University, Sweden)</h6>
+  Ambuj Varshney (University of California, Berkeley and Uppsala University); Lorenzo Corneo (Uppsala University, Sweden)</h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo52"></a>
 <br/>
 <div id="demo52" class="collapse">
@@ -744,7 +748,7 @@ Conventional road signs convey very concise and static visual information to hum
 <b>09:15 - 10:15<br/>Keynote 4: Durga Malladi (Qualcomm Technologies)</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynote.php#malladi"><b>What’s next in the cellular infrastructure</b></a>
+<a href="keynote.php#malladi"><b>What's next in 5G infrastructure?</b></a>
 </h6>
 </div>
 </div>

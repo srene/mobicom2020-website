@@ -28,14 +28,14 @@
 </br>
 <hr/>
 
-<h5 align="center"><div id="katti"></div><b>Keynote 2: TBD</b></h5>
+<h5 align="center"><div id="katti"></div><b>Keynote 2: Disaggregating the Cellular Radio Access Network with O-RAN</b></h5>
 <h5 align="center"><b>Sachin Katti</b></h5>
 <h5 align="center">Stanford University and VMware</h5>
 <h5 align="center"><i>Monday, 21st September, 09:00-10:00 PDT</i></h5>
 <h5 align="center"><i>Session Chair: Joerg Widmer</i></h5>
 <br/>
 <p>
-<b>Abstract:</b> TBD
+<b>Abstract:</b> Since cellular networks have been deployed, the radio access network (RAN) has been a vertically integrated and closed part of the network. This has limited network agility, increased cost, hindered innovation and has led to vendor consolidation. Over the past few years, for the first time ever, this has begun to change. We founded the xRAN forum out of our research on cellular network virtualization in 2016 which has now evolved to the O-RAN alliance that is defining the open RAN architecture. Open RAN has quickly become a movement that has been embraced both by cellular network operators and regulators as a means to diversify the cellular infrastructure supply chain and introduce much needed innovation. I will discuss the genesis of this architecture, initial successes with the deployment of the Rakuten and Dish networks in Japan and the US, and the road ahead.
 </p>
 
 <img src="images/keynote/katti.png" height="200" style="float: left;margin-right:15px">
@@ -60,20 +60,14 @@
 </br>
 <hr/>
 
-<h5 align="center"><div id="malladi"></div><b>Keynote 4: What’s next in the cellular infrastructure</b></h5>
+<h5 align="center"><div id="malladi"></div><b>Keynote 4: What's next in 5G infrastructure?</b></h5>
 <h5 align="center"><b>Durga Malladi</b></h5>
 <h5 align="center">Qualcomm Technologies</h5>
 <h5 align="center"><i>Wednesday, 23rd September, 09:15-10:15 PDT</i></h5>
 <h5 align="center"><i>Session Chair: Bozidar Radunovic</i></h5>
 <br/>
 <p>
-<b>Abstract:</b>
-<ul>
-<li>5G Network Topology.</li>
-<li>Challenges with diversity of networks, venues, city-wide, enterprise, industrial deployments spanning public & private domains.</li>
-<li>New paradigms with open interfaces, virtualization and COTS.</li>
-<li>High performance radios, inline accelerators.</li>
-</ul>
+<b>Abstract:</b> 5G networks are poised to become the unifying connectivity fabric – across spectrum, services and deployment models. Venues, enterprises, industrial operations, healthcare, and city infrastructure will all become smart connected spaces, big or small, and in public or private networking domains. Learn how network architectures will evolve to situate network functions where they most efficiently and securely cater to the unique requirements of each use case, and scale easily with demand. Join this keynote to get perspective on some of the exciting milestones along this 5G network evolution journey such as disaggregated network functions, open interfaces, virtualization, with the opportunistic use of commercial off-the-shelf (COTS) white boxes and inline accelerators, high performance radios, and lower latency with intelligence at the wireless edge.
 </p>
 
 <img src="images/keynote/malladi.png" height="200" style="float: left;margin-right:15px">
