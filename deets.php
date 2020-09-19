@@ -19,16 +19,17 @@
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse1" class="d-block" style="color:white">
 <b>07:30 - 08:10<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Localization (4 papers)<br/>Chair: Nilanjan Banerjee (eastern US), Kyle Jamieson (eastern US) and Yunhao Liu</b>
+Session: Localization (4 papers)<br/>Chair: Nilanjan Banerjee, Kyle Jamieson and Yunhao Liu</b>
 </a></h6>
 <div id="collapse1" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Deep Learning based Wireless Localization for Indoor Navigation</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifac available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380894">Deep Learning based Wireless Localization for Indoor Navigation</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifac available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
 <h6 class="card-subtitle mb-2 text-muted">
  R. Ayyalasomayajula, A. Arun, C. Wu, S. Sharma,A. Sethi, D. Vasisht, D. Bharadia</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/OTBoiC-bygw'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/OTBoiC-bygw'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo1"></a>
 <br/>
 <div id="demo1" class="collapse">
@@ -37,9 +38,10 @@ Location services, fundamentally, rely on two components: a mapping system and a
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">TransLoc: Transparent Indoor Localization with Uncertain Human Participation for Instant Delivery</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419198">TransLoc: Transparent Indoor Localization with Uncertain Human Participation for Instant Delivery</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Yu Yang (Rutgers University); Yi Ding (University of Minnesota); Dengpan Yuan, Guang Wang, Xiaoyang Xie (Rutgers University); Yunhuai Liu (Peking University); Tian He (University of Minnesota); Desheng Zhang (Rutgers University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/jBz7tPl8JH4'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/nRJSTLmgwss'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo2"></a>
 <br/>
 <div id="demo2" class="collapse">
@@ -48,9 +50,10 @@ Instant delivery is an important urban service in recent years because of the in
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">From Relative Azimuth to Absolute Location: Pushing the Limit of PIR Sensor based Localization</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380878">From Relative Azimuth to Absolute Location: Pushing the Limit of PIR Sensor based Localization</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Xuefeng Liu (Beihang University); Tianye Yang (Huazhong University of Science and Technology); Shaojie Tang (University of Texas at Dallas); Peng Guo (Huazhong University of Science and Technology); Jianwei Niu (Beihang University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/C-q3wrKB4RI'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/reFSmDEDoHE'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo3"></a>
 <br/>
 <div id="demo3" class="collapse">
@@ -59,9 +62,10 @@ Pyroelectric infrared (PIR) sensors are considered to be promising devices for d
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">SociTrack: Infrastructure-Free Interaction Tracking through Mobile Sensor Networks</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419190">SociTrack: Infrastructure-Free Interaction Tracking through Mobile Sensor Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Andreas Biri (ETH Zurich); Neal Jackson (University of California, Berkeley); Lothar Thiele (ETH Zurich); Pat Pannuto (University of California, San Diego); Prabal Dutta (University of California, Berkeley)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/u3pL3hcZ7bE'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/x1mv-cgR1cU'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo4"></a>
 <br/>
 <div id="demo4" class="collapse">
@@ -94,16 +98,17 @@ Low-power wide-area networks (LPWANs) are a compelling answer to the networking 
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse2" class="d-block" style="color:white">
 <b>08:15 - 08:55<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Sensing and signal processing (4 papers)<br/>Chair: Tam Vu (mid US), Domenico Giustiniano and Hun-Seok Kim (US)</b>
+Session: Sensing and signal processing (4 papers)<br/>Chair: Domenico Giustiniano and Hun-Seok Kim</b>
 </a></h6>
 <div id="collapse2" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Hummingbird: Energy Efficient GPS Receiver for Small Satellites</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380886">Hummingbird: Energy Efficient GPS Receiver for Small Satellites</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Sujay Narayana, R Venkatesha Prasad, Vijay S Rao (TU Delft); Luca Mottola (Politecnico di Milano, Italy and RI.SE SICS Sweden); T Venkata Prabhakar (IISc, India)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo5"></a>
 <br/>
 <div id="demo5" class="collapse">
@@ -112,9 +117,10 @@ Global Positioning System is a widely adopted localization technique. With the i
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">MET: A Novel Magneto-Inductive Sensing Based Electric Toothbrushing Monitoring System</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380896">MET: A Novel Magneto-Inductive Sensing Based Electric Toothbrushing Monitoring System</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Hua Huang, Shan Lin (Stony Brook University)</h6>
+ <h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo6"></a>
 <br/>
 <div id="demo6" class="collapse">
@@ -123,9 +129,10 @@ Electric toothbrushes are widely used for home oral care, but many users do not 
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Towards Flexible Wireless Charging for Medical Implants Using Distributed Antenna System</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380899">Towards Flexible Wireless Charging for Medical Implants Using Distributed Antenna System</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Xiaoran Fan (Rutgers University); Longfei  Shangguan (Microsoft); R E Howard (Rutgers University); Yanyong Zhang (University of Science and Technology of China); Yao Peng (Northwest University); Jie Xiong (University of Massachusetts Amherst); Yunfei Ma (Alibaba Group); Xiangyang Li (University of Science and Technology of China)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/5Nyh8yhiklY'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/E3F9ED0oTbE'>Full presentation</a></h6>
  <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo7"></a>
 <br/>
 <div id="demo7" class="collapse">
@@ -134,9 +141,10 @@ This paper presents the design, implementation and evaluation of In-N-Out, a sof
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Self-Reconfigurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419216">Self-Reconfigurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Mohamed R. Abdelhamid, Ruicong Chen, Joonhyuk Cho, Anantha P. Chandrakasan, Fadel Adib (Massachusetts Institute of Technology)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/RhEUB6kl7OA'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/2WDuTAaQGQU'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo8"></a>
 <br/>
 <div id="demo8" class="collapse">
@@ -161,16 +169,17 @@ We built our design on millimeter-sized integrated chips and flexible antenna su
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse3" class="d-block" style="color:white">
 <b>10:05 - 10:35<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Acoustic (3 papers)<br/>Chair: Jennifer Chen (US) and Longfei Shangguan</b>
+Session: Acoustic (3 papers)<br/>Chair: Jennifer Chen and Longfei Shangguan</b>
 </a></h6>
 <div id="collapse3" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Voice Localization Using Nearby Wall Reflections</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380884">Voice Localization Using Nearby Wall Reflections</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Sheng Shen, Daguan Chen (University of Illinois at Urbana-Champaign); Yu-Lin Wei, Zhijian Yang, Romit Roy Choudhury (University of Illinois at Urbana Champaign)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/OqnvH1lKNvs'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/0uDJza1SYr4'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo9"></a>
 <br/>
 <div id="demo9" class="collapse">
@@ -181,9 +190,10 @@ We develop VoLoc, a system that proposes an iterative align-and-cancel algorithm
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">SpiroSonic: Monitoring Human Lung Function via Acoustic Sensing on Commodity Smartphones</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419209">SpiroSonic: Monitoring Human Lung Function via Acoustic Sensing on Commodity Smartphones</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Xingzhe Song, Boyuan Yang, Ge Yang, Ruirong Chen, Erick Forno, Wei Chen, Wei Gao (University of Pittsburgh)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/eftmU7O0diA'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/SDiboSXJr28'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo10"></a>
 <br/>
 <div id="demo10" class="collapse">
@@ -192,9 +202,10 @@ Respiratory diseases have been a significant public health challenge. Efficient 
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Ear-AR: Indoor Acoustic Augmented Reality on Earphones</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419213">Ear-AR: Indoor Acoustic Augmented Reality on Earphones</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Zhijian Yang, Yu-Lin Wei (University of Illinois Urbana Champaign); Sheng Shen (University of Illinois at Urbana-Champaign); Romit Roy Choudhury (University of Illinois at Urbana Champaign)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/OYSvwwLDkAI'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/6to_b0hgWBw'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo11"></a>
 <br/>
 <div id="demo11" class="collapse">
@@ -207,16 +218,17 @@ This paper aims to use modern earphones as a platform for acoustic augmented rea
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse3" class="d-block" style="color:white">
 <b>10:40 - 11:10<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: mmWave and above (3 papers)<br/>Chair: Dinesh Bharadia (US) and Tommaso Melodia (Eastern US)</b>
+Session: mmWave and above (3 papers)<br/>Chair: Dinesh Bharadia and Tommaso Melodia</b>
 </a></h6>
 <div id="collapse3" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">ThermoWave: A New Paradigm of Wireless Passive Temperature Monitoring via mmWave Sensing</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419184">ThermoWave: A New Paradigm of Wireless Passive Temperature Monitoring via mmWave Sensing</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Baicheng Chen (University at Buffalo); Huining Li (SUNY University at Buffalo); Zhengxiong Li (The State University of New York at Buffalo); Xingyu Chen (University at Buffalo); Chenhan Xu (University at Buffalo, SUNY); Wenyao Xu (SUNY Buffalo)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/skaYS4Y0Zc4'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/_pH_GD8V7xo'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo12"></a>
 <br/>
 <div id="demo12" class="collapse">
@@ -225,9 +237,10 @@ Temperature sensor is one of the most widespread technologies in the IoT era. Wi
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">mmVib: Micrometer-Level Vibration Measurement with mmWave Radar</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419202">mmVib: Micrometer-Level Vibration Measurement with mmWave Radar</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Chengkun Jiang, Junchen Guo, Yuan He, Meng Jin, Shuai Li (Tsinghua University); Yunhao Liu (Tsinghua University & MSU)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/isOSDzu_mRU'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/hPx1rUtp8RQ'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo13"></a>
 <br/>
 <div id="demo13" class="collapse">
@@ -236,9 +249,10 @@ Vibration measurement is a crucial task in industrial systems, where vibration c
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419208">Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Song Wang, Jingqi Huang, Xinyu Zhang (University of California San Diego)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo14"></a>
 <br/>
 <div id="demo14" class="collapse">
@@ -256,16 +270,17 @@ Millimeter-wave (mmWave) networking represents a core technology to meet the dem
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse3" class="d-block" style="color:white">
 <b>06:00 - 06:40<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: mmWave and above (5 papers)<br/>Chair: Kate Lin (Taiwan), Guoliang Xing (Hong Kong) and Mo Li (Singapore)</b>
+Session: mmWave and above (5 papers)<br/>Chair: Kate Lin, Guoliang Xing and Mo Li</b>
 </a></h6>
 <div id="collapse3" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased-Arrays</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380882">X-Array: Approximating Omnidirectional Millimeter-Wave Coverage Using an Array of Phased-Arrays</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Song Wang, Jingqi Huang, Xinyu Zhang (University of California, San Diego); Hyoil Kim (Ulsan National Institute of Science and Technology); Sujit Dey (University of California, San Diego)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/e90PSwgAn34'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/yYHm0h5UShU'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo15"></a>
 <br/>
 <div id="demo15" class="collapse">
@@ -274,9 +289,10 @@ Millimeter-wave (mmWave) networks are conventionally considered to bear a fundam
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">M-Cube: A Millimeter-Wave Massive MIMO Software Radio</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380892">M-Cube: A Millimeter-Wave Massive MIMO Software Radio</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Renjie Zhao, Timothy Woodford, Teng Wei, Kun Qian, Xinyu Zhang (University of California San Diego)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/v4PRvIA2qIQ'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/NRooJM1UK3s'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo16"></a>
 <br/>
 <div id="demo16" class="collapse">
@@ -285,9 +301,10 @@ Millimeter-wave (mmWave) technologies represent a cornerstone for emerging wirel
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Single Shot Single Antenna Path Discovery in THz Networks</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380895">Single Shot Single Antenna Path Discovery in THz Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Yasaman Ghasempour, Chia-Yi Yeh (Rice University); Rabi Shrestha, Daniel Mittleman (Brown University); Edward W. Knightly (Rice University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/ZZ6WM_L0epU'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/A1IrzV0osfQ'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo17"></a>
 <br/>
 <div id="demo17" class="collapse">
@@ -296,9 +313,10 @@ THz communication has the potential to realize an order of magnitude increase in
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Millimeter-Wave Full Duplex Radios</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380879">Millimeter-Wave Full Duplex Radios</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Vaibhav Singh, Susnata Mondal, Akshay Gadre (Carnegie Mellon University); Milind Srivastava (Indian Institute of Technology Madras); Jeyanandh Paramesh, Swarun Kumar (Carnegie Mellon University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/pUFN0CXvZGY'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/Zi41Y8VttPE'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo18"></a>
 <br/>
 <div id="demo18" class="collapse">
@@ -313,16 +331,17 @@ We present mmFD, the first comprehensive system design of a mm-wave full-duplex 
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse4" class="d-block" style="color:white">
 <b>06:45 - 07:05<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Testbed (2 papers)<br/>Chair: Xenofon Foukas (UK) and Nigel Davies</b>
+Session: Testbed (2 papers)<br/>Chair: Xenofon Foukas</b>
 </a></h6>
 <div id="collapse4" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Challenge: COSMOS: A City-Scale Programmable Testbed for Experimentation with Advanced Wireless</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380891">Challenge: COSMOS: A City-Scale Programmable Testbed for Experimentation with Advanced Wireless</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Dipankar Raychaudhuri, Ivan Seskar (Rutgers University); Gil Zussman (Columbia University); Thanasis Korakis (New York University); Dan Kilper (University of Arizona); Tingjun Chen (Columbia University); Jakub Kolodziejski, Michael Sherman (Rutgers University); Zoran Kostic (Columbia University); Xiaoxiong Gu (IBM Research); Harish Krishnaswamy (Columbia University); Sumit Maheshwari (Rutgers); Panagiotis Skrimponis (New York University); Craig Gutterman (Columbia University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo19"></a>
 <br/>
 <div id="demo19" class="collapse">
@@ -331,9 +350,10 @@ This paper focuses on COSMOS - Cloud enhanced Open Software defined MObile wirel
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Experience: Advanced Network Operations in (Un)-Connected Remote Communities</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380893">Experience: Advanced Network Operations in (Un)-Connected Remote Communities</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Diego Perino (Telefonica Research); Xiaoyuan Yang (Telefonica); Joan Serra (Dolby Labs); Andra Lutu (Telefonica Research); Ilias Leontiadis (Samsung AI)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/BV-_b-B9_0w'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/G_NA3VDuNpE'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo20"></a>
 <br/>
 <div id="demo20" class="collapse">
@@ -346,16 +366,17 @@ The Anonymous program is working to provide sustainable mobile broadband to 100 
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse5" class="d-block" style="color:white">
 <b>07:10 - 8:00<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Cellular (5 papers)<br/>Chair: Suman Banerjee (middle US), Heather Zheng (middle US) and Morley Mao</b>
+Session: Cellular (5 papers)<br/>Chair: Suman Banerjee, Heather Zheng and Morley Mao</b>
 </a></h6>
 <div id="collapse5" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Ghost Calls from Operational 4G Call Systems: IMS Vulnerability, Call DoS Attack, and Countermeasure</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380885">Ghost Calls from Operational 4G Call Systems: IMS Vulnerability, Call DoS Attack, and Countermeasure</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Yu-Han Lu, Chi-Yu Li, Yao-Yu Li, Sandy Hsin-Yu Hsiao (National Chiao Tung University); Tian Xie (Michigan State Univeristy); Guan-Hua Tu (Michigan State University); Wei-Xun Chen (National Chiao Tung University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/5OmKlQhSIMY'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/Gpe43qWdTsk'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo21"></a>
 <br/>
 <div id="demo21" class="collapse">
@@ -364,9 +385,10 @@ IMS (IP Multimedia Subsystem) is an essential framework for providing 4G/5G mult
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">DMM: Fast Map Matching Framework for Cellular Data</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3421461">DMM: Fast Map Matching Framework for Cellular Data</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Zhihao Shen (Xi’an Jiaotong University); Wan Du (University of California, Merced); Xi Zhao, Jianhua Zou (Xi’an Jiaotong University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/JqMdS9N4Vgw'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/cvZk1v9RLoA'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo29"></a>
 <br/>
 <div id="demo29" class="collapse">
@@ -375,9 +397,10 @@ Map matching for cellular data is to transform a sequence of cell tower location
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Microscope: Mobile Service Traffic Decomposition for Network Slicing as a Service</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419195">Microscope: Mobile Service Traffic Decomposition for Network Slicing as a Service</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Chaoyun Zhang (University of Edinburgh); Marco Fiore (IMDEA Networks Institute); Cezary Ziemlicki (Orange Labs); Paul Patras (University of Edinburgh)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/woFToHhub0w'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/aakrRAvXkZQ'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo30"></a>
 <br/>
 <div id="demo30" class="collapse">
@@ -386,9 +409,10 @@ The growing diversification of mobile services imposes requirements on network p
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">iCellSpeed: Increasing Cellular Data Speed with Device-Assisted Cell Selection</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419201">iCellSpeed: Increasing Cellular Data Speed with Device-Assisted Cell Selection</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Haotian Deng (Purdue University); Qianru Li (UCLA); Jingqi Huang, Chunyi Peng (Purdue University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/C6jj66eR5k8'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/r1jXo-FVSFI'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo31"></a>
 <br/>
 <div id="demo31" class="collapse">
@@ -397,9 +421,10 @@ In this paper, we propose iCellSpeed, an on-device solution to increase data acc
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Experience: Towards Automated Customer Issue Resolution in Cellular Networks</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419203">Experience: Towards Automated Customer Issue Resolution in Cellular Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Amit Sheoran, Sonia Fahmy (Purdue University); Matthew Osinski (AT&T Labs Research); Chunyi Peng, Bruno Ribeiro (Purdue University); Jia Wang (AT&T Labs Research)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo32"></a>
 <br/>
 <div id="demo32" class="collapse">
@@ -412,16 +437,17 @@ Cellular service carriers often employ reactive strategies to assist customers w
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse6" class="d-block" style="color:white">
 <b>08:05 - 08:45<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Communication Systems (4 papers)<br/>Chair: Bo Chen (US), Jie Xiong (Eastern US) and Ranveer Chandra</b>
+Session: Communication Systems (4 papers)<br/>Chair: Bo Chen, Jie Xiong and Ranveer Chandra</b>
 </a></h6>
 <div id="collapse6" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">SDR Receiver Using Commodity WiFi via Physical-Layer Signal Reconstruction</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419189">SDR Receiver Using Commodity WiFi via Physical-Layer Signal Reconstruction</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Woojae Jeong, Jinhwan Jung (KAIST); Yuanda Wang (Michigan State University); Shuai Wang (George Mason University); Seokwon Yang (KAIST); Qiben Yan (Michigan State University); Yung Yi, Song Min Kim (KAIST)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/0HEwEp_ndy0'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/0HEwEp_ndy0'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo33"></a>
 <br/>
 <div id="demo33" class="collapse">
@@ -430,9 +456,10 @@ With the explosive increase in wireless devices, physical-layer signal analysis 
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Towards Quantum Belief Propagation for LDPC Decoding in Wireless Networks</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419207">Towards Quantum Belief Propagation for LDPC Decoding in Wireless Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Srikar Kasi, Kyle Jamieson (Princeton University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/uu3-Y2duv-k'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/vy1erMe47t4'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo34"></a>
 <br/>
 <div id="demo34" class="collapse">
@@ -441,9 +468,10 @@ We present Quantum Belief Propagation (QBP), a Quantum Annealing (QA) based deco
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">ScatterMIMO: Enabling Virtual MIMO with Smart Surfaces</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380887">ScatterMIMO: Enabling Virtual MIMO with Smart Surfaces</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Manideep Dunna, Chi Zhang (UC San Diego); Daniel Sievenpiper, Dinesh Bharadia (University of California San Diego)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo35"></a>
 <br/>
 <div id="demo35" class="collapse">
@@ -452,9 +480,10 @@ In the last decade, the bandwidth expansion and MIMO spatial multiplexing have p
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Sniffing Visible Light Communication Through Walls</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419187">Sniffing Visible Light Communication Through Walls</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Minhao Cui, Yuda Feng (University of Massachusetts Amherst); Qing Wang (Delft University of Technology); Jie Xiong (University of Massachusetts Amherst)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/zPlSGbU_KpA'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/Sb5lP046uPU'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo36"></a>
 <br/>
 <div id="demo36" class="collapse">
@@ -465,10 +494,10 @@ Visible light communication (VLC) is gaining a significant amount of interest as
 
 <div class="card">
 <h6 class="card-header text-white" style="background-color:#D62728">
-<b>09:00 - 10:00<br/>Keynote 3: Nic Lane (Rock Star)</b></h6>
+<b>09:00 - 10:00<br/>Keynote 3: Nic Lane (University of Cambridge and Samsung AI)</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynote.php#niclane"><b>TBD</b></a>
+<a href="keynote.php#niclane"><b>What is Next for the Efficient Machine Learning Revolution?</b></a>
 </h6>
 </div>
 </div>
@@ -487,24 +516,30 @@ Visible light communication (VLC) is gaining a significant amount of interest as
 
 <div class="accordion">
 <p class="h4"><b> Wednesday, 23rd September, 2020 PDT</b></p>
-<div class="card bg-light">
+<div class="card">
 <h6 class="card-header text-white" style="background-color:#D62728">
 <b>04:30 - 06:00<br/>Posters & Demos</b></h6>
+<div class="card-body bg-light">
+<h6 class="card-title">
+<a href="poster-demo.php"><b>Posters & Demos Program</b></a>
+</h6>
+</div>
 </div>
 <div class="card bg-light">
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse7" class="d-block" style="color:white">
 <b>06:00 - 06:30<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Privacy and identity (3 papers)<br/>Chair: Hamed Haddadi (UK) and Jinsong Han (China)</b>
+Session: Privacy and identity (3 papers)<br/>Chair: Hamed Haddadi and Jinsong Han</b>
 </a></h6>
 <div id="collapse7" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Re-identification of Mobile Devices using Real-Time Bidding Advertising Networks</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419205">Re-identification of Mobile Devices using Real-Time Bidding Advertising Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Keen Sung, JianYi Huang, Mark D. Corner, Brian N. Levine (University of Massachusetts Amherst)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/rOAU6n2dFi4'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/6w7jHWQAxeo'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo37"></a>
 <br/>
 <div id="demo37" class="collapse">
@@ -517,9 +552,10 @@ We carried out many large-scale experiments on iOS and Android devices involving
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Billion-Scale Federated Learning on Mobile Clients: A Submodel Design with Tunable Privacy</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419188">Billion-Scale Federated Learning on Mobile Clients: A Submodel Design with Tunable Privacy</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Chaoyue Niu, Fan Wu (Shanghai Jiao Tong University); Shaojie Tang (University of Texas at Dallas); Lifeng Hua, Rongfei Jia, Chengfei Lv, Zhihua Wu (Alibaba Group); Guihai Chen (Shanghai Jiao Tong University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/wHtmBOCirjI'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/V1Wgqvcy-Pk'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo38"></a>
 <br/>
 <div id="demo38" class="collapse">
@@ -528,9 +564,10 @@ Federated learning was proposed with an intriguing vision of achieving collabora
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">FaceRevelio: A Face Liveness Detection System for Smartphones with a Single Front Camera</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419206">FaceRevelio: A Face Liveness Detection System for Smartphones with a Single Front Camera</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Habiba Farrukh, Reham Mohamed Aburas, Siyuan Cao, He Wang (Purdue University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/pYlfpXRDT4Y'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/o8dqp2N1Ycg'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo39"></a>
 <br/>
 <div id="demo39" class="collapse">
@@ -543,16 +580,17 @@ Facial authentication mechanisms are gaining traction on smartphones because of 
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse8" class="d-block" style="color:white">
 <b>06:35 - 07:15<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Advanced sensing capability (4 papers)<br/>Chair: Hun-Seok Kim and Haitham Hassanieh (mid US) and Fadel Adib (US)</b>
+Session: Advanced sensing capability (4 papers)<br/>Chair: Hun-Seok Kim, Haitham Hassanieh and Fadel Adib</b>
 </a></h6>
 <div id="collapse8" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Towards 3D Human Pose Construction Using WiFi</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380900">Towards 3D Human Pose Construction Using WiFi</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Wenjun Jiang, Hongfei Xue, Chenglin Miao, Shiyang Wang, Sen Lin, Chong Tian, Srinivasan Murali, Haochen Hu, Zhi Sun, Lu Su (State University of New York at Buffalo)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/0lOSA1piKjQ'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/WoCMlDM2NiE'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo40"></a>
 <br/>
 <div id="demo40" class="collapse">
@@ -561,9 +599,10 @@ This paper presents WiPose, the first 3D human pose construction framework using
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Contactless Seismocardiography via Deep Learning Radars</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419982">Contactless Seismocardiography via Deep Learning Radars</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Unsoo Ha, Salah Assana (MIT Media Lab); Fadel Adib (Massachusetts Institute of Technology)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/36rO7BaU724'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/8xGgd_RDEDU'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo41"></a>
 <br/>
 <div id="demo41" class="collapse">
@@ -572,9 +611,10 @@ The seismocardiogram (SCG) is a recording of a human heart’s mechanical activi
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">RFGo: A Seamless Self-checkout System for Apparel Stores Using RFID</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419211">RFGo: A Seamless Self-checkout System for Apparel Stores Using RFID</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Carlos Bocanegra (Northeastern University); Mohammad A. (Amir) Khojastepour, Mustafa Y. Arslan, Eugene Chai, Sampath Rangarajan (NEC Labs America); Kaushik R. Chowdhury (Northeastern University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/iFQUIYtUJQc'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/zFgsjQ5gWcs'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo42"></a>
 <br/>
 <div id="demo42" class="collapse">
@@ -583,9 +623,10 @@ Retailers are aiming to enhance customer experience by automating the checkout p
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Understanding and Embracing the Complexities of the Molecular Communication Channel in Liquids</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419191">Understanding and Embracing the Complexities of the Molecular Communication Channel in Liquids</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Jiaming Wang, Dongyin Hu, Chirag Shetty, Haitham Hassanieh (University of Illinois Urbana Champaign)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/I7dHSkqpHY8'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/qH8Dd-7gEX4'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo43"></a>
 <br/>
 <div id="demo43" class="collapse">
@@ -598,16 +639,17 @@ Molecular communication has recently gained a lot of interest due to its potenti
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse9" class="d-block" style="color:white">
 <b>07:20 - 07:50<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Mobile systems (3 papers)<br/>Chair: Chen Qian (US), Pengyu Zhang (western US) and Joerg Widmer (Spain)</b>
+Session: Mobile systems (3 papers)<br/>Chair: Chen Qian, Pengyu Zhang and Joerg Widmer</b>
 </a></h6>
 <div id="collapse9" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Internet-of-Microchips: Direct Radio-to-Bus Communication with SPI Backscatter</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419182">Internet-of-Microchips: Direct Radio-to-Bus Communication with SPI Backscatter</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Songfan Li, Chong Zhang, Yihang Song, Hui Zheng, Lu Liu (University of Electronic Science and Technology of China); Li Lu (School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC), P.R. China); Mo Li (Nanyang Technological University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/7tTx1DqJDWc'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/fAZikyWfB70'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo44"></a>
 <br/>
 <div id="demo44" class="collapse">
@@ -617,9 +659,10 @@ In this paper, we propose a processor-free architecture as a novel design that a
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">TinyLink 2.0: Integrating Device, Cloud, and Client Development for IoT Applications</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380890">TinyLink 2.0: Integrating Device, Cloud, and Client Development for IoT Applications</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Gaoyang Guan, Borui Li, Yi Gao, Yuxuan Zhang, Jiajun Bu, Wei Dong (Zhejiang University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/Cj6p9UXX19A'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/kKHzyFT8nfw'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo45"></a>
 <br/>
 <div id="demo45" class="collapse">
@@ -628,9 +671,10 @@ The recent years have witnessed the rapid growth of IoT (Internet of Things) app
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Experience: Aging or Glitching? Why Does Android Stop Responding and What Can We Do About It?</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380897">Experience: Aging or Glitching? Why Does Android Stop Responding and What Can We Do About It?</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Mingliang Li (Xiaomi Co. LTD & Tsinghua University); Hao Lin (Tsinghua University); Cai Liu (Xiaomi Co. LTD); Zhenhua Li (Tsinghua University); Feng Qian (University of Minnesota - Twin Cities); Yunhao Liu (MSU & Tsinghua University); Nian Sun (Xiaomi Co. LTD); Tianyin Xu (University of Illinois Urbana-Champaign)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/Reiukiwipbg'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/wik2cbzGfVU'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo46"></a>
 <br/>
 <div id="demo46" class="collapse">
@@ -645,16 +689,17 @@ In addition, we document important lessons we have learned from this study, and 
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse9" class="d-block" style="color:white">
 <b>07:55 - 08:35<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: ML (4 papers)<br/>Chair: Robert LiKamWa  (western US) and  Y. Charlie Hu (US)</b>
+Session: ML (4 papers)<br/>Chair: Robert LiKamWa and  Y. Charlie Hu</b>
 </a></h6>
 <div id="collapse9" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">SPINN: Synergistic Progressive Inference of Neural Networks over Device and Cloud</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419194">SPINN: Synergistic Progressive Inference of Neural Networks over Device and Cloud</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Stefanos Laskaridis, Stylianos I. Venieris, Mario Almeida, Ilias Leontiadis (Samsung AI Center Cambridge); Nicholas D. Lane (Samsung AI Center Cambridge and University of Cambridge)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/Vzs_VU9K0b0'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/wmCNVt-NQd0'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo47"></a>
 <br/>
 <div id="demo47" class="collapse">
@@ -663,9 +708,10 @@ Despite the soaring use of convolutional neural networks (CNNs) in mobile applic
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">CLIO: Enabling automatic compilation of deep learning pipelines across IoT and Cloud</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419215">CLIO: Enabling automatic compilation of deep learning pipelines across IoT and Cloud</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Jin Huang, Colin Samplawski, Deepak Ganesan, Benjamin Marlin (UMass Amherst); Heesung Kwon (ARL)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo48"></a>
 <br/>
 <div id="demo48" class="collapse">
@@ -675,9 +721,10 @@ In this paper, we attempt to bridge this gap by designing a continuously tunable
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380881">EagleEye: Wearable Camera-based Person Identification in Crowded Urban Spaces</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Juheon Yi (Seoul National University); Sunghyun Choi (Samsung Research); Youngki Lee (Seoul National University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/0cemvvxiKKI'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/XSJqI2xbVTo'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo49"></a>
 <br/>
 <div id="demo49" class="collapse">
@@ -686,9 +733,10 @@ We present EagleEye, an AR-based system that identifies missing person (or peopl
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419192">Heimdall: Mobile GPU Coordination Platform for Augmented Reality Applications</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Juheon Yi, Youngki Lee (Seoul National University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/k5QJ32I34zY'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/U4TDFjIhx4M'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo50"></a>
 <br/>
 <div id="demo50" class="collapse">
@@ -701,16 +749,17 @@ We present Heimdall, a mobile GPU coordination platform for emerging Augmented R
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse9" class="d-block" style="color:white">
 <b>08:40 - 09:10<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Backscatter (3 papers)<br/>Chair: Shyam Gollakota and Longfei Shangguan (western US)</b>
+Session: Backscatter (3 papers)<br/>Chair: Shyam Gollakota and Longfei Shangguan</b>
 </a></h6>
 <div id="collapse9" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Redefining Passive in Backscattering with Commodity Devices</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380880">Redefining Passive in Backscattering with Commodity Devices</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Mohammad Rostami (UMass Amherst); Karthik Sundaresan, Eugene Chai, Sampath Rangarajan (NEC Labs America); Deepak Ganesan (UMass Amherst)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/t8nu9DOBh2s'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/nhrEhwyZIpM'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo51"></a>
 <br/>
 <div id="demo51" class="collapse">
@@ -720,9 +769,10 @@ To this end, we propose a novel approach to FS-backscatter called xSHIFT that sh
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Tunnel Emitter: Tunnel Diode based Low-Power Carrier Emitters for Backscatter Tags</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419199">Tunnel Emitter: Tunnel Diode based Low-Power Carrier Emitters for Backscatter Tags</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Ambuj Varshney (University of California, Berkeley and Uppsala University); Lorenzo Corneo (Uppsala University, Sweden)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/g9AKZVq3Axc'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/vKtamhv4eOY'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo52"></a>
 <br/>
 <div id="demo52" class="collapse">
@@ -732,9 +782,10 @@ We present Tunnel Emitter: a tunnel diode oscillator based system that enables t
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Renovating Road Signs for Infrastructure-to-Vehicle Networking: A Visible Light Backscatter Communication and Networking Approach</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380883">Renovating Road Signs for Infrastructure-to-Vehicle Networking: A Visible Light Backscatter Communication and Networking Approach</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu (Peking University); Guobin Shen (JoveAI, Inc.); Kuntai Du, Gang Huang, Xuanzhe Liu (Peking University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo53"></a>
 <br/>
 <div id="demo53" class="collapse">
@@ -758,7 +809,7 @@ Conventional road signs convey very concise and static visual information to hum
 <b>10:20 - 11:20<br/>Keynote 5: Alex Kauffmann</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynote.php#alex"><b>TBD</b></a>
+<a href="keynote.php#alex"><b>From Research to Product: Stories from the Frontlines of R+D</b></a>
 </h6>
 </div>
 </div>
@@ -770,16 +821,17 @@ Conventional road signs convey very concise and static visual information to hum
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse7" class="d-block" style="color:white">
 <b>06:00 - 06:40<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Mobile sensing and UI (4 papers)<br/>Chair: Anthony Rowe, Yunxin Liu (China) and Jennifer Chen</b>
+Session: Mobile sensing and UI (4 papers)<br/>Chair: Anthony Rowe, Yunxin Liu and Jennifer Chen</b>
 </a></h6>
 <div id="collapse7" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">TouchPass: Towards Behavior-irrelevant on-touch User Authentication on Smartphones Leveraging Vibrations</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380901">TouchPass: Towards Behavior-irrelevant on-touch User Authentication on Smartphones Leveraging Vibrations</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Xiangyu Xu, Jiadi Yu (Shanghai Jiao Tong University); Yingying Chen (Rutgers University); Qin Hua, Yanmin Zhu, Yi-Chao Chen, Minglu Li (Shanghai Jiao Tong University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo54"></a>
 <br/>
 <div id="demo54" class="collapse">
@@ -788,9 +840,10 @@ With increasing private and sensitive data stored in mobile devices, secure and 
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">EarSense: Earphones as a Teeth Activity Sensor</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419197">EarSense: Earphones as a Teeth Activity Sensor</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Jay Prakash (Singapore University of Technology and Design, Singapore); Zhijian Yang, Yu-Lin Wei, Haitham Hassanieh (University of Illinois Urbana Champaign); Romit Roy Choudhury (University of Illinois at Urbana Champaign)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/PwKK1XJyJRw'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/DZLJ_lCG8RU'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo55"></a>
 <br/>
 <div id="demo55" class="collapse">
@@ -799,9 +852,10 @@ This paper finds that actions of the teeth, namely tapping and sliding, produce 
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">PDLens: Smartphone Knows Drug Effectiveness among Parkinson's via Daily-Life Activity Fusion</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380889">PDLens: Smartphone Knows Drug Effectiveness among Parkinson's via Daily-Life Activity Fusion</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Hanbin Zhang, Gabriel Guo, Chen Song, Chenhan Xu, Kevin Cheung, Jasleen Alexis, Huining Li (University at Buffalo, SUNY); Dongmei Li (University of Rochester Medical Center); Kun Wang (University of California, Los Angeles); Wenyao Xu (University at Buffalo, SUNY)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/vEZpB4f_4JE'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/fVBerx2O8Kk'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo56"></a>
 <br/>
 <div id="demo56" class="collapse">
@@ -810,9 +864,10 @@ Drug effectiveness management is a complicated and challenging task in chronic d
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Deaf-Aid: Mobile IoT Communication Exploiting Stealthy Speaker-to-Gyroscope Channel</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419210">Deaf-Aid: Mobile IoT Communication Exploiting Stealthy Speaker-to-Gyroscope Channel</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Ming Gao (Zhejiang University, Alibaba-Zhejiang University Joint Research Institute of Frontier Technologise); Feng Lin, Weiye Xu, Muertikepu Nuermaimaiti (Zhejiang University); Jinsong Han (Zhejiang University, Alibaba-Zhejiang University Joint Research Institute of Frontier Technologise); Wenyao Xu (SUNY Buffalo); Kui Ren (Zhejiang University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/36Ud2yJwhqo'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/9aDEJOSawLk'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo57"></a>
 <br/>
 <div id="demo57" class="collapse">
@@ -825,16 +880,17 @@ Internet of Things (IoT) devices are hindered from communicating with their neig
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse8" class="d-block" style="color:white">
 <b>06:45 - 07:35<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Long range wireless (5 papers)<br/>Chair: Brad Campbell (eastern US), Lu Su (eastern US) and Wenjun Hu</b>
+Session: Long range wireless (5 papers)<br/>Chair: Brad Campbell, Lu Su and Wenjun Hu</b>
 </a></h6>
 <div id="collapse8" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">WiChronos : Energy-Efficient Modulation for Long-Range, Large-Scale Wireless Networks</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380898">WiChronos : Energy-Efficient Modulation for Long-Range, Large-Scale Wireless Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Yaman Sangar, Bhuvana Krishnaswamy (University of Wisconsin-Madison)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/CNVw5gGrTrQ'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/yKpL-_zpwp4'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo58"></a>
 <br/>
 <div id="demo58" class="collapse">
@@ -843,9 +899,10 @@ Wireless communication over long distances has become the bottleneck for battery
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Nephalai: Towards LPWAN C-RAN with Physical Layer Compression</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419193">Nephalai: Towards LPWAN C-RAN with Physical Layer Compression</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Jun Liu (UNSW Sydney); Weitao Xu (City University of Hong Kong); Sanjay Jha, Wen Hu (UNSW Sydney)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo59"></a>
 <br/>
 <div id="demo59" class="collapse">
@@ -854,9 +911,10 @@ We propose Nephelai, a Compressive Sensing-based Cloud Radio Access Network (C-R
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">LMAC: Efficient Carrier-Sense Multiple Access for LoRa</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419200">LMAC: Efficient Carrier-Sense Multiple Access for LoRa</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Amalinda Gamage, Jansen Christian Liando, Chaojie Gu, Rui Tan, Mo Li (Nanyang Technological University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo60"></a>
 <br/>
 <div id="demo60" class="collapse">
@@ -865,9 +923,10 @@ Current LoRa networks including those following the LoRaWAN specification use th
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Joltik: Enabling Energy-Efficient "Future-Proof" Analytics on Low-Power Wide-Area Networks</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419204">Joltik: Enabling Energy-Efficient "Future-Proof" Analytics on Low-Power Wide-Area Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Mingran Yang (Carnegie Mellon University and Massachusetts Institute of Technology); Junbo Zhang, Akshay Gadre (Carnegie Mellon University); Zaoxing Liu (Carnegie Mellon University and Boston University); Swarun Kumar, Vyas Sekar (Carnegie Mellon University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/quMCp-M51CU'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/a0bANzQmqhc'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo61"></a>
 <br/>
 <div id="demo61" class="collapse">
@@ -876,9 +935,10 @@ Wireless sensors have enabled a number of key applications. Due to their energy 
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Understanding Power Consumption of NB-IoT in the Wild: Tool and Large-scale Measurement</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419212">Understanding Power Consumption of NB-IoT in the Wild: Tool and Large-scale Measurement</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Deliang Yang (Michigan State University); Xianghui Zhang (Nanjing University of Aeronautics and Astronautics, The Chinese University of Hong Kong); Xuan Huang (The Chinese University of Hong Kong); Liqian Shen (Nanjing University of Aeronautics and Astronautics); Jun Huang (Peking University, Massachusetts Institute of Technology); Xiangmao Chang (Nanjing University of Aeronautics and Astronautics); Guoliang Xing (The Chinese University of Hong Kong)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/pHqGnfSn1MU'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/yIpDi8EAdCQ'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo62"></a>
 <br/>
 <div id="demo62" class="collapse">
@@ -891,16 +951,17 @@ Recent years have seen a widespread deployment of NB-IoT networks for massive ma
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse9" class="d-block" style="color:white">
 <b>07:40 - 08:10<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: UAV (3 papers)<br/>Chair: Karthik Dantu (eastern US) and Kassem Fawaz (mid US)</b>
+Session: UAV (3 papers)<br/>Chair: Karthik Dantu and Kassem Fawaz</b>
 </a></h6>
 <div id="collapse9" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Bleep: Motor-Enabled Audio Side-Channel for Constrained UAVs</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419183">Bleep: Motor-Enabled Audio Side-Channel for Constrained UAVs</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Adeola Bannis (Carnegie Mellon University); Hae Young Noh (Stanford University); Pei Zhang (Carnegie Mellon University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/vXiP46qWB3A'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/Eoz3EnSEl6o'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo63"></a>
 <br/>
 <div id="demo63" class="collapse">
@@ -910,9 +971,10 @@ We present Bleep, a side-channel messaging system that modulates UAV motors soun
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">C-14: Assured Timestamps for Drone Videos</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifac available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419196">C-14: Assured Timestamps for Drone Videos</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifac available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Zhipeng Tang, Fabien Delattre, Pia Bideau, Mark D. Corner, Erik Learned-Miller (University of Massachusetts Amherst)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/QphIRL3VAAY'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/ybQroVild1w'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo64"></a>
 <br/>
 <div id="demo64" class="collapse">
@@ -921,9 +983,10 @@ Inexpensive and highly capable unmanned aerial vehicles (aka drones) have enable
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">Airdropping Sensor Networks from Drones and Insects</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419981">Airdropping Sensor Networks from Drones and Insects</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Vikram Iyer, Maruchi Kim, Qiuyue(Shirley) Xue, Anran Wang, Shyamnath Gollakota (University of Washington)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo65"></a>
 <br/>
 <div id="demo65" class="collapse">
@@ -937,7 +1000,7 @@ We present the first system that can airdrop wireless sensors from small drones 
 <b>08:15 - 9:15<br/>Keynote 6: Ron Marquardt</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynote.php#ron"><b>TBD</b></a>
+<a href="keynote.php#ron"><b>From Early NFV to NLP – a Network Operator’s R&D Journey</b></a>
 </h6>
 </div>
 </div>
@@ -956,16 +1019,17 @@ We present the first system that can airdrop wireless sensors from small drones 
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse9" class="d-block" style="color:white">
 <b>10:25 - 11:05<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Video (4 papers)<br/>Chair: Dinesh Bharadia (western US), Xinyu Zhang (western US) and Yuanjie Li</b>
+Session: Video (4 papers)<br/>Chair: Dinesh Bharadia, Xinyu Zhang and Yuanjie Li</b>
 </a></h6>
 <div id="collapse9" class="collapse show">
 <div class="card-body">
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">ViVo: Visibility-Aware Mobile Volumetric Video Streaming</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380888">ViVo: Visibility-Aware Mobile Volumetric Video Streaming</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Bo Han (AT&T Labs -- Research); Yu Liu, Feng Qian (University of Minnesota -- Twin Cities)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/YCpfFVarCaY'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/2VJP0SYB6YA'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo66"></a>
 <br/>
 <div id="demo66" class="collapse">
@@ -974,9 +1038,10 @@ In this paper, we perform a first comprehensive study of mobile volumetric video
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">NEMO: Enabling Neural-enhanced Video Streaming on Commodity Mobile Devices</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifac available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419185">NEMO: Enabling Neural-enhanced Video Streaming on Commodity Mobile Devices</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifac available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Hyunho Yeo, Chan Ju Chong, Youngmok Jung, Juncheol Ye, Dongsu Han (KAIST)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/iyCdFymPzM8'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/GPHlAUYCk18'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo67"></a>
 <br/>
 <div id="demo67" class="collapse">
@@ -986,9 +1051,10 @@ To overcome the limitation, we present NEMO, a system that enables real-time vid
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">OnRL: Improving Mobile Video Telephony via Online Reinforcement Learning</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419186">OnRL: Improving Mobile Video Telephony via Online Reinforcement Learning</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Huanhuan Zhang, Anfu Zhou, Jiamin Lu, Ruoxuan Ma, Yuhan Hu, Cong Li (Beijing University of Posts and Telecommunications); Xinyu Zhang (University of California San Diego); Huadong Ma (Beijing University of Posts and Telecommunications); Xiaojiang Chen (Taobao Inc.)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/ys8iUv_rtdE'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/LxjEChKS1js'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo68"></a>
 <br/>
 <div id="demo68" class="collapse">
@@ -997,9 +1063,10 @@ Machine learning models, particularly reinforcement learning (RL), have demonstr
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="">GROOT: A Real-time Streaming System for High-Fidelity Volumetric Videos</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419214">GROOT: A Real-time Streaming System for High-Fidelity Volumetric Videos</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Kyungjin Lee, Juheon Yi, Youngki Lee (Seoul National University); Sunghyun Choi (Samsung Research); Youngmin Kim (Seoul National University)</h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/7yrvXRbG1Zk'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/99r-vb4Pq6k'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo69"></a>
 <br/>
 <div id="demo69" class="collapse">

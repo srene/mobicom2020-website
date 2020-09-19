@@ -45,18 +45,18 @@
 </br>
 <hr/>
 
-<h5 align="center"><div id="niclane"></div><b>Keynote 3: TBD</b></h5>
+<h5 align="center"><div id="niclane"></div><b>Keynote 3: What is Next for the Efficient Machine Learning Revolution?</b></h5>
 <h5 align="center"><b>Nic Lane</b></h5>
-<h5 align="center">Rock Star</h5>
+<h5 align="center">University of Cambridge and Samsung AI</h5>
 <h5 align="center"><i>Tuesday, 22nd September, 09:00-10:00 PDT</i></h5>
 <h5 align="center"><i>Session Chair: Dave Kotz</i></h5>
 <br/>
 <p>
-<b>Abstract:</b> TBD</p>
+<b>Abstract:</b> Mobile and embedded devices increasingly rely on deep neural networks to understand the world -- a formerly impossible feat that would have overwhelmed their system resources just a few years ago. The age of on-device artificial intelligence is now upon us; but incredibly, these dramatic changes are just the beginning. Looking ahead, mobile machine learning will extend beyond simply classifying categories and perceptual tasks, to performing roles that alter how every part of the systems stack of smart devices function. This next evolution in constrained-resource computing will finally produce devices that meet our expectations in how they can learn, reason and react to the real-world. In this talk, I will briefly discuss the initial breakthroughs that allowed us to reach this point, and outline a number of looming open problems we must overcome to bring about this next phase in the deep transformation of mobile and embedded computing.</p>
 
-<img src="images/keynote/niclane.png" height="200" style="float: left;margin-right:15px">
+<img src="images/keynote/niclane.jpg" height="200" style="float: left;margin-right:15px">
 <p>
-<b>Bio:</b> TBC</p>
+<b>Bio:</b> <a href="http://niclane.org">Nic Lane</a> is a Senior Lecturer (Associate Professor) in the department of Computer Science and Technology at the University of Cambridge where he leads the Machine Learning Systems Lab (<a href="http://mlsys.cst.cam.ac.uk/">CaMLSys</a>). Alongside his academic role, he is also a Director (On-Device and Distributed Machine Learning) at the Samsung AI Center in Cambridge. Until May 2020, Nic was an Associate Professor in the Computer Science department at the University of Oxford. Earlier in his career, Nic held dual appointments at University College London (UCL) and Nokia Bell Labs. Of late, Nic research has specialized in the study of efficient machine learning under computational constraints, and over the last five years he has pioneered a range of embedded and mobile forms of deep learning. More generally, Nic’s research interests revolve around the modelling and systems challenges that arise when computers collect and reason over various types of complex real-world multi-modal sensor data. Nic has received multiple best paper awards, including ACM/IEEE IPSN 2017 and two from ACM UbiComp (2012 and 2015). In 2018 and 2019, he (and his co-authors) received the ACM SenSys Test-of-Time award and ACM SIGMOBILE Test-of-Time award for pioneering research, performed during his PhD thesis, that devised machine learning algorithms used today on devices like smartphones. Nic served as the PC-chair of ACM MobiSys 2019, a role he has performed also for ACM HotMobile and ACM SenSys in the past. Most recently, Nic is the 2020 ACM SIGMOBILE Rockstar award winner for his contributions to “the understanding of how resource-constrained mobile devices can robustly understand, reason and react to complex user behaviors and environments through new paradigms in learning algorithms and system design.” Prior to moving to England, Nic spent 4-years at Microsoft Research based in Beijing as a Lead Researcher. He received his PhD from Dartmouth College in 2011. Nic also received an M.Eng from Cornell University (2004) and a B.Sc (Hons) from the University of Waikato (2001).</p>
 </br>
 <hr/>
 
@@ -105,14 +105,14 @@ Durga holds a B.Tech from Indian Institute of Technology, Madras, and an M.S and
 </br>
 <hr/>
 
-<h5 align="center"><div id="ron"></div><b>Keynote 6: TBD</b></h5>
+<h5 align="center"><div id="ron"></div><b>Keynote 6: From Early NFV to NLP – a Network Operator’s R&D Journey</b></h5>
 <h5 align="center"><b>Dr. Ron Marquardt</b></h5>
 <h5 align="center">Vice President of Advanced Technologies & Innovation, T-Mobile</h5>
 <h5 align="center"><i>Thursday, 24th September, 08:15-09:15 PDT</i></h5>
 <h5 align="center"><i>Session Chair: Karthik Sundaresan</i></h5>
 <br/>
 <p>
-<b>Abstract:</b> TBD</p>
+<b>Abstract:</b> While R&D investigations in industry may not often be viewed as “cutting edge” as similar efforts in academia, our work can benefit from being rooted in very concrete, practical challenges and yield an interesting and fruitful journey, nonetheless.  Using the experiences of the R&D team formerly at US mobile operator Sprint, and now part of T-Mobile USA, the progression of a research vein is followed from its earliest concept, through multiple partnerships and intermediate results, to show some surprising ways in which an industry’s challenges can be met through collaboration, and spawn unanticipated new R&D efforts along the way.  How does NLP relate to NFV?  Can open source development supplement and improve industry standards?  What benefits does a network operator find from such an exploration?  These issues and more will be touched upon as the evolution of one mobile operator’s commercial R&D project is explored.</p>
 
 <img src="images/keynote/ron.png" height="200" style="float: left;margin-right:15px">
 <p>

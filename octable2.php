@@ -106,11 +106,7 @@
 </tr>
 
 <tr class="stripe">
-<td class="ocTableTitle" rowspan="3"><b>Student Travel Grant Co-Chairs</b></td>
-<td class="ocTablePerson"><a href="https://www.cse.ust.hk/~dcab/">Dimitris Chatzopoulos</a> - HKUST</td>
-</tr>
-
-<tr class="stripe">
+<td class="ocTableTitle" rowspan="2"><b>Student Travel Grant Co-Chairs</b></td>
 <td class="ocTablePerson"><a href="http://homepage.tudelft.nl/8e79t/">Aaron Yi Ding</a> - TU Delft</td>
 </tr>
 
@@ -159,4 +155,13 @@
 
 <tr>
 <td class="ocTablePerson"><a href="https://homes.cs.washington.edu/~gshyam/">Shyam Gollakota</a> - University of Washington</td>
+</tr>
+
+<tr class="stripe">
+<td class="ocTableTitle" rowspan="2"><b>Video Chair</b></td>
+<td class="ocTablePerson"><a href="mailto:sidr@winlab.rutgers.edu">Siddharth Rupavatharam</a> - WINLAB Rutgers State University of New Jersey</td>
+</tr>
+
+<tr class="stripe">
+<td class="ocTablePerson"><a href="https://www.cse.ust.hk/~dcab/">Dimitris Chatzopoulos</a> - HKUST</td>
 </tr>

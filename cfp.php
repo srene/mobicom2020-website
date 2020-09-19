@@ -120,6 +120,250 @@ Submissions will be kept confidential until accepted. Rejected submissions will 
 In case of any similarity between a current Mobicom submission and another ongoing submission on a different conference, please email a detailed list of differences and if possible a copy of a previous submission to the chairs.
 <br/><br/>
 
+<hr>
+
+<h2 class="text-center">Call for Demos </h2>
+<!--<center>TBC</center>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>-->
+The ACM MobiCom 2020 demo session solicits the submission of research, platform, and product demonstrations, and exhibits from both academia and industry.<br/><br/>
+
+Demonstrations should showcase innovative research or product prototypes, platforms, and applications in the areas of mobile computing and wireless and mobile networking. We strongly encourage demos based on novel applications in the domain of mobile computing and wireless systems. We also welcome live​ demos reproducing evaluation results of papers appearing in ACM Mobicom 2020 or past editions as well as other relevant venues. Please refer to the main conference introduction and CFP for the general areas that are relevant to the typical MobiCom audience.<br/><br/>
+
+The MobiCom 2020 Demo committee will review all submissions to select the accepted demos. <br/><br/>
+
+<h5><b>Submission instructions</b></h5>
+Please submit a proposal of your demo or exhibit at <a href="https://mobicom20demos.hotcrp.com">https://mobicom20demos.hotcrp.com</a>. It should be a summary or extended abstract describing the research to be presented, details about what will be actually shown to the audience, maximum 2 pages in US letter size (8.5 x 11 inches) with fonts no smaller than 10 point size, in PDF file format with one extra page for references.<br/><br/>
+The submission should indicate whether you would like the submission to be considered for the Student Research Competition and, if this is the case, indicate whether any of the student authors is an undergraduate student.<br/><br/>
+<h5><b>Why should you submit a demo or exhibit?</b></h5>
+Presenting a demo is a great opportunity, especially for students and industry, to obtain valuable feedback on ongoing research from the knowledgeable crowd at the conference. Accepted demos will be posted on the conference website and published as a two-page abstract for the archived conference proceedings and the ACM digital library.<br/><br/>
+
+<h5><b>DEMO presentation</b></h5>
+For all accepted submissions, authors will be required to prepare a long video of the demo (5-10 mins), as well as a short pitch (1 mins) with a single slide support. The short version will be also presented during the days of the conference in a virtual demo session followed by a Q&A and discussion session.
+<br/><br/>
+
+<h5><b>Important Dates:</b></h5>
+<div class="table-responsive">
+<table class="table table-striped table-sm">
+<tr>
+<th>Deadlines</th>
+<th>Dates</th>
+</tr>
+<tr>
+<td>Submission</td>
+<td>July 13th</td>
+</tr>
+<tr>
+<td>Notification of acceptance</td>
+<td>July 30th</td>
+<tr>
+<td>Camera-ready</td>
+<td>August 7th</td>
+</tr>
+</table>
+</div>
+</br>
+
+<h5 class="text-center"><b>TPC</b></h5>
+<table class='table-striped table-sm table-responsive pctable'>
+<tr>
+<td align="left" width="30%"><a href="">Diego Perino</a></td>
+<td align="left" width="50%"">Telefonica Research (co-chair)</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Narseo Vallina-Rodriguez</a></td>
+<td align="left" width="50%"">IMDEA Networks (co-chair)</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Andra Lutu</a></td>
+<td align="left" width="50%"">Telefonica Research</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Aruna Balasubramanian</a></td>
+<td align="left" width="50%"">Stony Brook University</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Claudia Campolo</a></td>
+<td align="left" width="50%"">University “Mediterranea” of Reggio Calabria</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">David Choffnes</a></td>
+<td align="left" width="50%"">Northeastern University</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Ella Peltonen</a></td>
+<td align="left" width="50%"">University of Oulu</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Florian Wamser</a></td>
+<td align="left" width="50%"">University of Würzburg </td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Ozgu Alay</a></td>
+<td align="left" width="50%"">University of Oslo/Simula</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Pan Hui</a></td>
+<td align="left" width="50%"">HKUST</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Roberto Calvo</a></td>
+<td align="left" width="50%"">IMDEA Networks</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Suranga Seneviratne</a></td>
+<td align="left" width="50%"">The University of Sydney</td>
+</tr>
+</table>
+
+<hr>
+
+<h2 class="text-center">Call for Posters</h2>
+<!--<center>TBC</center>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>-->
+Following the long tradition of poster presentations, ACM MobiCom 2020 solicits submissions for the <b>Virtual Posters Program</b> that feature early research work and preliminary results. The MobiCom 2020 Poster Session will provide an excellent opportunity for initial feedback on your early research results and give your ongoing projects early visibility. The presenters are strongly encouraged to include their poster submission in the <a href="https://sigmobile.org/mobicom/2020/src.php">ACM MobiCom Student Research Competition</a>.<br/><br/>
+We invite submissions on a wide range of mobile computing and wireless networking research, including but not limited to:
+<ul style="text-align:left">
+<li>Fundamental understanding of mobile computing and wireless networking</li>
+<li>Applications of machine learning to mobile/wireless research</li>
+<li>Backscatter communication and wireless power</li>
+<li>Mobile edge computing and cloud computing for mobile services Embedded and energy-harvesting systems</li>
+<li>Experimental platforms and infrastructures for wireless/mobile research</li>
+<li>Implanted and wearable computing</li>
+<li>Intersection between mobile/wireless research, cloud computing, and software-defined networking</li>
+<li>Long-range/Low-power wide-area wireless networking</li>
+<li>Low-latency networking</li>
+<li>Machine-to-machine communications</li>
+<li>Millimeter wave and terahertz communications</li>
+<li>Mobile data science & analysis</li>
+<li>Mobile health</li>
+<li>Mobile web, video, virtual reality, and other applications</li>
+<li>Next-generation 5G mobile networks</li>
+<li>Novel applications of wireless signals</li>
+<li>Robotic and drone-based networking</li>
+<li>Security and privacy issues/solutions for mobile/wireless systems</li>
+<li>Sensing with radio, light, sound, and acoustics</li>
+<li>Ubiquitous computing and mobile human computer interaction</li>
+<li>Visible light communications</li>
+<li>Wireless localization and tracking</li>
+<li>Experimental large-scale testbeds for mobile networks</li>
+<li>Performance evaluation of mobile networks, protocols, and systems</li>
+</ul>
+
+<h5><b>Poster Submission instructions</b></h5>
+The posters should be submitted via hotCRP: <a href="https://mobicom20posters.hotcrp.com/">https://mobicom20posters.hotcrp.com/</a></br></br>
+The submission should be formatted as a paper or extended abstract, describing the research to be presented in the poster and should be submitted as a PDF file of at most 3 pages, including all figures and references. Paper text blocks must follow ACM guidelines: double-column US letter size of 8.5 x 11 inches with fonts no smaller than 10 point size. The extended abstract must include the authors' names, affiliations, and email addresses. Any submission should include also the following:
+<ul style="text-align:left">
+<li>Whether you would like the submission to be considered for the Student Research Competition</li>
+<li>If you would like your submission to be considered for the SRC, there is the additional need to indicate whether any of the student authors is an undergraduate student. Note that if any of the authors is a graduate student, then the submission will be considered under the graduate category</li>
+</ul>
+All poster submissions will be reviewed by the Posters committee. If your submission is selected for the Poster Session, you should follow the recommendations to prepare and produce your “virtual poster”.  Once your poster is accepted, we will include the abstract of your poster on the conference website and publish it in the main proceedings and the ACM digital library.
+<br/><br/>
+<h5><b>Virtual Poster Session Instructions</b></h5>
+We will organize a <b><em>virtual poster session</em></b> as part of the conference program.
+For each of the selected submissions for the poster session, we ask you to prepare the following:
+<ul style="text-align:left">
+<li>A pre-recorded 1-minute presentation to be played during the poster session (part of the conference program); we will organize a live chat channel (e.g., using Slack), where the authors can receive questions and engage in discussions with the attendees.</li>
+<li>A pre-recorded video of maximum 5 minutes explaining the poster at length, to be available offline on the conference webpage. This is mandatory for all poster, and specifically for those submissions entering in the SRC.</li>
+</ul>
+
+
+<h5><b>Important Dates:</b></h5>
+<div class="table-responsive">
+<table class="table table-striped table-sm">
+<tr>
+<th>Deadlines</th>
+<th>Dates</th>
+</tr>
+<tr>
+<td>Poster Submission Deadline</td>
+<td>July 15th</td>
+</tr>
+<tr>
+<td>Notification</td>
+<td>August 7th</td>
+<tr>
+<td>Camera-ready</td>
+<td>August 14th</td>
+</tr>
+</table>
+</div>
+
+<h5><b>Contact</b></h5>
+For further questions, please contact the Poster co-chairs:<br/>
+
+Giovanni Pau (giovanni.pau _at_ unibo.it)<br/>
+
+Andra Lutu (andra.lutu _at_ telefonica.com)<br/><br/>
+
+<h5 class="text-center"><b>TPC</b></h5>
+<table class='table-striped table-sm table-responsive pctable'>
+<tr>
+<td align="left" width="30%"><a href="">Aaron Yi Ding</a></td>
+<td align="left" width="50%"">TU Delft</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Ana Aguiar</a></td>
+<td align="left" width="50%"">University of Porto</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Andres Garcia Saavedra</a></td>
+<td align="left" width="50%"">NEC Labs Europe</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Anna Maria Mandalari</a></td>
+<td align="left" width="50%"">Imperial College London</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Aravindh Raman</a></td>
+<td align="left" width="50%"">Kings College London</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Catia Prandi</a></td>
+<td align="left" width="50%"">University of Bologna</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Diego Perino</a></td>
+<td align="left" width="50%"">Telefonica Research</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Francesco Bronzino</a></td>
+<td align="left" width="50%"">Nokia Bell Labs</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Luca Cominardi</a></td>
+<td align="left" width="50%"">ADLINK Technology</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Marco Gramaglia</a></td>
+<td align="left" width="50%"">Universidad Carlos III de Madrid</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Ozgu Alay</a></td>
+<td align="left" width="50%"">University of Oslo/Simula</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Qing Wang</a></td>
+<td align="left" width="50%"">Delft University of Technology</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Roberto Girau</a></td>
+<td align="left" width="50%"">University of Cagliari</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Shuban Jain</a></td>
+<td align="left" width="50%"">ODU</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Simone Ferlin</a></td>
+<td align="left" width="50%"">Ericsson Sweden</td>
+</tr>
+<tr>
+<td align="left" width="30%"><a href="">Yuanchao Shu</a></td>
+<td align="left" width="50%"">Microsoft</td>
+</tr>
+</table>
+
+
 </main>
 
 </center>

@@ -52,7 +52,16 @@ Details about the event to come soon!</center>
 </br>
 
 <b>Panel</b><br/>
-<p>Our guest panellists will share their views on a diversity of topics ranging from upcoming trends in the domain of mobile and wireless communications to novel modes of networking and active conference attendance in fully digital settings.</p>
+<p>Our guest speakers will share their views on a diversity of topics ranging from upcoming trends in the domain of mobile and wireless communications to novel modes of networking and active conference attendance in fully digital settings. Br Boya Di will substitute Dr Megumi Kaneko in the panel.</p>
+
+<p>Dr Boya Di</p>
+<center><img src="images/n2women/boyadi.jpg" height="200"></center>
+</br>
+<p><b>Boya Di</b> is a postdoc researcher in the Department of Computing at Imperial College, working with Prof. Nick Jennings since Aug. 2019. She received her Ph.D. in July 2019 from the Department of Electronics Engineering at Peking University, Beijing, China, under the supervision of Prof. Lingyang Song. Prior to that, she obtained her Bachelor's Degree from Peking University in 2014. She is experiences in the areas of  both wireless network optimization and multi-access techniques for multi-user communications. Her works have directly addressed the critical issues in practical wireless systems such as resource management and user scheduling for efficiency improvement. She is one of the “N2Women: Rising Stars in Computer Networking and Communications”.
+</p>
+</br>
+
+
 <!--<b>Travel Grant Application</b><br/>
 In order to apply for the N2Women travel grant, students should fill out <a href="https://forms.gle/yTmzMrxEPqx7Dyrj8">this form</a>. The form asks an applicant to provide:
 

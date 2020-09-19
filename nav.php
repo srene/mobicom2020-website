@@ -54,11 +54,11 @@
         <a class="nav-link" href="registration.php">Registration & Hotel Reservations</a>
       </li>-->
       <li class="nav-item">
-        <a class="nav-link" href="demo.php">Demos</a>
+        <a class="nav-link" href="poster-demo.php">Demos & Posters</a>
       </li>
-      <li class="nav-item">
+      <!--<li class="nav-item">
         <a class="nav-link" href="poster.php">Posters</a>
-      </li>
+      </li>-->
       <li class="nav-item">
         <a class="nav-link" href="src.php">SRC</a>
       </li>

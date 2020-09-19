@@ -44,21 +44,29 @@ Moderator:
 <h5 align="center"><div id="panel2"></div><b>Panel 2: 5G and Edge Applications</i></h5>
 <h5 align="center"><i>Thursday, 24th September, 09:20-10:20 PDT</i></h5>
 <br/>
-<p>
+
 Panelists:
-<ul>
-<li>Bo Han, Prof at George Mason Uni, formerly AT&T.</li>
-<li>Derek Long (Head of Telecoms and Mobile) and Fraser Edwards (Product Development), Cambridge Wireless.</li>
-<li>Ganesh Ananthanarayanan, Principal researcher at Microsoft.</li>
-<li>John Smee, VP of engineering at Qualcomm.</li>
-</ul>
-</p>
+</br></br>
+<img src="images/panel/bohan.jpg" height="160" style="float: left;margin-right:15px">
+<i>Bo Han</i> is an Associate Professor in the Department of Computer Science at George Mason University. His research interests are in the areas of networked systems, mobile computing, and wireless networking. His current research focuses on immersive video streaming, augmented, virtual, and mixed reality, and the Internet of Things. He enjoys building practical systems by leveraging innovations in machine learning, multimedia, computer vision, computer graphics, and human-computer interaction. Before joining George Mason University, he was a Principal Scientist at AT&T Labs Research, where he improved network efficiency and quality of user experience for networking services and mobile applications. He got his Ph.D. in Computer Science from the University of Maryland. He is the co-inventor of 27 granted U.S. patents and has filed a further 42 U.S. patents.
+</br></br>
+<img src="images/panel/derek.gif" height="150" style="float: left;margin-right:15px">
+<i>Derek Long</i> is the Head of Telecoms and Mobile at Cambridge Consultants. Derek leads the company's collaboration within the sector. Central to Derek's role at Cambridge Consultants is helping create breakthrough innovation that transforms the delivery of high-performance communication for their partners; from mobile carriers and ISPs, to vendors and components manufacturers.
+With over 20 years' experience in mobile technology, Derek has held a range of multinational senior management roles and has a wealth of expertise across all generations of mobile and broadband technology, including LTE-A and 5G. Derek holds a PhD in telecommunications from the University of Bristol.
+</br></br>
+<img src="images/panel/john.jpg" height="170" style="float: left;margin-right:15px">
+<i>Dr. John E. Smee</i> is Vice President of Engineering at Qualcomm Technologies Inc., where he is the R&D lead responsible for overseeing all 5G/6G research projects including end-end systems design and advanced RF/HW/SW prototype implementations in Qualcomm’s wireless research and development group.  He joined Qualcomm in 2000, holds over 150 U.S. Patents, and has been involved in the design, innovation, standardization, and productization of wireless communications systems such as 5G NR, 4G LTE, 3G CDMA, and IEEE 802.11.  He also leads Qualcomm’s companywide academic collaboration program across technologies including wireless, semiconductor, multimedia, security, and machine learning.  John was chosen to participate in the National Academy of Engineering Frontiers of Engineering program and received his Ph.D. in electrical engineering from Princeton University and also holds an M.A. from Princeton and an M.Sc. and B.Sc. from Queen's University.
+</br></br>
+<img src="images/panel/ganesh.png" height="150" style="float: left;margin-right:15px">
+<i>Ganesh Ananthanarayanan</i> is a Principal Researcher at Microsoft Research. His research interests are broadly in systems and networking, with recent focus on live video analytics, cloud computing and large-scale data analytics systems, and Internet performance. He has coauthored more than 30 papers in systems and networking conferences such as USENIX OSDI, ACM SIGCOMM, and USENIX NSDI, with the highest-rated paper at ACM Symposium on Edge Computing (SEC) 2018 and Best Demo Award (runner-up) at ACM MobiSys 2019. His work on “Video Analytics for Vision Zero” on analyzing traffic camera feeds won the Institute of Transportation Engineers 2017 Achievement Award as well as the “Safer Cities, Safer People” U.S. Department of Transportation Award. He has collaborated with and shipped technology to Microsoft's cloud and online products like the Azure Cloud, Cosmos (Microsoft's big data system) and Skype. He was a member of the ACM Future of Computing Academy. He received the Ph.D. degree in December 2013 from the University of California, Berkeley, CA, USA, where he was also a recipient of the UC Berkeley Regents Fellowship. Prior to his Ph.D., he was a Research Fellow at Microsoft Research India.
+</br></br>
 </br>
 </br>
 Moderator:
-<ul>
-<li>Lili Qiu, Professor at Computer Science Dept. in UT Austin..</li>
-</ul>
+</br></br>
+<img src="images/panel/qiu.png" height="160" style="float: left;margin-right:15px">
+<i>Lili Qiu</i> is a Professor at Computer Science Dept. in UT Austin. She got M.S. and PhD degrees in Computer Science from Cornell University in 1999 and 2001, respectively. After graduation, she spent 2001-2004 as a researcher at System & Networking Group in Microsoft Research Redmond. She joined UT Austin in 2005, and has founded a vibrant research group working on Internet and wireless networks at UT. She is an ACM Fellow and IEEE Fellow. She also got an NSF CAREER award and Google Faculty Research Award, and best paper awards at ACM MobiSys'18 and IEEE ICNP'17.  She also supervised a PhD dissertation that won SIGMOBILE best dissertation award in 2020.
+</br></br>
 </main>
 
 </center>
