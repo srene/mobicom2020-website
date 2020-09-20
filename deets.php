@@ -120,7 +120,7 @@ Global Positioning System is a widely adopted localization technique. With the i
 <a href="https://dl.acm.org/doi/10.1145/3372224.3380896">MET: A Novel Magneto-Inductive Sensing Based Electric Toothbrushing Monitoring System</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Hua Huang, Shan Lin (Stony Brook University)</h6>
- <h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
+ <h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/WcAa2STBcXY'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/p-uZApfb0vE'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo6"></a>
 <br/>
 <div id="demo6" class="collapse">
@@ -144,7 +144,7 @@ This paper presents the design, implementation and evaluation of In-N-Out, a sof
 <a href="https://dl.acm.org/doi/10.1145/3372224.3419216">Self-Reconfigurable Micro-Implants for Cross-Tissue Wireless and Batteryless Connectivity</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Mohamed R. Abdelhamid, Ruicong Chen, Joonhyuk Cho, Anantha P. Chandrakasan, Fadel Adib (Massachusetts Institute of Technology)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/RhEUB6kl7OA'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/2WDuTAaQGQU'>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/RhEUB6kl7OA'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/u_ajjc3-eLg'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo8"></a>
 <br/>
 <div id="demo8" class="collapse">
@@ -252,7 +252,7 @@ Vibration measurement is a crucial task in industrial systems, where vibration c
 <a href="https://dl.acm.org/doi/10.1145/3372224.3419208">Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Song Wang, Jingqi Huang, Xinyu Zhang (University of California San Diego)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/isOSDzu_mRU'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/1Vq2bCAoF5k'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo14"></a>
 <br/>
 <div id="demo14" class="collapse">
@@ -341,7 +341,7 @@ Session: Testbed (2 papers)<br/>Chair: Xenofon Foukas</b>
 <a href="https://dl.acm.org/doi/10.1145/3372224.3380891">Challenge: COSMOS: A City-Scale Programmable Testbed for Experimentation with Advanced Wireless</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Dipankar Raychaudhuri, Ivan Seskar (Rutgers University); Gil Zussman (Columbia University); Thanasis Korakis (New York University); Dan Kilper (University of Arizona); Tingjun Chen (Columbia University); Jakub Kolodziejski, Michael Sherman (Rutgers University); Zoran Kostic (Columbia University); Xiaoxiong Gu (IBM Research); Harish Krishnaswamy (Columbia University); Sumit Maheshwari (Rutgers); Panagiotis Skrimponis (New York University); Craig Gutterman (Columbia University)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/BIMubLpxyAc'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/t2XxgExefns'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo19"></a>
 <br/>
 <div id="demo19" class="collapse">
@@ -471,7 +471,7 @@ We present Quantum Belief Propagation (QBP), a Quantum Annealing (QA) based deco
 <a href="https://dl.acm.org/doi/10.1145/3372224.3380887">ScatterMIMO: Enabling Virtual MIMO with Smart Surfaces</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Manideep Dunna, Chi Zhang (UC San Diego); Daniel Sievenpiper, Dinesh Bharadia (University of California San Diego)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/MUUqsq8ZnPY'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo35"></a>
 <br/>
 <div id="demo35" class="collapse">
@@ -831,7 +831,7 @@ Session: Mobile sensing and UI (4 papers)<br/>Chair: Anthony Rowe, Yunxin Liu an
 <a href="https://dl.acm.org/doi/10.1145/3372224.3380901">TouchPass: Towards Behavior-irrelevant on-touch User Authentication on Smartphones Leveraging Vibrations</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Xiangyu Xu, Jiadi Yu (Shanghai Jiao Tong University); Yingying Chen (Rutgers University); Qin Hua, Yanmin Zhu, Yi-Chao Chen, Minglu Li (Shanghai Jiao Tong University)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/LWqof9kknbY'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo54"></a>
 <br/>
 <div id="demo54" class="collapse">
@@ -902,7 +902,7 @@ Wireless communication over long distances has become the bottleneck for battery
 <a href="https://dl.acm.org/doi/10.1145/3372224.3419193">Nephalai: Towards LPWAN C-RAN with Physical Layer Compression</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Jun Liu (UNSW Sydney); Weitao Xu (City University of Hong Kong); Sanjay Jha, Wen Hu (UNSW Sydney)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/A7_iJKHUxDs'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/VA-nm0WttPc'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo59"></a>
 <br/>
 <div id="demo59" class="collapse">
