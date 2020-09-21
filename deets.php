@@ -26,10 +26,10 @@ Session: Localization (4 papers)<br/>Chair: Nilanjan Banerjee, Kyle Jamieson and
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3380894">Deep Learning based Wireless Localization for Indoor Navigation</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifac available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380894">Deep Learning based Wireless Localization for Indoor Navigation</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifact available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
 <h6 class="card-subtitle mb-2 text-muted">
  R. Ayyalasomayajula, A. Arun, C. Wu, S. Sharma,A. Sethi, D. Vasisht, D. Bharadia</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/OTBoiC-bygw'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/OTBoiC-bygw'>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/OTBoiC-bygw'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/b19C7U9jNFs'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo1"></a>
 <br/>
 <div id="demo1" class="collapse">
@@ -108,7 +108,7 @@ Session: Sensing and signal processing (4 papers)<br/>Chair: Domenico Giustinian
 <a href="https://dl.acm.org/doi/10.1145/3372224.3380886">Hummingbird: Energy Efficient GPS Receiver for Small Satellites</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Sujay Narayana, R Venkatesha Prasad, Vijay S Rao (TU Delft); Luca Mottola (Politecnico di Milano, Italy and RI.SE SICS Sweden); T Venkata Prabhakar (IISc, India)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/0dcDwM3q5Nw'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/gwUB-tchXFg'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo5"></a>
 <br/>
 <div id="demo5" class="collapse">
@@ -240,7 +240,7 @@ Temperature sensor is one of the most widespread technologies in the IoT era. Wi
 <a href="https://dl.acm.org/doi/10.1145/3372224.3419202">mmVib: Micrometer-Level Vibration Measurement with mmWave Radar</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Chengkun Jiang, Junchen Guo, Yuan He, Meng Jin, Shuai Li (Tsinghua University); Yunhao Liu (Tsinghua University & MSU)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/isOSDzu_mRU'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/hPx1rUtp8RQ'>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/isOSDzu_mRU'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/1Vq2bCAoF5k'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo13"></a>
 <br/>
 <div id="demo13" class="collapse">
@@ -252,7 +252,7 @@ Vibration measurement is a crucial task in industrial systems, where vibration c
 <a href="https://dl.acm.org/doi/10.1145/3372224.3419208">Demystifying Millimeter-Wave V2X: Towards Robust and Efficient Directional Connectivity Under High Mobility</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Song Wang, Jingqi Huang, Xinyu Zhang (University of California San Diego)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/isOSDzu_mRU'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/1Vq2bCAoF5k'>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/Y8PnxeT1IOg'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/d6J-BGcuvuY'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo14"></a>
 <br/>
 <div id="demo14" class="collapse">
@@ -711,7 +711,7 @@ Despite the soaring use of convolutional neural networks (CNNs) in mobile applic
 <a href="https://dl.acm.org/doi/10.1145/3372224.3419215">CLIO: Enabling automatic compilation of deep learning pipelines across IoT and Cloud</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Jin Huang, Colin Samplawski, Deepak Ganesan, Benjamin Marlin (UMass Amherst); Heesung Kwon (ARL)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/WQPQgV1srVo'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/DWK3oegZUEE'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo48"></a>
 <br/>
 <div id="demo48" class="collapse">
@@ -831,7 +831,7 @@ Session: Mobile sensing and UI (4 papers)<br/>Chair: Anthony Rowe, Yunxin Liu an
 <a href="https://dl.acm.org/doi/10.1145/3372224.3380901">TouchPass: Towards Behavior-irrelevant on-touch User Authentication on Smartphones Leveraging Vibrations</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Xiangyu Xu, Jiadi Yu (Shanghai Jiao Tong University); Yingying Chen (Rutgers University); Qin Hua, Yanmin Zhu, Yi-Chao Chen, Minglu Li (Shanghai Jiao Tong University)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/LWqof9kknbY'>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/GkksWcf9Y_8'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/LWqof9kknbY'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo54"></a>
 <br/>
 <div id="demo54" class="collapse">
@@ -971,7 +971,7 @@ We present Bleep, a side-channel messaging system that modulates UAV motors soun
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3419196">C-14: Assured Timestamps for Drone Videos</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifac available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419196">C-14: Assured Timestamps for Drone Videos</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifact available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Zhipeng Tang, Fabien Delattre, Pia Bideau, Mark D. Corner, Erik Learned-Miller (University of Massachusetts Amherst)</h6>
 <h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/QphIRL3VAAY'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/ybQroVild1w'>Full presentation</a></h6>
@@ -983,7 +983,7 @@ Inexpensive and highly capable unmanned aerial vehicles (aka drones) have enable
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3419981">Airdropping Sensor Networks from Drones and Insects</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419981">Airdropping Sensor Networks from Drones and Insects</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifact available"/><i>Artifact available</i>&nbsp;&nbsp;<img style="width:3%" src="images/artifacts_evaluated.jpg" alt="Artifact evaluated"/><i>Artifact evaluated</i>&nbsp;&nbsp;</h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Vikram Iyer, Maruchi Kim, Qiuyue(Shirley) Xue, Anran Wang, Shyamnath Gollakota (University of Washington)</h6>
 <h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
@@ -1038,7 +1038,7 @@ In this paper, we perform a first comprehensive study of mobile volumetric video
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3419185">NEMO: Enabling Neural-enhanced Video Streaming on Commodity Mobile Devices</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifac available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419185">NEMO: Enabling Neural-enhanced Video Streaming on Commodity Mobile Devices</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifact available"/><i>Artifact available</i>&nbsp;&nbsp;</h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Hyunho Yeo, Chan Ju Chong, Youngmok Jung, Juncheol Ye, Dongsu Han (KAIST)</h6>
 <h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/iyCdFymPzM8'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/GPHlAUYCk18'>Full presentation</a></h6>
