@@ -23,7 +23,7 @@
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418156">Poster: Using Magnetic Fingerprints to Position Cars on Multi-layer Roads</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418156">Poster 1: Using Magnetic Fingerprints to Position Cars on Multi-layer Roads</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Ping-Fan Ho, Chia-Cheng Wang, and Jyh-Cheng Chen (National Chiao Tung University)
 </h6>
@@ -36,7 +36,7 @@
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418157">Poster: Homecoming: A Wireless Homing Device for UAVs</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418157">Poster 2: Homecoming: A Wireless Homing Device for UAVs</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Yifeng Cao and Ashutosh Dhekne (Georgia Institute of Technology)
 </h6>
@@ -49,7 +49,7 @@
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418158">Poster: Performance Bottlenecks Identification in Cloudified Mobile Networks</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418158">Poster 3: Performance Bottlenecks Identification in Cloudified Mobile Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Georgios Patounas (Simula Metropolitan Center for Digital Engineering); Xenofon Foukas (Microsoft Research); Ahmed Elmokashfi (Simula Metropolitan Center for Digital Engineering); Mahesh Marina (The University of Edinburgh)
 </h6>
@@ -62,7 +62,7 @@ Georgios Patounas (Simula Metropolitan Center for Digital Engineering); Xenofon 
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418159">Poster: Bringing Temperature-Awareness to Millimeter-Wave Networks</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418159">Poster 4: Bringing Temperature-Awareness to Millimeter-Wave Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Moh Sabbir Saadat, Sanjib Sur, and Srihari Nelakuditi (University of South Carolina)
 </h6>
@@ -75,7 +75,7 @@ Moh Sabbir Saadat, Sanjib Sur, and Srihari Nelakuditi (University of South Carol
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418160">Poster: Constructing 3-Dimensional 5G Coverage Map for Real-time Airborne Missions</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418160">Poster 5: Constructing 3-Dimensional 5G Coverage Map for Real-time Airborne Missions</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Sejin Seo, Seunghwan Kim, Sujin Kook, Sihun Baek, and Seong-Lyun Kim (Yonsei University)
 </h6>
@@ -88,7 +88,7 @@ With recent deployments of the fifth generation (5G) network and advances in unm
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418161">Poster: What You Wear Know How You Feel: An Emotion Inference System with Multi-modal Wearable Devices</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418161">Poster 6: What You Wear Know How You Feel: An Emotion Inference System with Multi-modal Wearable Devices</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Dan Wang, Haibo Lei, Haozhi Dong, Yunshu Wang, Yongpan Zou, and Kaishun Wu (Shenzhen University)
 </h6>
@@ -101,7 +101,7 @@ Dan Wang, Haibo Lei, Haozhi Dong, Yunshu Wang, Yongpan Zou, and Kaishun Wu (Shen
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418162">Poster: SmartPatch: A patch prioritization framework for SCADA chain in Smart grid</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418162">Poster 7: SmartPatch: A patch prioritization framework for SCADA chain in Smart grid</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Geeta Yadav (Indian Institute of Technology, Delhi, India); Praveen Gauravaram (Tata Consultancy Services, Australia); Arun Kumar Jindal (Tata Consultancy Services, New Delhi, India)
 </h6>
@@ -116,7 +116,7 @@ In this poster, we address the critical need to prioritize patching the smart gr
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418163">Poster: TSFCC: High Availability Service Function Chain Composition Approach in Mobile Network</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418163">Poster 8: TSFCC: High Availability Service Function Chain Composition Approach in Mobile Network</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Meng Niu, Bo Cheng, Wenyuan Gu, Meng Wang, and Junliang Chen (Beijing University of Posts and Telecommunications)
 </h6>
@@ -129,7 +129,7 @@ Meng Niu, Bo Cheng, Wenyuan Gu, Meng Wang, and Junliang Chen (Beijing University
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418164">Poster: Hybrid Communication and Storage System with User Privacy Preservation for Public Management, Analysis and Prediction</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418164">Poster 9: Hybrid Communication and Storage System with User Privacy Preservation for Public Management, Analysis and Prediction</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Lifeng Liu and Yingxuan Zhu (FutureWei Technologies Inc.); Jian Li (Futurewei Technologies Inc.)
 </h6>
@@ -142,7 +142,7 @@ Lifeng Liu and Yingxuan Zhu (FutureWei Technologies Inc.); Jian Li (Futurewei Te
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418165">Poster: Toward a Secure QR Code System by Fingerprinting Screens</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418165">Poster 10: Toward a Secure QR Code System by Fingerprinting Screens</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Yijie Li and Yi-Chao Chen (Shanghai Jiao Tong University); Xiaoyu Ji (Zhejiang University); Hao Pan, Lanqing Yang, Guangtao Xue, and Jiadi Yu (Shanghai Jiao Tong University)
 </h6>
@@ -155,7 +155,7 @@ Yijie Li and Yi-Chao Chen (Shanghai Jiao Tong University); Xiaoyu Ji (Zhejiang U
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418166">Poster: A Seamless Virtualized Network Functions Migration Mechanism in Mobile Edge Networks</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418166">Poster 11: A Seamless Virtualized Network Functions Migration Mechanism in Mobile Edge Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Biyi Li, Bo Cheng, Yi Yue, Meng Wang, and Junliang Chen (Beijing University of Posts and Telecommunications)
 </h6>
@@ -168,7 +168,7 @@ Biyi Li, Bo Cheng, Yi Yue, Meng Wang, and Junliang Chen (Beijing University of P
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418167">Poster: A Reliable Intelligent Routing Mechanism in 5G Core Networks</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418167">Poster 12: A Reliable Intelligent Routing Mechanism in 5G Core Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Tze-Jie Tan, Fu-Lian Weng, Wei-Ting Hu, Jyh-Cheng Chen, and Cheng-Ying Hsieh (National Chiao Tung University)
 </h6>
@@ -181,7 +181,7 @@ Tze-Jie Tan, Fu-Lian Weng, Wei-Ting Hu, Jyh-Cheng Chen, and Cheng-Ying Hsieh (Na
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418168">Poster: CarML: Distributed Machine Learning in Vehicular Clouds</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418168">Poster 13: CarML: Distributed Machine Learning in Vehicular Clouds</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Anran Du, Yicheng Shen, and Lewis Tseng (Boston College)
 </h6>
@@ -194,7 +194,7 @@ Anran Du, Yicheng Shen, and Lewis Tseng (Boston College)
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418169">Poster: Throughput Optimization VNF Placement For Mapping SFC Requests in MEC-NFV Enabled Networks</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418169">Poster 14: Throughput Optimization VNF Placement For Mapping SFC Requests in MEC-NFV Enabled Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Yi Yue, Bo Cheng, Biyi Li, Xuan Liu, and Meng Wang (Beijing University of Posts and Telecommunications)
 </h6>
@@ -207,7 +207,7 @@ Yi Yue, Bo Cheng, Biyi Li, Xuan Liu, and Meng Wang (Beijing University of Posts 
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418170">Poster: Design of an IoT-based water flow monitoring system</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418170">Poster 15: Design of an IoT-based water flow monitoring system</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Zill Ullah Khan and M Umair Anwar (Information Technology University); Sabah Pirani (University of Michigan); Faisal Lalani (Microsoft Research); Babatunde Adegoke (University of Colorado Boulder); Tauseef Tauqeer (Information Technology University); Mustafa Naseem (University of Michigan)
 </h6>
@@ -220,7 +220,7 @@ Zill Ullah Khan and M Umair Anwar (Information Technology University); Sabah Pir
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3418171">Poster: Age of Information in Wireless Networks: from Theory to Implementation</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3418171">Poster 16: Age of Information in Wireless Networks: from Theory to Implementation</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Igor Kadota, M. Shahir Rahman, and Eytan Modiano (MIT LIDS)
 </h6>
@@ -233,7 +233,7 @@ Igor Kadota, M. Shahir Rahman, and Eytan Modiano (MIT LIDS)
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3417314">Demo: BeeCast: A Collaborative Video Streaming System</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3417314">Demo 1: BeeCast: A Collaborative Video Streaming System</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Asaad AlGhamdi, Younes Balah, Muhamad Felemban, and Mohammad AlBejadi (King Fahd University of Petroleum and Minerals)
 </h6>
@@ -246,7 +246,7 @@ Asaad AlGhamdi, Younes Balah, Muhamad Felemban, and Mohammad AlBejadi (King Fahd
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3417315">Demo: 5G Edge Enhanced Mobile Augmented Reality</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3417315">Demo 2: 5G Edge Enhanced Mobile Augmented Reality</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Xiang Su (University of Helsinki and University of Oulu); Jacky Cao (University of Oulu); Pan Hui (University of Helsinki and The Hong Kong University of Science and Technology)
 </h6>
@@ -259,7 +259,7 @@ Xiang Su (University of Helsinki and University of Oulu); Jacky Cao (University 
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3417316">Demo: A Hyperlocal Mobile Web for the Next 3 Billion Users</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3417316">Demo 3: A Hyperlocal Mobile Web for the Next 3 Billion Users</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Arjuna Sathiaseelan, Arko Chatterjee, Mukund Lal, Yasir Zaki, and Lakshminarayanan Subramanian (Gaius Networks)
 </h6>
@@ -272,7 +272,7 @@ Arjuna Sathiaseelan, Arko Chatterjee, Mukund Lal, Yasir Zaki, and Lakshminarayan
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3417327">Demo: M-Cube: An Open-Source Millimeter-Wave MIMO Software Radio for Wireless Communication and Sensing Applications</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3417327">Demo 4: M-Cube: An Open-Source Millimeter-Wave MIMO Software Radio for Wireless Communication and Sensing Applications</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Renjie Zhao, Timothy Woodford, Teng Wei, Kun Qian, and Xinyu Zhang (University of California San Diego)</h6>
 <h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/Z_TUj4eEw-Q'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/f6WbcZwUJbM'>Full presentation</a></h6>
@@ -284,7 +284,7 @@ Renjie Zhao, Timothy Woodford, Teng Wei, Kun Qian, and Xinyu Zhang (University o
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3417317">Demo: A Query Engine for Zero-streaming Cameras</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3417317">Demo 5: A Query Engine for Zero-streaming Cameras</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Mengwei Xu (Peking University); Tiantu Xu (Purdue ECE); Yunxin Liu (Microsoft Research); Xuanzhe Liu and Gang Huang (Peking University); Felix Xiaozhu Lin (Purdue ECE)
 </h6>
@@ -297,7 +297,7 @@ Mengwei Xu (Peking University); Tiantu Xu (Purdue ECE); Yunxin Liu (Microsoft Re
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3417318">Demo: The Implementation of Stigmergy in Network-assisted Multi-agent System</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3417318">Demo 6: The Implementation of Stigmergy in Network-assisted Multi-agent System</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Kun Chen and Rongpeng Li (Zhejiang University); Jon Crowcroft (University of cambridge); Zhifeng Zhao (Zhejiang Lab); Honggang Zhang (Zhejiang University)
 </h6>
@@ -310,7 +310,7 @@ Kun Chen and Rongpeng Li (Zhejiang University); Jon Crowcroft (University of cam
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3417319">Demo: WhiteHaul: White Space Spectrum Aggregation System for Backhaul</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3417319">Demo 7: WhiteHaul: White Space Spectrum Aggregation System for Backhaul</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Mohamed M. Kassem (Cairo University); Morteza Kheirkhah (University College London); Mahesh K. Marina and Peter Buneman (The University of Edinburgh)
 </h6>
@@ -323,7 +323,7 @@ Mohamed M. Kassem (Cairo University); Morteza Kheirkhah (University College Lond
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3417320">Demo: Bringing Hybrid Analog-Digital Beamforming to Commercial MU-MIMO WiFi Networks</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3417320">Demo 8: Bringing Hybrid Analog-Digital Beamforming to Commercial MU-MIMO WiFi Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Thomas Kuhne, Piotr Gawłowicz, Anatolij Zubow, Falko Dressler, and Giuseppe Caire (Technische Universit√§t Berlin)
 </h6>
@@ -336,7 +336,7 @@ Thomas Kuhne, Piotr Gawłowicz, Anatolij Zubow, Falko Dressler, and Giuseppe Cai
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3417321">Demo: Service-Oriented Intelligent and Extensible RAN</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3417321">Demo 9: Service-Oriented Intelligent and Extensible RAN</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Robert Schmidt and Navid Nikaein (EURECOM)
 </h6>
@@ -349,7 +349,7 @@ Robert Schmidt and Navid Nikaein (EURECOM)
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3417322">Demo: WiChronos: Energy-Efficient Modulation for Long-Range,Large-Scale Wireless Networks</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3417322">Demo 10: WiChronos: Energy-Efficient Modulation for Long-Range,Large-Scale Wireless Networks</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Yaman Singh Sangar and Bhuvana Krishnaswamy (University of Wisconsin - Madison)
 </h6>
@@ -362,7 +362,7 @@ Yaman Singh Sangar and Bhuvana Krishnaswamy (University of Wisconsin - Madison)
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3417323">Demo: Accelerometer-based Smartphone Eavesdropping</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3417323">Demo 11: Accelerometer-based Smartphone Eavesdropping</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Zhongjie Ba (Zhejiang University); Tianhang Zheng (University of Toronto); Zhan Qin, Hanlin Yu, and Liu Liu (Zhejiang University); Baochun Li (University of Toronto); Xue Liu (McGill University); Kui Ren (Zhejiang University)
 </h6>
@@ -375,7 +375,7 @@ Zhongjie Ba (Zhejiang University); Tianhang Zheng (University of Toronto); Zhan 
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3417324">Demo: Remote Experimentation with Open-Access Full-Duplex Wireless in the COSMOS Testbed</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3417324">Demo 12: Remote Experimentation with Open-Access Full-Duplex Wireless in the COSMOS Testbed</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Manav Kohli, Tingjun Chen, Jackson Welles, and Mahmood Baraani Dastjerdi (Columbia University); Jakub Kolodziejski, Michael Sherman, and Ivan Seskar (WINLAB, Rutgers University); Harish Krishnaswamy and Gil Zussman (Columbia University)
 </h6>
@@ -388,7 +388,7 @@ Manav Kohli, Tingjun Chen, Jackson Welles, and Mahmood Baraani Dastjerdi (Columb
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3417325">Demo: Slicing-Enabled Private 4G/5G Network for Industrial Wireless Applications</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3417325">Demo 13: Slicing-Enabled Private 4G/5G Network for Industrial Wireless Applications</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Jaya Thota and Adnan Aijaz (Toshiba Europe Ltd.)
 </h6>
@@ -401,7 +401,7 @@ Jaya Thota and Adnan Aijaz (Toshiba Europe Ltd.)
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3417326">Demo: Edge-SLAM: Edge-Assisted Visual Simultaneous Localization and Mapping</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3417326">Demo 14: Edge-SLAM: Edge-Assisted Visual Simultaneous Localization and Mapping</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
 Ali J. Ben Ali, Zakieh Sadat Hashemifar, and Karthik Dantu (University at Buffalo)
 </h6>
