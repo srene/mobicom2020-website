@@ -105,7 +105,7 @@ Session: Sensing and signal processing (4 papers)<br/>Chair: Domenico Giustinian
 <ul class="list-group list-group-flush">
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3380886">Hummingbird: Energy Efficient GPS Receiver for Small Satellites</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380886">Hummingbird: Energy Efficient GPS Receiver for Small Satellites</a>&nbsp;&nbsp;&nbsp; Best Paper Award</b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Sujay Narayana, R Venkatesha Prasad, Vijay S Rao (TU Delft); Luca Mottola (Politecnico di Milano, Italy and RI.SE SICS Sweden); T Venkata Prabhakar (IISc, India)</h6>
 <h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/0dcDwM3q5Nw'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/gwUB-tchXFg'>Full presentation</a></h6>
@@ -480,7 +480,7 @@ In the last decade, the bandwidth expansion and MIMO spatial multiplexing have p
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3419187">Sniffing Visible Light Communication Through Walls</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419187">Sniffing Visible Light Communication Through Walls</a>&nbsp;&nbsp;&nbsp; Best Paper Award</b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Minhao Cui, Yuda Feng (University of Massachusetts Amherst); Qing Wang (Delft University of Technology); Jie Xiong (University of Massachusetts Amherst)</h6>
 <h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/zPlSGbU_KpA'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/Sb5lP046uPU'>Full presentation</a></h6>
