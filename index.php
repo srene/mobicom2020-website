@@ -139,6 +139,27 @@ On-Site (Begins Oct 21st)<br/><br/>
 </div>
 
 </br>
+<div class="alert alert-success" role="alert">
+<h4 class="alert-heading">Best Paper</h4>
+<a href="https://dl.acm.org/citation.cfm?id=3345454"><b>eBP: A Wearable System For Frequent and Comfortable Blood Pressure Monitoring From User’s Ear</b></a><br/>
+Nam Bui, Nhat Pham, Jessica Jacqueline Barnitz, Phuc Nguyen, Hoang Truong, Taeho Kim, Anh Nguyen, Zhanan Zou, Nicholas Farrow, Jianliang Xiao (University of Colorado Boulder); Robin Deterding (Children's Hospital Colorado); Thang Dinh (Virginia Commonwealth University); Tam Vu (University of Colorado Boulder)<br/>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo58"></a>
+<br/>
+<div id="demo58" class="collapse">
+Frequent blood pressure (BP) assessment is key to the diagnosis and treatment of many severe diseases, such as heart failure, kidney failure, hypertension, and hemodialysis. Current "gold-standard'' BP measurement techniques require the complete blockage of blood flow, which causes discomfort and disruption to normal activity when the assessment is done repetitively and frequently. Unfortunately, patients with hypertension or hemodialysis often have to get their BP measured every 15 minutes for a duration of 4-5 hours or more. The discomfort of wearing a cumbersome and limited mobility device affects their normal activities. In this work, we propose a device called eBP to measure BP from inside the user's ear aiming to minimize the measurement's impact on users' normal activities while maximizing its comfort level. eBP has 3 key components: (1) a light-based pulse sensor attached on an inflatable pipe that goes inside the ear, (2) a digital air pump with a fine controller, and (3) a BP estimation algorithm. In contrast to existing devices, eBP introduces a novel technique that eliminates the need to block the blood flow inside the ear, which alleviates the user's discomfort. We prototyped eBP custom hardware and software and evaluated the system through a comparative study on 35 subjects. The study shows that eBP obtains the average error of 1.8 mmHg and -3.1 mmHg and a standard deviation error of 7.2 mmHg and 7.9 mmHg for systolic (high-pressure value) and diastolic (low-pressure value), respectively. These errors are around the acceptable margins regulated by the FDA's AAMI protocol, which allows mean errors of up to 5 mmHg and a standard deviation of up to 8 mmHg.
+</div>
+
+<br/>
+
+<a href="https://dl.acm.org/citation.cfm?id=3345443"><b>FLUID: Flexible User Interface Distribution for Ubiquitous Multi-device Interaction</b></a>
+<br/>
+Sangeun Oh, Ahyeon Kim, Sunjae Lee, Kilho Lee, Dae R. Jeong (KAIST); Steven Y. Ko (University at Buffalo, The State University of New York); Insik Shin (KAIST)<br/>
+
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo59"></a>
+<br/>
+<div id="demo59" class="collapse">
+The growing trend of multi-device ownerships creates a need and an opportunity to use applications across multiple devices. However, in general, the current app development and usage still remain within the single-device paradigm, falling far short of user expectations. For example, it is currently not possible for a user to dynamically partition an existing live streaming app with chatting capabilities across different devices, such that she watches her favorite broadcast on her smart TV while real-time chatting on her smartphone. In this paper, we present FLUID, a new Android-based multi-device platform that enables innovative ways of using multiple devices. FLUID aims to i) allow users to migrate or replicate individual user interfaces (UIs) of a single app on multiple devices (high flexibility), ii) require no additional development effort to support unmodified, legacy applications (ease of development), and iii) support a wide range of apps that follow the trend of using custom-made UIs (wide applicability). Previous approaches, such as screen mirroring, app migration, and customized apps utilizing multiple devices, do not satisfy those goals altogether. FLUID, on the other hand, meets the goals by carefully analyzing which UI states are necessary to correctly render UI objects, deploying only those states on different devices, supporting cross-device function calls transparently, and synchronizing the UI states of replicated UI objects across multiple devices. Our evaluation with 20 unmodified, real-world Android apps shows that FLUID can transparently support a wide range of apps and is fast enough for interactive use.
+</div>
 
  <?php require_once('sponsors.php'); ?>
 
