@@ -289,7 +289,7 @@ Millimeter-wave (mmWave) networks are conventionally considered to bear a fundam
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3380892">M-Cube: A Millimeter-Wave Massive MIMO Software Radio</a></b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380892">M-Cube: A Millimeter-Wave Massive MIMO Software Radio</a>&nbsp;&nbsp;&nbsp; Best Paper Award</b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Renjie Zhao, Timothy Woodford, Teng Wei, Kun Qian, Xinyu Zhang (University of California San Diego)</h6>
 <h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/v4PRvIA2qIQ'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/NRooJM1UK3s'>Full presentation</a></h6>
@@ -437,7 +437,7 @@ Cellular service carriers often employ reactive strategies to assist customers w
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse6" class="d-block" style="color:white">
 <b>08:05 - 08:45<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Communication Systems (4 papers)<br/>Chair: Bo Chen, Jie Xiong and Ranveer Chandra</b>
+Session: Communication Systems (4 papers)<br/>Chair: Bo Chen and Jie Xiong</b>
 </a></h6>
 <div id="collapse6" class="collapse show">
 <div class="card-body">
@@ -471,7 +471,7 @@ We present Quantum Belief Propagation (QBP), a Quantum Annealing (QA) based deco
 <a href="https://dl.acm.org/doi/10.1145/3372224.3380887">ScatterMIMO: Enabling Virtual MIMO with Smart Surfaces</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Manideep Dunna, Chi Zhang (UC San Diego); Daniel Sievenpiper, Dinesh Bharadia (University of California San Diego)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/MUUqsq8ZnPY'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/MUUqsq8ZnPY'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/V96rOy8-FF4'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo35"></a>
 <br/>
 <div id="demo35" class="collapse">
@@ -480,7 +480,7 @@ In the last decade, the bandwidth expansion and MIMO spatial multiplexing have p
 
 <li class="list-group-item bg-light">
 <h6 class="card-title"><b>
-<a href="https://dl.acm.org/doi/10.1145/3372224.3419187">Sniffing Visible Light Communication Through Walls</a>&nbsp;&nbsp;&nbsp; Best Paper Award</b></h6>
+<a href="https://dl.acm.org/doi/10.1145/3372224.3419187">Sniffing Visible Light Communication Through Walls</a>&nbsp;&nbsp;&nbsp; Honourable Mention Award</b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Minhao Cui, Yuda Feng (University of Massachusetts Amherst); Qing Wang (Delft University of Technology); Jie Xiong (University of Massachusetts Amherst)</h6>
 <h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/zPlSGbU_KpA'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/Sb5lP046uPU'>Full presentation</a></h6>
@@ -806,7 +806,7 @@ Conventional road signs convey very concise and static visual information to hum
 
 <div class="card">
 <h6 class="card-header text-white" style="background-color:#D62728">
-<b>10:20 - 11:20<br/>Keynote 5: Alex Kauffmann</b></h6>
+<b>10:20 - 11:20<br/>Keynote 5: Alex Kauffmann (Google)</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
 <a href="keynote.php#alex"><b>From Research to Product: Stories from the Frontlines of R+D</b></a>
@@ -914,7 +914,7 @@ We propose Nephelai, a Compressive Sensing-based Cloud Radio Access Network (C-R
 <a href="https://dl.acm.org/doi/10.1145/3372224.3419200">LMAC: Efficient Carrier-Sense Multiple Access for LoRa</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
  Amalinda Gamage, Jansen Christian Liando, Chaojie Gu, Rui Tan, Mo Li (Nanyang Technological University)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/cwFWmRt07x0'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo60"></a>
 <br/>
 <div id="demo60" class="collapse">
@@ -986,7 +986,7 @@ Inexpensive and highly capable unmanned aerial vehicles (aka drones) have enable
 <a href="https://dl.acm.org/doi/10.1145/3372224.3419981">Airdropping Sensor Networks from Drones and Insects</a></b>&nbsp;&nbsp;<img style="width:3%" src="images/artifact-available.jpg" alt="Artifact available"/><i>Artifact available</i>&nbsp;&nbsp;<img style="width:3%" src="images/artifacts_evaluated.jpg" alt="Artifact evaluated"/><i>Artifact evaluated</i>&nbsp;&nbsp;</h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Vikram Iyer, Maruchi Kim, Qiuyue(Shirley) Xue, Anran Wang, Shyamnath Gollakota (University of Washington)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
+  <h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/UcAa9lGc_1k'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/CMRfViEnfIM'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo65"></a>
 <br/>
 <div id="demo65" class="collapse">

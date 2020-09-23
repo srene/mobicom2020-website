@@ -142,7 +142,7 @@ On-Site (Begins Oct 21st)<br/><br/>
 </br>
 
 <div class="alert alert-success" role="alert">
-<h4 class="alert-heading">Best Paper</h4>
+<h4 class="alert-heading">Best Paper Award</h4>
 <a href="https://dl.acm.org/doi/10.1145/3372224.3380886"><b>Hummingbird: Energy Efficient GPS Receiver for Small Satellites</b></a><br/>
 Sujay Narayana, R Venkatesha Prasad, Vijay S Rao (TU Delft); Luca Mottola (Politecnico di Milano, Italy and RI.SE SICS Sweden); T Venkata Prabhakar (IISc, India)<br/>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo58"></a>
@@ -153,6 +153,18 @@ Sujay Narayana, R Venkatesha Prasad, Vijay S Rao (TU Delft); Luca Mottola (Polit
 
 <br/>
 
+<a href="https://dl.acm.org/doi/10.1145/3372224.3380892"><b>M-Cube: A Millimeter-Wave Massive MIMO Software Radio</b></a>
+<br/>
+Renjie Zhao, Timothy Woodford, Teng Wei, Kun Qian, Xinyu Zhang (University of California San Diego)<br/>
+<a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo60"></a>
+<br/>
+<div id="demo60" class="collapse">
+  Millimeter-wave (mmWave) technologies represent a cornerstone for emerging wireless network infrastructure, and for RF sensing systems in security, health, and automotive domains. Through a MIMO array of phased arrays with hundreds of antenna elements, mmWave can boost wireless bit-rate to 100+~Gbps, and potentially achieve near-vision sensing resolution. However, lack of an experimental platform has been impeding research in this field. This paper fills the gap with M^3M (M-Cube), the first mmWave massive MIMO software radio. M^3M features a fully reconfigurable array of phased arrays, with up to 8 RF chains and 288 antenna elements. Despite the orders of magnitude larger antenna arrays, its cost is orders of magnitude lower, even when compared with state-of-the-art single RF chain mmWave software radios. The key design principle behind M^3M is to hijack a low-cost commodity 802.11ad radio, separate the control path and data path inside, regenerate the phased array control signals, and recreate the data signals using a programmable baseband. Extensive experiments have demonstrated the effectiveness of the M^3M design, and its usefulness for research in mmWave massive MIMO communication and sensing.
+</div>
+<br/>
+<br/>
+
+<h4 class="alert-heading">Honourable Mention Award</h4>
 <a href="https://dl.acm.org/doi/10.1145/3372224.3419187"><b>Sniffing Visible Light Communication Through Walls</b></a>
 <br/>
 Minhao Cui, Yuda Feng (University of Massachusetts Amherst); Qing Wang (Delft University of Technology); Jie Xiong (University of Massachusetts Amherst)<br/>
@@ -162,6 +174,7 @@ Minhao Cui, Yuda Feng (University of Massachusetts Amherst); Qing Wang (Delft Un
   Visible light communication (VLC) is gaining a significant amount of interest as a new paradigm to meet rapidly increasing demands on wireless capacity required by a digitalized world. VLC is considered as a secure wireless communication scheme because VLC signals can be easily constrained within physical boundaries.  In this paper, for the first time, we show that VLC is not as secure as people thought: VLC can be sniffed through walls! The key principle behind this is that in VLC transmissions, a VLC transmitter not only emits visible light signals but also leaks out "side channel RF signals". The leaked RF signals can be sniffed by a receiver to decode the VLC transmissions even the receiver is blocked (e.g., by walls) from the VLC transmitter. In this work, we establish a theoretical model to quantify the amplitude of the leaked RF signal and verify the model with comprehensive experiments. We design and implement a VLC sniffing system including receiver coil design, signal processing and frame decoding, spanning across hardware and software.  Field studies show that with a cheap receiver design, our system can simultaneously sniff transmissions from multiple VLC transmitters  6.4 meters away with a 14 cm concrete wall in between, where the distance exceeds the communication range of most state-of-the-art VLC systems. By simply twining a wired earphone on the arm, we can sniff the VLC transmission 1.9 meters away.
 </div>
 </div>
+</br>
 
  <?php require_once('sponsors.php'); ?>
 
