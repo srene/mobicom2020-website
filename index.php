@@ -136,6 +136,7 @@ On-Site (Begins Oct 21st)<br/><br/>
 <li><b>September 2020</b> - <a href="mentorship.php">Mentorship program</a> announced.</li>
 <li><b>September 2020</b> - <a href="program.php">MobiCom program</a> details available.</li>
 <li><b>September 2020</b> - Best paper awards announced.</li>
+<li><b>September 2020</b> - Conference proceedings are available <a href="https://dl.acm.org/doi/proceedings/10.1145/3372224">here</a>.</li>
 </ul>
 </div>
 

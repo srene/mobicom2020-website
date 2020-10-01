@@ -10,7 +10,8 @@
 <b>06:25 - 07:25<br/>Keynote 1: George Malliaras (University of Cambridge)</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynote.php#malliaras"><b>Electronics on the brain</b></a>
+<a href="keynote.php#malliaras"><b>Electronics on the brain</b></a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/xlRZFI0afms'>Video</a>
+
 </h6>
 </div>
 </div>
@@ -160,7 +161,7 @@ We built our design on millimeter-sized integrated chips and flexible antenna su
 <b>09:00 - 10:00<br/>Keynote 2: Sachin Katti (Stanford University)</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynote.php#katti"><b>Disaggregating the Cellular Radio Access Network with O-RAN</b></a>
+<a href="keynote.php#katti"><b>Disaggregating the Cellular Radio Access Network with O-RAN</b></a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/ffT5cxfZ1fE'>Video</a>
 </h6>
 </div>
 </div>
@@ -497,7 +498,7 @@ Visible light communication (VLC) is gaining a significant amount of interest as
 <b>09:00 - 10:00<br/>Keynote 3: Nic Lane (University of Cambridge and Samsung AI)</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynote.php#niclane"><b>What is Next for the Efficient Machine Learning Revolution?</b></a>
+<a href="keynote.php#niclane"><b>What is Next for the Efficient Machine Learning Revolution?</b></a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/6XD8HLBT9tg'>Video</a>
 </h6>
 </div>
 </div>
@@ -785,7 +786,7 @@ We present Tunnel Emitter: a tunnel diode oscillator based system that enables t
 <a href="https://dl.acm.org/doi/10.1145/3372224.3380883">Renovating Road Signs for Infrastructure-to-Vehicle Networking: A Visible Light Backscatter Communication and Networking Approach</a></b></h6>
 <h6 class="card-subtitle mb-2 text-muted">
   Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu (Peking University); Guobin Shen (JoveAI, Inc.); Kuntai Du, Gang Huang, Xuanzhe Liu (Peking University)</h6>
-<h6 class='card-subtitle mb-2 text-muted'><a href=''>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href=''>Full presentation</a></h6>
+<h6 class='card-subtitle mb-2 text-muted'><a href='https://youtu.be/jnIXGs0FUOI'>Elevator pitch</a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/1UK5l8mwFA4'>Full presentation</a></h6>
 <a href="" class="abstract collapsed" data-toggle="collapse" data-target="#demo53"></a>
 <br/>
 <div id="demo53" class="collapse">
@@ -821,7 +822,7 @@ Conventional road signs convey very concise and static visual information to hum
 <h6 class="card-header text-white" style="background-color:#2CA02C">
 <a data-toggle="collapse" href="#collapse7" class="d-block" style="color:white">
 <b>06:00 - 06:40<br/><i class="fa fa-chevron-down float-right" ></i>
-Session: Mobile sensing and UI (4 papers)<br/>Chair: Anthony Rowe, Yunxin Liu and Jennifer Chen</b>
+Session: Mobile sensing and UI (4 papers)<br/>Chair: Anthony Rowe, Yunxin Liu and Mahanth Gowda</b>
 </a></h6>
 <div id="collapse7" class="collapse show">
 <div class="card-body">
@@ -1000,7 +1001,7 @@ We present the first system that can airdrop wireless sensors from small drones 
 <b>08:15 - 9:15<br/>Keynote 6: Ron Marquardt</b></h6>
 <div class="card-body bg-light">
 <h6 class="card-title">
-<a href="keynote.php#ron"><b>From Early NFV to NLP – a Network Operator’s R&D Journey</b></a>
+<a href="keynote.php#ron"><b>From Early NFV to NLP – a Network Operator’s R&D Journey</b></a>&nbsp;&nbsp;&nbsp;<a href='https://youtu.be/pFEa5mznCJs'>Video</a>
 </h6>
 </div>
 </div>

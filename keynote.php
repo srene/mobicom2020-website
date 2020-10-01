@@ -12,13 +12,12 @@
 <main>
 <h2 class="text-center">Keynotes</h2>
 <br/>
-<h5 align="center"><div id="malliarasa"></div><b>Keynote 1: Electronics on the brain</b></h5>
+<h5 align="center"><div id="malliarasa"></div><b>Keynote 1: <a href='https://youtu.be/xlRZFI0afms'>Electronics on the brain</a></b></h5>
 <h5 align="center"><b>George Malliaras</b></h5>
 <h5 align="center">Department of Engineering, University of Cambridge</h5>
 <h5 align="center"><i>Monday, 21st September, 06:25-07:25 PDT</i></h5>
 <h5 align="center"><i>Session Chair: Cecilia Mascolo</i></h5>
 <br/>
-
 <p>
 <b>Abstract:</b> One of the most important scientific and technological frontiers of our time is the interfacing of electronics with the human brain. This endeavour promises to help understand how the brain works and deliver new tools for diagnosis and treatment of pathologies including epilepsy and Parkinson’s disease. Current solutions, however, are limited by the materials that are brought in contact with the tissue and transduce signals across the biotic/abiotic interface. Recent advances in electronics have made available materials with a unique combination of attractive properties, including mechanical flexibility, mixed ionic/electronic conduction, enhanced biocompatibility, and capability for drug delivery. I will present examples of novel devices for recording and stimulation of neurons and show that organic electronic materials offer tremendous opportunities to study the brain and treat its pathologies.</p>
 
@@ -28,7 +27,7 @@
 </br>
 <hr/>
 
-<h5 align="center"><div id="katti"></div><b>Keynote 2: Disaggregating the Cellular Radio Access Network with O-RAN</b></h5>
+<h5 align="center"><div id="katti"></div><b>Keynote 2: <a href='https://youtu.be/ffT5cxfZ1fE'>Disaggregating the Cellular Radio Access Network with O-RAN</a></b></h5>
 <h5 align="center"><b>Sachin Katti</b></h5>
 <h5 align="center">Stanford University and VMware</h5>
 <h5 align="center"><i>Monday, 21st September, 09:00-10:00 PDT</i></h5>
@@ -45,7 +44,7 @@
 </br>
 <hr/>
 
-<h5 align="center"><div id="niclane"></div><b>Keynote 3: What is Next for the Efficient Machine Learning Revolution?</b></h5>
+<h5 align="center"><div id="niclane"></div><b>Keynote 3: <a href='https://youtu.be/6XD8HLBT9tg'>What is Next for the Efficient Machine Learning Revolution?</a></b></h5>
 <h5 align="center"><b>Nic Lane</b></h5>
 <h5 align="center">University of Cambridge and Samsung AI</h5>
 <h5 align="center"><i>Tuesday, 22nd September, 09:00-10:00 PDT</i></h5>
@@ -60,7 +59,7 @@
 </br>
 <hr/>
 
-<h5 align="center"><div id="malladi"></div><b>Keynote 4: What's next in 5G infrastructure?</b></h5>
+<h5 align="center"><div id="malladi"></div><b>Keynote 4: <a href=''>What's next in 5G infrastructure?</a></b></h5>
 <h5 align="center"><b>Durga Malladi</b></h5>
 <h5 align="center">Qualcomm Technologies</h5>
 <h5 align="center"><i>Wednesday, 23rd September, 09:15-10:15 PDT</i></h5>
@@ -89,7 +88,7 @@ Durga holds a B.Tech from Indian Institute of Technology, Madras, and an M.S and
 </br>
 <hr/>
 
-<h5 align="center"><div id="alex"></div><b>Keynote 5: From Research to Product: Stories from the Frontlines of R+D</b></h5>
+<h5 align="center"><div id="alex"></div><b>Keynote 5: <a href=''>From Research to Product: Stories from the Frontlines of R+D</a></b></h5>
 <h5 align="center"><b>Alex Kauffmann</b></h5>
 <h5 align="center">Google</h5>
 <h5 align="center"><i>Wednesday, 23rd September, 10:20-11:20 PDT</i></h5>
@@ -105,7 +104,7 @@ Durga holds a B.Tech from Indian Institute of Technology, Madras, and an M.S and
 </br>
 <hr/>
 
-<h5 align="center"><div id="ron"></div><b>Keynote 6: From Early NFV to NLP – a Network Operator’s R&D Journey</b></h5>
+<h5 align="center"><div id="ron"></div><b>Keynote 6: <a href='https://youtu.be/pFEa5mznCJs'>From Early NFV to NLP – a Network Operator’s R&D Journey</a></b></h5>
 <h5 align="center"><b>Dr. Ron Marquardt</b></h5>
 <h5 align="center">Vice President of Advanced Technologies & Innovation, T-Mobile</h5>
 <h5 align="center"><i>Thursday, 24th September, 08:15-09:15 PDT</i></h5>

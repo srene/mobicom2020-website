@@ -11,6 +11,9 @@
 
 <main>
 <h2 class="text-center">Accepted Papers</h2>
+
+<p>The conference proceedings are available in the following <a href="https://dl.acm.org/doi/proceedings/10.1145/3372224">link</a>.</p>
+</br>
 <div class="acceptedpapers">
 <ul>
 <li><b>Internet-of-Microchips: Direct Radio-to-Bus Communication with SPI Backscatter</b>
